@@ -1,0 +1,115 @@
+{
+  "id": "halo-mythic",
+  "title": "Halo Mythic",
+  "description": "A Foundry VTT system implementation for Halo Mythic / 100DOS focused on actor sheets, items, rolls, and first-pass combat support.",
+  "version": "0.4.0",
+  "compatibility": {
+    "minimum": 12,
+    "verified": 13,
+    "maximum": 13
+  },
+  "authors": [
+    {
+      "name": "OpenAI Codex"
+    }
+  ],
+  "esmodules": [
+    "halo-mythic.mjs"
+  ],
+  "styles": [
+    "styles/halo-mythic.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "starter-weapons",
+      "label": "Starter Weapons",
+      "path": "packs/starter-weapons",
+      "type": "Item",
+      "system": "halo-mythic"
+    },
+    {
+      "name": "starter-armor",
+      "label": "Starter Armor",
+      "path": "packs/starter-armor",
+      "type": "Item",
+      "system": "halo-mythic"
+    },
+    {
+      "name": "starter-gear",
+      "label": "Starter Gear",
+      "path": "packs/starter-gear",
+      "type": "Item",
+      "system": "halo-mythic"
+    },
+    {
+      "name": "starter-abilities",
+      "label": "Starter Abilities",
+      "path": "packs/starter-abilities",
+      "type": "Item",
+      "system": "halo-mythic"
+    },
+    {
+      "name": "starter-traits",
+      "label": "Starter Traits",
+      "path": "packs/starter-traits",
+      "type": "Item",
+      "system": "halo-mythic"
+    },
+    {
+      "name": "starter-actors",
+      "label": "Starter Actors",
+      "path": "packs/starter-actors",
+      "type": "Actor",
+      "system": "halo-mythic"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Starter Library",
+      "sorting": "a",
+      "color": "#7cb342",
+      "packs": [
+        "starter-weapons",
+        "starter-armor",
+        "starter-gear",
+        "starter-abilities",
+        "starter-traits"
+      ],
+      "folders": []
+    },
+    {
+      "name": "Starter Actors",
+      "sorting": "a",
+      "color": "#f5c451",
+      "packs": [
+        "starter-actors"
+      ],
+      "folders": []
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "npc": {},
+      "vehicle": {}
+    },
+    "Item": {
+      "weapon": {},
+      "armor": {},
+      "gear": {},
+      "ability": {},
+      "education": {},
+      "trait": {}
+    }
+  },
+  "primaryTokenAttribute": "resources.wounds",
+  "secondaryTokenAttribute": "resources.shields",
+  "url": ""
+}

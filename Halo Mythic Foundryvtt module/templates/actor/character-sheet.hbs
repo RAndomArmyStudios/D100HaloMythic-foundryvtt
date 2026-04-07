@@ -1,0 +1,551 @@
+<form class="{{cssClass}} halo-mythic-sheet halo-mythic-record-sheet" autocomplete="off">
+  <header class="sheet-header compact-sheet-header">
+    <img class="profile compact-profile" src="{{actor.img}}" data-edit="img" title="{{actor.name}}" />
+    <div class="header-fields compact-header-fields">
+      <div class="identity-grid compact-identity-grid">
+        <label>
+          <span>Name</span>
+          <input type="text" name="name" value="{{actor.name}}" />
+        </label>
+        <label>
+          <span>Rank</span>
+          <input type="text" name="system.details.rank" value="{{system.details.rank}}" />
+        </label>
+        <label>
+          <span>Faction</span>
+          <input type="text" name="system.details.faction" value="{{system.details.faction}}" />
+        </label>
+        <label>
+          <span>Soldier Type</span>
+          <input type="text" name="system.details.soldierType" value="{{system.details.soldierType}}" />
+        </label>
+        <label>
+          <span>Race</span>
+          <input type="text" name="system.details.race" value="{{system.details.race}}" />
+        </label>
+        <label>
+          <span>Specialization</span>
+          <input type="text" name="system.details.specialization" value="{{system.details.specialization}}" />
+        </label>
+        <label>
+          <span>Size</span>
+          <select name="system.details.size">
+            {{#each sizeOptions}}
+              <option value="{{this.key}}" {{#ifEq ../system.details.size this.key}}selected{{/ifEq}}>{{this.label}}</option>
+            {{/each}}
+          </select>
+        </label>
+        <div class="header-readout">
+          <span>Shield State</span>
+          <strong>{{shieldStatus}}</strong>
+        </div>
+      </div>
+
+      <div class="header-band">
+        <div class="header-chip">
+          <span>Wounds</span>
+          <strong>{{system.resources.wounds.value}} / {{system.resources.wounds.max}}</strong>
+        </div>
+        <div class="header-chip">
+          <span>Shields</span>
+          <strong>{{system.resources.shields.value}} / {{system.resources.shields.max}}</strong>
+        </div>
+        <div class="header-chip">
+          <span>Initiative</span>
+          <strong>{{system.movement.initiative}}</strong>
+        </div>
+        <div class="header-chip">
+          <span>Load</span>
+          <strong>{{system.carrying.current}}kg / {{system.carrying.carry}}kg</strong>
+        </div>
+        <div class="header-chip">
+          <span>Arsenal</span>
+          <strong>{{weapons.length}} W / {{armors.length}} A / {{gear.length}} G</strong>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="sheet-toolbar compact-toolbar">
+    <nav class="sheet-tabs tabs" data-group="primary">
+      <a class="item" data-tab="record">Record</a>
+      <a class="item" data-tab="arsenal">Arsenal</a>
+      <a class="item" data-tab="features">Features</a>
+      <a class="item" data-tab="notes">Notes</a>
+    </nav>
+    <div class="button-row">
+      {{#if canUseLibrary}}
+        <button type="button" class="action-button toolbar-button open-library-browser">Browse Library</button>
+      {{/if}}
+      {{#if canUseCreator}}
+        <button type="button" class="action-button toolbar-button open-character-creator">Open Creator</button>
+      {{/if}}
+    </div>
+  </div>
+
+  <section class="sheet-body">
+    <div class="tab primary-tab record-tab active" data-group="primary" data-tab="record">
+      <section class="record-layout">
+        <div class="record-main">
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Characteristics</h2>
+              <p>Primary ratings, mythic values, and quick rolls.</p>
+            </div>
+            <div class="record-stat-grid">
+              {{#each characteristics}}
+                <div class="record-stat-cell">
+                  <div class="record-stat-top">
+                    <span class="record-stat-code">{{this.abbreviation}}</span>
+                    <button type="button" class="mini-roll-button rollable-characteristic" data-key="{{this.key}}">Roll</button>
+                  </div>
+                  <div class="record-stat-name">{{this.label}}</div>
+                  <div class="record-stat-value">
+                    <input type="number" name="system.characteristics.{{this.key}}.value" value="{{this.value}}" />
+                  </div>
+                  <div class="record-stat-mod">Mod {{this.mod}}</div>
+                </div>
+              {{/each}}
+            </div>
+            <div class="record-mini-grid top-gap">
+              <label>
+                <span>Mythic STR</span>
+                <input type="number" name="system.mythic.str" value="{{system.mythic.str}}" />
+              </label>
+              <label>
+                <span>Mythic TOU</span>
+                <input type="number" name="system.mythic.tou" value="{{system.mythic.tou}}" />
+              </label>
+              <label>
+                <span>Mythic AGI</span>
+                <input type="number" name="system.mythic.agi" value="{{system.mythic.agi}}" />
+              </label>
+              <label>
+                <span>Current Shield State</span>
+                <input type="text" value="{{shieldStatus}}" readonly />
+              </label>
+            </div>
+          </section>
+
+          <section class="section-card compact-card fill-card">
+            <div class="section-head compact-head">
+              <h2>Skills</h2>
+              <p>Dense Mythic-style skill blocks with enough room for the full labels.</p>
+            </div>
+            <div class="record-skill-groups">
+              {{#each skillGroups}}
+                <section class="skill-table-card">
+                  <div class="skill-table-title">{{this.label}}</div>
+                  <div class="skill-table">
+                    <div class="skill-table-row skill-table-head">
+                      <span>Skill</span>
+                      <span>Characteristic</span>
+                      <span>Rank</span>
+                      <span>Total</span>
+                      <span>Roll</span>
+                    </div>
+                    {{#each this.skills}}
+                      <div class="skill-table-row">
+                        <div class="skill-name-cell">
+                          <span>{{this.label}}</span>
+                        </div>
+                        <div class="skill-select-cell">
+                          <select name="system.skills.{{this.key}}.characteristic">
+                            {{#each this.characteristicOptions}}
+                              <option value="{{this.key}}" {{#ifEq ../characteristic this.key}}selected{{/ifEq}}>{{this.label}}</option>
+                            {{/each}}
+                          </select>
+                        </div>
+                        <div class="skill-select-cell">
+                          <select name="system.skills.{{this.key}}.rank">
+                            {{#each ../../skillRanks}}
+                              <option value="{{this.key}}" {{#ifEq ../rank this.key}}selected{{/ifEq}}>{{this.label}}</option>
+                            {{/each}}
+                          </select>
+                        </div>
+                        <div class="skill-total-cell">{{signed this.bonus}}</div>
+                        <div class="skill-roll-cell">
+                          <button type="button" class="mini-roll-button rollable-skill" data-key="{{this.key}}">Roll</button>
+                        </div>
+                      </div>
+                    {{/each}}
+                  </div>
+                </section>
+              {{/each}}
+            </div>
+          </section>
+        </div>
+
+        <aside class="record-sidebar">
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Resources</h2>
+              <p>Health, fatigue, shields, and economy.</p>
+            </div>
+            <div class="resource-stack">
+              <div class="resource-row">
+                <label>Wounds</label>
+                <div class="resource-values">
+                  <input type="number" name="system.resources.wounds.value" value="{{system.resources.wounds.value}}" />
+                  <span>/</span>
+                  <input type="number" value="{{system.resources.wounds.max}}" readonly />
+                </div>
+              </div>
+              <div class="resource-row">
+                <label>Fatigue</label>
+                <div class="resource-values">
+                  <input type="number" name="system.resources.fatigue.value" value="{{system.resources.fatigue.value}}" />
+                  <span>/</span>
+                  <input type="number" value="{{system.resources.fatigue.max}}" readonly />
+                </div>
+              </div>
+              <div class="resource-row emphasis-row">
+                <label>Shields</label>
+                <div class="resource-values">
+                  <input type="number" name="system.resources.shields.value" value="{{system.resources.shields.value}}" />
+                  <span>/</span>
+                  <input type="number" value="{{system.resources.shields.max}}" readonly />
+                </div>
+                <div class="resource-note">Recharge {{system.resources.shields.recharge}} | Delay {{system.resources.shields.currentDelay}} / {{system.resources.shields.delay}}</div>
+              </div>
+              <div class="resource-row">
+                <label>Luck</label>
+                <div class="resource-values">
+                  <input type="number" name="system.resources.luck.value" value="{{system.resources.luck.value}}" />
+                  <span>/</span>
+                  <input type="number" name="system.resources.luck.max" value="{{system.resources.luck.max}}" />
+                </div>
+              </div>
+              <div class="resource-row">
+                <label>Support</label>
+                <div class="resource-values">
+                  <input type="number" name="system.resources.support.value" value="{{system.resources.support.value}}" />
+                  <span>/</span>
+                  <input type="number" name="system.resources.support.max" value="{{system.resources.support.max}}" />
+                </div>
+              </div>
+            </div>
+
+            <div class="record-mini-grid top-gap">
+              <label>
+                <span>cR</span>
+                <input type="number" name="system.economy.credits" value="{{system.economy.credits}}" />
+              </label>
+              <label>
+                <span>XP Current</span>
+                <input type="number" name="system.economy.experienceCurrent" value="{{system.economy.experienceCurrent}}" />
+              </label>
+              <label>
+                <span>XP Total</span>
+                <input type="number" name="system.economy.experienceTotal" value="{{system.economy.experienceTotal}}" />
+              </label>
+              <label>
+                <span>XP Spent</span>
+                <input type="number" name="system.economy.experienceSpent" value="{{system.economy.experienceSpent}}" />
+              </label>
+            </div>
+          </section>
+
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Quick Actions</h2>
+              <p>Combat actions without opening another tab.</p>
+            </div>
+            <div class="quick-actions-grid dense-actions-grid">
+              <button type="button" class="action-button rollable-initiative">Initiative</button>
+              <button type="button" class="action-button quick-roll-skill" data-key="evasion">Evasion</button>
+              <button type="button" class="action-button quick-roll-characteristic" data-key="per">Perception</button>
+              <button type="button" class="action-button quick-roll-characteristic" data-key="crg">Courage</button>
+              <button type="button" class="action-button apply-damage">Apply Damage</button>
+              <button type="button" class="action-button shield-advance">Advance Shields</button>
+              <button type="button" class="action-button shield-reset">Reset Delay</button>
+            </div>
+          </section>
+
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Movement & Carry</h2>
+              <p>Derived physical values and encumbrance.</p>
+            </div>
+            <div class="dense-line-list">
+              <div class="line-row"><span>Half / Full</span><strong>{{system.movement.half}} / {{system.movement.full}}</strong></div>
+              <div class="line-row"><span>Charge / Run</span><strong>{{system.movement.charge}} / {{system.movement.run}}</strong></div>
+              <div class="line-row"><span>Sprint / Reach</span><strong>{{system.movement.sprint}} / {{system.movement.reach}}</strong></div>
+              <div class="line-row"><span>Jump / Leap</span><strong>{{system.movement.jumpHeight}} / {{system.movement.leapDistance}}</strong></div>
+              <div class="line-row"><span>Perceptive Range</span><strong>{{system.movement.perceptiveRange}}</strong></div>
+              <div class="line-row"><span>Carry / Lift</span><strong>{{system.carrying.carry}} / {{system.carrying.lift}}</strong></div>
+              <div class="line-row"><span>Push</span><strong>{{system.carrying.push}}</strong></div>
+              <div class="line-row"><span>Current Load</span><strong>{{system.carrying.current}}kg</strong></div>
+              <div class="line-row"><span>Status</span><strong>{{system.carrying.status}}</strong></div>
+              <div class="line-row"><span>Load Percent</span><strong>{{system.carrying.loadPercent}}%</strong></div>
+              <div class="line-row"><span>Agi Penalty</span><strong>{{system.carrying.agilityPenalty}}</strong></div>
+              <div class="line-row"><span>Physical Penalty</span><strong>{{signed system.carrying.penalty}}</strong></div>
+              <div class="line-row"><span>Athletics / Stealth</span><strong>{{signed system.carrying.athleticsStealthPenalty}}</strong></div>
+              <div class="line-row"><span>Movement Multiplier</span><strong>x{{system.carrying.movementMultiplier}}</strong></div>
+            </div>
+          </section>
+
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Armor & Resistance</h2>
+              <p>Current protection and damage resistance.</p>
+            </div>
+            <div class="dense-line-list">
+              {{#each armorTotals}}
+                <div class="line-row">
+                  <span>{{this.label}}</span>
+                  <strong>{{this.value}}</strong>
+                </div>
+              {{/each}}
+              {{#each damageResistance}}
+                <div class="line-row">
+                  <span>{{this.label}} DR</span>
+                  <strong>{{this.total}}</strong>
+                </div>
+              {{/each}}
+            </div>
+          </section>
+
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Field Loadout</h2>
+              <p>What is currently on the actor.</p>
+            </div>
+            <div class="compact-list-block">
+              <div class="compact-list-label">Weapons</div>
+              {{#each weapons}}
+                <div class="compact-list-row">
+                  <span>{{this.name}}</span>
+                  <strong>{{this.magazine}}</strong>
+                </div>
+              {{/each}}
+              <div class="compact-list-label top-gap">Armor</div>
+              {{#each armors}}
+                <div class="compact-list-row">
+                  <span>{{this.name}}</span>
+                  <strong>{{#if this.equipped}}Equipped{{else}}Stored{{/if}}</strong>
+                </div>
+              {{/each}}
+              <div class="compact-list-label top-gap">Gear</div>
+              {{#each gear}}
+                <div class="compact-list-row">
+                  <span>{{this.name}}</span>
+                  <strong>x{{this.quantity}}</strong>
+                </div>
+              {{/each}}
+            </div>
+          </section>
+
+          <section class="section-card compact-card">
+            <div class="section-head compact-head">
+              <h2>Traits & Abilities</h2>
+              <p>Quick reference for special rules.</p>
+            </div>
+            <div class="compact-list-block">
+              {{#each abilities}}
+                <div class="compact-note-row">
+                  <strong>{{this.name}}</strong>
+                  <span>{{this.system.summary}}</span>
+                </div>
+              {{/each}}
+              {{#each traits}}
+                <div class="compact-note-row">
+                  <strong>{{this.name}}</strong>
+                  <span>{{this.system.summary}}</span>
+                </div>
+              {{/each}}
+              {{#each educations}}
+                <div class="compact-note-row">
+                  <strong>{{this.name}}</strong>
+                  <span>{{this.system.bonus}} | {{this.system.appliesTo}}</span>
+                </div>
+              {{/each}}
+            </div>
+          </section>
+        </aside>
+      </section>
+    </div>
+
+    <div class="tab primary-tab" data-group="primary" data-tab="arsenal">
+      <section class="section-card compact-card">
+        <div class="section-head inline-actions compact-head">
+          <div>
+            <h2>Weapons</h2>
+            <p>Attack, damage, reload, and equip controls.</p>
+          </div>
+          <button type="button" class="action-button item-create" data-type="weapon">Add Weapon</button>
+        </div>
+        <div class="simple-list compact-simple-list">
+          {{#each weapons}}
+            <div class="simple-item vertical-item compact-item" data-item-id="{{this.id}}">
+              <div class="stacked-copy">
+                <div class="item-line">
+                  <strong>{{this.name}}</strong>
+                  {{#if this.equipped}}<span class="tag tag-green">Equipped</span>{{/if}}
+                  <span class="tag">{{this.typeLabel}}</span>
+                </div>
+                <div class="muted">{{this.damage}} | {{this.range}} | Ammo {{this.magazine}}</div>
+              </div>
+              <div class="item-actions">
+                <button type="button" class="action-button item-toggle" data-item-id="{{this.id}}">{{#if this.equipped}}Unequip{{else}}Equip{{/if}}</button>
+                <button type="button" class="action-button weapon-fire" data-item-id="{{this.id}}">Fire</button>
+                <button type="button" class="action-button weapon-attack" data-item-id="{{this.id}}">Attack</button>
+                <button type="button" class="action-button weapon-damage" data-item-id="{{this.id}}">Damage</button>
+                <button type="button" class="action-button weapon-reload" data-item-id="{{this.id}}">Reload</button>
+                <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+              </div>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <div class="two-column">
+        <section class="section-card compact-card nested-card">
+          <div class="section-head inline-actions compact-head">
+            <div>
+              <h2>Armor</h2>
+              <p>Equipped armor drives shields and armor totals.</p>
+            </div>
+            <button type="button" class="action-button item-create" data-type="armor">Add Armor</button>
+          </div>
+          <div class="simple-list compact-simple-list">
+            {{#each armors}}
+              <div class="simple-item compact-item" data-item-id="{{this.id}}">
+                <div>
+                  <strong>{{this.name}}</strong>
+                  {{#if this.equipped}}<span class="tag tag-green">Equipped</span>{{/if}}
+                  <div class="muted">{{this.rating}} | Shields: {{this.shield}}</div>
+                </div>
+                <div class="item-actions">
+                  <button type="button" class="action-button item-toggle" data-item-id="{{this.id}}">{{#if this.equipped}}Unequip{{else}}Equip{{/if}}</button>
+                  <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                  <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+                </div>
+              </div>
+            {{/each}}
+          </div>
+        </section>
+
+        <section class="section-card compact-card nested-card">
+          <div class="section-head inline-actions compact-head">
+            <div>
+              <h2>Inventory</h2>
+              <p>Gear and carried quantities.</p>
+            </div>
+            <button type="button" class="action-button item-create" data-type="gear">Add Gear</button>
+          </div>
+          <div class="simple-list compact-simple-list">
+            {{#each gear}}
+              <div class="simple-item compact-item" data-item-id="{{this.id}}">
+                <div>
+                  <strong>{{this.name}}</strong>
+                  <div class="muted">Qty {{this.quantity}} | Weight {{this.weight}}kg | {{#if this.carried}}Carried{{else}}Stored{{/if}}</div>
+                </div>
+                <div class="item-actions">
+                  <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                  <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+                </div>
+              </div>
+            {{/each}}
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <div class="tab primary-tab" data-group="primary" data-tab="features">
+      <div class="two-column">
+        <section class="section-card compact-card nested-card">
+          <div class="section-head inline-actions compact-head">
+            <div>
+              <h2>Abilities</h2>
+              <p>Combat actions, tricks, and passives.</p>
+            </div>
+            <button type="button" class="action-button item-create" data-type="ability">Add Ability</button>
+          </div>
+          <div class="simple-list compact-simple-list">
+            {{#each abilities}}
+              <div class="simple-item compact-item" data-item-id="{{this.id}}">
+                <div>
+                  <strong>{{this.name}}</strong>
+                  <div class="muted">{{this.system.summary}}</div>
+                </div>
+                <div class="item-actions">
+                  <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                  <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+                </div>
+              </div>
+            {{/each}}
+          </div>
+        </section>
+
+        <section class="section-card compact-card nested-card">
+          <div class="section-head inline-actions compact-head">
+            <div>
+              <h2>Educations</h2>
+              <p>Formal training and applied bonuses.</p>
+            </div>
+            <button type="button" class="action-button item-create" data-type="education">Add Education</button>
+          </div>
+          <div class="simple-list compact-simple-list">
+            {{#each educations}}
+              <div class="simple-item compact-item" data-item-id="{{this.id}}">
+                <div>
+                  <strong>{{this.name}}</strong>
+                  <div class="muted">{{this.system.bonus}} | {{this.system.appliesTo}}</div>
+                </div>
+                <div class="item-actions">
+                  <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                  <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+                </div>
+              </div>
+            {{/each}}
+          </div>
+        </section>
+      </div>
+
+      <section class="section-card compact-card nested-card">
+        <div class="section-head inline-actions compact-head">
+          <div>
+            <h2>Traits</h2>
+            <p>Species rules, soldier-type perks, and special flags.</p>
+          </div>
+          <button type="button" class="action-button item-create" data-type="trait">Add Trait</button>
+        </div>
+        <div class="simple-list compact-simple-list">
+          {{#each traits}}
+            <div class="simple-item compact-item" data-item-id="{{this.id}}">
+              <div>
+                <strong>{{this.name}}</strong>
+                <div class="muted">{{this.system.summary}}</div>
+              </div>
+              <div class="item-actions">
+                <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+              </div>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+    </div>
+
+    <div class="tab primary-tab" data-group="primary" data-tab="notes">
+      <section class="section-card compact-card">
+        <div class="section-head compact-head">
+          <h2>Background & Notes</h2>
+          <p>Biography, encounter notes, and GM reminders.</p>
+        </div>
+        <div class="notes-grid">
+          <label>
+            <span>Biography</span>
+            <textarea name="system.biography">{{system.biography}}</textarea>
+          </label>
+          <label>
+            <span>Sheet Notes</span>
+            <textarea name="system.details.notes">{{system.details.notes}}</textarea>
+          </label>
+        </div>
+      </section>
+    </div>
+  </section>
+</form>

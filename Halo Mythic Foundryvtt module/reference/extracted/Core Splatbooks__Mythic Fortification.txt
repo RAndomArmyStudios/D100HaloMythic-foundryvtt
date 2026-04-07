@@ -1,0 +1,785 @@
+===== PAGE 1 =====
+1 
+ 
+ 
+ 
+ 
+ 
+FORTIFICATION 
+ 
+A commissioned fortification and base building system for Mythic 6.1 and newer.
+
+===== PAGE 2 =====
+2 
+ 
+ 
+Contents 
+FORTIFICATIONS ............................................................................................................................................................................................................... 3 
+“PREFABRICATED” MODULAR POD FORTIFICATION .................................................................................................................................................... 3 
+DESIGNED FORTIFICATION ........................................................................................................................................................................................... 3 
+UNIVERSAL FORTIFICATIONS ....................................................................................................................................................................................... 3 
+BUILDING CONSTRUCTION .......................................................................................................................................................................................... 3 
+CALLING IN BUILDINGS ..................................................................................................................................................................................................... 3 
+UNIVERSAL MODULAR POD FORTIFICATIONS .................................................................................................................................................................. 4 
+FACTION-SPECIFIC MODULAR POD FORTIFICATIONS ....................................................................................................................................................... 6 
+FORTIFICATION UPGRADES .............................................................................................................................................................................................. 7 
+FORTIFICATION COVER ..................................................................................................................................................................................................... 8
+
+===== PAGE 3 =====
+3 
+ 
+FORTIFICATIONS 
+Fortifications is a splatbook designed to allow Players and the GM to 
+build large military bases  by stringing together military buildings . 
+These bases begin as a Firebase, which is a mobile military Base of 
+Operations. There are two types of each building, a Modular 
+Fabrication or a Designed Fortification. 
+ 
+“PREFABRICATED” MODULAR POD FORTIFICATION 
+Modular Pod Fortifications  are any Fortification that is mass -
+produced based on modular utilities. These buildings are your default 
+Fortifications and are capable of being implemented incredibly fast. 
+Modular Pod Fortifications  are less resilient than Designed 
+Fortifications, but trade defensive options for speed of construction. 
+ When a Modular Pod Fortification is called in, Support 
+Points and cR will be spent, and a Vehicle will use Aerial Vehicle 
+Transports to drop the Pod Fortification in. 
+ Once the Vehicle drops off the Fortification, it will take 5 
+minutes (30 Turns) for the building to install itself  and be ready for 
+use. 
+ 
+DESIGNED FORTIFICATION 
+Designed Fortifications are bases that are designed and built based 
+on the location and needs of the building. These buildings take longer 
+to design and construct but offer much more powerful defenses and 
+abilities. These also allow the owner to have much more control over 
+the buildings and their layout. 
+ Designed Fortifications will have +50% of the Breakpoints 
+and +25% of the Armor of the listed Pod Fortifications. 
+ Designed Fortifications do not cost Support Points to build. 
+Instead, these buildings only require cR and time for construction. 
+ 
+UNIVERSAL FORTIFICATIONS 
+A Universal Fortification is a Fortification that all factions can use, 
+each having their own variant. Each variant will have the same 
+Characteristics and Abilities. 
+At the top of each of these Universal Fortifications, the top 
+green row is the UNSC name, the next purple row is the Covenant 
+name, and the final red row is the Banished name. 
+ 
+BUILDING CONSTRUCTION 
+For the UNSC, construction of buildings is designed to be fast, 
+standardized, and modular. Prefabricated Construction is common in 
+the world of Halo, where standardized components are assembled 
+and disassembled easily. This allowed for rapid deployment on newly 
+established Designed fortifications. 
+ Construction of a Building will take 1 day for every 750 
+Square Meters. If a Character wants the building to be less uniform 
+and standardized, they can have an architect design a building for 
+them. Non-standardized buildings will instead take 1 day for every 
+450 Square Meters. 
+ If a building is being purchased in an area that needs to first 
+be cleared out, such as rubble, trees, or on very uneven land, it will 
+take 14 days to finalize the land for construction. 
+ 
+UNIQUE BUILDINGS 
+Unique Buildings are Buildings that only one or two factions have 
+access to, instead of everyone.  The GM may allow factions to have 
+access to these Unique Buildings at a price increase of 2x. 
+ 
+FORTIFICATION UPGRADES 
+Fortification Upgrades allow a Character to invest and improve their 
+buildings and bases by improving what the building is capable of, 
+whether this be through their Armor and Structure, or by improving 
+their Capabilities. 
+ 
+FORTIFICATION COVER 
+Fortification Cover allows a Character to call in various forms of cover 
+and protective utilities for their bases or general use on the 
+battlefield. Fortification Cover is unique compared to the main 
+handbook’s use of Cover. These will offer the size of the object, as 
+well as the Armor and Structure of each. Think of them are more in -
+depth compared to standard Cover, where the Armor is basically the 
+Cover Points . Like Fortifications, Fortification Cover will also have 
+Capabilities. 
+ 
+UNSC BUILDINGS 
+ 
+ 
+COVENANT BUILDINGS 
+ 
+ 
+BANISHED BUILDINGS 
+ 
+ 
+CALLING IN BUILDINGS 
+Calling in Buildings uses a specialized  Hauler Dropship, using either 
+the UNSC Heron , the Covena nt’s Iqnucekk -pattern variant of the 
+Maravelotz-pattern Civilian Transport, and the Banished Siege Hauler. 
+ The following table will list the Support Point information 
+when calling in a building using the Hauler Dropship option. 
+ This can only be used to drop in Modular Pod Fortifications. 
+However, they may also be used to drop in the materials needed to 
+build the Designed Fortifications . They cannot bring in pre -built 
+Designed Fortifications. 
+ Hauler Dropships cost no cR or Support Points to call in if a 
+Building was brought in using it. However, if one is used for other 
+means, the Hauler Dropship will cost +10 cR. 
+ 
+TRANSPORT EXAMPLE 
+Hauler 
+Dropship 
+An unarmed Dropship carries in the Pod 
+Fortification and drops it at the desired location 
+with pinpoint accuracy. The Hauler Dropship takes 
+3 Minutes (30 Rounds) to arrive and will take 5 Full 
+Actions to align and safely drop the building.
+
+===== PAGE 4 =====
+4 
+ 
+UNIVERSAL MODULAR POD FORTIFICATIONS 
+ 
+UNSC FIREBASE 
+COVENANT CITADEL 
+BANISHED OUTPOST 
+COST 
+1,400 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+1,500 M2 200 +150 5 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+1,200 400 250 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 20 17 25 
+CAPABILITY 
+• The Firebase has a Generator which will power itself  and 1 50 extra 
+power for any connected buildings. 
+• When active, the Firebase reduces the Scatter Due to Conditions, 
+Ordnance Timing, and Package Drops by half. 
+• Equipment Packs are replenished after staying in the Firebase for a 
+minimum of 1 hour. The Firebase begins with enough resources for 15 
+Equipment Pack replenishes. 
+ 
+ 
+MAINTENANCE STATION 
+COVENANT PROCESSING CENTER 
+BANISHED REFINERY 
+COST 
+500 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+700 M2 25 -150 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+700 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR 
+WALLS 
+50 16 12 20 
+CAPABILITY 
+• Allows one Building to repair 50 Structure per hour. 
+ 
+ 
+ 
+ 
+MAINTENANCE SHIPYARD 
+COVENANT EMINENCE 
+BANISHED SCRAPYARD 
+COST 
+500 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+900 M2 25 -150 4 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+800 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 17 17 24 
+CAPABILITY 
+• Capable of repairing Vehicles and Ships. Repairs 50 breakpoints on a 
+Vehicle per hour and 100 Breakpoints on a Ship per hour. 
+ 
+ 
+ 
+ 
+VEHICLE DEPOT 
+COVENANT SUMMIT 
+BANISHED APEX 
+COST 
+900 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+1,000 M2 100 -200 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+900 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 17 17 24 
+CAPABILITY 
+• Reduces the Support Points cost of calling in Land -based Vehicles by 1, 
+to a minimum of 1. 
+• Reduces the time Land-based Vehicle Backup Support  takes to arrive by 
+75%. 
+• This Building is considered a Fabricator for Land -based Vehicles. The 
+Fabricator Rules can be found in the Mythic Economic Expansion. 
+Fabricator times for Land-based vehicles are reduced by 75% from the 
+Mythic Economic Expansion. 
+ 
+UNSC BARRACKS 
+COVENANT HALL 
+BANISHED RAID CAMP 
+COST 
+600 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+800 M2 300 -150 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+900 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 17 17 24 
+CAPABILITY 
+• Reduces the Support Points cost of calling in Backup Infantry by 1, to a 
+minimum of 1. 
+• Reduces the time Backup Infantry Support  takes to arrive by 75%. 
+• Halve the time it takes for Breakpoint repair on Weapons, Armor, and 
+Equipment. 
+• Doubles the rate that Magazines can be filled and prepared. 
+ 
+UNSC REACTOR 
+COVENANT ARK GENERATOR 
+BANISHED POWER EXTRACTOR 
+COST 
+900 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+800 M2 25 +500 2 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+800 500 200 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 18 15 22 
+CAPABILITY 
+• The Reactor generates 500 Power, allowing any building, equipment, or 
+system to receive power within a 100 Meters, or within 100 Meters of a 
+connected building.
+
+===== PAGE 5 =====
+5 
+ 
+UNSC AIRPAD 
+COVENANT SUMMIT 
+BANISHED APEX 
+COST 
+900 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+1,000 M2 100 -200 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+900 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 17 17 24 
+CAPABILITY 
+• Reduces the Support Points cost of calling in Air-based Vehicles by 1, to 
+a minimum of 1. 
+• Reduces the time Air-based Vehicle Backup Support  takes to arrive by 
+75%. 
+• This Building is considered a Fabricator for Air -based Vehicles. The 
+Fabricator Rules can be found in the Mythic Economic Expansion. 
+Fabricator times for Air -based vehicles are reduced by 75% from the 
+Mythic Economic Expansion. 
+ 
+UNSC FIELD ARMORY 
+COVENANT TEMPLE 
+BANISHED WAR COUNCIL 
+COST 
+800 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+800 M2 100 -150 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+800 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 17 17 24 
+CAPABILITY 
+• Reduces the Support Points cost of calling in Weapons, Armor, or 
+Equipment by 1, to a minimum of 1. 
+• Reduces the time Weapons, Armor, and Equipment  Support  takes to 
+arrive by 75%. 
+• This Building is considered a Fabricator for Weapons, Armor, and 
+Equipment. The Fabricator Rules can be found in the Mythic Economic 
+Expansion. Fabricator times Weapons, Armor, and Equipment are 
+reduced by 75% from the Mythic Economic Expansion. 
+ 
+UNSC SUPPLY PAD 
+COVENANT WAREHOUSE 
+BANISHED HARVESTER 
+COST 
+800 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+800 M2 100 -150 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+800 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 20 17 22 
+CAPABILITY 
+• Allows the transfer of Resources for Fabricators from other locations. 
+• Installs 2 Docking Stations for flying vehicles to dock and transfer 
+resources with. 
+• Reduces Backup Drop Dropship, Gunship, Aerial Vehicle, and Stealth 
+Transport times and cR costs by half. 
+ 
+UNSC WATCHTOWER 
+COVENANT SENSORY SPIRE 
+BANISHED SENSOR TOWER 
+COST 
+500 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+900 M2 25 -150 4 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+800 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 17 17 24 
+CAPABILITY 
+• Able to scan for movement, vehicles, and incoming attacks within 1,000 
+Meters of the building. 
+• Reduces the Support Point cost of Light and Heavy Ordnance by 1, to a 
+minimum of 1. 
+• Reduces the cR cost of Light Ordnance by half. 
+• Further halves the Scatter Due to Conditions amount of Ordnance. 
+• Reduces Ordnance Timing by 1, to a minimum of 1. 
+ 
+ 
+UNSC MEDBAY 
+COVENANT SURGERY SUITE 
+BANISHED MEDICAL CAMP 
+COST 
+400 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+900 M2 75 -100 3 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+700 100 50 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 18 13 24 
+CAPABILITY 
+• Halve the time Extended Medical Actions take within the Medbay. 
+• Fatigue is healed twice as fast. 
+• Special Damage can be removed within 1 hour per Special Damage. 
+ 
+ 
+ 
+ 
+ 
+ORBITAL DEFENSE GENERATOR 
+COVENANT PROCESSING CENTER 
+BANISHED ENERGY GENERATOR 
+COST 
+2,900 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+8,000 M2 750 +5,000 6 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+1,200 400 200 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 18 15 22 
+CAPABILITY 
+• The Orbital Defense Generator  generates 5 ,000 Power, allowing any 
+building, equipment, or system to receive power within a 10 Kilometer 
+radius, or within 10 kilometers of a connected building. 
+• Capable of sending power to Orbital Weapon Platforms, MAC guns, and 
+nearby orbiting allied ships.
+
+===== PAGE 6 =====
+6 
+ 
+FACTION-SPECIFIC MODULAR POD FORTIFICATIONS 
+  
+UNSC MILITARY PRISON 
+COST 
+900 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+1,300 M2 15 -100 2 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+1,100 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 20 17 25 
+CAPABILITY 
+• Has 200 prison cells, each built to hold 2 inmates. 
+ 
+COVENANT SHIELD GENERATOR 
+BANISHED SHIELD GENERATOR 
+COST 
+1,100 cR  
+CHARACTERISTICS 
+SIZE OCCUPANCY POWER SUPPORT POINTS 
+450 M2 3 -400 4 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+800 200 50 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 18 15 20 
+CAPABILITY 
+• Gives every single attached building an Energy Shield. 
+ARMOR 
+SHIELD INTEGRITY SHIELD RECHARGE RECHARGE DELAY 
+700 100 10 
+ 
+COVENANT PIRSONER CELL 
+BANISHED WAR PRISON 
+COST 
+200 cR  
+CHARACTERISTICS 
+attSIZE OCCUPANCY POWER SUPPORT POINTS 
+500 M2 15 -20 1 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+500 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 26 18 27 
+CAPABILITY 
+• Each can hold 10 Characters imprisoned. 
+• Stackable buildings that can be placed up to 3 high. 
+ 
+UNSC RECYCLING SYSTEM 
+BANISHED SCRAPPER 
+COST 
+200 cR  
+CHARACTERISTICS 
+attSIZE OCCUPANCY POWER SUPPORT POINTS 
+500 M2 15 -20 1 
+BREAKPOINTS 
+STRUCTURE CAPABILITY POWER 
+500 200 100 
+ARMOR 
+UNDERGROUND FLOOR & ROOF INTERIOR WALLS EXTERIOR WALLS 
+50 26 18 27 
+CAPABILITY 
+• A Scrapyard where vehicles can be broken down into Resources. Each 
+Vehicle will give its Size Points and Weapon Points, combined, into 20 
+cR worth of Resources for vehicle construction and repair. 
+• Equipment and Weapons will be scrapped and turned into half of their 
+cR in Resources to build other equipment and weapons.
+
+===== PAGE 7 =====
+7 
+ 
+FORTIFICATION UPGRADES 
+ 
+RAMPART 
+COST 
+10 cR per 10m Length 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+1m Width, 10m Length, 4m Height  1 per 500m Length 
+BREAKPOINTS 
+STRUCTURE 
+450 
+ARMOR 
+ARMOR 
+25 
+CAPABILITY 
+The Rampart is a tall defensive fortification to protect buildings, resources, and 
+personnel from long-range attacks. The Player may install a door wherever they 
+please without extra cost. 
+ 
+BUILDING CAPABILITY UPGRADE 
+COST 
+400 cR per Building 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+N/A 1 
+CAPABILITY 
+The Building Capability Upgrade is an upgrade that the Player decides what 
+Capability is upgraded. This Upgrade will increase the capability of one specified 
+aspect or variable by 50%. 
+ For example, The UNSC Reactor generates 500 Power and sends its 
+Power up to 100 Meters from the Building. The Character may decide to increase 
+the 500 Power to 750 Power, or they may decide to increase the distance the 
+building is able to power to 150 Meters. 
+ This may only be applied to a variable; however this could be applied 
+to the same building a second time to affect a different variable. For example, the 
+Player could increase both the Power and distance of the Reactor with two 
+separate upgrades. 
+ The GM may always decide whether a variable is far too powerful to 
+give a +50% to. 
+ 
+WALL REINFORCEMENT 
+COST 
+100 cR per Building 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+N/A N/A 
+BREAKPOINTS 
+STRUCTURE 
++200 
+ARMOR 
+EXTERIOR WALLS ARMOR 
++4 
+CAPABILITY 
+Wall Reinforcement increases the Structure and Armor of a chosen Building by the 
+amounts listed in this table. This can only be applied to a building one time.
+
+===== PAGE 8 =====
+8 
+ 
+FORTIFICATION COVER 
+ 
+CHAIN-LINK FENCE 
+COST 
+10 cR per 50m Length 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+1cm Width, 10m Length, 4m Height  1 per 500m Length 
+BREAKPOINTS 
+STRUCTURE 
+250 
+ARMOR 
+ARMOR 
+18 
+CAPABILITY 
+The Chain-link Fence is a fence designed to keep people out and to take as little 
+damage from weapons as possible. Weapons like flamethrowers, firearms, and 
+standard melee weapons can deal, at most, 1 damage from each Attack. Firearms 
+also have a -60 To Hit against the fence. It is best to use specialized tools to damage 
+and cut into them. 
+ 
+BARBED WIRE 
+COST 
+75 cR per 100m Length 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+1m Width, 10m Length, 1m Height  1 per 100m Length 
+BREAKPOINTS 
+STRUCTURE 
+250 
+ARMOR 
+ARMOR 
+14 
+CAPABILITY 
+Characters who enter Barbed Wire will take 2D5 Damage, ignoring Armor , unless 
+the Character is in full Armor with no open segments , or a GM -approved 
+protection against the barbed wire. 
+ Characters inside Barbed Wire must make a -30 Agility Test to pass 
+through. If Failed, the Character can only make it through half way. If  Successful, 
+the Character makes it through but they have used up their Movement for the 
+Turn. 
+ 
+CONCRETE COVER 
+COST 
+84 cR for 3 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+50cm Width, 3m Length, 1m Height  1 per 3 Concrete Covers 
+BREAKPOINTS 
+STRUCTURE 
+400 
+ARMOR 
+ARMOR 
+800 
+CAPABILITY 
+A waist-high concrete block designed to stop incoming Attacks with relative ease. 
+The Concrete Cover is designed to reduce incoming Damage to its Structure from 
+Attacks by half, unless the Attack has Blast or Kill. 
+ The Concrete Cover’s Armor will be reduced by 10 for every 5 Damage 
+to its Structure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONCRETE WALL 
+COST 
+84 cR for 2 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+50m Width, 6m Length, 4m Height  1 per 2 Concrete Walls 
+BREAKPOINTS 
+STRUCTURE 
+800 
+ARMOR 
+ARMOR 
+800 
+CAPABILITY 
+A large concrete wall designed to stop incoming Attacks with relative ease. The 
+Concrete Wall is designed to reduce incoming Damage to its Structure from 
+Attacks by half, unless the Attack has Blast or Kill. 
+ The Concrete Wall’s Armor is equal to the Structure of the Wall. 
+ 
+ANTI-TANK OBSTACLE 
+COST 
+35 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+5m Width, 4m Length, 2m Height  1 per 5 Obstacles 
+BREAKPOINTS 
+STRUCTURE 
+1,200 
+ARMOR 
+ARMOR 
+65 
+CAPABILITY 
+A defensive system made of angled titanium beams. These beams are designed to 
+stop the ability for vehicles to get through.  The weight and shape of these 
+obstacles is enough to stop even a Wraith, and their design and structure also 
+allow them to withstand even plasma. 
+ 
+DEDICATED BULWARK 
+COST 
+100 cR per Building 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+N/A N/A 
+BREAKPOINTS 
+CAPABILITY AND POWER 
++200 
+ARMOR 
+INTERIOR WALLS ARMOR 
++4 
+CAPABILITY 
+Dedicated Bulwark is a defensive structure that is installed inside a chosen building 
+to protect its various systems, machines, and power subsystems of the building. 
+This gives the Building a +200 to Capability and Power and +4 Armor to the Interior 
+Walls. This can only be applied to a building one time.
+
+===== PAGE 9 =====
+9 
+ 
+ 
+LIGHT COMBAT BARRIER 
+COST 
+40 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+50cm Width, 1m Length, 1.5m Height  1 per 5 Combat Barriers 
+BREAKPOINTS 
+STRUCTURE 
+280 
+ARMOR 
+ARMOR 
+33 
+CAPABILITY 
+The Light Combat Barrier is a mobile ground barrier that can be rapidly deployed. 
+The Light Combat Barrier weighs 50 kg. 
+ 
+M72-S COMBAT BARRIER 
+COST 
+60 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+60cm Width, 1m Length, 1.7m Height  1 per 4 Combat Barriers 
+BREAKPOINTS 
+STRUCTURE 
+320 
+ARMOR 
+ARMOR 
+38 
+CAPABILITY 
+This Combat Barrier is a mobile ground barrier that can be rapidly deployed. The 
+Combat Barrier weighs 70 kg. 
+ 
+M72-L  COMBAT BARRIER 
+COST 
+100 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+80cm Width, 2m Length, 1.7m Height  1 per 3 Combat Barriers 
+BREAKPOINTS 
+STRUCTURE 
+570 
+ARMOR 
+ARMOR 
+41 
+CAPABILITY 
+The M72-L Combat Barrier is a mobile ground barrier that can be rapidly deployed. 
+The Combat Barrier weighs 150 kg and comes with wheels that can be deployed 
+and an anchor to hold it in place. 
+ 
+COLLAPSING COMBAT BARRIER 
+COST 
+200 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+1m Width, 2m Length, 3m Height  1 per 2 Combat Barriers 
+BREAKPOINTS 
+STRUCTURE 
+770 
+ARMOR 
+ARMOR 
+53 
+CAPABILITY 
+The Collapsing Combat Barrier is an incredibly heavy mobile barrier that has a 
+mobile drive system that allows it to slowly be driven at 6 MpT. When mobile, the 
+Collapsing Combat Barrier is only 1m tall . Once deployed, the Combat Barrier 
+deploys to its full 3m Height and anchors itself to the ground. 
+ 
+ 
+COVENANT GUARDIAN TRIPTYCH BARRIER 
+COST 
+80 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+60cm Width, 3m Length, 1.3m Height  1 per 4 Combat Barriers 
+BREAKPOINTS 
+STRUCTURE 
+500 
+ARMOR 
+ARMOR 
+80 
+CAPABILITY 
+This Guardian Triptych  Defense Barrier is a ground barrier that can be rapidly 
+deployed. The Barrier weighs 190 kg and has three attached segments that allow 
+up to 3 Characters to take cover.  Characters over the Large Size Category cannot 
+take full cover behind a single segment. 
+ 
+COVENANT LARGE ANTI-VEHICLE BARRIER 
+COST 
+80 cR for 1 
+CHARACTERISTICS 
+SIZE SUPPORT POINTS 
+1m Width, 1m Length, 1m Height  1 per 4 Combat Barriers 
+BREAKPOINTS 
+STRUCTURE 
+500 
+ARMOR 
+ARMOR 
+21 
+ENERGY SHIELDS 
+SHIELD INTEGRITY SHIELD RECHARGE RECHARGE DELAY 
+800 800 12 
+CAPABILITY 
+The Covenant Large Anti-Vehicle Barrier is a mobile Shield Generator that is able 
+to extend out its Energy Shield to fit any geometry within a 10 Meter Radius.  
+Nothing can pass through this Energy Shield while it is active. 
+ The generator itself is a 1x1x1 round shield emitter that emits its shield 
+in front of it to protect itself from incoming Damage. The generator has an Armor 
+of 21 and a Structure of 180, which does not apply to the Energy Shield, itself.

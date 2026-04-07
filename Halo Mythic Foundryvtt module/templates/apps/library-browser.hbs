@@ -1,0 +1,66 @@
+<section class="halo-mythic-creator-app halo-mythic-library-app">
+  <header class="creator-header">
+    <div>
+      <h1>Starter Library</h1>
+      <p>Browse the source-backed starter gear, then import directly to the current actor or drag from the compendium sidebar.</p>
+    </div>
+    <div class="creator-pill-row">
+      {{#if actor}}
+        <span class="tag">Target {{actor.name}}</span>
+      {{/if}}
+      <span class="tag">{{packs.length}} Packs</span>
+    </div>
+  </header>
+
+  <section class="section-card">
+    <div class="creator-grid two-wide">
+      <label class="full-span">
+        <span>Search</span>
+        <input type="text" name="search" value="{{search}}" placeholder="Search names, folders, and rules text" />
+      </label>
+    </div>
+  </section>
+
+  <section class="section-card library-shell">
+    <nav class="sheet-tabs tabs library-tabs" data-group="primary">
+      {{#each packs}}
+        <a class="item" data-tab="{{this.name}}">{{this.label}}</a>
+      {{/each}}
+    </nav>
+
+    <section class="library-body">
+      {{#each packs}}
+        <div class="tab primary-tab" data-group="primary" data-tab="{{this.name}}">
+          <div class="library-pack-sections">
+            {{#each this.folders}}
+              <section class="section-card nested-card">
+                <div class="section-head compact-head">
+                  <h2>{{this.name}}</h2>
+                </div>
+                <div class="simple-list">
+                  {{#each this.items}}
+                    <div class="simple-item vertical-item">
+                      <div class="stacked-copy">
+                        <div class="item-line">
+                          <strong>{{this.name}}</strong>
+                          <span class="tag">{{this.type}}</span>
+                        </div>
+                        {{#if this.summary}}<div class="muted">{{this.summary}}</div>{{/if}}
+                        {{#if this.details}}<div class="muted">{{this.details}}</div>{{/if}}
+                      </div>
+                      {{#if @root.canImport}}
+                        <div class="item-actions">
+                          <button type="button" class="action-button library-import" data-entry-id="{{this.id}}">Import</button>
+                        </div>
+                      {{/if}}
+                    </div>
+                  {{/each}}
+                </div>
+              </section>
+            {{/each}}
+          </div>
+        </div>
+      {{/each}}
+    </section>
+  </section>
+</section>

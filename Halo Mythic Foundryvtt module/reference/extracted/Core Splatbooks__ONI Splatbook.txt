@@ -1,0 +1,803 @@
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+THE OFFICE OF NAVAL INTELLIGENCE 
+ 
+INTRODUCTION 
+Welcome to the first Halo Mythic splatbook, ‘Halo Mythic: Redacted’. 
+Halo Mythic: Redacted is a commissioned material to add additional 
+ONI (Office of Naval Intelligence) content to the game, without adding 
+unnecessary expansions onto the core rulebook, due to its already 
+large page count. 
+ 
+GM CONFIDENTIAL 
+The Soldier Types (Character classes) that can be chosen in this 
+Handbook come with some hefty abilities that some GMs may not be 
+ready for in this system.  
+ Each of the major ONI Section Soldier Types have a set of 
+three to four major Abilities given to them at Character Creation. 
+These give specific abilities like being able to edit documents and 
+incoming signals that the players may receive. This can even i nclude 
+the Character fooling their party with fake intel. The GM should be 
+prepared for this handbook to also give Characters tools to stab other 
+players in the back if that time were to arise. 
+ It’s always best for the GM to read through these Soldier 
+Types before allowing players to choose them. 
+ 
+WHO ARE THE OFFICE OF NAVAL INTELLIGENCE? 
+The Office of Naval Intelligence (ONI, commonly pronounced as Oh -
+nee) is an intelligence organization of the United Nations Space 
+Command, under the Navy. ONI is tasked with the UNSC’s information 
+gathering, analysis, and subterfuge. 
+ The Office of Naval Intelligence is known for their 
+preeminent role in the acquisition and leveraging of Military 
+Intelligence. ONI is also widely known for their use of deception, 
+manipulation, and subterfuge. ONI will use any means necessary to 
+defend and continue the survival of humanity. 
+ 
+BEHIND THE SHADOWS 
+Propaganda, espionage, reconnaissance, and research. ONI is 
+responsible for the majority of the UNSC’s secretive, dangerous, and 
+otherwise incredibly illegal military programs. Anywhere from 
+kidnapping children to create the Spartan II Program, to poisonin g 
+crops and water supplies of ex-Covenant civilizations.  
+ 
+THE STRUCTURE OF ONI 
+ONI is made up of several divisions, also known as Sections. Of the 
+four official Sections, Section II is the most commonly approached and 
+seen division. The four main divisions include Section 0, I, II, and III. 
+ Each Section has its own structure and role within the Office 
+of Naval Intelligence. 
+ 
+SECTION 0 
+Section Zero is ONI’s Internal Affairs department, generally charged 
+with rooting out and eliminating illegal programs within ONI and the 
+UNSCDF. Section 0 is ONI’s discreet division, which attempts to mask 
+their activities and classify and censor various materials within ONI.  
+ 
+SECTION 1 
+Section One is an intelligence -gathering branch of ONI. Section I’s 
+responsibilities include intel gathering, codebreaking, and major 
+espionage. Section I is also tasked with evacuation of colony worlds 
+and tracing Covenant Force deployments. Section I is also responsible 
+for staying in contact with other UNSC branches and programs. 
+ 
+SECTION 2 
+Section Two is the propaganda branch of ONI. Section II is responsible 
+for psychological warfare and operations, as well as external 
+communication with Civilian organizations and media involvement. 
+Section II also is tasked with PR and public morale roles within the 
+UNSCDF. This includes communication, masking documents, and 
+when to release classified intelligence.  
+ 
+SECTION 3 
+Section Three is tasked with top -secret projects that ONI oversees, 
+including the Spartan and ORION programs. Section III also manages 
+advancement and innovations in technology, both through reverse -
+engineering Covenant and Forerunner technology, and through highly 
+experimental methods. 
+ 
+MATERIALS AND RECOVERY CORPS 
+The main sub-division available to Players in Character Creation is the 
+Materials and Recovery Corps. This sub -division of Section III is 
+responsible for recovering, engineering, and developing experimental 
+technology. This subdivision allows for Players to seek and recover 
+material for more funds from the UNSC. 
+ 
+SPARTAN IV ONI OPERATIVES 
+The Spartan IV ONI Operatives are dangerous Super -Soldiers who 
+have been brought into the ONI fold and are generally tasked with 
+one of the previous Sections’ roles. These Soldiers are dangerous and 
+heavily armed and armored and are sent out into missions that no 
+ordinary human should be able to survive. 
+ 
+BECOMING AN ONI AGENT 
+When a Character wants to become an ONI Agent, the Character must 
+spend 1,300 Experience and work with the GM to have a good reason 
+for them to be joining.  This process works for Section I, II, III, 0, and 
+Material and Recovery Corps. 
+ The process of joining ONI and becoming an Agent  takes 3 
+months of training and gaining access to your new Tr aits. The 
+Character will gain all benefits of the selected Soldier Type except for 
+the Characteristic Advancements.
+
+===== PAGE 3 =====
+UNSC/ONI Section I Operative 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+25 25 25 25 25 25 25 25 25 25 
+TIER: 3 EXPERIENCE COST: 2,300 
+UPBRINGING: Any TRAINING: Basic and Infantry 
+CHARACTERISTIC MODIFIER ADVANCEMENTS 
+INT PER CH LD 
++5 Simple +5 Simple +5 Simple +10 Rookie 
+PHYSICAL ATTRIBUTES 
+HEIGHT 130 centimeters (4’3 ft.) – 200 centimeters (6’6 ft.) 
+WEIGHT 45 kilograms (100 lb.) – 117 kilograms (260 lb.) 
+SIZE Normal 
+SOLDIER TYPE SPECIAL RULES 
+This Soldier Type should only be ta ken with GM Approval. The GM 
+is advised to treat it with caution, as revealing a Spy in the players’ 
+ranks can lead to distrust and Dissension within the ranks. 
+The ONI Operative begins with the Human Weaponry Racial 
+Training at Character Creation.   
+The ONI Operative may choose to mask themselves as an Army, 
+Marine, Air Force, or Navy Soldier. The Player and Character both 
+do not have to tell other Players or Characters their motives or that 
+they are an ONI Operative.  
+ If asked, any military paperwork or Military licenses are 
+shown to be the chosen masked Soldier Type. This should reflect on 
+their character page to help keep it a secret. 
+The ONI Operative begin at Rank of O-1, and can take the Command 
+Specialization Package even if another Character in the Party 
+already has it.  
+ The ONI Operative gains the pay of their Rank, but gains a 
+False Rank that the other Players and Characters see. This False 
+Rank is to keep the ONI Operative classified and under cover. 
+The ONI Operative gains an extra Support Point at Character 
+Creation and after each Mission.  
+ All UNSC gear is at half price for the ONI Operative. 
+SQUAD UP: When with others from the Army, Marine, Air Force, 
+Navy, ORION, ODST, Militiaman, and Spartan IV Soldier Types; these 
+Characters gain a +5 Bonus to Courage. The Characters also gain a 
++10 Bonus to Warfare Melee and Warfare Range Tests when taking 
+Combined Actions. 
+ 
+SECTION I EXTRA INFORMATION 
+ONI Section I is the Intelligence -Gathering branch of ONI. SEC I 
+Operatives are the codebreakers and espionage of the UNSC, 
+relying on covering up and retrieving important intel. 
+SEC I Operatives have the option to call in evacuations of urban 
+and colonial locations. Using one Support Point, they may call in a 
+falsified Evacuation of any location. If the evacuation is legitimate 
+for civilian survival, it is free. 
+The SEC I Operative has the ability to remove any and all intel sent 
+to the party before any other Character or Player has a chance to 
+see it. They may also replace it with their own falsified documents. 
+This includes falsifying material for the Court Martial splatbook. 
+SEC I Operators have the ability to call in Army, Marine, Navy, and 
+Air Force Infantry Support at half the cost. They also are able to 
+call in Ordnance at 1/4th the original cost. 
+ 
+STANDARD EQUIPMENT 
+MA5 series Assault Rifle of 
+the time 
+Hard Case 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical Eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform 
+ 
+MARKSMAN EQUIPMENT 
+BR55 or BR85 Hard Case 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+One tactical Softcase UNSC Battle Dress Uniform 
+ 
+CLOSE QUARTERS EQUIPMENT 
+M45 Tactical Shotgun Hard Case 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform
+
+===== PAGE 4 =====
+UNSC/ONI Section II Operative 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+25 25 25 25 25 25 25 25 25 25 
+TIER: 2 EXPERIENCE COST: 2,300 
+UPBRINGING: Any TRAINING: Basic and Infantry 
+CHARACTERISTIC MODIFIER ADVANCEMENTS 
+INT CR CH LD 
++5 Simple +5 Simple +10 Rookie +5 Simple 
+PHYSICAL ATTRIBUTES 
+HEIGHT 130 centimeters (4’3 ft.) – 200 centimeters (6’6 ft.) 
+WEIGHT 45 kilograms (100 lb.) – 117 kilograms (260 lb.) 
+SIZE Normal 
+SOLDIER TYPE SPECIAL RULES 
+This Soldier Type should only be taken with GM Approval. The GM 
+is advised to treat it with caution, as revealing a Spy in the players’ 
+ranks can lead to distrust and dissention within the ranks. 
+The ONI Operative begins with the Human Weaponry Racial 
+Training at Character Creation.  
+The ONI Operative may choose to mask themselves as an Army, 
+Marine, Air Force, or Navy Soldier. The Player and Character both 
+do not have to tell other Players or Characters their motives or that 
+they are an ONI Operative.  
+ If asked, any military paperwork or Military licenses are 
+shown to be the chosen masked Soldier Type. This should reflect 
+on their character page to help keep it a secret. 
+The ONI Operative begin at Rank of O -1, and can take the 
+Command Specialization Package even if another Character in the 
+Party already has it.  
+ The ONI Operative gains the pay of their Rank, but gains 
+a False Rank that the other Players and Characters see. This False 
+Rank is to keep the ONI Operative classified and under cover. 
+The ONI Operative gains an extra Support Point at Character 
+Creation and after each Mission.  
+ All UNSC gear is at half price for the ONI Operative. 
+SQUAD UP: When with others from the Army, Marine, Air Force, 
+Navy, ORION, ODST, Militiaman, and Spartan IV Soldier Types; 
+these Characters gain a +5 Bonus to Courage. The Characters also 
+gain a +10 Bonus to Warfare Melee and Warfare Range Tests when 
+taking Combined Actions. 
+ 
+SECTION II EXTRA INFORMATION 
+Section II ONI Operatives are based on handling public and military 
+morale. ONI SEC II Operatives do everything in their power, 
+including espionage and information planting, to do so. 
+SEC II Operatives have a special option that allows them to call in 
+false distress signals. This is done via a small handheld device that 
+spoofs a UNSC or Covenant distress signal within 1 Kilometer of 
+their current position. This Distress Signal can be picked up 
+anywhere within the star system they are currently in. 
+The SEC II Operative has the ability to mark anyone MIA or KIA as 
+they please, within reason. With GM approval, the ONI SEC II 
+Operative can mark themselves and their party as dead or missing. 
+The SEC II Operative also are given the tools needed to create fake 
+briefings and military information to help keep morale going. This 
+could be in the form of news claiming to chase off Covenant forces, 
+or possibly information on victories in nearby systems.  
+ These falsified pieces of intel may also be used to fool 
+the party of players into doing possible suicide missions or taking 
+up missions that would be considered unethical without 
+ramification. 
+STANDARD EQUIPMENT 
+MA5 series Assault Rifle of the 
+time 
+Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical Eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform 
+ 
+MARKSMAN EQUIPMENT 
+BR55 or BR85 Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+One tactical Softcase UNSC Battle Dress Uniform 
+ 
+CLOSE QUARTERS EQUIPMENT 
+M45 Tactical Shotgun Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform
+
+===== PAGE 5 =====
+UNSC/ONI Section III Operative 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+25 25 25 25 25 25 25 25 25 25 
+TIER: 2 EXPERIENCE COST: 2,300 
+UPBRINGING: Any TRAINING: Basic and Infantry 
+CHARACTERISTIC MODIFIER ADVANCEMENTS 
+STR AG WFR LD 
++5 Simple +5 Simple +5 Simple +10 Rookie 
+PHYSICAL ATTRIBUTES 
+HEIGHT 130 centimeters (4’3 ft.) – 200 centimeters (6’6 ft.) 
+WEIGHT 45 kilograms (100 lb.) – 117 kilograms (260 lb.) 
+SIZE Normal 
+SOLDIER TYPE SPECIAL RULES 
+This Soldier Type should only be taken with GM Approval. The GM 
+is advised to treat it with caution, as revealing a Spy in the players’ 
+ranks can lead to distrust and dissention within the ranks. 
+The ONI Operative begins with the Human , Covenant, and 
+Forerunner Weaponry Racial Training at Character Creation.  
+The ONI Operative may choose to mask themselves as an Army, 
+Marine, Air Force, or Navy Soldier. The Player and Character both 
+do not have to tell other Players or Characters their motives or that 
+they are an ONI Operative.  
+ If asked, any military paperwork or Military licenses are 
+shown to be the chosen masked Soldier Type. This should reflect 
+on their character page to help keep it a secret. 
+The ONI Operative begin at Rank of O-1, and can take the 
+Command Specialization Package even if another Character in the 
+Party already has it.  
+ The ONI Operative gains the pay of their Rank, but gains 
+a False Rank that the other Players and Characters see. This False 
+Rank is to keep the ONI Operative classified and under cover. 
+The ONI Operative gains an extra Support Point at Character 
+Creation and after each Mission.  
+ All UNSC gear is at half price for the ONI Operative. 
+SQUAD UP: When with others from the Army, Marine, Air Force, 
+Navy, ORION, ODST, Militiaman, and Spartan IV Soldier Types; 
+these Characters gain a +5 Bonus to Courage. The Characters also 
+gain a +10 Bonus to Warfare Melee and Warfare Range Tests when 
+taking Combined Actions. 
+ 
+SECTION III EXTRA INFORMATION 
+The Section III ONI  Operatives have no cR upcharge when 
+purchasing Forerunner and Covenant equipment from the Armory. 
+SEC III Operatives can call in Spartan -based Support Drops at half 
+the price. 
+SEC III Operatives are able to censor and alter any mission 
+statements and intel Player Characters send and receive from HQ. 
+This includes information based on Covenant and Forerunner 
+technology, the knowledge of possible Spartan operations, and 
+anything that could be considered detrimental towards security of 
+the UNSC. This includes falsifying material for the Court M artial 
+splatbook. 
+SEC III Operatives are able to take GM -given side missions, which 
+can reward the players with Covenant and Forerunner equipment 
+and weaponry. The SEC III Operative is able to sell these back to 
+the UNSC at double the cR if they please. 
+ 
+ 
+ 
+STANDARD EQUIPMENT 
+MA5 series Assault Rifle of the 
+time 
+Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical Eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform 
+ 
+MARKSMAN EQUIPMENT 
+BR55 or BR85 Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+One tactical Softcase UNSC Battle Dress Uniform 
+ 
+CLOSE QUARTERS EQUIPMENT 
+M45 Tactical Shotgun Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform
+
+===== PAGE 6 =====
+UNSC/ONI Section 0 Operative 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+25 25 25 25 25 25 25 25 25 25 
+TIER: 2 EXPERIENCE COST: 2,300 
+UPBRINGING: Any TRAINING: Basic and Infantry 
+CHARACTERISTIC MODIFIER ADVANCEMENTS 
+INT CR CH LD 
++5 Simple +5 Simple +5 Simple +10 Rookie 
+PHYSICAL ATTRIBUTES 
+HEIGHT 130 centimeters (4’3 ft.) – 200 centimeters (6’6 ft.) 
+WEIGHT 45 kilograms (100 lb.) – 117 kilograms (260 lb.) 
+SIZE Normal 
+SOLDIER TYPE SPECIAL RULES 
+This Soldier Type should only be taken with GM Approval. The GM 
+is advised to treat it with caution, as revealing a Spy in the players’ 
+ranks can lead to distrust and dissention within the ranks. 
+The ONI Operative begins with the  Human Weaponry Racial 
+Training at Character Creation.  
+The ONI Operative may choose to mask themselves as an Army, 
+Marine, Air Force, or Navy Soldier. The Player and Character both 
+do not have to tell other Players or Characters their motives or that 
+they are an ONI Operative.  
+ If asked, any military paperwork or Military licenses are 
+shown to be the chosen masked Soldier Type. This should reflect 
+on their character page to help keep it a secret. 
+The ONI Operative begin at Rank of O-1, and can take the 
+Command Specialization Package even if another Character in the 
+Party already has it.  
+ The ONI Operative gains the pay of their Rank, but gains 
+a False Rank that the other Players and Characters see. This False 
+Rank is to keep the ONI Operative classified and under cover. 
+The ONI Operative gains an extra Support Point at Character 
+Creation and after each Mission.  
+ All UNSC Equipment is at half price for the ONI 
+Operative. 
+SQUAD UP: When with others from the Army, Marine, Air Force, 
+Navy, ORION, ODST, Militiaman, and Spartan IV Soldier Types; 
+these Characters gain a +5 Bonus to Courage. The Characters also 
+gain a +10 Bonus to Warfare Melee and Warfare Range Tests when 
+taking Combined Actions. 
+ 
+SECTION 0 EXTRA INFORMATION 
+Section 0 ONI Operatives are tasked with finding and eliminating 
+illegal operations within UNSC and Insurrectionist operations. On 
+top of that, they’re generally tasked with assessing a situation by 
+scouting hot zones before the UNSC arrive. 
+Section 0 ONI Operatives are able to avoid prosecution from killing 
+other UNSC personnel, only as long as they can bring proof of 
+illegal activities that could harm UNSC’s image. 
+Section 0 have the ability to claim themselves Section I, II, or III, 
+even to other ONI Operatives. This allows them to stay hidden 
+within other branches. 
+SEC 0 Operatives are able to call in Vehicle Support at half the 
+original price.  
+ 
+ 
+ 
+ 
+ 
+ 
+STANDARD EQUIPMENT 
+MA5 series Assault Rifle of the 
+time 
+Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical Eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform 
+ 
+MARKSMAN EQUIPMENT 
+BR55 or BR85 Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+One tactical Softcase UNSC Battle Dress Uniform 
+ 
+CLOSE QUARTERS EQUIPMENT 
+M45 Tactical Shotgun Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform
+
+===== PAGE 7 =====
+ONI OPERATIVE ODST 
+EXPERIENCE COST: 1,200 Extra 
+The ONI Operative may choose to become an ONI Operative ODST 
+at Character Creation. This replaces the ONI Operative’s 
+equipment with their choice from the ODST’s equipment packs. 
+ If not taken at Character Creation, the ONI Operative 
+must become an ODST through the normal means and cannot take 
+this.  
+SOLDIER TYPE SPECIAL RULES 
+T -- -- CR 
++5 Simple -- -- +10 Rookie 
+The ONI ODST gains ODST Special Rules, but no Modifier 
+Advancements or Characteristic Advancements. 
+The ONI ODST begins with three Skills of their choosing at +10 at 
+Character Creation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BECOMING AN ORION SOLDIER 
+EXPERIENCE COST: 3,800 
+Any regular Humans can technically become an ORION Soldier. 
+This is an augmentation that takes a month to complete, and a 
+month of recovery.  
+ The Character will receive the ORION base Characteristic 
+differences compared to the Human base Characteristic statline, 
+as well as the Mythic Characteristics of the ORION. The Character 
+also receives the ORION’s Soldier Type Special Rules.
+
+===== PAGE 8 =====
+UNSC/ONI Materials and Recovery Corps 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+25 25 25 25 25 25 25 25 25 25 
+TIER: 2 EXPERIENCE COST: 2,300 
+UPBRINGING: Any TRAINING: Basic and Infantry 
+CHARACTERISTIC MODIFIER ADVANCEMENTS 
+STR T AG WFR 
++5 Simple +10 Rookie +5 Simple +5 Simple 
+PHYSICAL ATTRIBUTES 
+HEIGHT 130 centimeters (4’3 ft.) – 200 centimeters (6’6 ft.) 
+WEIGHT 45 kilograms (100 lb.) – 117 kilograms (260 lb.) 
+SIZE Normal 
+SOLDIER TYPE SPECIAL RULES 
+This Soldier Type should only be taken with GM Approval. The GM 
+is advised to treat it with caution, as revealing a Spy in the players’ 
+ranks can lead to distrust and dissention within the ranks. 
+The ONI Operative begins with the Human Weaponry Racial 
+Training at Character Creation.  
+The ONI Operative begin at Rank of O -1, and can take the 
+Command Specialization Package even if another Character in the 
+Party already has it.  
+The ONI Operative gains an extra Support Point at Character 
+Creation and after each Mission.  
+ All UNSC gear is at half price for the ONI Operative. 
+SQUAD UP: When with others from the Army, Marine, Air Force, 
+Navy, ORION, ODST, Militiaman, and Spartan IV Soldier Types; 
+these Characters gain a +5 Bonus to Courage. The Characters also 
+gain a +10 Bonus to Warfare Melee and Warfare Range Tests when 
+taking Combined Actions. 
+ 
+MATERIALS AND RECOVERY EXTRA INFORMATION 
+A sub -division of Section III, the Materials and Recovery (MAR 
+Operative) is tasked with testing and retrieving various forms of 
+technology. 
+The MAR Operative pays no cR when installing Vehicle 
+Modifications, though they must pay for any materials and 
+equipment being used in the modifications. 
+MAR Operatives gain Vehicle Drop Support at half price. They are 
+also able to purchase UNSC Walker vehicles at 1/3 rd its normal 
+price. 
+The MAR Operative is able to sell looted vehicles and weapons 
+back to the UNSC, after e ach completed mission, for half of the 
+item’s price. 
+ 
+ 
+ 
+STANDARD EQUIPMENT 
+MA5 series Assault Rifle of the 
+time 
+Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical Eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform 
+ 
+MARKSMAN EQUIPMENT 
+BR55 or BR85 Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+One tactical Softcase UNSC Battle Dress Uniform 
+ 
+CLOSE QUARTERS EQUIPMENT 
+M45 Tactical Shotgun Hardcase 
+WAYPOINT Comm Flashlight 
+Interrogator Translator Combat Knife 
+Spoofer Holographic Tactical eyepiece 
+Two tactical Softcases UNSC Battle Dress Uniform
+
+===== PAGE 9 =====
+UNSC/ONI Spartan IV Operative 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+45 45 40 40 35 25 35 35 25 35 
++5 +4 +3 MYTHIC CHARACTERISTICS 
+TIER: 5 EXPERIENCE COST: 11,300 
+UPBRINGING: Any TRAINING: All 
+PHYSICAL ATTRIBUTES 
+HEIGHT 175 centimeters (5’8 ft.) – 226 centimeters (7’5 ft.) 
+WEIGHT 82 kilograms (180 lb.) – 181 kilograms (400 lb.) 
+SIZE Large 
+SOLDIER TYPE SPECIAL RULES 
+The Spartan can call in Spartan Ordnance for 1 Support Point. 
+All Armor Variants are at half price. 
+The Spartan gains four Skills at +10 at Character Creation. 
+Spartan IVs gain the Fast Foot Ability at Character Creation. 
+The Spartan gains all Spartan III Augmentation Traits at Character 
+Creation, except for the Catalytic Thyroid Implant. 
+The Spartan IV begins with all Racial Weapon Training options at 
+Character Creation.  
+SQUAD UP: When with others from the Spartan II, Spartan III, and 
+Spartan IV Soldier Types; these Characters gain a +5 Bonus to 
+Courage. The Characters also gain a +10 Bonus to Warfare Melee 
+and Warfare Range Tests when taking Combined Actions. 
+ 
+CARRYING WEIGHT 
+The Spartan doubles their Strength and Toughness when figuring 
+Carrying Weight 
+ 
+MJOLNIR 
+All Spartans begin with a set of Mjolnir or other types of armor of 
+their choice, depending on the timeline the Character is currently 
+in. Below is a list of armor and the span of time that armor was in 
+use. The GM may allow for Characters to continue to use older 
+armor or take SPI Armor instead. 
+ As time progresses, the Character has the choice to turn 
+in their armor for a new version when they become available.  
+ Between missions, the Character may swap between 
+types of Armor, such as swapping from Mjolnir to SPI. 
+ARMOR USAGE 
+SPI Mark I 2531-2537 
+SPI Mark II 2537+ 
+SPI Headhunter 2537+ 
+Black Body Suit 2500-2525 
+Mjolnir Mark IV 2525-2551 
+Mjolnir Mark V 2551-2552 
+Mjolnir Mark VI 2552-2553 
+GEN II Mjolnir 2553-2559 
+GEN III Mjolnir 2559+ 
+ 
+BECOMING A SPARTAN IV 
+All Human and ORION Soldier Types can become Spartan IVs. The 
+next page describes the process and what a Player must do to 
+properly update their Character. 
+ 
+ONI OPERATIVE EXTRA INFORMATION 
+The ONI Operative Spartan IV may choose one of the previous 
+Section Operatives, including MAR Corps, and take the Extra 
+Information benefits of that Soldier Type. 
+ 
+ 
+ 
+POINT MAN EQUIPMENT 
+MA5 series Assault Rifle Hardcase 
+M6 series or M6J Carbine Flashlight 
+Two M9 Dual-Purpose Grenades Combat Knife 
+Two Flashbang Grenades Two tactical Softcases 
+ 
+MARKSMAN EQUIPMENT 
+M392 DMR or M395 DMR Hardcase 
+M6 series Pistol or M6J Carbine  Flashlight 
+Two M9 Dual-Purpose Grenades Combat Knife 
+Flashbang Grenade One tactical Softcase 
+ 
+CLOSE QUARTERS EQUIPMENT 
+M45 Tactical Shotgun Hardcase 
+M6 series pistol or M6J Carbine  Flashlight 
+M9 Dual-Purpose Grenade Combat Knife 
+Three Flashbang Grenades Two tactical Softcases 
+ 
+HEAVY SUPPORT EQUIPMENT 
+AIE-486H Heavy Machine Gun Hardcase 
+M6 series Pistol Flashlight 
+M9 Dual-Purpose Grenade Combat Knife 
+Flashbang One tactical Softcase 
+ 
+HEAVY SQUAD SUPPORT EQUIPMENT 
+M735 Light Machine Gun or HMG-38 Hardcase 
+M6 series Pistol Flashlight 
+M9 Dual-Purpose Grenade Combat Knife 
+Flashbang One tactical Softcase 
+ 
+LONG RANGED SPECIALIST EQUIPMENT 
+Sniper Rifle System Rifle or Sniper 
+Rifle System 99 
+Tactical Hardcase 
+M6 series Pistol Flashlight 
+M9 Dual-Purpose Grenade Combat Knife 
+Two Flashbang Tactical Softcase 
+ 
+ANTI-ARMOR EQUIPMENT 
+M57 Pilum Rocket Launcher Hardcase 
+M6 series Pistol Flashlight 
+M9 Dual-Purpose Grenade Combat Knife 
+Flashbang One tactical Softcase
+
+===== PAGE 10 =====
+BECOMING A SPARTAN IV 
+All ONI and Spartan IVs can opt into this specialized ONI Operative 
+organization of the Spartan IV Program. There are two upgrades paths 
+to take based on whether the Character is already a Spartan IV or is 
+only an ONI Operative. 
+ 
+BEING ACCEPTED INTO THE SPARTAN IV PROGRAM 
+Human and ORION Characters, during and after the year 2553, can 
+enlist or be requested to join the Spartan IV Augmentation Program. 
+Only with GM approval can a Character continue this path. When a 
+Character does get accepted to do the operation, they under go 
+extreme biological augmentations that convert their current Soldier 
+Type to the Spartan IV Soldier Type. 
+ For a Character to be accepted, the GM makes the decision 
+whether the UNSC would see them fit to join the Spartan Ranks. This 
+can be through Skill, showing exemplary ability or prowess on the 
+battlefield, or through special ONI fastback programs. The foll owing 
+section reveals the possible prerequisites that would allow the 
+Character to advance through the program. 
+ 
+PREREQUISITES TO THE SPARTAN IV PROGRAM 
+ 
+THE ONI OPERATIVE PROCESS 
+ONI Operatives are able to become Spartan IV Operatives after the 
+GM feels their actions are worthy for the program. This generally 
+involves players following their special Operative bonuses and 
+actions, such as a Recovery Corps Character doing their job a nd 
+retrieving Forerunner technology, or a Section 0 Operative protecting 
+the image of the UNSC. 
+ 
+THE SPARTAN IV PROCESS 
+Characters that are already Spartan IVs have a much easier process to 
+becoming an ONI Operative variant of the Spartan IV. As long as the 
+Spartan IV has performed actions and completed missions that would 
+benefit ONI, they are able to become a Spartan IV Operative. 
+ 
+THE VETERAN PROCESS 
+Characters that have a large amount of time in missions are eligible 
+for the Spartan IV Program. This involves those who have had 
+multiple types of missions spanning over 5 months’ worth of active 
+missions. The Character must also have a minimum of 6,000 earned 
+Experience Points. This does not count Experience Points given at 
+Character Creation. 
+Veterans of war have the highest chance of being put into 
+the Spartan IV Program and are generally pushed ahead of others 
+due to their worth on the battlefield. 
+ 
+THE UTILITY PROCESS 
+Characters who offer the UNSC impressive Abilities, Skills, and 
+Education are eligible for the Spartan IV Program. These Characters 
+hold multiple highly trained Skills, large sets of Abilities, or advanced 
+Educations. 
+ Characters who have spent 5,500 Experience on Skills, 
+Abilities, and Educations are eligible for the Spartan IV Program. 
+Those who meet this requirement are wanted for their expertise in 
+various fields that can prove useful to the UNSC. 
+ 
+  
+THE SPARTAN IV AUGMENTATIONS 
+ 
+TIME AND PROCEDURE 
+Once eligible for the Spartan IV Program, Characters enter a waiting 
+period. Veterans are given a 2-week waiting period, those within the 
+Utility Process are given a 4 -week waiting period, and those in the 
+Fast Track Process are given a 6-week waiting period. 
+ Once the Character is through their waiting period, they go 
+in for the augmentation operation. These operations take only 5 
+hours to complete, but the Character needs time to heal and recover 
+from the stress put on their body. 
+ After the time spend healing, the Character undergoes a 
+week of physical therapy and a month of training their new enhanced 
+attributes. 
+ 
+YOUR NEW CHARACTERISTICS AND ATTRIBUTES 
+Once a Character is done with the many procedures, therapies, and 
+training, they’re ready to be placed on the battlefield. There are two 
+sets of Characteristic Upgrades that are given based on if the 
+Character is a Human or an ORION Soldier.  
+ These Advancements do not take up a Character’s 
+Characteristic Advancement, but instead adds to their 
+Characteristics. 
+For example, if you have a Human Character, your base 
+Strength Characteristic is 25. This means that the Character adds a 
++20 Upgrade to their Strength Characteristic. This does not take up 
+their Characteristic Advancements, nor does it replace them. The 
+Character keeps their advancements for all Characteristics. 
+The character also gains all SOLDIER TYPE TRAITS that the 
+Spartan IV begins with. This includes the Carrying Weight 
+advancements, Physical Attributes, and the choice of a new Spartan 
+IV Equipment Package. 
+ 
+HUMAN CHARACTERISTIC UPGRADES 
+STR TOU AGI WFR WFM INT PER CRG CHA LDR 
++20 +20 +15 +15 +10 -- +10 +10 -- +10 
+ 
+ORION CHARACTERISTIC UPGRADES 
+STR TOU AGI WFR WFM INT PER CRG CHA LDR 
++10 +5 +5 +15 +10 -- +10 +10 -- +10 
+ 
+MYTHIC CHARACTERISTICS 
+Human and ORION Characters gain the Spartan IV’s Mythic 
+Characteristics. For ORIONs, this does not add to their current Mythic 
+Characteristics, but replaces them. Any Mythic Characteristics gained 
+from Outliers are still kept. 
+ 
+SPARTAN IV EQUIPMENT 
+Once becoming a Spartan IV, the Character may choose whether or 
+Once becoming a Spartan IV, the Character may choose whether or 
+not they keep their current Equipment Kit, or if they decide to choose 
+one from the sets offered by the Spartan IV Character Creation. 
+ Any Character becoming a Spartan IV begin with the 
+standard variant of Mjolnir GEN II Mark I Armor.

@@ -1,0 +1,467 @@
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+CYBERNETICS SPLATBOOK 
+INTRODUCTION 
+The Cybernetics Splatbook is a commissioned 100DOS Splatbook built 
+to be used alongside other Splatbooks. These are optional Character 
+Modifications that a GM may allow to be used in their campaigns. This 
+Splatbook is balanced towards Mythic and The Armory, but there is 
+no reason it couldn’t also b e used with others to make your own 
+settings and unique campaigns. 
+ 
+USE IN YOUR GAMES 
+Some aspects of the Cybernetics Splatbook may be considered more 
+powerful than the GM might intend for their campaign. Soldier Types 
+like Spartan IIs, who already receive  major benefits at Character 
+Creation, can heavily compound their capabilities by gaining even 
+further, similar benefits. Players should always ask for permission 
+before using this Splatbook. 
+ 
+CYBERNETICS 
+Cybernetics are body replacements, enhancements, or last -ditch-
+effort tools that Characters can get access to. The capabilities, 
+strengths, and benefits are incredibly varied, based on a the 
+Cybernetic being purchased. 
+ Each Body Hit Location has its own s eries of Cybernetics 
+that can be applied to a Character, such as Limb Replacements. Each 
+Body Hit Location has optional Sublocation Cybernetics. These include 
+things like Eye Cybernetics, Hand Cybernetics, etc. 
+ 
+VARIANTS 
+Cybernetics have Variants that dete rmine the Price, Break Points, 
+Armor, and benefits that the Cybernetic gives. Each Variant will have 
+its own description within the Information section of the table. 
+ 
+PRICING 
+Cybernetics have a Base Price listed. This Base Price is the lowest price 
+offered for the Cybernetics. Each Variant will have its own listed price 
+under the description of the item. 
+ 
+LOCATION CYBERNETIC 
+A Location Cybernetic is a Cybernetic that replaces or is installed into 
+an entire Body Location. Th ese Cybernetics include full Limb 
+replacements, Limb Enhancements, and Cybernetic Shells. 
+ 
+SUBLOCATION CYBERNETIC 
+A Sublocation Cybernetic is a Cybernetic that is installed onto or 
+replaces a Sublocation of the body. These include things like Ear and 
+Eye Cybernetics, or even Heart or Forearm Cybernetics. These may be 
+installed onto Location Cybernetics. Sublocation Cybernetics have 
+Armor and Break Points of their own, but if installed onto a Location 
+Cybernetic, they will take the Armor of that Location Cybernetic. 
+ 
+CYBERNETIC LIMITATIONS 
+The following list limits what Cybernetics cannot be used for. This 
+helps make sure that Characters do not abuse this system and 
+become too powerful or misuse the system out of misunderstanding 
+how it works. Please make sure to read through this section as  there 
+are not many limitations but are still important. 
+ 
+• Characters cannot use Cybernetics to gain extra limbs their 
+race does not normally have.  
+• Characters cannot take more than one of the same type of 
+Cybernetic per Location, whether it be Location or 
+Sublocation.  
+• Cybernetics cannot gain benefits from a Character’s 
+Toughness or Mythic Characteristics unless specified 
+otherwise. 
+ 
+ARMOR AND BREAK POINTS 
+Cybernetics use Armor instead of the Character’s Toughness Modifier 
+and Mythic Toughness. This Armor stacks with worn Armor. Attacks 
+that deal Damage to a Cybernetic will always deal Break Point Damage 
+to that Cybernetic. Under certain circumstances, Damage to the 
+Cybernetic will also deal Wounds to the Character.  
+Arm and Leg Cybernetics use Break Points instead of dealing 
+Damage to the Character’s Wounds. Any Sublocation Cybernetic that 
+are not installed onto a Location Cybernetic will deal Wounds to the 
+Character, regardless of the Location it is on. 
+ 
+LIMB REPLACEMENTS 
+Limb Replacements are just as they sound, they replace Arms or Legs 
+of the Character. Limb Replacements have their own Break Points and 
+Armor based on the Tier of the Replacement. Attacks that strike Limb 
+Replacements do not Damage a Character’s Wounds. Characters can 
+only take one Limb Replacement per Limb. 
+ 
+CYBERNETIC ENHANCEMENTS 
+Cybernetic Enhancements are cybernetics that implant into existing 
+Body Locations. Cybernetic Enhancements have Break Points and can 
+offer Armor, but Attacks that strike Enhancements will deal Damage 
+to Wounds if they are not installed onto a Limb Replacement.  
+ Enhancement Armor on Sublocations will not give its Armor 
+to the Character’s Wounds, the Armor is only for figuring Break Point 
+Damage for the Cybernetic. 
+ Only one Cybernetic Enhancement can be installed per 
+Location and Sublocation. For example, a Character cannot take th e 
+LCX-50 Eye Enhancement and the FSL Core-Sight Enhancement at the 
+same time. 
+ 
+CYBERNETIC SHELLS 
+Cybernetic Shells are encasings that are installed onto a Character’s 
+Body Location. These Shells will replace the skin and some segments 
+of the Character’s muscular system  on the Location installed . Shells 
+have Break Points and offer extra Armor against A ttacks that ignore 
+Armor or when the Character is not currently wearing Armor. Attacks 
+that deal Damage to Shells will still damage the Character’s Wounds. 
+ 
+CYBERNETIC ATTACHMENTS 
+Cybernetic Attachments are Cybernetics that are built into, or onto 
+Cybernetic Replacements and Shells. These can only be installed onto 
+Body Locations that have a Shell or Replacement. 
+ 
+AUGMENTATION PREJUDICE 
+Characters with a large amount of Cybernetics are generally looked 
+down on, fears, or avoided. Characters that heavily alt er their body 
+are often treated as untrustworthy, as well. There are groups that 
+may accept them more openly, like groups of other augmented users, 
+or Characters with a fondness for the idea of cybernetics. 
+ A good way to handle this is for every two visib le 
+Cybernetics the Character has, others dealing with that Character will 
+lower their Disposition towards them. The Disposition Chart is found 
+in the GM Section of the Mythic Handbook.
+
+===== PAGE 3 =====
+HEAD ENHANCEMENT CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+Basic Eye Eye Sublocation Enhancement Cybernetic: Left Eye or Right Eye 
+A standard Eye replacement. Indistinguishable from a regular eye. EMP Special Rule will Blind the Character for the 
+duration of the EMP Effect. 
+• Economy Variant costs 20 cR. 50 Break Points. 
+• Standard Variant costs 40 cR. 65 Break Points. 
+• Combat Variant costs 300 cR. 10 Armor and 75 Break Points. 
+20 cR 
+LCX-50 
+Telescopic Eye 
+Both Eyes Sublocation Enhancement Cybernetic: Left Eye and Right Eye 
+Multiplies the Character’s Perceptive Range based on one of three Tiers of this Cybernetic. EMP Special Rule will 
+Blind the Character for the duration of the EMP Effect. 
+• Economy Variant increases Perceptive Range multiplier by 1.5 and costs 100 cR. 50 Break Points. 
+• Standard Variant increases Perceptive Range multiplier by 2 and costs 300 cR. 65 Break Points. 
+• Combat Variant increases Perceptive Range multiplier by 2.5 and costs 600 cR. 10 Armor and 75 Break 
+Points. 
+100 cR 
+FSL Core-Sight 
+Augmentation 
+Both Eyes Sublocation Enhancement Cybernetic: Left Eye and Right Eye 
+Reduces all Penalties from Blinding, Bright, Low -Light, and Darkness. EMP Special Rule will Blind the Character for 
+the duration of the EMP Effect. 
+• Economy Variant reduces Penalties by 10 and costs 100 cR.  50 Break Points. 
+• Standard Variant reduces Penalties by 15 and costs 300 cR. 65 Break Points. 
+• Combat Variant reduces Penalties by 20 and costs 600 cR. 10 Armor and 75 Break Points. 
+100 cR 
+Lightwave 
+Detection 
+Augmentation 
+Both Eyes Sublocation Enhancement Cybernetic: Left Eye and Right Eye 
+Gives Bonuses to seeing Camouflaged and Cloaked Characters. Cannot stack with VISR or other similar Equipment. 
+EMP Special Rule will Blind the Character for the duration of the EMP Effect. 
+• Economy Variant gives a +5 Bonus and costs 100 cR. 50 Break Points. 
+• Standard Variant gives a +10 Bonus and costs 300 cR. 65 Break Points. 
+• Combat Variant gives a +15 Bonus and costs 600 cR. 10 Armor and 75 Break Points. 
+100 cR 
+Basic Ear Ear Sublocation Enhancement Cybernetic: Left Ear or Right Ear 
+A standard Ear replacement. Indistinguishable from a regular ear. EMP Special Rule will Deafen the Character for the 
+duration of the EMP Effect. 
+• Economy Variant costs 20 cR. 50 Break Points. 
+• Standard Variant costs 40 cR. 65 Break Points. 
+• Combat Variant costs 300 cR. 10 Armor and 75 Break Points. 
+20 cR 
+ACX-50 Tactile 
+Enhancement 
+Suite 
+Both Ears Sublocation Enhancement Cybernetic: Left Ear and Right Ear 
+Gives the Character the ability to track the direction that sounds are coming from as an Extended Action. If the 
+Character stays still and focuses for two Full Actions, they may roll a  -(X) Investigation Skill Test. If Successful, the 
+Character will know the direction the sound is coming from, but not the direct location. 
+EMP Special Rule will Deafen the Character for the duration of the EMP Effect. 
+• Economy Variant gives a -30 Penalty to the Test and costs 100 cR. 50 Break Points. 
+• Standard Variant gives a -25 Penalty to the Test and costs 300 cR. 65 Break Points. 
+• Combat Variant gives a -20 Penalty to the Test and costs 600 cR. 10 Armor and 75 Break Points. 
+100 cR 
+Smart Noise 
+Cancellation 
+Both Ears Sublocation Enhancement Cybernetic: Left Ear and Right Ear 
+Allows the Character to reduce the effects of loud noises causing the Character to go Deaf. Does not reduce the 
+effects of EMP causing deafness. Smart Noise Cancellation reduces the length of any Hearing Loss or Deafen ing 
+effects, to a minimum of one Half Action.  
+EMP Special Rule will Deafen the Character for the duration of the EMP Effect. 
+• Economy Variant reduces Deafness and Hearing loss by 1 Half Action and costs 100 cR. 50 Break Points. 
+• Standard Variant reduces Deafness and Hearing loss by 2 Half Actions and costs 300 cR. 65 Break Points. 
+• Combat Variant reduces Deafness and Hearing loss by 3 Half Actions and costs 600 cR. 10 Armor and 75 
+Break Points. 
+100 cR 
+ACX-Audio 
+Filtering Suite 
+Both Ears Sublocation Enhancement Cybernetic: Left Ear and Right Ear 
+Allows the Character to filter out all audio sources except for a set amount of  desired audio sources based on the 
+Variant purchased. This includes only tracking one or two voices, tracking a vehicle and multiple voices, etc. Cannot 
+filter noises such as close gunshots, explosions, and loud machinery.  
+EMP Special Rule will Deafen the Character for the duration of the EMP Effect. 
+• Economy Variant can filter one audio source clearly and costs 100 cR. 50 Break Points. 
+• Standard Variant filter up to two audio sources clearly and costs 300 cR. 65 Break Points. 
+• Combat Variant filter up to three audio sources clearly and costs 600 cR. 10 Armor and 75 Break Points. 
+100 cR 
+Internal 
+Olfactive 
+Filtration Unit  
+Nose Sublocation Enhancement Cybernetic: Nose 
+A sinus and Nose enhancement cybernetic that allows the Character to filter out toxic atmosphere for a set amount 
+of Minutes per Variant. Takes 1 hour to filter to be usable again regardless of the Variant. 
+EMP disables the device and stops the Character from being able to smell for the duration of the EMP Effect. 
+• Economy Variant can filter toxic atmosphere for 3 Minutes and costs 100 cR. 50 Break Points. 
+• Standard Variant filter toxic atmosphere for 5 Minutes and costs 300 cR. 65 Break Points. 
+• Combat Variant filter toxic atmosphere for 8 Minutes and costs 600 cR. 10 Armor and 75 Break Points. 
+100 cR
+
+===== PAGE 4 =====
+HEAD ENHANCEMENT CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+Doplofi X-Ray 
+Detection Eyes 
+Both Eyes Sublocation Enhancement Cybernetic: Left Eye and Right Eye 
+Using various forms of precision wavelengths, these eyes attempt to produce a replication of movement on the other 
+side of walls for the user. The eyes will pulse out wavelengths and attempt to wait for a change in frequency to detect 
+movement through walls and to attempt to map out characters. When the data is received, each variant has a Bonus 
+given to a Perception Test and a limit to how thick of a wall the Doplofi can work through. When used, it takes a Half 
+Action of focusing to properly send and receive the data. During this, the Character makes a Perception Test with the 
+modifier given by the Doplofi variant  used. The Doplofi will always bring back results of what it may think but 
+depending on the success or failure of the Test, the Character could be given misinf ormation. This means that if a 
+Character were to attempt to make an Attack through a wall at where they believe a Character would be the 
+Character gains a -20 Penalty To Hit for each Degree of Failure received on the Test.  
+ Doplofi can only be used if the  Character is standing still. If the Targets on the other side of the wall are 
+moving more than 6 Meters before the Turn the Doplofi was used, the Perception Test gains an extra -10 Penalty. 
+EMP Special Rule will Blind the Character for the duration of the EMP Effect. 
+• Economy Variant has a -10 to the Perception Test and can only be used with 4cm or thinner walls.  Costs 
+200 cR. 50 Break Points. 
+• Standard Variant has no Penalty or Bonus to the Perception Test and can only be used with 8cm or thinner 
+walls. Costs 400 cR. 65 Break Points. 
+• Combat Variant has a +10 to the Perception Test and can only be used with 16cm or thinner walls. Costs 
+600 cR. 10 Armor and 75 Break Points. 
+200 cR 
+Social Engineer 
+Eye 
+Both Eyes Sublocation Enhancement Cybernetic: Left Eye and Right Eye 
+The S.E.E (Social Engineer Eye) is able to scan the behavior and facial movement of a Target, once per Turn. At the 
+beginning of the next Turn, S.E.E will attempt to let the User know the current Disposition of the Character and offer 
+likely responses that would assist the User in Social Skill Tests and how to react with the Character. 
+ To use S.E.E, the User must first roll a Charisma Test with  the listed Penalty based on the Variant being 
+used. If Successful, S.E.E will give the User the Disposition of the Target and a +30 to their next Social Skill Test with 
+the Characters scanned . S.E.E is always active and is a Free Action to use. Each varia nt can scan a set amount of 
+people in a Round. It takes a Half Action the following Turn for the User to access and read through the data that was 
+given. EMP Special Rule will Blind the Character for the duration of the EMP Effect. 
+• Economy Variant has a -10 to the Charisma Test and can scan one Character. Costs 150 cR. 50 Break Points. 
+• Standard Variant has no Penalty or Bonus and can scan two Characters. Costs 300 cR. 65 Break Points. 
+• Combat Variant has a +10 to the Charisma Test and can scan three Characters. C osts 600 cR. 10 Armor 
+and 75 Break Points. 
+150 cR 
+ 
+CHEST ENHANCEMENT CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+ACX Applied 
+Heart Pump 
+Engine 
+Heart Sublocation Enhancement Cybernetic: Heart 
+Forces the Character’s heart to beat while unconscious, alongside regulating blood flow. Reduces Bleedout Damage. 
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant reduces Bleedout Damage by 1 per Turn and costs 100 cR. 50 Break Points. 
+• Standard Variant reduces Bleedout Damage by 2 per Turn and costs 300 cR. 65 Break Points. 
+• Combat Variant reduces Bleedout Damage by 3 per Turn and costs 600 cR. 10 Armor and 75 Break Points. 
+100 cR 
+Optican 
+Titanium Lung  
+Lungs Sublocation Enhancement Cybernetic: Both Lungs 
+Allows the Character to hold their breath longer. Each variant also allows the Character to make Charge and Run 
+Actions if the Character is missing a Lung.  EMP disables the device and stops the Character from gaining these 
+benefits and forces the Character to hold their breath  for the duration of the EMP Effect.  Each variant also uses its 
+multiplier given to increase how long the Character can Run and move during Narrative Time. 
+• Economy Variant doubles total time Character can hold their breath and costs 100 cR. 50 Break Points. 
+• Standard Variant triples total time Character can hold their breath and costs 300 cR. 65 Break Points. 
+• Combat Variant quadruples total time Character can hold their breath and costs 600 cR. 10 Armor and 75 
+Break Points. 
+100 cR 
+ACX Stomach 
+Platform 
+Stomach Sublocation Enhancement Cybernetic: Stomach 
+A series of filters and storage units that collect water and filter toxins.  
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant increases time needed before Starvation and Dehydration begins by 1 day and costs 100 
+cR. 50 Break Points. 
+• Standard Variant increases time needed before Starvation and Dehydration begins by 2 days and costs 
+300 cR. 65 Break Points. 
+• Combat Variant increases time needed before Starvation and Dehydration begins by 3 days and costs 600 
+cR. 10 Armor and 75 Break Points. 
+100 cR 
+Advanced Liver 
+Filters 
+Liver Sublocation Enhancement Cybernetic: Liver 
+A Liver Attachment System that acts as a series of pre-filtration units before reaching the Liver.  The ALF Unit also 
+better separates and stores glucose and nutrients for energy and blood health.  This unit also makes the Character 
+unable to become intoxicated. 
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant recovers from 1 extra level of Fatigue per hour and costs 150 cR. 50 Break Points. 
+• Standard Variant recovers from 2 extra levels of Fatigue per hour and costs 400 cR. 65 Break Points. 
+• Combat Variant recovers from 3 extra levels of Fatigue per hour and costs 750 cR. 10 Armor and 75 Break 
+Points. 
+150 cR
+
+===== PAGE 5 =====
+ARM ENHANCEMENT CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+Force 
+Amplification 
+Struts 
+Both Arms Location Enhancement Cybernetic: Left Arm and Right Arm 
+Force Amplification Struts are installed through the Arms. These give Strength Characteristic upgrades. 
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant increases the Strength Characteristic by 3 and costs 150 cR. 50 Break Points. 
+• Standard Variant increases the Strength Characteristic by 5 and costs 450 cR. 65 Break Points. 
+• Combat Variant increases the Strength Characteristic by 7 and costs 700 cR. 10 Armor and 75 Break Points. 
+150 cR 
+FSL Muscular 
+Supports 
+Both Arms Location Enhancement Cybernetic: Left Arm and Right Arm 
+Muscular Supports that increase the Character’s Melee Damage for Punch and Elbow Attacks. 
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant increases Melee Damage by 3 and costs 150 cR. 50 Break Points. 
+• Standard Variant increases Melee Damage by 5 and costs 300 cR. 65 Break Points. 
+• Combat Variant increases Melee Damage by 7 and costs 600 cR. 10 Armor and 75 Break Points. 
+150 cR 
+ 
+LEG ENHANCEMENT CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+Stride Package 
+Leg Enhancers 
+Both Legs Location Enhancement Cybernetic: Left Leg and Right Leg 
+Muscular-level implant struts that increase the Character’s Agility Characteristic.  
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant increases the Agility Characteristic by 3 and costs 150 cR. 50 Break Points. 
+• Standard Variant increases the Agility Characteristic by 5 and costs 400 cR. 65 Break Points. 
+• Combat Variant increases the Agility Characteristic by 7 and costs 750 cR. 10 Armor and 75 Break Points. 
+150 cR 
+FSL Strike Force 
+Melee  
+Both Legs Location Enhancement Cybernetic: Left Leg and Right Leg 
+Muscular Supports that increase the Character’s Melee damage for Kick and Knee Attacks. Kick Attacks can also be 
+made as an Attack that does not cost extra Melee Attacks to perform, but the Damage is reduced by 4. 
+EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant increases Melee Damage by 3 and costs 150 cR. 50 Break Points. 
+• Standard Variant increases Melee Damage by 5 and costs 400 cR. 65 Break Points. 
+• Combat Variant increases Melee Damage by 7 and costs 750 cR. 10 Armor and 75 Break Points. 
+150 cR 
+ 
+UPPER BODY SHELL CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+SynMuTech 
+MK2 [A] 
+Both Arms  
+and Chest 
+Location Shell Cybernetic: Left Arm, Right Arm, and Chest 
+Advanced Skin Shell Replacement that uses sophisticated synthetic muscle structures to give the Character Mythic 
+Strength. EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP 
+Effect. 
+• Economy Variant increases Mythic Strength by 1 and costs 300 cR. 50 Break Points. 
+• Standard Variant increases Mythic Strength by 2 and costs 600 cR. 65 Break Points. 
+• Combat Variant increases Mythic Strength by 3 and costs 1,200 cR. 10 Armor and 75 Break Points. 
+300 cR 
+Ampu EMP 
+Shield 
+Both Arms 
+and Chest 
+Location Shell Cybernetic: Left Arm and Right Arm 
+EMP Shielding that helps reduce the effects of EMP Special Rule Attacks and Effects. Reduces EMP (X) of an Attack 
+or Effect that strikes the Character by a set amount, to a minimum of 0. 
+• Economy Variant reduces EMP (X) of the Attack by 1 and costs 150 cR. 50 Break Points. 
+• Standard Variant reduces EMP (X) of the Attack by 2 and costs 300 cR. 65 Break Points. 
+• Combat Variant reduces EMP (X) of the Attack by 3 and costs 600 cR. 10 Armor and 75 Break Points. 
+150 cR 
+ 
+LOWER BODY SHELL CYBERNETICS 
+CYBERNETIC LOCATION INFORMATION COST  
+SynMuTech 
+MK2 [L] 
+Both Legs Location Shell Cybernetic: Left Leg and Right Leg 
+Advanced Skin Shell Replacement that uses sophisticated synthetic muscle structures to give the Character Mythic 
+Agility. EMP disables the device and stops the Character from gaining these benefits for the duration of the EMP 
+Effect. 
+• Economy Variant increases Mythic Agility by 1 and costs 300 cR. 50 Break Points. 
+• Standard Variant increases Mythic Agility by 2 and costs 600 cR. 65 Break Points. 
+• Combat Variant increases Mythic Agility by 3 and costs 1,200 cR. 10 Armor and 75 Break Points. 
+300 cR 
+Freefall Shock 
+Absorbers 
+Both Legs Location Shell Cybernetic: Left Leg and Right Leg 
+Reduces the amount of dice rolled during Falling Damage as long as the Character lands on their feet. EMP disables 
+the device and stops the Character from gaining these benefits for the duration of the EMP Effect. 
+• Economy Variant reduces Falling Damage by one D10 and costs 150 cR. 50 Break Points. 
+• Standard Variant reduces Falling Damage by two D10 and costs 400 cR. 65 Break Points. 
+• Combat Variant reduces Falling Damage by three D10 and costs 750 cR. 10 Armor and 75 Break Points. 
+150 cR
+
+===== PAGE 6 =====
+CYBERNETIC LIMB ATTACHMENTS 
+CYBERNETIC LOCATION INFORMATION COST  
+ACX Quickdraw 
+Compartment 
+Chosen 
+Bicep or 
+Thigh 
+Sublocation Cybernetic Attachment: Chosen Bicep or Thigh  
+An attachment that adds a compartment for Concealable and Dual Wield Weapons.  This compartment is able to 
+store or attach to these weapons that allows the Character to draw the weapon as a Free Action. EMP disables the 
+device and will not allow for a Free Action to draw the weapon.  May also be used with Equipment that can be fit 
+within the compartment and is not limited to only weapons. 
+• Economy Variant compartment for 0.9 kg and lighter weapons and costs 150 cR. 50 Break Points. 
+• Standard Variant compartment for 1.3kg and lighter weapons and costs 400 cR. 65 Break Points. 
+• Combat Variant compartment for 1.8kg and lighter weapons and costs 750 cR. 10 Armor and 75 Break 
+Points. 
+150 cR 
+Slingblade 
+Platform 
+Chosen 
+Bicep 
+Sublocation Shell Cybernetic: Chosen Bicep 
+The Slingblade Platform installs two folding Melee Weapons into the Bicep of the Character. One may be installed 
+per Arm. Each Variant has a weight limitation that the weapon may be. The Slingblade Platform extends the weapons 
+out of the biceps as Melee Weapons, while leaving the hands free.  Folding and Unfolding the Slingblade Platform 
+takes a Half Action. The Character may make a Melee Attack while unfolding the Slingblade Platform. This Attack is 
+at a -10 Penalty To Hit but will deal +3 Damage. Any Melee or Range Attacks made with the hands while the Slingblade 
+Platform is unfolded will be at a -30 Penalty To Hit. 
+ EMP disables the device, and the Slingblade Platform cannot extend and unfold. I f already unfolded, 
+cannot be put away during the duration of the EMP effect. 
+ *The Melee Weapon must be purchased separately at triple the standard price of the weapon, as it must 
+be made custom to work with the Slingblade Platform. 
+• Economy Variant weight limit is 0.6 kg and costs 50 cR. 50 Break Points. 
+• Standard Variant weight limit is 1 kg costs 100 cR. 65 Break Points. 
+• Combat Variant weight limit is 2 kg and costs 150 cR. 10 Armor and 75 Break Points. 
+50 cR* 
+ 
+CYBERNETIC FULL LIMB REPLACEMENT 
+CYBERNETIC INFORMATION COST  
+Economy Artificial 
+Limb Replacement 
+Bionic limb replacement. If this limb takes 50 damage, it is destroyed. Has a natural Armor Rating of 5, which 
+stacks with the armor that is being worn. It has no Toughness Modifier and cannot gain any benefits from Mythic 
+Characteristics. For every 10 points of damage the arm takes, Actions with the arm are at a -5. If destroyed, the 
+limb is useless or gone, depending on the severity of the damage taken. Adds 2 kg to the Character’s Weight. 
+ If used as a Leg replacement for a Character with Mythic Agility, the Character halves the Mythic Agility 
+benefits gained for Movement Speed. 
+10 
+Standard Artificial 
+Limb Replacement 
+Bionic limb replacement. If this limb takes 75 damage, it is destroyed. Has a natural Armor Rating of 8, which 
+stacks with the armor that is being worn. It has no Toughness Modifier and cannot gain any benefits from Mythic 
+Characteristics. For every 15 points of damage the arm takes, Actions with the arm are at a -5. If destroyed, the 
+limb is useless or gone, depending on the severity of the damage taken. Adds 2 kg to the Character’s Weight. 
+ If used as a Leg replacement for a Character with Mythic Agility, the Character halves the Mythic Agility 
+benefits gained for Movement Speed. 
+50 
+Combat Artificial 
+Limb Replacement 
+Bionic limb replacement. If this limb takes 100 damage, it is destroyed. Has a natural Armor Rating of 10, which 
+stacks with the armor that is being worn. It has no Toughness Modifier but can gain benefits from Mythic Strength 
+and Mythic Agility. For every 20 points of damage the arm takes, Actions with the arm are at a -5. If destroyed, 
+the limb is useless or gone, depending on the severity of the damage taken. Adds 2 kg to the Character’s Weight. 
+150

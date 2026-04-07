@@ -1,0 +1,5 @@
+2026/04/02-15:15:10.063 75ec Recovering log #3
+2026/04/02-15:15:10.063 75ec Level-0 table #5: started
+2026/04/02-15:15:10.068 75ec Level-0 table #5: 4915 bytes OK
+2026/04/02-15:15:10.076 75ec Delete type=0 #3
+2026/04/02-15:15:10.078 75ec Delete type=3 #2

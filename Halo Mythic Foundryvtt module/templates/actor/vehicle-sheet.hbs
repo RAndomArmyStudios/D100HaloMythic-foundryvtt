@@ -1,0 +1,194 @@
+<form class="{{cssClass}} halo-mythic-sheet" autocomplete="off">
+  <header class="sheet-header">
+    <img class="profile" src="{{actor.img}}" data-edit="img" title="{{actor.name}}" />
+    <div class="header-fields">
+      <div class="identity-grid">
+        <label>
+          <span>Name</span>
+          <input type="text" name="name" value="{{actor.name}}" />
+        </label>
+        <label>
+          <span>Faction</span>
+          <input type="text" name="system.details.faction" value="{{system.details.faction}}" />
+        </label>
+        <label>
+          <span>Role</span>
+          <input type="text" name="system.details.role" value="{{system.details.role}}" />
+        </label>
+        <label>
+          <span>Classification</span>
+          <input type="text" name="system.details.classification" value="{{system.details.classification}}" />
+        </label>
+        <label>
+          <span>Size</span>
+          <select name="system.details.size">
+            {{#each sizeOptions}}
+              <option value="{{this.key}}" {{#ifEq ../system.details.size this.key}}selected{{/ifEq}}>{{this.label}}</option>
+            {{/each}}
+          </select>
+        </label>
+        <label>
+          <span>Initiative</span>
+          <input type="number" name="system.movement.initiative" value="{{system.movement.initiative}}" />
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <nav class="sheet-tabs tabs" data-group="primary">
+    <a class="item" data-tab="overview">Overview</a>
+    <a class="item" data-tab="arsenal">Arsenal</a>
+    <a class="item" data-tab="notes">Notes</a>
+  </nav>
+
+  <section class="sheet-body">
+    <div class="tab primary-tab" data-group="primary" data-tab="overview">
+      <section class="resource-strip">
+        <div class="resource-card">
+          <label>Wounds</label>
+          <div class="resource-values">
+            <input type="number" name="system.resources.wounds.value" value="{{system.resources.wounds.value}}" />
+            <span>/</span>
+            <input type="number" name="system.resources.wounds.max" value="{{system.resources.wounds.max}}" />
+          </div>
+        </div>
+        <div class="resource-card">
+          <label>Shields</label>
+          <div class="resource-values">
+            <input type="number" name="system.resources.shields.value" value="{{system.resources.shields.value}}" />
+            <span>/</span>
+            <input type="number" name="system.resources.shields.max" value="{{system.resources.shields.max}}" />
+          </div>
+          <div class="mini-grid">
+            <label><span>Recharge</span><input type="number" name="system.resources.shields.recharge" value="{{system.resources.shields.recharge}}" /></label>
+            <label><span>Delay</span><input type="number" name="system.resources.shields.delay" value="{{system.resources.shields.delay}}" /></label>
+            <label><span>Current Delay</span><input type="number" name="system.resources.shields.currentDelay" value="{{system.resources.shields.currentDelay}}" /></label>
+          </div>
+        </div>
+        <div class="resource-card">
+          <label>Support</label>
+          <div class="resource-values">
+            <input type="number" name="system.resources.support.value" value="{{system.resources.support.value}}" />
+            <span>/</span>
+            <input type="number" name="system.resources.support.max" value="{{system.resources.support.max}}" />
+          </div>
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-head inline-actions">
+          <div>
+            <h2>Vehicle Stats</h2>
+            <p>Use these fields for speed profiles, crew state, and targeting range.</p>
+          </div>
+          <button type="button" class="action-button apply-damage">Apply Damage</button>
+        </div>
+        <div class="mini-grid">
+          <label><span>Crew Required</span><input type="number" name="system.details.crewRequired" value="{{system.details.crewRequired}}" /></label>
+          <label><span>Crew Current</span><input type="number" name="system.details.crewCurrent" value="{{system.details.crewCurrent}}" /></label>
+          <label><span>Cruise</span><input type="number" name="system.movement.cruise" value="{{system.movement.cruise}}" /></label>
+          <label><span>Flank</span><input type="number" name="system.movement.flank" value="{{system.movement.flank}}" /></label>
+          <label><span>Top Speed</span><input type="number" name="system.movement.top" value="{{system.movement.top}}" /></label>
+          <label><span>Maneuver</span><input type="number" name="system.movement.maneuver" value="{{system.movement.maneuver}}" /></label>
+          <label><span>Target Range</span><input type="number" name="system.movement.targetRange" value="{{system.movement.targetRange}}" /></label>
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-head">
+          <h2>Armor & Breakpoints</h2>
+          <p>Vehicle locations use the core Mythic vehicle hit location chart.</p>
+        </div>
+        <div class="combat-grid">
+          {{#each armorTotals}}
+            <div class="combat-panel">
+              <h3>{{this.label}}</h3>
+              <input type="number" name="system.armor.{{this.key}}" value="{{this.value}}" />
+            </div>
+          {{/each}}
+        </div>
+      </section>
+    </div>
+
+    <div class="tab primary-tab" data-group="primary" data-tab="arsenal">
+      <section class="section-card">
+        <div class="section-head inline-actions">
+          <div>
+            <h2>Vehicle Weapons</h2>
+            <p>Use standard weapon items for mounted or linked vehicle systems.</p>
+          </div>
+          <button type="button" class="action-button item-create" data-type="weapon">Add Weapon</button>
+        </div>
+        <div class="item-table">
+          <div class="item-table-head">Name</div>
+          <div class="item-table-head">Type</div>
+          <div class="item-table-head">Damage</div>
+          <div class="item-table-head">Range</div>
+          <div class="item-table-head">Ammo</div>
+          <div class="item-table-head">Actions</div>
+          {{#each weapons}}
+            <div class="item-row item-name" data-item-id="{{this.id}}">
+              <strong>{{this.name}}</strong>
+              {{#if this.equipped}}<span class="tag tag-green">Ready</span>{{/if}}
+            </div>
+            <div class="item-row">{{this.typeLabel}}</div>
+            <div class="item-row">{{this.damage}}</div>
+            <div class="item-row">{{this.range}}</div>
+            <div class="item-row">{{this.magazine}}</div>
+            <div class="item-row item-actions" data-item-id="{{this.id}}">
+              <button type="button" class="action-button item-toggle" data-item-id="{{this.id}}">{{#if this.equipped}}Stow{{else}}Ready{{/if}}</button>
+              <button type="button" class="action-button weapon-attack" data-item-id="{{this.id}}">Attack</button>
+              <button type="button" class="action-button weapon-damage" data-item-id="{{this.id}}">Damage</button>
+              <button type="button" class="action-button weapon-reload" data-item-id="{{this.id}}">Reload</button>
+              <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+              <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-head inline-actions">
+          <div>
+            <h2>Gear</h2>
+            <p>Store cargo, linked equipment, and mission-specific systems.</p>
+          </div>
+          <button type="button" class="action-button item-create" data-type="gear">Add Gear</button>
+        </div>
+        <div class="simple-list">
+          {{#each gear}}
+            <div class="simple-item" data-item-id="{{this.id}}">
+              <div>
+                <strong>{{this.name}}</strong>
+                <div class="muted">Qty {{this.quantity}} | Weight {{this.weight}}kg</div>
+              </div>
+              <div class="item-actions">
+                <button type="button" class="action-button item-edit" data-item-id="{{this.id}}">Edit</button>
+                <button type="button" class="action-button item-delete" data-item-id="{{this.id}}">Delete</button>
+              </div>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+    </div>
+
+    <div class="tab primary-tab" data-group="primary" data-tab="notes">
+      <section class="section-card">
+        <div class="section-head">
+          <h2>Notes</h2>
+          <p>Use this area for crew positions, autoloaders, and special vehicle rules.</p>
+        </div>
+        <div class="notes-grid">
+          <label>
+            <span>Biography</span>
+            <textarea name="system.biography">{{system.biography}}</textarea>
+          </label>
+          <label>
+            <span>Notes</span>
+            <textarea name="system.details.notes">{{system.details.notes}}</textarea>
+          </label>
+        </div>
+      </section>
+    </div>
+  </section>
+</form>

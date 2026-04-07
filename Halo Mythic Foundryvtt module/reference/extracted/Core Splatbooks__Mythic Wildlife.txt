@@ -1,0 +1,946 @@
+===== PAGE 1 =====
+1 
+ 
+ 
+ 
+ 
+MYTHIC 
+WILDLIFE 
+ 
+A Wildlife Bestiary expansion for Mythic 6.3 and newer. 
+ 
+ 
+ 
+ 
+ 
+Mythic Wildlife is a splatbook that introduces some wildlife entries found in the Halo franchise. Mythic Wildlife does not cover wildlife from the Halo 
+franchise that are weak or can’t fight back. With one obvious exception when you look through the book.  Hopefully this will also give inspiration to 
+GMs to expand wildlife encounters. Another option to help expand Mythic Wildlife is the Atomic Age bestiary, which sports a massive 35 page bestiary  
+of just creatures, alone.
+
+===== PAGE 2 =====
+2 
+ 
+ 
+WILDLIFE OF HALO 
+ 
+ANTAEUS 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 50 50 10 1 45 1 20 25 1 1 
+2 55 55 15 1 50 1 25 30 1 1 
+3 60 60 20 1 55 1 30 35 1 1 
+4 65 65 25 1 60 1 35 40 1 1 
+5 75 75 35 1 70 1 45 50 1 1 
+-- +6 +4 +5 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 2.2 meter average 
+WEIGHT 288 kg 
+SIZE Large 
+INFORMATION 
+A large ape -like creature with a long tail with protruding bone 
+structures. The animal has rough  skin, some would say like a n 
+incredibly think leather, which thins out near the joints.  The creature 
+originates from Doisac but soon became more common across planets 
+that were colonized or controlled by the Jiralhanae.  
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Reinforced Knuckles: The creature has bone-like structures on the ir 
+knuckles. Punch Attacks double the Strength Modifier used. 
+Keen Senses: The creature gets +20 to Perception Tests using both 
+Hearing or Smell. 
+Natural Armor (12):  Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Tail Spin: The creature’s Tail is club-like. As a Full Action, it may spin in 
+a circle, thrashing its tail . The Attack gains +2 Melee Reach. Those 
+caught in this will take 2D10 + Strength Modifier in Damage.   Targets 
+struck must make a Strength Test. If failed, they are knocked Prone. 
+Tail Swipe: The club-like tail is slammed into a single Target. The Attack 
+gains +2 Melee Reach. The Target will take 4D10 + Strength Modifier 
+in Damage and will need to make an Opposed Strength Test against 
+the creature. If failed, the Target is knocked Prone. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 25 72 -- 
+Normal 45 76 -- 
+Heroic 65 84 -- 
+Legendary 80 88 -- 
+Nemesis 105 96 1 
+ 
+ 
+BRONTOTHERE 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 65 60 10 1 25 1 30 10 1 1 
+2 70 65 15 1 30 1 35 15 1 1 
+3 75 70 20 1 35 1 40 20 1 1 
+4 80 75 25 1 40 1 45 25 1 1 
+5 90 85 35 1 50 1 55 35 1 1 
+-- +12 -- +3 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 2.5 meter average, 3 meter long average 
+WEIGHT 4,117 kg 
+SIZE Huge 
+INFORMATION 
+The Brontothere are a rhino-like creature thought to be extinct on 
+Earth, but continued to  be conserved on Forerunner structures. 
+Brontothere are gigantic herbivores.  
+WILDLIFE TRAITS 
+Rush: When making Charge and Run Movement Actions, the creature 
+doubles their Agility Modifier. 
+Built Tough: Gives a +20 Bonus to Opposing Grapples or any Actions 
+for falling over. 
+Natural Armor (1 8): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Headbutt: The creature makes Charge Attacks by using the horns on 
+its head. This is a Headbutt Attack coupled with a Charge  Attack 
+Action. The Headbutt made with the Horn gains +1D10 Damage Roll. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 35 146 -- 
+Normal 50 160 -- 
+Heroic 70 164 -- 
+Legendary 85 178 -- 
+Nemesis 110 192 1
+
+===== PAGE 3 =====
+3 
+ 
+ 
+CHAEFKA 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 50 50 30 1 35 1 25 40 1 1 
+2 55 55 35 1 40 1 30 45 1 1 
+3 60 60 40 1 45 1 35 50 1 1 
+4 65 65 45 1 50 1 40 55 1 1 
+5 75 75 55 1 60 1 50 65 1 1 
+-- +12 +3 +4 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 1.8 meter average, 3 meters long 
+WEIGHT 804 kg 
+SIZE Huge 
+INFORMATION 
+Colloquially known as the Tusk Beast, the Chaefka is a predatorial 
+mammal with the fur and stature of a polar bear  from Earth. These 
+creatures are massive, powerful, and viscious thanks to their thick hide 
+and sharp multi-mandible mouth. 
+WILDLIFE TRAITS 
+Built Tough: Gives a +20 Bonus to Opposing Grapples or any Actions 
+for falling over. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Natural Armor (1 8): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Gore: The creature makes Charge Attacks by using the horns on its 
+head. This is a Headbutt Attack coupled with a Charge  Attack Action. 
+This will deal the creature’s Strength Modifier , multiplied by 2,  as 
+Pierce. If the Attack is successful with 2 or more D egrees of Success, 
+the Opponent will be pinned and Prone on the G round. This can be 
+avoided by the Target making an Opposed Strength Test to escape. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 80 116 -- 
+Normal 90 120 -- 
+Heroic 110 134 -- 
+Legendary 125 138 -- 
+Nemesis 145 152 1 
+ 
+ 
+COLO 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 65 60 10 1 25 1 30 10 1 1 
+2 70 65 15 1 30 1 35 15 1 1 
+3 75 70 20 1 35 1 40 20 1 1 
+4 80 75 25 1 40 1 45 25 1 1 
+5 90 85 35 1 50 1 55 35 1 1 
+-- +12 -- +3 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 3.5 meter average 
+WEIGHT 1,217 kg 
+SIZE Huge 
+INFORMATION 
+Colo are farmed across Sangheili -colonized planets as livestock. Colo 
+are domesticated, very large creatures used for their meat and fur. 
+Colo are docile unless directly hurt or threatened by predators. 
+WILDLIFE TRAITS 
+Natural Armor (1 5): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Headbutt: The creature makes Charge Attacks by using the horns on 
+its head. This is a Headbutt Attack coupled with a Charge  Attack 
+Action. Colo would commonly make a headbutt Attack and then begin 
+to back-up so they can do it again. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 30 84 -- 
+Normal 45 88 -- 
+Heroic 65 100 -- 
+Legendary 80 104 -- 
+Nemesis 105 116 1
+
+===== PAGE 4 =====
+4 
+ 
+ 
+GUTA 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 65 60 15 1 45 1 30 20 1 1 
+2 55 55 15 1 50 1 25 30 1 1 
+3 60 60 20 1 55 1 30 35 1 1 
+4 65 65 25 1 60 1 35 40 1 1 
+5 75 75 35 1 70 1 45 50 1 1 
+-- +12 +6 +3 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 5.7 meter average 
+WEIGHT 2,401 kg 
+SIZE Immense 
+INFORMATION 
+Guta are a semi -bipedal creature native to the planet Reach. They 
+have large tusks and long protruding claw-like fingers.  Contrary to 
+their stature and look, Guta are considered gentle giants and will only 
+attack if looking for a mate, protecting their young, or are cornered. 
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Natural Armor (1 8): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Hook Claw: The creature’s fingers are massive hooks. As a Full Action, 
+the creature can make a Claw Attack with a large swiping motion that 
+strikes several Targets in front of them. The Attack will add its Strength 
+Modifier to Pierce and triple their Strength Modifier when figuring 
+Base Damage.  
+Tusk Headbutt: As a Ha lf Action, it ca n make a Headbutt Attack that 
+strikes with the Tusks, doubling the creature’s Strength Modifier as 
+Pierce. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 70 108 -- 
+Normal 85 112 -- 
+Heroic 105 122 -- 
+Legendary 120 126 -- 
+Nemesis 140 136 1 
+ 
+HELIOSKRILL 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 40 25 40 1 35 1 30 20 1 1 
+2 45 30 45 1 40 1 35 25 1 1 
+3 50 35 50 1 45 1 40 30 1 1 
+4 55 40 55 1 50 1 45 35 1 1 
+5 65 50 65 1 60 1 55 45 1 1 
+-- +5 -- +5 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 2.2 meter average 
+WEIGHT 375 kg 
+SIZE Large 
+INFORMATION 
+The Helioskrill is a reptilian predator originally native on Sangheilios. 
+Helioskrill are adept at ambushing prey and can remain completely still 
+to camouflage itself as a rock.  
+WILDLIFE TRAITS 
+Nightvision The creature takes no Penalties from Low-Light and halves 
+all Penalties from Darkness. The creature will double Penalties from 
+bright lights. 
+Stalker: The creature gains a + 20 Bonus to Camouflage Tests and are 
+capable of moving nearly silently, even in tall foliage and grass. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Natural Armor (1 2): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Pounce: The creature can do a  Full Action Charge Attack by Leaping. 
+When doing this, the creature’s Jump and Leap is doubled and they 
+will make the main Attack with their beak. This will add the creature’s 
+Agility Modifier to the Pierce of the Attack. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 15 52 -- 
+Normal 35 64 -- 
+Heroic 55 68 -- 
+Legendary 70 80 -- 
+Nemesis 95 92 1
+
+===== PAGE 5 =====
+5 
+ 
+ 
+ICE HOUND 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 45 25 25 1 25 1 35 20 1 1 
+2 50 30 30 1 30 1 40 25 1 1 
+3 55 35 35 1 35 1 45 30 1 1 
+4 60 40 40 1 40 1 50 35 1 1 
+5 70 50 50 1 50 1 60 45 1 1 
+-- +2 +2 +4 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 0.9 meter average 
+WEIGHT 48 kg 
+SIZE Normal 
+INFORMATION 
+Arctic Ice Hounds were dog-like creatures on Harvest, found primarily 
+in the northern arctic shelf. These creatures would hunt in packs but 
+were not as aggressive to hunt after humans or other larger creatures. 
+Some have said they might be the most aggressive looking species for 
+something relatively tame when need be. 
+WILDLIFE TRAITS 
+Nightvision The creature takes no Penalties from Low-Light and halves 
+all Penalties from Darkness. The creature will double Penalties from 
+bright lights. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+UNIQUE ATTACKS 
+Pounce: The creature can do a  Full Action Charge Attack by Leaping. 
+When doing this, the creature’s Jump and Leap is doubled and they 
+will make the main Attack with their beak. This will add the creature’s 
+Agility Modifier to the Pierce of the Attack. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 44 -- 
+Normal 15 50 -- 
+Heroic 20 54 -- 
+Legendary 30 60 -- 
+Nemesis 55 66 1 
+ 
+KRYN’QODON 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 15 10 35 1 25 1 30 15 1 1 
+2 20 15 40 1 30 1 35 20 1 1 
+3 25 20 45 1 35 1 40 25 1 1 
+4 30 25 50 1 40 1 45 30 1 1 
+5 40 35 60 1 50 1 55 40 1 1 
+-- +2 +1 +4 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 2.3 meter average 
+WEIGHT 46 kg 
+SIZE Large 
+INFORMATION 
+The Kryn ’qodon is a n avian creature native to Sangheilios. They 
+commonly live in the cliffsides near bodies of water, creating nests 
+within cervices and feeding off of dust mites  nearby. They are known 
+to also be scavengers, who will eat dead bodies they find. 
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Flight (Fast):  The creature can fly, multiplying Movement Action 
+speeds by 3. When wearing armor, multiplier reduced by 1.  
+UNIQUE ATTACKS 
+Swoop: The creatures is able to fly straight down to gain extra speed, 
+allowing them to double their Movement Speed. This may be coupled 
+with a  Charge Attack with a Claw Attack . The creature uses this 
+momentum to go back into the air. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 40 -- 
+Normal 10 44 -- 
+Heroic 20 50 -- 
+Legendary 30 54 -- 
+Nemesis 40 60 1
+
+===== PAGE 6 =====
+6 
+ 
+ 
+LOFT SNAKE 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 35 15 20 1 35 1 40 25 1 1 
+2 40 20 25 1 40 1 45 30 1 1 
+3 45 25 30 1 45 1 50 35 1 1 
+4 50 30 35 1 50 1 55 40 1 1 
+5 60 40 45 1 60 1 65 50 1 1 
+-- +4 +6 +1 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 6.9 meter long average 
+WEIGHT 44.4 kg 
+SIZE Massive 
+INFORMATION 
+Loft Snakes are territorial snakes found on some Forerunner 
+structures. The nests of these large  snakes can be smelled fro m a 
+distance as they emit a sweet, fruit-like smell to mark territory. While 
+large, they will only fight if cornered, else they will flee from larger 
+creatures. 
+WILDLIFE TRAITS 
+Pit Gland: The creature is able to see heat, removing Penalties from 
+Black, Darkness, and Lowlight. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Venom: Targets bit by this creature must make a -10 Toughness Test. 
+If failed, the Target gains 1 level of Fatigue. 
+UNIQUE ATTACKS 
+Constrict: As a Full Action, the creature can initiate a Grapple  with a 
++20 Bonus. Doubles all Fatigue and Damage to Wounds from Grapples 
+and Holds. Can only use Bearhug and Chokehold Holds. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 78 -- 
+Normal 15 88 -- 
+Heroic 35 92 -- 
+Legendary 55 102 -- 
+Nemesis 80 112 1 
+ 
+LUMENON 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 20 15 15 1 30 1 20 25 1 1 
+2 25 20 20 1 35 1 25 30 1 1 
+3 30 25 25 1 40 1 30 35 1 1 
+4 35 30 30 1 45 1 35 40 1 1 
+5 45 40 40 1 55 1 45 50 1 1 
+-- +2 - +7 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 2.5 meter average 
+WEIGHT 76 kg 
+SIZE Large 
+INFORMATION 
+Lumenon are flying creatures that have a similar resemblance to 
+manta-rays of Earth. They are often found on Forerunner facilities and 
+have made their home near oceans, which they feed off of sea-life. 
+There have been little reporting of these creatures causing harm to 
+human life during the Human-Covenant war.  
+WILDLIFE TRAITS 
+Flight (Fast):  The creature can fly, multiplying Movement Action 
+speeds by 3. When wearing armor, multiplier reduced by 1.  
+Swim: The creature increases their Agility Modifier by 2 when figuring 
+Swim Speeds. 
+Natural Armor ( 15): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Swoop: The creatures is able to fly straight down to gain extra speed, 
+allowing them to double their Movement Speed. This may be coupled 
+with a  Charge Attack with a Claw Attack . The creature uses this 
+momentum to go back into the air. 
+Surface: The creature is able to Charge while underwater and swiftly 
+emerge from below the water. This is used to capsize Sealife that are 
+sitting on the water’s surface, knocking them underwater. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 40 -- 
+Normal 10 48 -- 
+Heroic 20 52 -- 
+Legendary 30 60 -- 
+Nemesis 60 68 1
+
+===== PAGE 7 =====
+7 
+ 
+ 
+MOA 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 45 20 30 1 30 1 35 10 1 1 
+2 50 25 35 1 35 1 40 15 1 1 
+3 55 30 40 1 40 1 45 20 1 1 
+4 60 35 45 1 45 1 50 25 1 1 
+5 70 45 55 1 55 1 60 35 1 1 
+-- +4 +2 +4 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 3.0 meter average 
+WEIGHT 230 kg 
+SIZE Large 
+INFORMATION 
+Moa are large, flightless bird-like creatures native to the planet Reach. 
+These birds have since been brought onto hundreds of human colonies 
+for the sake of farming. Due to over-hunting, the wild Moa population 
+on Reach is close to extinction. 
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Hover: The creature will take no Fall Damage unless they are falling at 
+terminal velocity.  At terminal velocity, they wi ll take half of the 
+Damage they would have taken. 
+UNIQUE ATTACKS 
+Jumping Swipe: As a Half Action, the creature can Leap forward and 
+perform a swiping Kick Attack. This Attack will deal the Damage of a 
+Kick Attack, dealing their Strength Modifier in extra Damage and 
+Pierce. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 3 44 -- 
+Normal 5 48 -- 
+Heroic 10 54 -- 
+Legendary 30 58 -- 
+Nemesis 60 64 1 
+ 
+MOROLAATH 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 45 30 30 1 25 1 35 25 1 1 
+2 50 35 35 1 30 1 40 30 1 1 
+3 55 40 40 1 35 1 45 35 1 1 
+4 60 45 45 1 40 1 50 40 1 1 
+5 70 55 55 1 50 1 60 50 1 1 
+-- +2 +2 +6 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 1.8 meter average 
+WEIGHT 121 kg 
+SIZE Normal 
+INFORMATION 
+The Morolaath, also known as a Blind W olf, are predatory creatures 
+found on many Forerunner installations. Morolaath are blind pack 
+hunters who excel in hearing and smell. 
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Bite Attack: The Bite Attack is improved by sharp fangs. Bite Attacks 
+gain the Strength Modifier for finding Base Damage, instead of Half 
+Strength Modifier. 
+Keen Senses: The Creature gets +20 to Perception Tests using both 
+Hearing or Smell. 
+Blindsense: The creature is blind but can act as if they see normally up 
+to 30 Meters. This works no matter the Darkness, Light, etc. 
+Natural Armor (12):  Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+UNIQUE ATTACKS 
+Tail Spin: The creature’s Tail is whip-like. As a Full Action, it may spin 
+in a circle, thrashing its tail . The Attack gains +2 Melee Reach. Those 
+caught in this will take 2D10 + Strength Modifier in Damage.   Targets 
+struck must make a Strength Test. If failed, they are knocked Prone. 
+Locking Bite: As a Full Action Attack, the creature can make a Locking 
+Bite Attack. This Attack gains a +10 Bonus To Hit  and will gain an 
+additional +1D10 Damage Dice. If Successful, the creature locks its jaw. 
+At the beginning of the Target’s Turn, they will take half of the Damage 
+of the Attack, ignoring A rmor. The Target must make a successful 
+Opposed Strength Test to break free from the Locking Bite. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 10 51 -- 
+Normal 20 55 -- 
+Heroic 40 62 -- 
+Legendary 60 66 -- 
+Nemesis 85 73 1
+
+===== PAGE 8 =====
+8 
+ 
+ 
+OGRE-WOLF 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 45 45 25 1 25 1 35 20 1 1 
+2 50 50 30 1 30 1 40 25 1 1 
+3 55 55 35 1 35 1 45 30 1 1 
+4 60 60 40 1 40 1 50 35 1 1 
+5 70 70 50 1 50 1 60 45 1 1 
+-- +4 -- +7 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 1.4 meter average 
+WEIGHT 92 kg 
+SIZE Normal 
+INFORMATION 
+Ogre-Wolves are crimson-colored Canis-like predators originally from 
+Teash, the moon of Doisac . Ogre -Wolves are pack hun ters that  
+excelled in hunting within the wastelands, where their fur gave them 
+natural camouflaging.   
+WILDLIFE TRAITS 
+Nightvision The creature takes no Penalties from Low-Light and halves 
+all Penalties from Darkness. The creature will double Penalties from 
+bright lights. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+UNIQUE ATTACKS 
+Pounce: The creature can do a  Full Action Charge Attack by Leaping. 
+When doing this, the creature’s Jump and Leap is doubled and they 
+will make the main Attack with their beak. This will add the creature’s 
+Agility Modifier to the Pierce of the Attack. 
+Locking Bite: As a Full Action Attack, the creature can make a Locking 
+Bite Attack. This Attack gains a +10 Bonus To Hit  and will gain an 
+additional +1D10 Damage Dice. If Successful, the creature locks its jaw. 
+At the beginning of the Target’s Turn, they will take half of the Damage 
+of the Attack, ignoring A rmor. The Target must make a successful 
+Opposed Strength Test to break free from the Locking Bite. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 10 60 -- 
+Normal 20 70 -- 
+Heroic 40 74 -- 
+Legendary 60 84 -- 
+Nemesis 85 94 1 
+ 
+ 
+OLFMERI 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 35 35 5 1 25 1 30 15 1 1 
+2 40 40 20 1 30 1 35 20 1 1 
+3 45 45 25 1 35 1 40 25 1 1 
+4 50 50 30 1 40 1 45 30 1 1 
+5 60 60 40 1 50 1 55 40 1 1 
+-- +30 -- +5 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 9.1 meter average, 31.9 meter length 
+WEIGHT 90.2 Tonnes 
+SIZE Massive 
+INFORMATION 
+The Olfmeri Sky Leviathan are ma ssive docile creatures who create a 
+lighter-than-air gas within their bodies , allowing them to fly through 
+the air. They are commonly found on larger Forerunner structures , 
+singing whale-like songs. If you sing back, they will generally be happy. 
+WILDLIFE TRAITS 
+Natural Armor ( 28): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+Flight: The creature can fly at their normal Movement Speeds. 
+UNIQUE ATTACKS 
+Bump: The creature is rarely known to fight back, but if they do, they 
+will bump into whatever is angering them. This should be treated as if 
+being struck by a 90 Tonne vehicle. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 325 336 -- 
+Normal 315 440 -- 
+Heroic 335 444 -- 
+Legendary 335 548 -- 
+Nemesis 330 652 1
+
+===== PAGE 9 =====
+9 
+ 
+ 
+OXYAENA 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 50 20 20 1 35 1 30 15 1 1 
+2 55 25 25 1 40 1 35 20 1 1 
+3 60 30 30 1 45 1 40 25 1 1 
+4 65 35 35 1 50 1 45 30 1 1 
+5 75 45 45 1 60 1 55 40 1 1 
+-- +4 +4 +1 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 1.0 meter average 
+WEIGHT 97 kg 
+SIZE Normal 
+INFORMATION 
+The Oxyaena is a brutish hyena-like carnivore who hunts in packs. They 
+have strong upper -bodies which helps them take down stronger 
+herbivores, which causes them to lack actual agility. They make up for 
+their lack of agility in stamina, allowing them to slowly stalk prey. 
+WILDLIFE TRAITS 
+Nightvision The creature takes no Penalties from Low-Light and halves 
+all Penalties from Darkness. The creature will double Penalties from 
+bright lights. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+UNIQUE ATTACKS 
+Pounce: The creature can do a  Full Action Charge Attack by Leaping. 
+When doing this, the creature’s Jump and Leap is doubled and they 
+will make the main Attack with their beak. This will add the creature’s 
+Agility Modifier to the Pierce of the Attack. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 54 -- 
+Normal 15 58 -- 
+Heroic 20 65 -- 
+Legendary 30 69 -- 
+Nemesis 55 76 1 
+ 
+ 
+RANGMEJO 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 20 15 40 1 30 1 20 25 1 1 
+2 25 20 45 1 35 1 25 30 1 1 
+3 30 25 50 1 40 1 30 35 1 1 
+4 35 30 55 1 45 1 35 40 1 1 
+5 45 40 65 1 55 1 45 50 1 1 
+-- -- +1 +3 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 3.6 meter average 
+WEIGHT 86 kg 
+SIZE Hulking 
+INFORMATION 
+The Rangmejo are a very large breed of bird that is closer to the 
+Pterosaurs of Earth. They have remarkably massive wingspans , even 
+for their a lready large bodies. They are known to stay in packs and 
+their diet is mostly fish that they catch with their long beaks. 
+WILDLIFE TRAITS 
+Flight (Fast):  The creature can fly, multiplying Movement Action 
+speeds by 3. When wearing armor, multiplier reduced by 1.  
+UNIQUE ATTACKS 
+Swoop: The creatures is able to fly straight down to gain extra speed, 
+allowing them to double their Movement Speed. This may be coupled 
+with a  Charge Attack with a Claw Attack . The creature uses this 
+momentum to go back into the air. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 40 -- 
+Normal 10 46 -- 
+Heroic 15 50 -- 
+Legendary 20 56 -- 
+Nemesis 40 62 1
+
+===== PAGE 10 =====
+10 
+ 
+ 
+RAT 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 1 10 35 1 20 1 45 5 1 1 
+2 1 15 40 1 25 1 50 10 1 1 
+3 1 20 45 1 30 1 55 15 1 1 
+4 1 25 50 1 35 1 60 20 1 1 
+5 1 35 60 1 45 1 70 30 1 1 
+-- - -- +6 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 25 centimeter average 
+WEIGHT 0.1 kg 
+SIZE Mini 
+INFORMATION 
+As humans s pread throughout the galaxy, so did their stowaway 
+rodent brethren. As time went on, more stations and planets gained 
+their own rodent populations, most notably being the common Rat. 
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+However, the Rat can’t deal Damage to Creatures of Small or larger. 
+UNIQUE ATTACKS 
+Scatter: Instead of an Attack, the Rat will run away, gaining a +10 
+Bonus to Evasion in the process. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 1 10 -- 
+Normal 1 12 -- 
+Heroic 1 14 -- 
+Legendary 1 16 -- 
+Nemesis 2 18 1 
+ 
+SAALIBAN 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 65 60 10 1 20 1 30 20 1 1 
+2 70 65 15 1 25 1 35 25 1 1 
+3 75 70 20 1 30 1 40 30 1 1 
+4 80 75 25 1 35 1 45 35 1 1 
+5 90 85 35 1 45 1 55 45 1 1 
+-- +20 -- -- MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 5.7 meter average 
+WEIGHT 2,195 kg 
+SIZE Immense 
+INFORMATION 
+The Saaliban Thorn B east is a docile and gentle herbivore that 
+originated from Doisac. They are often farmed for their hide and meat 
+by most races of the Covenant. The Saaliban are often found in herds 
+and are one of the only bipedal livestock found within the Covenant. 
+WILDLIFE TRAITS 
+Natural Armor ( 20): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+Quills: The large thorns on the creature ’s back are filled with deadly 
+Neurotoxin as protection from predators attempting to flank them. If 
+a creature has been impaled by them, they will gain 3D10 - Toughness 
+Modifier levels of Fatigue.  The creature must then make a +30 
+Toughness Test. If failed, the creature will die. 
+Rush: When making Charge and Run Movement Actions, the creature 
+doubles their Agility Modifier. 
+UNIQUE ATTACKS 
+Headbutt: The creature makes Charge Attacks by using the horns on 
+its head. This is a Headbutt Attack coupled with a Charge  Attack 
+Action. The creature  would commonly  make a headbutt Attack and 
+then begin to back-up so they can do it again, or attempt to run away. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 75 120 -- 
+Normal 90 124 -- 
+Heroic 110 142 -- 
+Legendary 120 146 -- 
+Nemesis 140 164 1
+
+===== PAGE 11 =====
+11 
+ 
+ 
+‘sKelln 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 35 35 15 1 25 1 30 15 1 1 
+2 40 40 20 1 30 1 35 20 1 1 
+3 45 45 25 1 35 1 40 25 1 1 
+4 50 50 30 1 40 1 45 30 1 1 
+5 60 60 40 1 50 1 55 40 1 1 
+-- +5 -- +6 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 6.4 meter average 
+WEIGHT 211 kg 
+SIZE Massive 
+INFORMATION 
+‘sKelln are large flying predators from Sangheilios with bat-like wings.  
+They’re capable of reaching high speeds compared to their body size 
+thanks to the swooping motions they make while in the air. They make 
+their homes in the large mountain ranges nearby coastal regions. 
+WILDLIFE TRAITS 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+Natural Armor ( 17): Natural Armor adds to Dam age Resistance. If 
+worn with Armor, Natural Armor is reduced to 4. Attacks against the 
+head halve Natural Armor. 
+Flight (Fast):  The creature can fly, multiplying Movement Action 
+speeds by 3. When wearing armor, multiplier reduced by 1.  
+UNIQUE ATTACKS 
+Swoop: The creatures is able to fly straight down to gain extra speed, 
+allowing them to double their Movement Speed. This may be coupled 
+with a  Charge Attack with a Claw Attack . The creature uses this 
+momentum to go back into the air. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 35 90 -- 
+Normal 50 112 -- 
+Heroic 70 116 -- 
+Legendary 85 138 -- 
+Nemesis 110 160 1 
+ 
+SPADEHORN 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 35 35 30 1 35 1 30 35 1 1 
+2 40 40 35 1 40 1 35 40 1 1 
+3 45 45 40 1 45 1 40 45 1 1 
+4 50 50 45 1 50 1 45 50 1 1 
+5 60 60 55 1 60 1 55 60 1 1 
+-- -- -- -- MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 1.3 meter average 
+WEIGHT 144 kg 
+SIZE Normal 
+INFORMATION 
+A domesticated herbivore that has a large resemblance to the goats of 
+Earth. Found most in the colonies of Reach, the Spadehorn are a 
+widely-used livestock. 
+WILDLIFE TRAITS 
+Charge: The creature increases their Charge movement distance when 
+making a Charge Attack by 4 meters. 
+Natural Armor (8): Natural Armor adds to Damage Resistance. If worn 
+with Armor, Natural Armor is reduced to 4. Attacks against the head 
+halve Natural Armor. 
+UNIQUE ATTACKS 
+Headbutt: The creature makes Charge Attacks by using the horns on 
+its head. This is a Headbutt Attack coupled with a Charge  Attack 
+Action. Spadehorns would commonly  make a headbutt Attack and 
+then begin to back-up so they can do it again. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 3 48 -- 
+Normal 5 56 -- 
+Heroic 20 60 -- 
+Legendary 40 68 -- 
+Nemesis 65 76 1
+
+===== PAGE 12 =====
+12 
+ 
+ 
+VERIVORR 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 2 10 35 1 10 1 35 45 1 1 
+2 2 10 40 1 15 1 40 50 1 1 
+3 3 11 45 1 20 1 45 55 1 1 
+4 3 11 50 1 25 1 50 60 1 1 
+5 4 12 55 1 30 1 55 65 1 1 
+-- -- -- +2 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 0.1 meter average 
+WEIGHT 0.5 kg 
+SIZE Mini 
+INFORMATION 
+Known as Keelbugs to most, the Verivorr  are insects that travel in 
+hordes. The Verivorr are scavengers that can eat a body, bones and all, 
+very fast. In a large enough horde, a dead body could be eaten in under 
+a minute. Verivorr will only attack if first attacked, or if their homes 
+are threatened. 
+WILDLIFE TRAITS 
+Nightvision The creature takes no Penalties from Low-Light and halves 
+all Penalties from Darkness. The creature will double Penalties from 
+bright lights. 
+Horde: Verivorr travel in large hordes of 100+. 
+Flight (Fast):  The creature can fly, multiplying Movement Action 
+speeds by 3. When wearing armor, multiplier reduced by 1.  
+UNIQUE ATTACKS 
+Smother: The creatures will a ttack as a large singular unit  and will 
+attempt to completely cover their Target. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 1 10 -- 
+Normal 2 12 -- 
+Heroic 3 14 -- 
+Legendary 4 16 -- 
+Nemesis 5 20 -- 
+ 
+ZAVFARAA 
+ 
+CHARACTERISTICS 
+BR STR TOU AGI WFR WFM INT PER CRG CHA LDR 
+1 25 20 45 1 25 1 35 25 1 1 
+2 30 25 50 1 30 1 40 30 1 1 
+3 35 30 55 1 35 1 45 35 1 1 
+4 40 35 60 1 40 1 50 40 1 1 
+5 50 45 70 1 50 1 60 50 1 1 
+-- +2 -- +9 MYTHIC CHARACTERISTICS 
+PHYSICAL ATTRIBUTES 
+HEIGHT 1.4 meter average 
+WEIGHT 75 kg 
+SIZE Normal 
+INFORMATION 
+The Zavfaraa is a very fast quadrupedal creature found on multiple 
+forerunner facilities. These creatures have a beak similar to a vulture. 
+Zavfaraa are nomadic hunters who hunt mostly at night and are known 
+for stalking their prey.  
+WILDLIFE TRAITS 
+Nightvision The creature takes no Penalties from Low-Light and halves 
+all Penalties from Darkness. The creature will double Penalties from 
+bright lights. 
+Stalker: The creature gains a + 20 Bonus to Camouflage Tests and are 
+capable of moving nearly silently, even in tall foliage and grass. 
+Natural Weapon: Gives the creature +4 to Damage and +2 to Pierce 
+when making Unarmed Melee Attacks. Not including Unique Attacks. 
+UNIQUE ATTACKS 
+Pounce: The creature can do a  Full Action Charge Attack by Leaping. 
+When doing this, the creature’s Jump and Leap is doubled and they 
+will make the main Attack with their beak. This will add the creature’s 
+Agility Modifier to the Pierce of the Attack. 
+ 
+BR EXPERIENCE  WOUNDS LUCK 
+Easy 5 40 -- 
+Normal 10 44 -- 
+Heroic 15 50 -- 
+Legendary 35 54 -- 
+Nemesis 65 60 1

@@ -1,0 +1,647 @@
+===== PAGE 1 =====
+MYTHIC 6.0: WARZONE 
+ 
+INTRODUCTION 
+Welcome to the second version of the 100DOS Warzone Splatbook. 
+Warzone’s original version was based on giving players access to the 
+Weapon variants offered in Halo 5: Guardians’ Warzone game mode. 
+This time around, I wanted to make sure Players could not only make 
+those variants but  make many more types of variants based on 
+building blocks for UNSC, Covenant, and Forerunner style weapons. 
+While this handbook can still be used with other Expansions, such as 
+Medieval Ages or The Armory, it is not advised for a GM to allow this. 
+ 
+GM DISCRETION 
+Warzone’s second version introduces new ways to further improve, 
+or outright change a weapon’s design and capability. A GM should 
+show discretion before allowing a Player to build weapons using this 
+Splatbook. A GM should look at what is made and see if it matches 
+the style of game they are running. An example being, no low -level 
+Unggoy will be allowed to heavily modify their weapon without 
+backlash and a possible death sentence. The UNSC Military would not 
+be too happy with a Marine making a double-barreled Battle Rifle. 
+ The more freeform the game, or higher Experience Level 
+the players become, the more leeway they should be shown. Though, 
+there are types of variants and modifications that change more minor 
+aspects to the weapons, the GM should still be careful as to what they 
+will or will not allow. 
+ 
+MODIFICATION TYPES 
+There are three types of Modifications within the Warzone Splatbook. 
+Each type has a different amount in which it modifies a weapon.  The 
+three types are Standard, Variant, and Unique.  
+Some Modifications will have Limitations based on one of 
+many factors, including Weapon Type, Faction, Ammunition or 
+Magazine Type, etc. Players and GMs must make sure they follow 
+these Modification Limitations when modifying a weapon. 
+ 
+STANDARD MODIFICATION 
+Standard Modifications are the lowest tier of weapon Modifications 
+offered. These are expanded types of Weapon Modifications found in 
+the UNSC section of Mythic’s Armory. 
+Unlike the Modifications found in Mythic’s Armory, these 
+can be universally applied to any and all weapons offered in Mythic, 
+regardless of Faction or Type. Your only limitations are applying them 
+to either a Ranged or Melee weapon. 
+ 
+STANDARD MODIFICATION LIMITATIONS 
+GMs should make sure Players aren’t applying too many Standard 
+Modifications to a weapon. A weapon cannot have more than one 
+Standard Modification for things like Chokes or Stocks.  However, a 
+Player can do things like applying an Extended Barrel and a Heavy 
+Barrel from the main Mythic Handbook, and then combining those 
+with the Rifled Barrel for shotguns. 
+ 
+VARIANT MODIFICATIONS 
+Variants are one step above standard Modifications. Variant  
+Modifications will offer more enhancements to weapons that any 
+normal Modification wouldn’t allow. 
+ 
+UNIQUE MODIFICATIONS 
+Unique are Modifications that heavily changes or improves a weapon. 
+Weapons can only have one Unique Modification, regardless of 
+Faction or Type.  
+ 
+MODIFICATION LIMITATIONS 
+Modifications can have limitations depending on type. Standard 
+Modifications can be taken as much as the GM will allow. Though 
+depending on just how many are being taken or if too many 
+Modifications change similar values or aspect of the weapon, the GM 
+should decide if a Player has modified the weapon a bit too much. 
+ Variant Modifications can only have up to 3 applied to a 
+weapon, regardless of Type, Faction, or Size. This helps variants not 
+becoming too overwhelmingly powerful or hard to track. 
+ Unique Modifications can only be taken once per weapon, 
+regardless of how many other Standard or Variant Modifications have 
+been applied. 
+ 
+REMOVING MODIFICATIONS 
+Modifications may be removed at fixed rates depending on 
+Modification Type. Standard Modifications are free to have removed, 
+Variant Modifications cost 10 cR to remove, and Unique 
+Modifications cost 20 cR to remove. A Unique Modification must be 
+removed before another one can be used. The same goes for the limit 
+to only having 3 Variant Modifications per weapon. 
+ 
+NON-CANONICAL CONTENT 
+There are non-canonical content offered in this Splatbook. This 
+content is listed as such and should be up to the GM as to whether it 
+can be taken or not. 
+ 
+MODIFICATIONS WITH SIMILAR EFFECTS 
+Modifications with similar effects should be applied in this order. 
+Unique Modifications will always be applied to a weapon first. 
+Afterwards, any Variant Modifications will be applied taking the 
+Unique Modification’s Characteristics into account. Finally,  Standard 
+and main Handbook Modifications will be applied. 
+ If two Variant Modifications do the same effect to a 
+weapon, such as increasing Rate of Fire or increase Range, you may 
+only take the highest of the two’s effects into account. These effects 
+will not stack. 
+ 
+PRICING 
+Many weapons will have their pricing based on the weapon’s price 
+with a multiplication. This consists of the weapon’s base price, and 
+not the weapon with any installed Modifications.  
+ 
+CALIBER CONVERSIONS 
+A Firearm Caliber Conversion can only be done by using the Mythic 
+and Armory Dev Sheets, which can be accessed through the 100DOS 
+and Mythic Discord server. 
+ The Player or GM is able to copy the Mythic firearm of their 
+choosing and paste it into the Armory Dev Sheet, which is available 
+for use for anyone. From there, you’re able to put in custom 
+ammunition calibers and types, which will give you both a new set of 
+Damage and a new Price. The Price of the newly converted weapon is 
+the price of the conversion for that weapon.
+
+===== PAGE 2 =====
+STANDARD MODIFICATIONS 
+ 
+EQUIPMENT BENEFITS MOUNT RESTRICTION WEIGHT CR 
+Law IVC Choke The Law “Infinitely Variable Choke” is a technological breakthrough for shotguns. 
+This Choke registers the ammunition being loaded, allowing it to adjust its length 
+and radius with each Attack made. The IVC Choke gives a +10 To Hit and increases 
+Optimal range by 25%, regardless of the Shell being used. 
+Barrel Shotguns 1.0 120 
+Hybrid Variable 
+Scope 
+The Hybrid Variable Scope is an attachment that can be used with any Scopes from 
+2x to 6x range. The Hybrid Scope is placed in  front of the currently -installed scope 
+on the weapon. The Hybrid Scope can be activated and deactivated as a Half Action. 
+When activated by flipping it down into place, the installed scope has its range 
+multiplied by 2. This means a previously installed 5x scope becomes a 10x scope 
+while active. The Hybrid Variable Scope can only be used with scopes on rails. Built-
+in scopes and Smartlink-only scopes cannot benefit from the Hybrid Variable Scope. 
+Sight N/A 0.5 75 
+Sorrow Aiming 
+Component 
+The Sorrow Aiming Component, nicknamed “The Sack”, is a screening unit that is 
+placed at the end of a weapon’s Scope, Sight, or Iron Sights. It calculates and adjusts 
+for targeting and displays an aiming tracker as a hologram or projected onto the 
+scope or sight. This gives a bonus +5 to Hit with any Aim Actions taken. 
+Sight N/A 0.3 50 
+Enhanced Frame 
+Buttstock 
+The Enhanced Frame Buttstock replaces the weapon’s stock, allowing the User to 
+better level their weapon during Aim Actions. The Enhanced Frame Buttstock allows 
+the Character to move up to their Full Action, per Round, and still keep their Aim 
+Action. When using this, Aim Ac tions take one Half Action longer, which cannot be 
+reduced. Only [TH] weapons can make use of this Buttstock. These weapons must 
+be Rifles, Shotguns, Carbines, or other similar weapons. Cannot be used with [HW] 
+Weapons. 
+Stock Read Description 0.8 55 
+Extended Pistol 
+Buttstock 
+The Extended Pistol Buttstock allows Pistols, SMGs, and other [DW] and [OH] 
+weapons to gain the benefits of the Enhanced Frame Buttstock. When attached, the 
+weapon is considered a [TH] weapon. Attaches and detaches as a Full Action. 
+Stock [OH] and [DW] 
+Weapons 
+0.5 55 
+Pistol Stabilizing 
+Brace 
+The Pistol Stabilizing Brace is a thin Stock that allows a Character to better stabilize 
+a weapon when firing One Handed. When used, One -Handed and Dual -Wielding 
+attacks with ranged weapons reduce the One-Handed and Dual-Wielding Penalties 
+by half. 
+Stock [OH] and [DW] 
+Weapons 
+0.3 50 
+Tactile Response 
+Buttstock 
+The specialized Tactile Response Buttstock allows for better controlling the weapon 
+while aiming and keeping a Target sighted. The Tactile Response Buttstock doubles 
+the amount of Meters a Target must move before the Character loses their Aim 
+Action benefits. Only [TH] weapons can make use of this Buttstock. These weapons 
+must be Rifles, Shotguns, Carbines, or other similar weapons. Cannot be used with 
+[HW] Weapons. 
+Stock Read Description 0.8 55 
+Advanced 
+Combat 
+Buttstock 
+The Advanced Combat Buttstock is designed to assist the Character’s Aim Actions 
+during heavy combat. Characters who take Damage while using the Advanced 
+Combat Buttstock do not lose their Aim Action. Only [TH] weapons can make use of 
+this Buttstock. These weapons must be Rifles, Shotguns, Carbines, or other similar 
+weapons. Cannot be used with [HW] Weapons. 
+Stock Read Description 1.0 55 
+VIC-M3 Select-
+Fire (SEMI) 
+The VIC-M3 Select-Fire is a modification that adds a Semi-Auto Select Fire option to 
+a weapon that has Burst and/or Automatic, but not Semi-Auto. This new Select Fire 
+option does not replace any current Firing Types a weapon has. If a weapon has 
+Semi-Auto and Burst, the Semi-Auto will be figured based on the Burst Rate of Fire, 
+and not the Automatic Rate of Fire. For weapons with Burst, Semi -Auto (X) will be 
+the same as Burst (X). For Automatics that do not have a Burst Firing Type, Semi -
+Auto (X) is Auto (X ) halved and reduced by 1. For example, Auto (5) creates Semi -
+Auto (2). 
+N/A Pistol, Rifle, 
+Shotgun, SMG, 
+Carbine, LMG, 
+MG, HMG, 
+Sniper Rifle 
+0.2 175 
+MV0104 Burst 
+Fire 
+The MV0004 Burst Fire is a modification that adds Burst Select Fire to a weapon that 
+has Semi-Auto and/or Automatic, but not Burst. This new Select Fire option does not 
+replace any current Firing Types a weapon has. If a weapon has Semi -Auto and 
+Automatic, the Burst will be figured based on the Semi -Auto Rate of Fire,  and not 
+the Automatic Rate of Fire. For weapons with Semi-Auto, Burst (X) will be the same 
+as Semi-Auto (X). For Automatics that do not have a Semi-Auto Firing Type, Burst (X) 
+is Auto (X) halved and reduced by 1. Burst (X) cannot be larger than 5, or lower than 
+2. For example, Auto (7) creates Burst (3). 
+N/A Pistol, Rifle, 
+Shotgun, SMG, 
+Carbine, LMG, 
+MG, HMG, 
+Sniper Rifle 
+0.2 175
+
+===== PAGE 3 =====
+EQUIPMENT BENEFITS MOUNT RESTRICTION WEIGHT CR 
+AutoSeek Select 
+Fire Conversion 
+The AutoSeek Select Fire Conversion is a modification that adds Automatic Fire to a 
+weapon that has Semi-Auto or Burst, but not Automatic. This new Select Fire option 
+does not replace any current Firing Types a weapon has. The weapon’s new Auto (X) 
+is either Burst or Semi -Auto (X), multiplied by 2, and then increased by +1. If the 
+weapon has both Burst and Semi -Auto, the highest of the two is used to figure the 
+new Automatic Rate of Fire. 
+N/A Pistol, Rifle, 
+Shotgun, SMG, 
+Carbine, LMG, 
+MG, HMG, 
+Sniper Rifle 
+0.2 175 
+ 
+VARIANT MODIFICATIONS 
+ 
+EQUIPMENT BENEFITS MOUNT RESTRICTION WEIGHT CR 
+Loathsome ISC The Loathsome ISC is a Variant Modification is a set of conversion kits for Pump -
+Action, Semi-Auto, and Automatic Rate of Fire Shotguns. Each kit is not compatible 
+with the other Firing Types. Loathsome ISC gives the shotgun a +1 to Pump-Action 
+and Semi-Auto Rate of Fire, while giving +2 to Automatic Rate of Fire Shotguns. 
+Due to the recoil on Automatic Rate of Fire Shotguns, Attacks made are at a -10 
+Penalty To Hit. cR price is the price of the shotgun it’s being applied to , multiplied 
+by 2. 
+N/A Shotgun 0.6 (X) 
+CF-10  The CF-10, nicknamed “Closed Fist” , is a conversion system for weapons that fire 
+standard ammunition, such as Pistols, Rifles, or Carbines. The weapon’s Rate of Fire 
+is increased based on the Firing Type. Semi-Auto and Burst Firing Types are 
+increased by 1, while Automatic and Sustained are increased by 2. cR price is the 
+price of the weapon it’s being applied to, multiplied by 2. 
+N/A Non-Energy 
+Non-Plasma 
+Non-Hardlight 
+Non-Shotgun 
+0.6 (X) 
+Obli-V ION The Obli-V, known as Obli -5, is a conversion system that allows any Semi-Auto or 
+Burst weapon to become Automatic. Auto (X) is Semi-Auto or Burst (X), multiplied 
+by 2, with an extra +1. Does not work with other Firing Types or weapons that 
+already have an Automatic Firing Type. cR price is the price of the weapon it’s being 
+applied to, multiplied by 2. 
+N/A Semi-Auto or 
+Burst Only 
+0.3 (X) 
+ALPHA ION The ALPHA ION is a conversion system that increases any Semi-Auto or Burst 
+weapon’s Rate of Fire by 2. This conversion system removes the weapon’s Semi-
+Auto and Burst Rate of Fire Bonus To Hit and gives an additional -10 Penalty To Hit. 
+cR price is the price of the weapon it’s being applied to, multiplied by 2. 
+N/A Semi-Auto or 
+Burst Only 
+0.3 (X) 
+Lance Emitter The Lance Emitter replaces the emitting systems of weapons with the Sustained 
+Rate of Fire. This increases the weapon’s Rate of Fire by 2 but gives the weapon a 
+-10 Penalty To Hit. cR price is the price of the weapon it’s being applied to, 
+multiplied by 2. 
+N/A Sustained Only 0.4 (X) 
+Peace Cycler 7 The Peace Cycler 7 is an aggressive conversion system that increases the cycling 
+speed for Automatic Rate of Fire. The Peace Cycler will increase the Automatic Rate 
+of Fire of a weapon by 2, giving a -10 Penalty To Hit for every Attack made after the 
+first. This can only be installed into weapons with an Automatic Rate of Fire of 3 or 
+higher. cR price is the price of the weapon it’s being applied to, multiplied by 2. 
+N/A Auto Only 0.6 (X) 
+Line AI-Assistant 
+Receiver 
+The Line AI-Assistant Receiver isn’t merely just somehow an “AI-powered Receiver” 
+of a rifle that the name may suggest. Instead, it’s a full conversion mod that allows 
+the rifle to track if a shot successfully struck its target. If a previous Attack was 
+successful, the next Attack made gains a + 5 To Hit. cR price is the price of the 
+weapon it’s being applied to. 
+N/A Rifle, Carbine, 
+Sniper Rifle, 
+SMG 
+1.4 (X) 
+UEM Endgame The UEM Endgame is an energy-optimization system for weapons with the Energy 
+Type Category. The UEM Endgame doubles the Magazine of the weapon but 
+reduces the weapon’s Base Damage by 10%, rounding up. 
+N/A Energy -- 40  
+Left Hand Weapons with the Semi-Auto Firing Type are modified to become Burst (X), using 
+the same Rate of Fire as Semi-Auto (X). This cannot be taken for weapons that 
+already have the Burst Firing Type. 
+N/A Semi-Auto -- 25  
+Faithful W.O.M The Faithful Weapon Overheat Module (W.O.M) is a heat dispersion tool that 
+reduces a weapon’s Overheat by 2, to a minimum of 1. cR price is the price of the 
+weapon it’s being applied to. 
+N/A Overheat (X) 0.4 (X) 
+Spitfire W.O.M The Spitfire Weapon Overheat Module (W.O.M) is a new heatsink module installed 
+that increases the amount of shots fired before the weapon Overheats. Weapons 
+that list as Overheating within a certain amount of Rounds increase the amount of 
+Rounds by 1. Weap ons that list having Overheat based on Half Actions or Shots 
+fired increase the amount by 2. cR price is the price of the weapon it’s being applied 
+to, multiplied by 3. 
+N/A Overheat (X) 0.4 (X)
+
+===== PAGE 4 =====
+EQUIPMENT BENEFITS MOUNT RESTRICTION WEIGHT CR 
+Retina ERACS The Retina Energy Retainment and Compression Systems (ERACS) is a new plasma 
+and hard light retainment system that partially improves batteries and magazines 
+that house these types of energies. Increases Magazine by 25%, to a minimum of 
++1 MAG. cR price is the price of the weapon it’s being applied to. 
+N/A Plasma or Hard 
+Light 
+0.2 (X) 
+URS 
+MagneBlaster 
+The URS MagneBlaster is a modification that magnetically charges explosives as 
+they’re being fired, giving the weapon the Homing Special Rule against any target 
+with metal on it. Weapons that already have the Homing Special Rule will instead 
+gain a +5 Bonus To Hit. 
+Barrel Explosive 
+Launchers 
+0.9 85 
+Typhoon 
+Reloader mk3 
+The Typhoon Reloader mk3 is a reloading assistance that grips a magazine as its 
+being inserted, quickly driving the magazine into the weapon on its own. This 
+reduces the weapon’s Reload by 25%. The weapon’s Reload is reduced by a 
+minimum of 1, regardless of the base R eload Characteristic and cannot go lower 
+than a Reload of 2. Typhoon Reloader can only be used with weapons that have 
+magazines, such as Rifles, weapons that have Batteries, etc. 
+MAG No Pump -
+Action 
+0.7 55 
+Prototype 
+Whiplash 
+Charging Coupler 
+The Whiplash Charging Coupler increases the speed at which weapons are able to 
+Charge. A weapon with this Coupler installed will reduce the Charge needed to fire 
+by 1. For weapons that use Charge as a secondary firing type that will increase its 
+benefits, like the Plasma Pistol, will instead gain +1 extra to its Charge on the first 
+Half Action charged. cR price is the price of the weapon it’s being applied to, 
+multiplied by 2. 
+N/A Weapons with 
+Charge 
+0.6 (X) 
+Arclight Charging 
+Link v1.03 
+The Arclight Charging Link v1.03 is an energy repeating Link that assists in keeping 
+a weapon’s Charge active. Weapons with the Arclight Link can hold their Charge 
+indefinitely until it’s ready to be fired. This costs no extra Ammunition. cR price is 
+the price of the weapon it’s being applied to, multiplied by 2. 
+N/A Weapons with 
+Charge 
+0.9 (X) 
+MAGPLEX EM 1 Explosive Launchers are retrofitted to carry more ammunition. Explosive Launchers 
+have their Magazine doubled, doubling the weight of the weapon to handle this. 
+cR price is the price of the weapon it’s being applied to, multiplied by 2. 
+N/A Explosive 
+Launchers 
+(X) (X) 
+HR Pursuit 
+Tracking System 
+The HR Pursuit Tracking System uses an integrated wire guidance module that is 
+attached to the side of the weapon. It uses an improved guidance system that 
+allows for any weapon with the Homing Special Rule to gain a second Reroll on 
+Failed To Hit Tests. The second Reroll attempt gained is at a -20 Penalty To Hit. cR 
+price is the price of the weapon it’s being applied to, multiplied by 3. 
+Side Weapons with 
+Homing 
+1.1 (X) 
+Subanese 
+Pinpoint Charger 
+The Subanese Pinpoint Charger will pulsate an energy throughout the loaded 
+Subanese Blamite Crystal as its loaded into the weapon. This may only be used with 
+ranged weapons that take Blamite (Needler, Needle Rifle, Needle Pistol), and not 
+with any Blamite -jacketed, Blamite -charged ammunition, or Blamite -filled 
+warheads. The Subanese Pinpoint Charger lowers the Needle Special Rule by 1, to 
+a minimum of 1, without reducing the Damage that the Needle Special Rule would 
+have done if not reduced. This means that  the weapon will be able to cause a 
+Supercombine with 1 less Attack needed. cR price is the price of the weapon it’s 
+being applied to, multiplied by 2. 
+N/A Needlers, 
+Needle Rifles, 
+etc 
+0.3 (X)
+
+===== PAGE 5 =====
+UNIQUE MODIFICATIONS 
+ 
+EQUIPMENT BENEFITS MOUNT RESTRICTION WEIGHT CR 
+Blaze Hardlight 
+C2 
+The Blaze Hardlight C2 is a post -war barrel modification that swaps the Barrel out 
+for a Hardlight Charging Unit (v2). This Unit is able to coat Slugs in Hard Light, giving 
+it the Hard Light Special Rule when fired. The price of the Hardlight C2 is the price 
+of the weapon it’s installed on, multiplied by 2. 
+Barrel Shotgun 1.1 (X) 
+Twin-Barrel 
+Firing System 
+The Twin -Barrel Firing System, nicknamed “Twin Jewels”, is an overhaul 
+modification that adds another receiver and barrel to the weapon. The weapon will 
+fire two shots with each Attack and draw from the same Magazine. Each Attack will 
+deal two sets of Dama ge while still Opposed by one Evasion Test. The weapon’s 
+weight is doubled. cR price is the price of the weapon its being applied to multiplied 
+by 3. Attacks made are at a -10 Penalty To Hit. 
+N/A N/A (X) (X) 
+Open Hand 
+AAAM 
+The Open Hand AI-Assisted Aiming Module (AAAM) is a Dumb-AI powered module 
+that uses a “molecularly modular barrel system” to assist in making sure attacks hit 
+their target. The Open Hand Module gives any weapon the Homing Special Rule if 
+it doesn’t already have it. cR price is the weapon it’s being applied to, multiplied by 
+2. 
+N/A N/A 1.4 (X) 
+Scale 
+Magnetization 
+Energy Coating 
+The Scale Magnetization Energy Coating, known sometimes as SMEC, uses 
+borrowed technology from the Sangheili Energy Sword. It forms a magnetized 
+energy coating on the front of a weapon, giving Buttstock Attacks with the weapon 
++5 to Damage and +10 to Pierce. If applied to a [TH] weapon, it gives an extra +5 to 
+Pierce. If applied to a [TH] weapon with [HW], it gives an extra +10 to Pierce, 
+instead. 
+Barrel N/A 2 100 
+Hailstorm 
+Plasma-Piloted 
+Control System 
+Using technology based on the Covenant’s homing plasma technology, 
+ammunition is jacketed in this plasma to drive it towards its intended target.  
+Hailstorm gives weapons a +10 To Hit on rerolls given by the Homing Special Rule. 
+cR price is the weapon it’s being applied to, multiplied by 2. 
+Barrel Homing 
+Special Rule 
+0.2 (X) 
+T.A.L.O.N The TALON Modification is a sharpening system and an improvement to the 
+weapon’s forward -launching-driver that fires the Blamite crystal shards. This 
+combination gives Blamite weapons the Penetrating Special Rule. 
+N/A Needle 
+Special Rule 
+0.4 (X) 
+River Rapid-
+Cycler 
+The River Rapid-Cycler overhaul the cycling systems of any Explosive Launcher to 
+allow for an alternate fire Charge (X) with Burst (X) Firing Type. This new Firing Type 
+increases Burst (X) by 1 for each Half Action Charged. (X) Cannot surpass the 
+amount of Ammunition still within the weapon’s Magazine, and (X) cannot surpass 
+3. Once Charged, the weapon fires Burst (X) for that many Charge Actions taken. 
+cR price is the price of the weapon it’s being applied to, multiplied by 3. 
+N/A Explosive 
+Launchers 
+2.1 (X) 
+Radiance 
+Plasmatic 
+Explosive Driver 
+The Radiance Plasmatic Explosive Driver uses proprietary technology that 
+overcharges explosives as a Half Action. Once overcharged, the explosive will leave 
+a pool of ultra -hot molten metal within the weapon’s Blast (X) radius. For each 
+Round inside the mo lten metal Radius, Characters are dealt the weapon’s Base 
+Damage and Pierce. The molten metal Radius lasts for 2 Rounds after being fired. 
+cR price is the price of the weapon it’s being applied to, multiplied by 3.  
+N/A Explosive 
+Launchers 
+2.6 (X) 
+ONI Explosive 
+Driver 
+The ONI Explosive Driver is an ONI -derived system similar to the Radiance 
+Plasmatic Explosive Driver. Instead, the ONI Explosive Driver overcharges Energy 
+weapon attacks as a Half Action. Any overcharged Attacks will deal its normal 
+Damage on impact, but at the beginning of the next Round, the overcharged effect 
+activates as a second set of the Damage made is dealt again to all Targets within 
+Blast (X), where (X) is 1 for each Damage Dice the weapon has. cR price is the price 
+of the weapon it’s being applied to, multiplied by 3. 
+N/A Energy 2.6 (X) 
+DELTA Driver The DELTA Driver is a Driver system similar to the Radiance Plasmatic Explosive 
+Driver. Instead, the DELTA Driver will charge over the course of one Round once 
+activated. Each Round, the first Attack made with the weapon will gain the 
+Gravimetric (2) Special Rule. Once 4 shots have been made, the DELTA Driver must 
+Recharge for 4 Rounds. cR price is the price of the weapon it’s being applied to, 
+multiplied by 4. 
+N/A N/A 2.8 (X) 
+ECHIDNA 
+Explosive Driver 
+The Echidna Driver is an EMP charging mechanism.  The ECHIDNA Driver will charge 
+over the course of one Round once activated. Each Round, the first Attack made 
+with the weapon will gain the EMP  (2) Special Rule. cR price is the price of the 
+weapon it’s being applied to, multiplied by 2. 
+N/A Explosive 
+Launchers 
+2.6 (X)
+
+===== PAGE 6 =====
+EQUIPMENT BENEFITS MOUNT RESTRICTION WEIGHT CR 
+STAR 
+Ammunition 
+Driver 
+The STAR Ammunition Driver is an ONI -derived system similar to the Radiance 
+Plasmatic Explosive Driver. Instead, the STAR Ammunition Driver only works on 
+standard infantry weapons that use bullets as ammunition. This includes Rifles, 
+Pistols, Carbines, etc . The STAR Driver will charge over the course of one Round 
+once activated. Each Round, the first Attack made with the weapon will deal its 
+Damage normally. However, at the beginning of the next Turn, the Character that 
+was struck will take the Damage dealt  a second time. cR price is the price of the 
+weapon it’s being applied to, multiplied by 4. 
+N/A Read 
+Description 
+1.9 (X) 
+Slumber Force 
+Amplification 
+Driver 
+The Slumber Force Amplification Driver was overseen by SPECWARCOM and 
+designed for UNSC Army Rangers for their Advanced Counterinsurgency missions. 
+The Slumber Driver will charge over the course of one Round once activated. Each 
+Round, the first Attack made will push back the Target (X) Meters in the opposite 
+direction from where the Attack was made, where (X) is how many Damage Dice 
+the weapon has multiplied by 2. The Target must make a Strength Test to  reduce 
+the pushback, where each Degree of Success reduces it by 1. Every 50 kg a Target 
+weighs will reduce (X) by 1, as well.  cR price is the price of the weapon it’s being 
+applied to, multiplied by 3. 
+N/A N/A 2.8 (X) 
+Victoriam Multi-
+Barrel Retrofit 
+The Victoriam Multi-Barrel Retrofit replaces the weapon’s barrel with a triangular-
+configuration with 3 barrels. This turns the weapon’s Rate of Fire into Burst (3) with 
+a -20 Penalty To Hit. This doubles the weapon’s Weight. cR price is the price of the 
+weapon it’s being applied to, multiplied by 2. 
+N/A Explosive 
+Launchers 
+(X) (X) 
+High 5MBR The High VMBR, nicknamed “High Five”, is a retrofit that replaces the weapon’s 
+barrel with 5 smaller barrels in a square configuration. This turns the weapon’s 
+Rate of Fire into Burst (5) with a -20 Penalty To Hit. The Base Damage of the weapon 
+is halved. It fires unique variations of the ammo it would normally take, which cost 
+twice as much, each, due to the rarity. This triples the weapon’s Weight. cR price 
+is the price of the weapon it’s being applied to, multiplied by 3. 
+N/A Explosive 
+Launchers 
+(X) (X) 
+MAGCHARGE EX The Magcharge EX is a Smartlink camera system that tracks and detonates the 
+warhead of the explosive when it’s within range of the Target. This allows the 
+Character to reroll failed To Hit Tests with explosives. If Successful, every Degree 
+of Success brings the Explosive 1 Meter closer to the Target, starting at 7 Meters 
+away. If Failed, the Attack misses as normal and detonates before impacting a 
+surface, outside of the Blast Radius needed to hit the initial Target . cR price is the 
+price of the weapon it’s being applied to, multiplied by 2. 
+N/A Explosive 
+Launchers 
+0.9 (X) 
+Razor Photon 
+Sphere Inducer 
+The Razor Photon Sphere is an emitter overhaul for Hard Light weapons. These 
+destabilize the Photons that are emitted by the Hard Light weapons and cause 
+them to violently disperse after impact. The Razor Photon Sphere Inducer gives 
+Forerunner Hard Light weapons the Needle (X) Special Rule, where (X) is th e 
+weapon’s Damage Dice. cR price is the price of the weapon it’s being applied to, 
+multiplied by 3. 
+N/A Forerunner 
+Hard Light 
+Weapons 
+1.1 (X) 
+Unbound Burst 
+Collimator 
+The Unbound Burst Collimator is a feature that overhauls a plasma weapon’s firing 
+systems, giving it a new Charge (1), Auto (1) Attack. This new Charge Attack cycles 
+the plasma into new Multi-Burst Collimator that has 6 new micro-ejection ports at 
+the front of the weapon. When fired, the weapon gains the Spread Special Rule 
+and the Atta ck gains +1 Damage Dice.  For this Attack, the Close Range of the 
+weapon is 15 Meters, and the Optimal Range is 40 Meters.  If the weapon’s Damage 
+Dice is 4 or more, the Character must make a Strength Test when fired. If Failed, 
+the Character is pushed back 1 Meter. If Failed by 2 or more Degrees of Failure, the 
+weapon is dropped. If Failed by 4 or more Degrees of Failure, the weapon is 
+launched backwards, out of the hands of its user, 1 Meter for each Damage Dice of 
+the Weapon. cR price is the price of the weapon it’s being applied to, multiplied by 
+4. 
+Barrel Plasma 
+Battery 
+Ammunition 
+Weapons 
+(X) (X) 
+ARCANE Anion 
+Accelerator 
+The ARCANE Anion Accelerator is an improved accelerator and emitter for the 
+Anion particles fired by Forerunner beam weapons. This Anion Accelerator is a 
+powerful emitter that nearly doubles the energy -intake to fire, but heavily 
+increases the damage output capability of the weapon. The weapon’s Sustain Rate 
+of Fire and Magazine are both halved, but the Damage Dice are doubled. This 
+increases the weapon’s weight by 25%, and cR price is the price of the weapon it’s 
+being applied to, multiplied by 5. 
+N/A Forerunner 
+Beam 
+Weapons 
+(X) (X)
+
+===== PAGE 7 =====
+EXPANDED AMMUNITION TYPES 
+ 
+EXPLOSIVES AND EXPLOSIVE LAUNCHERS PRICE PER ROUND 
+AMMUNITION DAMAGE PIERCE ABILITY PRICE 
+SCAR Blamite Warhead -5 -6 Gains Needle (X), where (X) is the amount of Damage Dice of the Weapon. 
+Each Degree of Success on the To Hit counts as embedding 1 Needle into any 
+Target within the Blast Radius. Those within the Kill Radius take 2 Needles, 
+instead. 
+25 cR 
+PRO Ricocheting Warhead -3 -3 Explosives from Explosive Launchers are able to ricochet off of surfaces once. 
+This allows explosives to be launched around corners with a -60 Penalty To 
+Hit. If used with Indirect Fire, these Penalties are removed. 
+15 cR 
+ 
+ 
+UNSC NON-CANON BLAMITE WEAPON MODIFICATIONS 
+ 
+SHOTGUN ROUNDS PRICE PER SHELL 
+AMMUNITION DAMAGE PIERCE COMPATIBILITY ABILITY PRICE 
+Blamite Slug (BSL) +8 -4 None Needle (1) Special Rule, removes Spread Special Rule. On 
+contact, Blamite Slug instantly detonates with Blast (2). 
+5 Cr 
+Blamite Shot (BMS) -2 -2 All Shot Shells Needle (4) Special Rule, Spread Special Rule. For every 
+Degree of Success on the Attack, it counts as +1 Needle 
+needed for Needle Special Rule to detonate. 
+3 cR 
+ 
+ 
+ 
+STANDARD AMMUNITION CUSTOMIZATION OPTOINS PRICE PER ROUND 
+AMMUNITION DAMAGE PIERCE COMPATIBILITY ABILITY PRICE 
+Blamite Jacketed (BMJ) -- -2 HE, IN, HV, HYV Needle (X) Special Rule, where (X) is decided by the 
+weapon’s Rate of Fire.  
+ 
+Semi-Auto - (X) is Semi-Auto (X) + 1 
+Automatic – (X) is Automatic Rate of Fire halved +1 
+Burst – (X) is Burst (X) +1 
+ 
+If the weapon used does not follow one of these three 
+Rate of Fire types, it is not compatible with the BMJ 
+Customization Option. 
+5 cR

@@ -1,0 +1,144 @@
+===== PAGE 1 =====
+1 
+ 
+ 
+ 
+ 
+ 
+COURT 
+MARTIAL 
+ 
+The “I’m tired of you, go to prison” Splatbook for Mythic. 
+ 
+ 
+ 
+ 
+ 
+ 
+A 100DOS expansion to be used with any edition of Mythic.
+
+===== PAGE 2 =====
+2 
+ 
+COURT MARTIAL 
+A Court Martial is a le gal proceeding within the military ’s justice 
+system and this Splatbook is designed to maintain order, discipline, 
+and integrity. Court Martial will adjudicate cases of Characters who 
+have violated the established rules of engagement and military law.  
+ 
+DISSENTION WITHIN THE RANKS 
+In Court Martial , Dissention is when a Character refuses, disr upts, 
+ignores, or opposes a superior ’s order or policy. Many things can be 
+considered Dissention , from subtle questioning of authority or 
+actions to outright refusal or mutiny. 
+ As the Commanding Officer or Fireteam Lead (Team Lead), 
+you are tasked with maintaining discipline and order within your unit. 
+Whenever a Character drastically misbehaves , they will gain 
+Dissention Points. 
+ 
+LEADERSHIP TESTS 
+Leadership Tests , in terms of Dissention, can be important to the 
+outcome of Court Martials or just following orders in general. For 
+every Degree of Suc cess on Leadership Tests that were broken or 
+ignored by a Character, Dissention Points will be increased by 5, to a 
+maximum of 20. 
+ 
+DISSENTION POINTS 
+A Character will gain Dissention P oints whenever they perform 
+anything the Team Lead  may attempt to classify as Dissention. This 
+can be amplified by Successful Leadership Tests being ignored.  The 
+Team Lead could also attempt to make up evidence or information, 
+which can be played out in the court. 
+ Below is the Dissention Table, which will list various 
+Dissention and Crimes and the amount of Dissention Points gained for 
+various Actions.  These are examples and the GM may add more if 
+needed. 
+ Dissention Points have two main Modifiers, Commander ’s 
+Actions and Situation. Each of these will modify the situation and the 
+actual amount of gained Dissention Points. Situation Modifier is 
+figured first, and then the Commander’s Actions Modifier. 
+ 
+CRIME DISSENTION POINTS 
+Unjust or unsound subordinate surrender 100 
+Murdering fellow soldier 100 
+Aiding the enemy 90 
+Espionage 85 
+Murdering a civilian 80 
+Mutiny 75 
+Rape 70 
+Desertion 50 
+Lying to command 35 
+Misbehavior in Mass Combat 30 
+Assaulting a superior officer 25 
+Retaliation for previous Dissention Case 20 
+Forcing a safeguard 15 
+Assault 15 
+Misuse of countersigns 15 
+Racism 5 
+ 
+ 
+SITUATION MODIFIER 
+Situation Modifiers are a modifier where various situations will 
+reduce the total amount of gained Dissention Points. As long as there 
+can be proof or argument that these situations were factual, they will 
+come into play during the court proceedings.  Dissention Points will 
+always round up when divided. 
+ 
+SITUATION MODIFIER 
+Event was accidental 1/2 
+Mutually disorganized situation 1/2 
+Overrun or overtly stressed 1/4 
+Unwise towards current situation 1/2 
+ 
+COMMANDER’S ACTIONS MODIFIER 
+The Commander’s Actions is the first Dissention Point modifier, which 
+covers the actions of the Team Lead that lead to the Dissention Points 
+being gained in the first place. For example, if the Commander had 
+called for unjust or dangerous actions that could lead to war crimes, 
+a trial would be thrown out, regardless of the actions taken. 
+ 
+COMMANDER’S ACTIONS, ISSUED COMMANDS MODIFIER 
+To perform War Crimes Trial thrown out 
+That put everyone in danger -50 
+That were impossible -40 
+That was wrongly made -30 
+That were not important -20 
+That could have saved someone +20 
+That could have saved many lives +30 
+That could have won the battle +50 
+ 
+COURT OUTCOMES 
+To figure the outcome of the court proceedings, each case must be 
+argued and defended. Each Crime must be brought up and discussed, 
+it mus t have some sort of evidence, word of mouth, or argument. 
+Then, the Situation Modifier must be shown with some sort of 
+evidence, word of mouth, or argument. And finally, the Commander’s 
+Actions will be brought up and must be shown with some sort of 
+evidence, word of mouth, or argument. 
+ Once everything has been agreed upon by the GM who is 
+acting as the judge, total Dissention Points  that the court agrees on  
+are tallied. If at any point a Character ends with negative Dissention 
+Points, the Team Lead will gain Dissention Points equal to the amount 
+of Dissention Points that were in the negatives. From there, the Team 
+Lead can be brought into justice for their actions against those they 
+were supposed to keep safe and properly command. 
+ Below are the outcomes based on final Dissention Points. 
+ 
+DISSENTION POSSIBLE OUTCOME 
+0 – 10 Case is thrown out and nothing happens. 
+11 – 30 
+The Character receives a slap on the wrist . All 
+Dissention Points later gained will receive an 
+additional +5. 
+31 – 40 The Character receives a strict warning. All Dissention 
+Points later gained will receive an additional +10. 
+41 – 60 The Character is Discharged. 
+61 – 70 The Character is Dishonorably Discharged. 
+71 – 100 
+The Char acter is Dishonorably Discharged and 
+sentenced 1 year of prison time for every Dissention 
+Point above 70. 
+101+ 
+The Character will see the rest of their life in prison. If 
+the GM sees fit, the Character is subjugated to a firing 
+squad and put to death.

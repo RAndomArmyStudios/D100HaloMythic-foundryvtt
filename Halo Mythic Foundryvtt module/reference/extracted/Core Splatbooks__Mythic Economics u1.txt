@@ -1,0 +1,1572 @@
+===== PAGE 1 =====
+M Y T H I C 
+ECONOMICS 
+Designed for Civilian and Business financial interactions. 
+ 
+ 
+ 
+ 
+ 
+ 
+Update 1.0: Houses, Farms, and Investments 
+ 
+ 
+A commissioned financial expansion for Mythic 6.1 and newer
+
+===== PAGE 2 =====
+2 
+CONTENTS 
+ 
+TRADES ............................................................................ 3 
+LEARNING TRADES ...................................................... 3 
+WORKING WITHOUT A TRADE .................................... 3 
+JOB PAYMENT ............................................................. 3 
+ECONOMIC RULES ........................................................... 4 
+AVAILABILITY ............................................................... 4 
+QUALITY ...................................................................... 4 
+EXCHANGING CURRENCY ............................................ 4 
+BLACK MARKET DEALS ................................................ 4 
+BUYING IN BULK .......................................................... 4 
+AVAILABILITY ............................................................... 5 
+QUALITY ...................................................................... 5 
+RESEARCH AND MANUFACTURING................................. 6 
+RESOURCES ................................................................. 6 
+FABRICATION AND MANUFACTURING ....................... 6 
+RESEARCHING FOR MANUFACTURING ....................... 6 
+PROTOTYPING ............................................................. 6 
+IMPROVING QUALITY .................................................. 6 
+UNFINISHED PROTOTYPES .......................................... 7 
+SELLING PRODUCTS ......................................................... 7 
+RATE OF SALES ............................................................ 7 
+SELLING IN BULK ......................................................... 7 
+PRODUCTION AND INFRASTRUCTURE ............................ 8 
+PRODUCTION LINES:  TIME AND COST ....................... 8 
+RENTING PRODUCTION LINES .................................... 8 
+INFRASTRUCTURE ....................................................... 8 
+BUILDING CONSTRUCTION ......................................... 9 
+BUILDING DEMOLITION .............................................. 9 
+SELLING A BUILDING ................................................... 9 
+PURCHASING BUILDINGS ............................................ 9 
+SPENDING INFRASTRUCTURE ................................... 10 
+TAXES, TARIFFS, TOLLS .................................................. 11 
+SMUGGLING.............................................................. 11 
+BANKS AND LOANS ....................................................... 12 
+INTEREST RATES ........................................................ 12 
+FAILING TO PAY LOANS ............................................. 12 
+INSURANCE ............................................................... 12 
+PATENTING YOUR PRODUCTS ...................................... 13 
+LICENSING FOR PRODUCTS ....................................... 13 
+INVESTING .................................................................... 13 
+BEING INVESTED IN ................................................... 13 
+BUSINESS AND INVESTMENT EVENTS ...................... 14
+
+===== PAGE 3 =====
+3 
+TRADES 
+ 
+LEARNING TRADES 
+Trades are the same as Educations but learned as a way to perform a 
+service. If a Character has an Education, they may learn the Trade 
+version of it at only 50 Experience  or by paying the difference in 
+Experience between the two. 
+ 
+TRADE LIMITATIONS 
+Trades and Educations share the same limi ts for how many can be 
+taken. However, an Education and Trade that cover the same topic 
+can be combined into one. 
+ 
+LACKING A TRADE 
+A Character lacking a Trade  will not be able to properly perform the 
+service required. A Character without the Woodworking Trade will 
+not be able to perform the Woodworking service for profit. If the 
+Character has an Education that would work for a Trade, they may 
+perform the service with the pay reduced by 1. 
+ 
+WORKING WITHOUT A TRADE 
+Use Trades the same way you’d use Educations. This includes 
+Education Tests, Skill Use, and any other rules involved. There are jobs 
+that can be done without a trade, such as manual labor . These jobs 
+have a Pay of 1  and can still receive the benefit of gaining Fatigue to 
+increase the Pay for the day. 
+JOB PAYMENT 
+When performing a Trade for service, the Character will receive Pay 
+based on the Trade. Pay is the daily amount of cR the Character gains. 
+When a Character performs a service, they are spending a minimum 
+of 8 hours of the day working. 
+While working, the Character makes a test by rolling a D100. 
+The following Chart will show the outcome of the Character being 
+able to find work and having the option to take extra work for 
+increased Pay at the cost of Fatigue. Extra work is optional. 
+ 
+ 
+TEST RESULT 
+01-05 The Character couldn’t find proper work for the day. Pay 
+is reduced by 1. 
+06-75 The Character finds work as normal. Pay is unaltered. 
+76-85 The Character is able to find extra work. Pay is increased 
+by 1 and the Character gains +1 levels of Fatigue. 
+86-90 The Character finds plenty of extra work. Pay is increased 
+by 2 and the Character gains +2 levels of Fatigue. 
+91-100 
+The character finds a lot of extra work, Pay is doubled and 
+the Character gains +3 levels of Fatigue.  If the pay being 
+doubled wouldn’t pay more than the previous Result, 
+increase pay by until it is 1 higher. 
+TRADES TYPE DESCRIPTION PAY +5 +10 
+Architecture Advanced Knowledge of building, blueprints, and more. Covers Masonry and Carpentry. Used with Technology and 
+Security Skills. 5 125 250 
+Armor Smithing Basic Armor and Battle Dress Uniform repair. Covers non-Powered or Semi-Powered Armors only. 4 100 150 
+Artist Basic The ability to paint or perform other artistic expression. Used with any Social Skills. 3 75 150 
+Banker Advanced Negotiation and Technology Skills. 4 100 200 
+Blacksmithing Basic Armor creation and repair. Used with Technology Skill. 4 100 200 
+Cobbling Basic Shoe craftwork, creation and repair. Used with Technology Skill. 2 50 100 
+Cooking Basic Food preparation, serving, and other food-related jobs. Use with Technology and Survival Skills. 2 50 100 
+Cyberneticist Advanced Technology and Intellect Skills. 2 150 300 
+Demolitions Advanced While the Education for Demolitions is Basic, the Trade is Advanced as you are doing difficult chemical 
+work on a daily basis to create explosives. Used with Demolition and Technology Skills. 5 125 250 
+Entertainer Basic Knowledge of entertainment, including music, comedy, etc. Covers Entertainers, Jesters, and Musician. 
+Used with any Social Skills. 2 50 100 
+Escorting Basic Knowledge of locations, travel, and safety. Put to use escorting others safely to desired locations. Covers 
+Escort, Drayman, Ferryman and Watchman. Used with Navigation and Survival Skills. 5 125 250 
+Factory Work Basic Working factory lines, production lines, packaging, etc. Technology Skill. 4 50 100 
+Farming Basic Farming of crops, food, and plant life. Used with Survival< technology, and Investigation Skills. 3 75 150 
+Handler Advanced Capability of handling and training animals. Covers Messenger Pidgeon, Dog Trainer, Mount Trainer, and 
+others involving animals. Used with Survival and any Social Skills. 3 75 150 
+Hunting Basic Hunting and fishing for food. Includes foraging for plant life. Used with Investigation, Athletics, 
+Technology, Security, and Survival Skills. 3 75 150 
+Jeweler Advanced Molding, carving, cutting, and more. Covers metals and stones for jewelry. Used with Technology Skill. 6 150 300 
+Locksmithing Basic Creating and repairing locks and keys, unlocking locks and replacing keys. Used with Technology and 
+Security Skills. 3 75 150 
+Mechanic Basic Repair and upkeep on vehicles. Used with Technology Skill. 3 100 200 
+Medication Advanced The use of medication, doctor work, and more. Used with Medication, Survival, and Technology Skills. 6 150 300 
+Merchant Basic One that buys and sells goods, including travel and trade. Used with any Social Skills. 3 75 150 
+Merchant Basic Negotiation Skill. 3 75 150 
+Religion Basic Jobs based on religion, whether it be a pastor, a pardoner, and more. Used with any Social Skills. 2 50 100 
+Tailoring Basic Clothing creation, alteration, and repair. Covers Tailoring, Glover, Hatmaker and Seamstress. Used with 
+Technology and Survival Skills. 2 50 100 
+Weapon 
+smithing 
+Basic Weapon creation and repair. Covers Weapon Smithing and Cutler. Used with Technology Skill. 4 100 200 
+Weaver Basic Basketwork, weaving work, and the creation of cloth. Covers Weaver and Ropemaker. Used with Survival 
+and Technology Skills. 2 50 100 
+Wordworking Basic The use of carving, cutting, and assembling with wood. Covers Cartwright, Woodcarver, and more. Used 
+with Technology and Survival Skills. 3 75 150
+
+===== PAGE 4 =====
+4 
+ 
+ECONOMIC RULES 
+ 
+AVAILABILITY 
+Trade systems were slow, bartering was common, and many places 
+were closed off from the rest of the outside world. The GM may roll 
+to see if any requested goods and services are available. 
+ The GM may apply further changes to the Availability 
+percentage based on narrative themes such as  material shortages, 
+war, trade route issues,  overabundance, etc. 
+ On failed rolls, the GM and Players may reroll with a +10 to 
+the Availability percentage to find if the item they’re looking for can 
+be delivered from another town. In doing so, the GM then rolls 5D10 
+to see how many days it would take for the item to arrive. For each 
+day, the price of the items being delivered are increased by 1 cR. 
+ 
+QUALITY 
+Quality is an optional Rule GMs can use to introduce more interesting 
+scenarios in the world of buying and selling. When a Character is 
+looking at equipment to buy or are scavenging from a battle, the GM 
+can roll a D100. The result of  this roll is the quality of the weapon, 
+which can be found in the table at the bottom of the page. 
+ Characters may use their Investigation Skill to determine 
+the quality. This may be improved with Educations such as Armor and 
+Weaponsmith. If Successful, the Character determines the quality. 
+ The GM may use this to sell Characters lesser goods at 
+normal prices if they fail their Investigation Tests.  The GM may then 
+let the Player know the quality of their weapon when they first make 
+an Attack with it, or the Armor when they are first struck. 
+ The GM may also let Characters attempt to fool merchants 
+by buying goods outside of the price of their true quality. This is where 
+the various Social Skills come into play. 
+ 
+CHANGES IN QUALITY 
+When a Weapon or Armor takes enough Break Point Damage, the 
+Quality of the Weapon can change. 
+ 
+EXCHANGING CURRENCY 
+When traveling locations, there is a currency exchange that may need 
+done in order for a player to still use their currency. When the 
+Characters go somewhere that uses a different currency, the GM may 
+roll a 1D100, where the outcome lists the difference between the 
+currencies at the current time. For example, the current currency may 
+be weaker, thus having more buying power for the players. 
+ 
+1D100 OUTCOME 
+1-4 20% loss in currency transaction. 
+5-10 15% loss in currency transaction. 
+11-20 10% loss in currency transaction. 
+21-39 5% loss in currency transaction. 
+40-70 Currencies are equal in current value. 
+71-80 5% gain in currency transaction. 
+81-90 10% gain in currency transaction. 
+91-94 15% gain in currency transaction. 
+95-100 20% gain in currency transaction. 
+ 
+FINDING SUPPLIERS FOR TRADING, BROKING, ETC 
+The larger the world, the easier it is to find trading and supply lines to 
+meet your needs. The larger the city or more advanced a planet’s 
+economic infrastructure, the much easier it becomes to find what 
+you’re looking for. It also becomes much easier for law enforcement 
+to begin suspecting illegal trading and brokering. 
+ To find a supplier or broker, use the Availability based on 
+the type of location the Players are currently in. The time that it takes 
+to find a supplier is based on the type of goods or needs. 
+ If other Characters are assisting in the Research, reduce the 
+hours by 1 for each Character assisting, to a minimum of 1 hour. 
+ 
+SUPPLIER OUTCOME 
+Goods 1D5 hours, reduced by 1 for each Degree of Success 
+Services 1D10 hours, reduced by 2 for each Degree of Success 
+Trading 1D5 hours, reduced by 1 for each 2 Degrees of Success 
+Broker 1D10 hours, reduced by 1 for each 2 Degrees of 
+Success 
+Black 
+Market 
+3D10 hours, reduced by 2 hours for each Degree of 
+Success. 
+ 
+BLACK MARKET DEALS 
+Black Markets are illegal underground trading circuits that allow 
+people to get their hands on illicit goods or use backdoor means to 
+gain access to goods at a cheaper rate by avoiding taxes, tariffs, or 
+government fees. 
+ The Black Market can be accessed using the Black Market 
+Street Smarts Education. A Successful Black Market Test using a 
+chosen Skill will give the Players access to the Black Market. This Test 
+can be given Bonuses or Penalties  based on the population and  
+economics of the location. 
+ Black Market prices will increase based on rarity and how 
+dangerous the item is. Weapons will always be at a 2x multiplier in 
+price, while Covenant goods will be at an extra 3x multiplier in price.  
+Forerunner goods will be at a 10x multiplier in price. That is, if you can 
+even get the trust of your sellers. 
+ Rarity should also play a part in the price. The GM may use 
+the Availability Chart. Roll a D100 for the location the Characters are 
+currently in. For every 10 over the listed number, the price gains a 
++1.5 to the multiplier of the item. 
+ The GM may treat any failed rolls with 2 or more Degrees 
+of Failure as a way to alert law enforcement or to gain the ire of those 
+who run the black market. 
+ 
+BUYING IN BULK 
+Buying in bulk will reduce the total price per item based on the 
+amount being purchased and based on the total price. The cost of an 
+item cannot drop below 1 cR per item, and the total reduction of price 
+is at a minimum of -1 cR. 
+ Anything that would normally be purchased in bulk cannot 
+gain the benefits of buying in bulk of 10-100. This includes things like 
+ammunition, glowsticks, cigarettes, or anything else that is commonly 
+purchased in these amounts. 
+ 
+AMOUNT OUTCOME 
+50+ The price is reduced by 5%. Some items exempt. 
+200+ The price is reduced by 10%. 25% of the money 
+must be paid upfront. 
+2,000+ The price is reduced by 2 0%. 50% of the money 
+must be paid upfront. 
+10,000+ The price is reduced by 30%. 60% of the money 
+must be paid upfront. 
+100,000+ The price is reduced by 50%. 80% of the money 
+must be paid upfront.
+
+===== PAGE 5 =====
+5 
+ 
+AVAILABILITY 
+ITEM OUTPOST TOWN CITY METROPOLISE ECONOMIC ZONE 
+General Goods 85% 90% 100% 100% 100% 
+Services 85% 95% 100% 100% 100% 
+Travel and Work Equipment 50% 75% 100% 100% 100% 
+Tools 90% 95% 100% 100% 100% 
+Local Weapons 80% 85% 95% 100% 100% 
+Uncommon Weapons 50% 65% 80% 95% 100% 
+Covenant Equipment 1% 2% 5% 10% 25% 
+Forerunner Equipment 1% 1% 1% 1% 2% 
+Military Infantry Equipment 10% 40% 60% 80% 100% 
+Heavy Military Equipment 1% 2% 30% 50% 80% 
+Black Market Availability -20 Penalty -10 Penalty -- +10 Bonus +30 Bonus 
+Building Construction 50% 65% 100% 100% 100% 
+Commercial Real Estate 10% 50% 100% 100% 100% 
+Space Port 15% 35% 100% 100% 100% 
+Food Production Line 1% 25% 100% 100% 100% 
+Standard Production Line 1% 15% 100% 100% 100% 
+Large Assembly Line 1% 2% 5% 75% 100% 
+Shipyard Assembly Line 5% 1% 5% 25% 25% 
+Advanced Production Line 1% 1% 5% 10% 10% 
+Warehouse 1% 1% 100% 100% 100% 
+Office Building 1% 5% 100% 100% 100% 
+Factory 5% 10% 100% 100% 100% 
+Shipyard 10% 5% 15% 25% 50% 
+Dry Dock 25% 15% 85% 100% 100% 
+Storefront 50% 100% 100% 100% 100% 
+Space Station 1% 1% 10% 85% 100% 
+Trade Outpost 85% 15% 75% 95% 100% 
+Research Facility 1% 1% 5% 25% 50% 
+Bank 25% 85% 100% 100% 100% 
+Mining Facility 20% 5% 25% 25% 25% 
+Mechanic Garage 50% 75% 100% 100% 100% 
+Hospital 20% 60% 100% 100% 100% 
+Power Plant 15% 35% 80% 100% 100% 
+Transportation Hub 25% 15% 100% 100% 100% 
+Space Elevator 5% 5% 85% 95% 100% 
+ 
+QUALITY 
+QUALITY CHANCE EXPLANATION 
+Cheap 1-10 
+The product is cheaply made. Breakpoints of Cheap products are reduced by 50%. 
+Weapons: Reduces Base Damage by 5 and Pierce by 2. If the weapon does not have Pierce, it loses 6 Base Damage, 
+instead. 
+Armor: Reduces Armor Rating on all Locations by 5. 
+Vehicles: Reduces Acceleration, Braking, and Top Speed by 50%. 
+Poor 11-20 
+The product is cheaply made. Breakpoints of Poor products are reduced by 25%. 
+Weapons: Reduces Base Damage by 1 and Pierce by 2. If the weapon does not have Pierce, it loses 2 Base Damage, 
+instead. 
+Armor: Reduces Armor Rating on all Locations by 3.  
+Vehicles: Reduces Acceleration, Braking, and Top Speed by 25%. 
+Standard 21-97 The weapon or armor is unchanged from the stats. 
+Premium 98-99 
+The product is high quality. Breakpoints of Premium products are increased 50%. 
+Weapons: Increases Base Damage by 1 and Pierce by 2. If the weapon does not have Pierce, it gains 2 Base Damage, 
+instead. 
+Armor: Increases Armor Rating on all Locations by 2.  
+Vehicles: Increases Acceleration, Braking, and Top Speed by 10%. 
+World-
+Class 100 
+The product is near perfection. Breakpoints of World-Class products are doubled. 
+Weapons: Increases Base Damage by 3 and Pierce by 2. If the weapon does not have Pierce, it gains 4 Base Damage, 
+instead. 
+Armor: Increases Armor Rating on all Locations by 4. 
+Vehicles: Increases Acceleration, Braking, and Top Speed by 20%.
+
+===== PAGE 6 =====
+6 
+ 
+RESEARCH AND MANUFACTURING 
+ 
+RESOURCES 
+Resources are needed for manufacturing or can be used for trading. 
+Resources are the materials needed for manufacturing goods and 
+creating prototypes. 
+Resources will always be cheaper than the final product, 
+and the resource needed is equal to 40% of the total price of the item 
+being made. Resources are generally purchased in bulk but can still 
+be purchased in small enough amounts for the need of creating single 
+items or prototypes. 
+ 
+FABRICATION AND MANUFACTURING 
+Manufacturing goods is both an expensive and lucrative business 
+option, allowing Characters to research, gather materials, and begin 
+mass-production of desired items for the use of selling, trading, and 
+use on the battlefield. 
+ Fabrication and Manufacturing requires owning 
+manufacturing plants and warehouses or renting out the use of these 
+services from others.  The Players and GM must first discuss and 
+decide the approach the Players will be taking. Are they going to own 
+the means of their own production, or will they be paying for the 
+means of production. 
+ To begin this process, the Characters must first have a 
+Prototype created, alongside a detailed process for the creation of the 
+object that can be followed for mass-production. 
+ 
+RESEARCHING FOR MANUFACTURING 
+Using a fitting Education or hiring someone with said Education, the 
+Character must roll an Education Test. The amount of time needed to 
+complete the research to begin prototyping is listed in the table 
+below. For each Character assisting in the Research, the Test is 
+reduced by 1D10, to a minimum of half of the dice originally listed. 
+ 
+COMPLEXITY OUTCOME 
+Simple 
+Commonly mass -produced goods. Examples 
+include culinary, brewing, tailoring goods, etc. 
+1D10+10 days, reduced by 1 day for each Degree of 
+Success. 
+Basic 
+Commonly mass -produced goods that have some 
+complicated parts, materials, or manufacturing 
+needs. Examples include standard firearms, normal 
+body armors, agriculture needs, etc. 6D10+15 days, 
+reduced by 1 day for each Degree of Success. 
+Advanced 
+Rarely produced goods or mass -produced goods 
+that have many complicated needs to create. 
+Examples include non-standard firearms, 
+aeronautics, military, etc. 8D10+25 days, reduced 
+by 1 day for each Degree of Success. 
+Cutting-Edge 
+New, incredibly rare goods, or goods that are 
+almost never produced in large numbers. Examples 
+include Slipspace, alien technology, military 
+prototypes, etc. 10D10+30 days, reduced by 1 day 
+for each Degree of Success. 
+ 
+PROTOTYPING 
+Prototyping is when a Character has early versions of the goods 
+developed for testing. Prototyping can be an expensive process that 
+can be eased by reverse-engineering and Infrastructure. 
+ Prototypes cost money to create. Each day, creating 
+Prototypes of a product costs cR equal to the final cost of the product, 
+not counting Premium or World -Class products. This means that the 
+more the Character fails on a prototype, the more expensive it 
+becomes. The goal is to get the Prototype Characteristic of the item 
+being made to a set value based on its complexity.  For example, a 
+Basic complexity prototype needs a Prototype Characteristic of 80 to 
+be considered a complete success. 
+ To begin prototyping, the Character will make an Education 
+Test fitting to the product being created , or an Intellect Test without 
+the Education. Simple Prototypes gain a +20 Bonus, Basic Prototypes 
+gain no Bonus or Penalty, Advanced Prototypes gain a -10 Penalty, 
+and Cutting-Edge Prototypes gain a -20 Penalty. 
+ For every Degree of Failure, the Character will have wasted 
+a day and gain no progress. For every Degree of Success, the 
+Character gains +10 to the Prototype Characteristic and add 1 day to 
+the amount of time that has passed. 
+ Depending on the complexity of the product being created, 
+the Prototype Characteristic must equal a set number to be 
+considered finished and without any faults. This means your product 
+will be ready for manufacturing. 
+ 
+IMPROVING QUALITY 
+There are two types of Qualities that can be obtained only by pushing 
+a Prototype far beyond its original needed Characteristic. These are 
+Premium and World-Class. Certain items also gain extra benefits, such 
+as firearms, armor, vehicles, and more. 
+Premium Quality increases the price a product can be sold 
+by, by double. 
+World-Class Quality increases the price a product can be 
+sold by, by quadruple. 
+ 
+COMPLEXITY STANDARD PREMIUM WORLD-CLASS 
+Simple 200 300 400 
+Basic 300 450 600 
+Advanced 400 600 800 
+Cutting-Edge 600 900 1,200 
+ 
+CHEAP AND POOR QUALITY 
+Sometimes there is need for lower quality goods, such as cheaper, 
+less premium goods that lower -income families can afford. Some 
+businesses may also look for lower -quality tools and goods to 
+purchase to make their own products with. The players can 
+purposefully reduce the Quality of a product to Cheap or Poor. 
+ Depending on the product and reasoning of the Players, the 
+GM can decide not to punish the players for making lower quality 
+goods. As an example, cheap vehicles can be created for lower prices 
+to increase the possibility of selling the vehicle as an affordable 
+option. 
+ 
+LARGE-SCALE PROTOTYPING 
+The larger the scale that a prototype is, the longer it will take and the 
+possibility of more needs to finish the project. For example, vehicles 
+are larger than something like creating a firearm. These will take more 
+time. 
+ For every Size Point of a vehicle prototype, it will take 1 
+extra day per each Test made and the Character will need access to a 
+garage or enough room outside to perform the work needed. 
+ For things like starships, every Test will instead take 1 week 
+to be made and the Character will need access to a ship dock and the 
+tools it takes to manufacture something of this scale. 
+ 
+REVERSE ENGINEERING FOR PROTOTYPING 
+Reverse Engineering a similar product will give benefits to the 
+Prototype Characteristic. Each day when the Character is rolling the 
+Test to attempt to increase their Prototype Characteristic, the 
+Character must also roll a Technology Test. This will be the Character 
+attempting to understand and make use of the existing product or 
+item as they work on their own prototype.
+
+===== PAGE 7 =====
+7 
+ 
+ For every Degree of Success on the Technology Test, the 
+Character will gain an extra +5 Bonus to the Prototype Characteristic, 
+to a maximum of +20. 
+ If the Character gains half or more of their total Prototyping 
+Characteristic on the product from reverse engineering, the GM can 
+allow for eventual issues where the Character can get in trouble for 
+copying a product, infringing on copyrights, etc. 
+ When attempting to reverse -engineer alien technology, 
+make sure the Character is rolling on the proper Technology  
+Characteristic needed. The GM should also make sure to introduce 
+Penalties based on the possible complexity of the item being reverse 
+engineered. 
+ 
+AI ASSISTED PROTOTYPING 
+When an Smart AI or Dumb AI Character is assisting in the Prototype 
+phase of a product, they are able to make double the Prototype Tests 
+per day, and every Degree of Failure will take half of a day, instead of 
+a full day. 
+ 
+UNFINISHED PROTOTYPES 
+If a Prototype is unfinished, but the Character wants to rush it into 
+production, the Character must roll on the chart below. The Character 
+must roll a D100 and add the total amount of missing Prototype 
+Characteristic needed to finish the Prototype. For ex ample, if the 
+Prototype was at 80, then the Character will roll D100+20.  It is up to 
+the GM to decide what type of possible issue the prototype will have. 
+ 
+1D100 OUTCOME 
+1-20 The product is reliable and works fine. There is no 
+seeming issues with the prototype. 
+21-50 
+The product is unreliable after prolonged use. This 
+could mean having reloading or jamming issues on 
+firearms, issues with molding on food, etc. 
+51-60 The product is heavier than the original intended goal 
+by 25%. 
+61-80 
+The product is disruptive after prolonged use. This 
+could mean rounds exploding in the chamber of a gun, 
+parts breaking after a month of use, and electronics or 
+vehicles being prone to part failure. 
+81-100 
+The product is difficult and expensive to repair, 
+doubling the price and time needed to repair. There is 
+also a chance that smaller shops will refuse to work or 
+refurbish the product. 
+101-120 
+The product is more expensive than originally 
+intended, increasing the price per product by 25%, to 
+a minimum of 1 cR. 
+121-130 
+The product is disruptive when trying to use it, having 
+a high chance of issues of use, whether it be longer 
+reloads on a gun, being difficult to use or understand, 
+or be unattractive as a competitor to other products. 
+131-140 The Product is considered Poor Quality on the Quality 
+Chart. 
+141-150 The Product is considered Cheap Quality on the 
+Quality Chart. 
+151+ 
+The product has more than one issue. Reroll on this 
+chart two times. If this has been rolled on more than 
+once, continue to reroll. 
+ 
+SELLING PRODUCTS 
+Selling a product is not a guaranteed process. Sometimes product will 
+take a long time to sell, other times a product may never find a place 
+in the market. A strong product with good research will go a long ways 
+to make sure that a product is successful. 
+ When a product is ready to hit the market, the Player will 
+make a Charisma, Leadership, or Intellect Test. This can be improved 
+by various fitting Educations depending on the market, product, or 
+locations the product will be sold. 
+ The GM can then give a +10 Bonus to the Test if the 
+Characters involved made proper research and followed necessary 
+procedures. The Character gain also gain a +10 Bonus for each 
+partnership that was gained or used to make the product, such as 
+military bodies, investors, banks, merchants, and other corporations. 
+ Products that have a common use will also gain another +10 
+Bonus to this Test, and Products that don’t have competition and 
+have a market can gain an extra +10 Bonus to this Test. Some products 
+may also have almost no chance of failure and the GM should t ake 
+this into account. 
+ Products that were built from unfinished prototypes will 
+give a -10 Penalty to the Test for every issue that was rolled. Issues 
+that can be seen right away will give an extra -10 Penalty to the Test. 
+ The Characters can also decide to sell their product at a 
+higher cost or  selling a lower -quality item for the same price as a 
+higher-quality competitor. If the product cost is considered too much 
+higher, especially higher compared to rivaling products, the GM can 
+give extra Penalties to this Test, anywhere from -10 all the way to -40, 
+depending on the severity of the price difference. 
+ 
+SUCCESS OR FAILURE OF THE SELLING TEST 
+If this Test fails, the product fails to sell 20% of the total product. For 
+each Degree of Failure, the percentage of unsold products is 
+increased by +10%, to a maximum of 100%. 
+ If this Test succeeds, the product succeeds in selling, and 
+each Degree of Success will help increase the time in which the sales 
+are made. Each Degree of Success will increase the amount sold by 
+10%, to a minimum of +1 sold per day. 
+ 
+RATE OF SALES 
+The rate at which goods will sell is based on the success of the 
+product. Starting at 1 sold per day, each Degree of Success on the 
+previous Selling Test will increase this by +10. This number is then 
+increased by the Infrastructure Characteristic that the Characters may 
+have.  
+The speed of sales can be increased by taking out adspace. 
+Adspace is a Characteristic that will increase how many are sold per 
+day, which will begin at 0 and increase by 5 for every 100 cR you 
+spend. The Character then makes an Intellect, Charisma, or 
+Leadership Test. For every Degree of Failure, adspace is reduced by 1. 
+For every Degree of Success, adspace is increased by 1 . The GM may 
+give bonuses to this Test if the Players have a good plan for adspace 
+and properly roleplay it, the better the idea, the higher the Bonus 
+should be. The same can also go for penalizing bad ideas. 
+ 
+SELLING IN BULK 
+Characters can gain business partners who can agree to buy certain 
+amounts of products. This could be a partner that agrees to buy a set 
+amount, a percentage of total production, or even an agreement to 
+buy all that is produced.  
+ Selling in bulk to a company like this will reduce that 
+amount needed to sell through rate of sales. If the company agreed 
+to buy all that was produced, then the Rate of Sales could be ignored 
+entirely. Examples of this could include the UNSC purchasing all of the 
+firearms you are producing, or a food chain purchasing 50% of all food 
+items you are producing. 
+ These could come with agreements made between the two 
+parties. A company agreeing to purchase all goods could come with 
+the downside that they would purchase them at a lower amount. But 
+the upside comes from the fact that you know all of these products 
+will be sold regardless.
+
+===== PAGE 8 =====
+8 
+ 
+PRODUCTION AND INFRASTRUCTURE 
+ 
+PRODUCTION LINES:  TIME AND COST 
+Production Times will be based off of the complexity of the items 
+being created per production line, as well as the Plant type needed to 
+perform the manufacturing process. 
+ The cost will be based on the item and the production 
+needed. This does not cover the Resources needed but does cover the 
+cost of  energy, employees, and miscellaneous supplies needed for  
+running the line. 
+ 
+LINE TIME AND COST 
+Food Line 
+Time: 1 hour per 10 items. 
+Bulk: Costs 10% of the item to manufacture. 
+Single: Costs 50% of the item to manufacture. 
+Cost to own: 500 cR per line. 
+Space: Takes up 1,000 Square Meters for full line. 
+Standard 
+Production 
+Line 
+Time: 1 hour per 5 items. 
+Bulk: Costs 20% of the item to manufacture. 
+Single: Costs 75% of the item to manufacture. 
+Cost to own: 650 cR per line. 
+Space: Takes up 1,500 Square Meters for full line. 
+Large 
+Assembly 
+Line 
+Time: 4* hours per item. 
+Bulk: Costs 30% of the item to manufacture. 
+Single: Costs the price of the item to manufacture. 
+Cost to own: 780 cR per line. 
+Space: Takes up 10,000 Square Meters for full line. 
+Shipyard 
+Assembly 
+Line 
+Time: 1* week per item. 
+Bulk: Costs 40% of the item to manufacture. 
+Single: Costs the price of the item to manufacture. 
+Cost to own: 15,000 cR per line. 
+Space: Takes up 250,000 Square Meters for full line. 
+Advanced 
+Production 
+Line 
+Time: 4 hours per item. 
+Bulk: Costs 40% of the item to manufacture. 
+Single: Costs 2x the price of the item to 
+manufacture. 
+Cost to own: 2,000 cR per line. 
+Space: Takes up 3,000 Square Meters for full line. 
+ 
+FOOD LINE 
+Food Lines are your sanitized production lines designed for handling 
+food. These are assembly lines with multiple stations, each designed 
+to handle different foods in different ways. Preparation and cleaning 
+are an important part of this type of production line.  These types of 
+production lines are also used for things like pesticides, herbicides, 
+and other agricultural products, as well. 
+ 
+STANDARD PRODUCTION LINE 
+Standard Production Lines cover a vast swath of production line use. 
+These will cover your simple and basic goods. Examples include 
+household goods, kitchen appliances, hygiene and cleaning solutions, 
+and more. Some more industrialized production lines can also handle 
+simple firearm designs such as pistols and rifles. 
+ 
+LARGE ASSEMBLY LINE 
+Large Assembly Lines are designed for various large -scale products, 
+whether it be vehicles, modular building pieces, or anything else that 
+takes a considerable amount of size to produce. Large Assembly Lines 
+can handle many large-scale projects as long as they aren’t as large as 
+something like a UNSC Frigate, or anything else that could house 
+hundreds of passengers. 
+ Large Assembly Lines will take an additional hour per every 
+5 Size Points of a Vehicle. This can be used to figure additional large, 
+non-vehicle items to manufacture of similar size. 
+ 
+SHIP YARD ASSEMBLY LINE 
+Ship Yard Assembly Lines are Assembly Lines designed for use in a 
+Ship Yard  or Drydock. These are production facilities spanning 
+kilometers in size, designed to build some of the largest marvels 
+Humanity has ever designed. 
+ The time it takes to assemble is increased by 1 for every 2 
+Ship Size the Ship is, which can be found in the Mythic Space 
+expansion handbook. 
+ 
+ADVANCED PRODUCTION LINE 
+Advanced Production Lines are engineering marvels. These high -
+precision production lines allow for some of the most advanced and 
+cutting-edge products to be produced. These are used for computer 
+engineering, laser integrations, micro-assembly, and production lines 
+used for “Advanced” and “Cutting-Edge” products. 
+ 
+RENTING PRODUCTION LINES 
+A Production Line can be rented for 10% of the listed Cost to Own 
+price for 1 month.  When attempting to rent a Production Line, the 
+Character must make a  +20 Investigation Test. If Successful, the 
+Character will find an available Production Line to rent out. 
+ If Failed, the Character will have to wait 1 month for every 
+Degree of Failure before they can rend the Production Line. 
+ 
+FABRICATION LINES 
+Fabrication Lines are highly complex and compact manufacturing 
+lines that are designed to be on UNSC ships and space stations.  
+Fabrication Lines will have the same Bulk and Single Cost for 
+production but  will always cost double the Cost To Own price. 
+Fabrication Lines will also double the output time of their production 
+line counterpart. 
+ A Fabrication Line is 10 times smaller than a Manufacturing 
+Line of its size, allowing much more to be fit into a single location. This 
+allows ships like Phoenix-Class Colony Ships to have massive 
+production lines to manufacture vehicles, weapons, and armor while 
+still staying mobile. 
+ 
+HAND-MADE PRODUCTION 
+Character Production is where a Character is performing the product 
+of an item, themselves. This is for when a Character is attempting to 
+make products without the use of Production Lines, Manufacturing 
+facilities, or Fabrication Lines. 
+ If a Character has a finished Prototype, they will be able to 
+create an item at a lower  speed listed in the Time and Cost Table 
+under “Production Lines: Time and Cost.” Food items are at 1/3rd the 
+listed time, Production Line items are at 1/5 th the time, Large 
+Assembly are at 1/10th of the time, Shipyard items are at 1/1000th the 
+time, and Advanced items are at 1/100th of the time. 
+ When making items by hand like this, the Character will be 
+free from the cost of manufacturing and will only need to cover the 
+Resource costs. 
+ 
+INFRASTRUCTURE 
+Infrastructure is the rate at which the Characters have built up 
+resources that will assist them in getting what they need, whether it 
+be from trading, deals, purchases, or manufacturing. The more work, 
+buildings, contacts, employees, and technology the Ch aracters have 
+established, the higher their Infrastructure Characteristic will 
+become. 
+ For every 10 in Infrastructure, the Characters gain a +5 
+Bonus to Prototyping, finding Traders, Sellers, and Brokers, and 
+buying in bulk is reduced by a further +1%. Infrastructure cannot rise 
+above 100 and buying in bulk is capped to a total of +10%.
+
+===== PAGE 9 =====
+9 
+ 
+BUILDING CONSTRUCTION 
+For the UNSC, construction of buildings is designed to be fast, 
+standardized, and modular. Prefabricated Construction is common in 
+the world of Halo, where standardized components are assembled 
+and disassembled easily. This allowed for rapid deployment on newly 
+established colonies or on war-torn planets. 
+ Construction of a Building will take 1 day for every 750 
+Square Meters. If a Character wants the building to be less uniform 
+and standardized, they can have an architect design a building for 
+them. Non-standardized buildings will instead take 1 day for ev ery 
+450 Square Meters. 
+ If a building is being purchased in an area that needs to first 
+be cleared out, such as rubble, trees, or on very uneven land, it will 
+take 14 days to finalize the land for construction. 
+ 
+BUILDING DEMOLITION 
+When a Building is going to be demolished, the Character will first 
+need approval from the local Government. This takes 1D5 days, which 
+can be lowered by 1 for every Degree of Success on a Charisma Test. 
+Once Demolition begins, it will take 1 day for every 2,000 Square 
+Meters to demolish. It then takes 1 day for every 1,000 Square Meters 
+to clean up the demolished rubble. 
+ The Character can then sell the demolished building 
+material for 1/10th of the original price of the purchased building. 
+ 
+SELLING A BUILDING 
+When selling a building, the Character has two options. To sell it on 
+their own, or to hire a Commercial Real Estate to sell it for them.  
+When selling the building on their own, the Character must 
+make an Investigation Test. Starting at 30 days, every Degree of 
+Success will reduce it by 3 days, to a minimum of 1. This will be how 
+long it takes to find a buyer. The Character must then begin 
+Negotiation Tests to figure pricing. Most of the time, a buyer will 
+attempt to purchase the building at 50% of its original cost. For every 
+Degree of Success on a Negotiation Test, the Character will increase 
+the amount the building will sell by +10%, to a maximum of 80%. 
+When selling using a Commercial Real Estate (CRE), the 
+Character will have to do no work and the building will be sold in 1 
+week. The Character will receive 60% of the building’s original price. 
+ 
+PURCHASING BUILDINGS 
+Buildings can be purchased based on type and size. The larger the 
+building or the larger the needs, the more expensive each building will 
+become. Once purchased, these buildings are owned. If the GM wants 
+to be especially mean, he can have a yearly 5% property tax  per 
+building owned. 
+ 
+BUILDING COST AND INFRASTRUCTURE 
+Warehouse 
+Cost: 500 cR per 3,000 Square Meters 
+Allied: +2 Infrastructure 
+Owned: +5 Infrastructure 
+Office Building 
+Cost: 100 cR per 1,000 Square Meters, 15 
+Square Meters per employee 
+Allied: +5 Infrastructure 
+Owned: +15 Infrastructure 
+Factory 
+Cost: 1,000 cR per 3,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +15 Infrastructure 
+Shipyard 
+Cost: 5,000 cR per 50,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +15 Infrastructure 
+Dry Dock 
+Cost: 3,500 cR per 50,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +15 Infrastructure 
+BUILDING COST AND INFRASTRUCTURE 
+Storefront 
+Cost: 100 cR per 1,200 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +10 Infrastructure 
+Space Station 
+Cost: 15,000 cR per 50,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +15 Infrastructure 
+Trade Outpost 
+Cost: 100 cR per 1,000 Square Meters 
+Allied: -- Infrastructure 
+Owned: +5 Infrastructure 
+Research 
+Facility 
+Cost: 2,500 cR per 20,000 Square Meters 
+Allied: +10 Infrastructure 
+Owned: +20 Infrastructure 
+Black Market 
+Cost: 1,000 cR per 1,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +15 Infrastructure 
+Bank 
+Cost: 1,500 cR per 1,000 Square Meters 
+Allied: +10 Infrastructure 
+Owned: +20 Infrastructure 
+Mining Facility 
+Cost: 4,000 cR per 1,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +20 Infrastructure 
+Medical 
+Facility 
+Cost: 2,750 cR per 20,000 Square Meters 
+Allied: +10 Infrastructure 
+Owned: +20 Infrastructure 
+Transportation 
+Hub 
+Cost: 1,500 cR per 25,000 Square Meters 
+Allied: +10 Infrastructure 
+Owned: +20 Infrastructure 
+Mechanic 
+Garage 
+Cost: 1,500 cR per 1,000 Square Meters 
+Allied: +10 Infrastructure 
+Owned: +20 Infrastructure 
+Space Elevator 
+Cost: 100,000 cR per Elevator 
+Allied: +5 Infrastructure 
+Owned: +35 Infrastructure 
+Entertainment 
+Building 
+Cost: 700 cR per 3,000 Square Meters of factory 
+Allied: -- Infrastructure 
+Owned: +5 Infrastructure 
+Casino 
+Cost: 5,000 cR per 3,000 Square Meters 
+Allied: -- Infrastructure 
+Owned: +5 Infrastructure 
+Education 
+Facility 
+Cost: 700 cR per 3,000 Square Meters 
+Allied: -- Infrastructure 
+Owned: +10 Infrastructure 
+Apartment 
+Complexes 
+Cost: 200 cR per 800 Square Meters, 80 Square 
+Meters per Apartment in the complex 
+Allied: -- Infrastructure 
+Owned: +15 Infrastructure 
+Farmland 
+Cost: 300 cR per 5,000 Square Meters 
+Allied: +5 Infrastructure 
+Owned: +10 Infrastructure 
+Housing 
+Cost: 200 cR per 200 Square Meters 
+Allied: -- Infrastructure 
+Owned: +5 Infrastructure
+
+===== PAGE 10 =====
+10 
+ 
+SPENDING INFRASTRUCTURE 
+Infrastructure can be spent to increase aspects of locations, such as 
+growing locations or increasing their Availability, reducing the costs 
+of manufacturing goods, and more. Spent Infrastructure cannot be 
+regained unless the chosen benefit was removed. The GM may allow 
+for multiple of each Infrastructure option to be spent at a time. 
+ 
+OPTION COST 
+Availability 
+Increase 
+Increases the availability of a type of item on the 
+Availability Table by 5% per each Location.  
+This costs 25 Infrastructure. 
+Manufacturing 
+Cost 
+Reduction 
+The cost of manufacturing items in bulk is 
+reduced by 10%. This cannot be gained on items 
+that are not being produced in bulk. 
+This costs 30 Infrastructure. 
+Prototype 
+Research 
+The amount of Prototype Characteristic gained 
+per day is increased by 5.  
+This costs 20 Infrastructure. 
+Sales 
+The Test made to sell products and the speed of 
+selling the product is given a +20 Bonus. 
+This costs 20 Infrastructure. 
+Routes 
+Gain trade routes to a location of choice that 
+didn’t exist. This will remove Tolls. 
+This costs 15 Infrastructure. 
+Tariff 
+Reduction 
+Reduces the amount that you are charged from 
+Tariffs by up to 5%. 
+This costs 20 Infrastructure. 
+Bulk Rates Reduces the Bulk upfront cost by 10%. 
+This costs 15 Infrastructure. 
+ 
+WAREHOUSES 
+A Warehouse is a large building specifically designed for storing 
+goods. A building’s usable Storage Space will be 2/3rds of its total 
+Square Meters. The rest will be for employees, offices, and machinery 
+storage needed to run a warehouse. 
+ Warehouses will have efficient storage and organization, 
+loading and unloading docks that can be accessed by truck and ship, 
+and capable of holding both finished product and resources. 
+ 
+OFFICE BUILDINGS 
+An office building is a large building designed to be filled with 
+individual workers using cubicles, office rooms, and meeting rooms. 
+They are designed using shared areas and administrative functions 
+that allow these workers to work efficiently. These are needed for 
+when a Company has large amounts of Infrastructure, which can only 
+be sustained by having workers that can keep things moving 
+smoothly. 
+ 
+FACTORIES 
+Factories are your Production, Manufacturing, and Fabrication 
+buildings. These are buildings that turn Resources into Products using 
+production lines. Factories are what make large -scale production 
+possible. However, Factories cannot hold large ships, such as naval 
+and space ships. 
+ 
+SHIP YARDS 
+Shipyards are not your average brick-and-mortar buildings. These are 
+massive sprawling complexes of enclosed and open -space facilities, 
+each tasked with constructing specific units of these ships. Ship yards 
+are comprised of giant construction docks, specialized workshops, 
+material storage and logistic buildings, and Zero -G construction 
+facilities. There is nothing simple about creating a ship that can 
+survive the dangers of space. 
+ 
+ 
+DRY DOCKS 
+A Dry Dock can be one of two types of facilities: A storage facility for 
+space ships, or a storage facility for naval ships.  
+Dry Docks house many features  other than just docking 
+stations, such as Orbital Repair Facilities to keep up with repairs on 
+ships, Docking Bays to handle pressurized docking bays, and 
+Specialized Equipment for towing, repairing, and diagnosing ships of 
+all shapes and sizes. 
+ 
+STOREFRONTS 
+A Storefront is a smaller building used to sell goods and services. 
+These can be designed and fit into many types of locations, such as 
+Shopfronts on Ships and Stations, Showrooms for showcasing 
+products, Interactive displays, and for limited physical storage. This is 
+where your average consumer will travel to purchase goods. 
+ Owned storefronts can increase the base daily sold goods 
+by 25%, each. 
+ 
+SPACE STATIONS 
+A Space Station is a vast self -contained orbiting system designed for 
+one of many purposes. Orbital Homes are space stations provided as 
+a place of living. Scientific Outposts are stations reserved for scientific 
+research facilities. These offer ways to safely test in vacuums, zero 
+gravity, or away from civilians that could be harmful.  Trading Hubs 
+offer commercial centers for traveling ships. Military systems are 
+complex systems that offer defensive and offensive measures, as well 
+as last-line defense against invading forces. 
+ 
+TRADE OUTPOSTS 
+Trade Outposts are smaller, more rudimentary operations focused on 
+commerce in outer regions of space or in far -off locations.  These 
+could include Frontier Commerce Hubs that are outposts on 
+spaceports or stations, or trading outposts that are part of a larger 
+trading outpost location in a settlement or a far-off bustling city of 
+another local Government. 
+ Trade Outposts can increase the base daily goods sold by 
+10%, each. 
+ 
+RESEARCH FACILITY 
+Research Facilities are large complexes designed to improve the study 
+and understanding of product creation. Research Facilities can house 
+specialized labs and implement data facilities for speeding up the 
+capabilities of Prototype Research. Only one Research Facility can 
+work on a Prototype at a time, and will give a +20 to each Prototype 
+Test. 
+ 
+BLACK MARKET BUILDING 
+Owning a piece of land dedicated to black market dealings is both 
+risky and incredibly profitable. These allow Characters the ability to 
+sell illegal goods  under the guise of a different company or product 
+being sold. 
+ 
+BANK 
+Banks allow for the Character to lend and store currencies. These are 
+buildings that demand incredibly tight security and offer a few 
+functions for Characters that they didn’t have access to previously. 
+ Banks allow the Character to loan out cR, meaning that now 
+the Character can begin making passive currency over time. The 
+Character would also need to make sure they are paid back. It also 
+allows for the storage of currency and the ability to invest. When a 
+Bank is purchased, the Character will make a Charisma Test. For every 
+Degree of Success, the Character will gain 5% of their total owned cR 
+at the end of a fiscal year, to a maximum of +15%.
+
+===== PAGE 11 =====
+11 
+ 
+MINING FACILITY 
+Mining facilities allow for the mining, processing, and refinery of 
+Resources, allowing for Characters to slowly gain Resources without 
+the need of constantly purchasing them. 
+ For every 1,000 Square Meters  of Mining Facility, the 
+Facility will generate 25 cR worth of Resources per day  after figuring 
+costs of employment and refinery costs. 
+ 
+MEDICAL FACILITY 
+Medical Facilities are doctors’ offices, hospitals, and other medically-
+specialized facilities. These can be for emergency care, long -term 
+care, medical testing and storage, quarantine preparation, and 
+telemedicine. These facilities can also be used to heal Characters’ 
+Wounds, Fatigue, Special Damage, and other medical effects by 
+offering Extended Medical Tests with guaranteed Success on Tests. 
+ 
+TRANSPORTATION HUB 
+A Transportation Hub is a planet -side port that offers transportation 
+options for community, military, and industrial needs. These are 
+interstellar travel ports, docking facilities, ticketing and customs, 
+cargo processing, passenger amenities, and information hubs. Thes 
+can be used for both private and public needs. 
+ 
+MECHANIC GARAGE 
+A Mechanic Garage is a service that offers vehicle repair, service, and 
+checkups. These can be used for parts and upgrading, or just general 
+repair needs. Mechanic Garages can be used to repair Breakpoints of 
+Vehicles. 
+ 
+SPACE ELEVATOR 
+Space Elevators are large, expensive elevators that are anchored to 
+the ground, which allows for goods and personnel to be ferried into 
+an anchored space station. These can be used to cheaply transport 
+billions in kilograms at a time, allowing for a very powerful, very 
+reliable way of moving goods off-planet without wasting time or fuel. 
+ 
+ENTERTAINMENT BUILDING 
+Entertainment Buildings are buildings that have a source of 
+entertainment of the Character’s choosing. These could be 
+convention halls, movie theaters, classical theater, etc. 
+ Entertainment Buildings will generate 1D100 cR per month 
+per 3,000 Square Feet. 
+ 
+CASINO 
+A Casino is an entertainment establishment designed to be addictive. 
+These are large buildings with minimal daylight and remarkable 
+designs and entertainment.  Casinos can be a good generation of 
+funds each month.  
+(X) is the multiplier that decides how much profits the 
+Characters receive. For every 3,000 Square Meters the Casino has, (X) 
+is increased by +2.  However, if the Casino is in an Outpost, the 
+multiplier is removed  and the Test gains +40 . If in a Town, the 
+multiplier is reduced by -3 and the Test is increased by +20. If next to 
+another Casino, the multiplier is reduced to -2, and the Test is 
+increased by +10.  
+ 
+D100 CASINO RESULTS PER MONTH 
+1-80 10D10*(X) cR earned for the month. 
+81-94 No extra money earned during the month. 
+95-100 Loss of 3D10*3 cR for the month. 
+ 
+APARTMENT COMPLEX 
+An Apartment Complex allows for the Character to create sustainable 
+housing. The rent begins at a default 1 cR per day and is paid at the 
+end of each mon th. The cR gained will be at the end of the month, 
+with each tenants’ rent is combined to be your monthly profit.  Each 
+Apartment is designed to house up to 4 people without issue. 
+ For every 1 cR the daily rent is raised, there is a 10% chance 
+for each Tenant to move out. 
+ 
+HOUSING 
+Housing allows for the Character to create sustainable housing for 
+single families. These are higher luxury housing that can be sold or 
+rented out. A house can be sold at double the Cost it was built for and 
+any gained Infrastructure will be lost. It will take 2 m onths to sell the 
+House. The rent of a house will be 2 cR per day and is paid at the end 
+of each month. Each house is designed for up to a family of 6. 
+ For every 1 cR the daily rent is raised, there is a 20% chance 
+for the Tenant to move out. 
+ 
+FARMLAND 
+Farmland allows for Characters to create sustainable food resources. 
+Every 5,000 Square Meters of Farmland owned can create enough 
+food to feed 100 people before processing and improvements made. 
+Processing this food product can double the amount of people each 
+5,000 Square Meters can feed. 
+ 
+TAXES, TARIFFS, TOLLS 
+At the end of a fiscal year, which can be set by the GM, Characters 
+must make sure that their taxes have been paid. The Character should 
+make sure to save 5% of their total sales from products and business 
+dealings to pay taxes for. Loaning and borrowing money do not count 
+for this. 
+ Tariffs are a tax that can be imposed by another 
+Government on goods and services imported from elsewhere. These 
+are used by some locations to influence native products to be 
+purchased and to raise revenue. The GM may decide that a location 
+the Players are trying to sell a product to has a tariff, which would 
+mean that a second tax of 5% would be applied to anything sold 
+within that location, as an example. 
+ Tolls are areas where passing through checkpoints or into 
+locations will cost money. A GM could set up a toll that could cost the 
+players when delivering or receiving goods, resources, and products. 
+This could be as low as 1 cR per passage or  could be as severe as 
+charging for each and every vessel or type of product on the vessel. It 
+is up to the GM and how corrupt or untrusting of outside products 
+the local Government can be. 
+ 
+SMUGGLING 
+Smuggling can allow a Character to surpass Tariffs and Tolls  by 
+smuggling goods and people.  To make things simple, the Character 
+should make a Camouflage Test, where the Test gains a -10 Penalty 
+for every 1,000 kg of equipment being smuggled, and a -5 Penalty for 
+every 10 Characters being smuggled. 
+ If failed, the law enforcement will be onto the Character. If 
+caught, all smuggled Characters will be jailed and fined, while all 
+goods being smuggled will be impounded and sold to make up for the 
+fines the Character will have gained. The GM may also jail the Player 
+Character involved if he wants to be mean.
+
+===== PAGE 12 =====
+12 
+ 
+BANKS AND LOANS 
+A Character can borrow money from a Bank or gain financers from 
+holdings groups, companies, and individuals. To do so, the Player 
+must first seek out gaining a Business Loan. Loans are expected to be 
+paid back within an agreed timespan with an included extra amount 
+that must be paid back called an Interest Rate. The higher the Interest 
+Rate, the more money that will need to be paid back. 
+There are three types of Business Loans, Small Business 
+Loan, Business Loan, and Large Business Loans. 
+ 
+INTEREST RATES 
+An Interest Rate is the cost that the Character is charged for 
+borrowing money, or the payment received for lending money. 
+Interest Rates are displayed as a percentage, which is a percentage of 
+the amount borrowed that is then added onto the total. 
+ If a Character borrowed 5,000 cR with an Interest Rate of 
+10%, the Interest Rate would be 500 cR, and the total amount the 
+Character would owe the Bank would be 5,500 cR. 
+ 
+SMALL BUSINESS LOAN 
+Small Business Loans are any Loans that are less than 1,000 cR. The 
+starting Interest Rate for these Loans are 10%. Small Business Loans, 
+on average, need to be paid back within 5 years. 
+ For every 100 cR borrowed, the Interest Rate is increased 
+by +0.5%, to a maximum of 12%. 
+ Interest Rates on Small Business Loans can be decreased by 
+1% for every year sooner you agree to pay off the Loan. 
+ The Interest Rates can also be reduced by 1% for every 150 
+cR the Character owns, to a maximum of 3% reduced this way. 
+ 
+BUSINESS LOAN 
+Business Loans are Loans that are more than 1,000 cR, but less than 
+50,000 cR. The starting Interest Rate for these Loans are 8%. Business 
+Loans, on average, need to be paid back within 7 years. 
+ For every 500 cR borrowed, the Interest Rate is increased 
+by +0.5%, to a maximum of 10%. 
+ Interest Rates on Business Loans can be decreased by 0.5% 
+for every year sooner you agree to pay off the Loan. 
+The Interest Rates can also be reduced by 1% for every 
+1,500 cR the Character owns, to a maximum of 3% reduced this way. 
+ 
+LARGE BUSINESS LOAN 
+A Large Business Loan are any Loans that are over 50,000 cR. The 
+starting Interest Rate for these Loans are 6%. Large Business Loans, 
+on average, need to be paid back within 10 years. 
+ For every 1,000 cR borrowed, the interest Rate is increased 
+by +0.5%, to a maximum of 10%. 
+ Interest Rates on Large Business Loans can be decreased by 
+0.5% for every year sooner you agree to pay off the Loan. 
+ The Interest Rates can also be reduced by 1% for every 
+5,000 cR the Character owns, to a maximum of 3% reduced this way. 
+ 
+FAILING TO PAY LOANS 
+When loans go unpaid, the Banks and other financers will have a few 
+options based on the amount of the loan that has gone unpaid. 
+ The first option is owning a percentage of the product or 
+company equal to the unpaid amount of the loan. This means that the 
+bank will then take that same percentage of all sales and money the 
+company has as long as they hold ownership. 
+ The second option is liquidation of owned assets. This 
+would be based on seizing product, machinery, buildings, or anything 
+else owned by the Character or company that could then be sold to 
+recoup the costs of the Loan. 
+ The third option is a rare option in which the Bank can agree 
+to give more time, however this comes at a cost of raising the Interest 
+Rate. For every 10% unpaid, the Interest Rate will be increased by 
++1%, to a maximum of +20%. The GM may then give extra time to pay 
+off the loan, generally equaling the time originally agreed on to pay 
+off the previous loan.  
+ 
+INSURANCE 
+Insurance is a service that offers protection against risks. A Character 
+will pay a regular fee known as a Premium in exchange for financial 
+protection against specific risks. 
+ There are three types of Insurance available: Business, Life, 
+and Liability. 
+ 
+INSURANCE COST 
+Business 1 cR per month for every 500 cR worth of assets. 
+Life 1 cR per month for every 200 cR payout on death. 
+Liability 1 cR per month for every 75 cR coverage. 
+ 
+BUSINESS INSURANCE 
+In the cutthroat world of business, unexpected events can threaten 
+your entire operation. Business insurance acts like a shield, protecting 
+your company's financial well -being. Business Insurance covers the 
+following: 
+Property: Protects your company’s physical assets (buildings, 
+equipment, product) from damage due to fire, theft, and natural 
+disasters. 
+Business Interruption : Provides financial support if your 
+business is forced to temporarily stop production due to covered 
+events (Fire damage, power outage, natural disasters). 
+Employee-Related Incidents: Covers costs associated with 
+employee injuries, illnesses, and lawsuits (Workmans compensation). 
+Cybersecurity: Protects your company from financial losses 
+caused by data breaches, cyberattacks, and cyber extortion. 
+ 
+LIFE INSURANCE 
+In the occurrence that a Character were to lose their life, Life 
+Insurance will offer a payout of a set amount of money . This offers 
+financial security to the loved ones of the Character who passed away, 
+but only under certain conditions. Life Insurance will not pay out if the 
+Character still has Luck. 
+ Life insurance will only cover deaths caused by the 
+following: Accidents, illness, old age, natural disasters.  If a death 
+occurs within 1 month of gaining Life Insurance, there will be no 
+payout and only a refund of the purchased insurance. 
+ 
+LIABILITY INSURANCE 
+Liability Insurance offers a safety net that protects the Characters 
+from financial ruin in the event of an accident or if the Character was 
+found legally responsible for causing harm to others or property. 
+ Liability Insurance covers accidents from vehicles, damage 
+to public and private property, and medical and judicial bills. 
+ In the case of the Character being found guilty of a felony, 
+the insurance provider reserves the right to refuse payment.
+
+===== PAGE 13 =====
+13 
+ 
+PATENTING YOUR PRODUCTS 
+Patenting a product allows a Character to have partial protection to 
+their designs. It costs 50 cR to patent a product. If another Character 
+(Player or NPC) is caught stealing or breaking the patent, the 
+Character can sue them. 
+ If it can be proven that the patent was breeched, the 
+Character can be given two options. The first option is to receive 50% 
+of all sales of that item. The second is to gain ownership of that 
+product that was breeching the patent. 
+ 
+LICENSING FOR PRODUCTS 
+Sometimes a Character will need to gain Licensing for a product in 
+order to begin production. This could be gaining a License for an 
+already-existing product that they will then begin producing for 
+another Company, and other times this would be getting a License so 
+you can begin production on your own products for it. 
+ For example, the Character would need a License to gain 
+the rights to begin manufacturing BR55 Battle Rifles.  There could be 
+an agreement in this license that the Character cannot make any 
+changes to the product. Another example includes gaining the License 
+to begin designing and manufacturing your own variants of Mjolnir. 
+This would be a case where the Player could freely begin making 
+changes needed to the Mjolnir. 
+ Without the Licensing for a Product made in this way, the 
+Character would be held in contempt for creating a Product that was 
+protected by a Patent. The Characters could also face serious prison 
+time and fines if they began stealing and using patented Military 
+Technology. Or worse, they could be assassinated by ONI. 
+ When working with a licensed product in this way, the 
+Characters could have a few types of contracts. A few examples could 
+include the following: 
+• The Characters  are under agreement to mass -produce 
+firearms for the UNSC. These Firearms can only be sold to 
+the UNSC and the UNSC will purchase all products.  The 
+design has to be original. 
+• The UNSC has allowed the Characters to produce a version 
+of a firearm for Civilian use. The UNSC and the original 
+company who designed the firearm will each receive 10% 
+of all final sales 
+• The Characters have an agreement to make new Mjolnir 
+designs. The UNSC gets final say after reviewing the 
+Prototypes before they are sent to mass production.  The 
+company and all Characters involved are under heavy UNSC 
+and ONI surveillance at all times. 
+• The Characters gain a contract to begin working on the next 
+possible replacement of the Battle Rifle. If the prototype 
+does well enough, they will be chosen over the competition 
+and will be given two choices: They can begin mass 
+production themselves and will be paid for each that are 
+made, or the Characters could receive a large lump -sum of 
+cR for their work and the UNSC will begin mass production 
+of the weapon.  This can be figured as the Characters 
+receiving 10% of the total amount that would be purchased 
+each time, while not having to handle the manufacturing, 
+research, and storage needed for such a large job. 
+ 
+INVESTING 
+Investing allows for a Character to put their trust and money in 
+another company, government, or business entity.  This is a risk and 
+reward venture where the higher potential of rewards comes with a 
+higher potential of risks. 
+ When a Character wants to invest, the GM will first roll as 
+many times as they desire on the Investing Table. This will give the 
+Characters ample choices to make purchases on. 
+ 
+D100 INVESTING TYPE 
+1-25 Stock 
+26-50 Startup 
+51-75 Company Share 
+71-100 Government Bond 
+ 
+Each time an Investing Type was rolled on, the GM will then roll on 
+the following Investment Cost Table to see how much each cost. 
+ 
+D100 INVESTMENT COST 
+1-11 Small Stock: 2D5 cR 
+11-22 Small Stock, on the rise: 2D10 cR 
+23-33 Small Stock, falling rates: 1D5+2 cR 
+34-44 Large Stock: 2D10+10 cR 
+45-55 Large Stock, on the rise: 3D10+10 cR 
+56-66 Large Stock, falling rates: 2D10+5 cR 
+67-77 High-roller Stock: 3D10+15 cR 
+78-88 High-roller Stock, on the rise: 4D10+25 cR 
+89-99 High-roller Stock, falling rates: 3D10+5 cR 
+100 New stock just went live: 10D5 cR 
+ 
+From here, the stock costs will change daily, however, the GM does 
+not need to follow these stocks every day. The GM should only roll to 
+see a change in the prices when major events happen, new products 
+release, or when the players ask. 
+ There are 3 types of tables, Positive, Negative, and 
+Fluctuation. You can use the following “Business Event” table to roll if 
+you do not have an idea of how to advance this “Stock storyline.” Let 
+random chance remove you from your Players’ ire. This table can also 
+be used for events that can happen in the Players’ business, as well. 
+ 
+BEING INVESTED IN 
+The Characters would be given an investment by another Company. 
+This would come in form of a Contract, similar to the examples given 
+in Licensing For Products. This can also be used for special company 
+investments that the Characters can perform.  
+The Characters could agree on an investment amount from an 
+outside Company for one of a few outcome examples: 
+• The Company gains partial ownership of the Character’s 
+company 
+• The Company gains a spot on the board of decisions and can 
+make demands and vote on company decisions. 
+• The Company would receive the Investment back, with a 
+small percentage cut  per each item sold, once sales have 
+begun. 
+• The Company receives a large percentage of each sales until 
+the investment has been paid back, and then receive a small 
+percentage of sales afterwards.
+
+===== PAGE 14 =====
+14 
+ 
+BUSINESS AND INVESTMENT EVENTS 
+ 
+D100 BUSINESS EVENT 
+1-2 Successful Product Launch: A new product launch exceeds expectations, boosting revenue and investor confidence.  
+(Stock Price Increase) 
+3-4 Resource Discovery: The company discovers a new resource deposit. (Stock Price Increase) 
+5-6 Favorable Contract Awarded: The company wins a lucrative contract with the UNSC or a major civilian corporation. 
+(Stock Price Increase) 
+7-8 Positive Press: The company receives positive press coverage for its technological advancements or ethical practices. 
+(Stock Price Increase) 
+9-10 AI Partnership: The company forms a partnership with a friendly AI, enhancing its production efficiency or logistic capabilities. 
+(Stock Price Increase) 
+11-12 Environmental Innovation: The company develops a new, sustainable technology that reduces its environmental footprint and attracts 
+eco-conscious investors. (Stock Price Increase) 
+13-14 Acquisition by Industry Leader: A major player in the industry acquires the company, offering a significant premium to shareholders. 
+(Stock Price Increase) [Player-owned businesses can decline this offer] 
+15-16 Unexpected Market Boom:  A surge in demand for the company's products or services due to unforeseen circumstances leads to 
+increased profits. (Stock Price Increase) 
+17-18 Unexpected Technological Breakthrough:  A research and development team achieves a surprising breakthrough, leading to new 
+product lines or production efficiencies. (Stock Price Increase) 
+19-20 Expansion into New Market: The company successfully expands its operations into a new star system or market sector. 
+(Stock Price Increase) 
+21-22 Merger or Acquisition: The company merges with a successful competitor, creating a market leader. (Stock Price Increase) 
+23-24 Discovery of New Application: A new use case is discovered for an existing product, significantly expanding the potential market. 
+(Stock Price Increase) 
+25-26 Positive Analyst Rating: A respected analyst firm issues a glowing report on the company, boosting investor confidence. 
+(Stock Price Increase) 
+27-28 Government Grant Awarded:  The company receives a government grant to fund research and development for a promising new 
+technology. (Stock Price Increase) 
+29-30 Unexpected Product Placement:  The company's product is featured in a popular holographic entertainment show or video game, 
+leading to a massive sales spike. (Stock Price Increase) 
+31-32 Social Media Frenzy: A user-generated social media campaign featuring the company's product goes viral, generating immense positive 
+publicity. (Stock Price Increase) 
+33-34 Discovery of Rare Resource: The company discovers a massive deposit of a rare and valuable resource, creating a strong grip on these 
+resources and skyrocketing profits. (Major Stock Price Increase) 
+35-36 Expansion into Unexplored Territory:  The company becomes the first to establish a major presence in a previously unexplored star 
+system, opening vast new markets. (In 1 month, roll on the Fluctuation Event Table.) 
+37-38 Philanthropic Efforts Praised: The company's charitable efforts are widely praised, leading to positive brand recognition and increased 
+customer loyalty. (Stock Price Increase) 
+39-40 Sustainable Manufacturing Process:  The company invents a new eco -friendly manufacturing process that eliminates waste and 
+reduces energy consumption. (Stock Price Increase) 
+41-42 New CEO Appointed: A new CEO is appointed, and investors wait to see what changes they will bring. 
+(In 1 month, roll on the Fluctuation Event Table.) 
+43-44 Change in Government Policy: A shift in government policy impacts the company's industry, creating uncertainty. 
+(In 1 month, roll on the Fluctuation Event Table.) 
+45-46 Unexpected Inspection: A regulatory body conducts an inspection of the company's facilities, leading to potential delays or fines. 
+(In 2 weeks, roll on the Fluctuation Event Table.) 
+47-48 Missing Colony Ship: A colony ship the company was supplying goes dark, leading to a search and rescue operation with uncertain 
+outcome. (In 2D10 days, roll on the Fluctuation Event Table.) 
+49-50 Discovery of Artifact:  The company uncovers a Forerunner artifact, sparking scientific interest but also raising concerns about its 
+potential dangers. (In 2 months, roll on the Fluctuation Event Table.) 
+51-52 Shift in Consumer Preferences: A change in consumer preferences towards a competitor's product or service impacts sales. 
+(In 1 week, roll on the Fluctuation Event Table.) 
+53-54 Legal Dispute: The company becomes embroiled in a legal dispute, leading to uncertainty and potential financial penalties. 
+(In 3 months, roll on Fluctuation Event Table twice.) 
+55-56 Hostile Takeover Attempt: Another company launches a hostile takeover bid, creating uncertainty for shareholders.  
+(In 1 month, roll on Fluctuation Event Table. On rolls of 1-5,15-20, 45-50,75-80, or 95-100, the Takeover was successful.) 
+57-58 Loss of Major Client: The company loses a major client, leading to a significant revenue decline. (Stock Price Decrease) 
+59-60 Supply Chain Disruption:  A natural disaster or political instability disrupts the company's supply chain, impacting production and 
+delivery. (Stock Price Decrease) 
+61-62 Environmental Disaster:  An environmental accident caused by the company's operations leads to public outcry and regulatory 
+sanctions. (Major Stock Price Decrease)
+
+===== PAGE 15 =====
+15 
+ 
+D100 BUSINESS EVENT 
+63-64 Executive Compensation Scandal: Public outrage erupts over excessive executive compensation packages, damaging the company's 
+reputation. (Stock Price Decrease) 
+65-66 Data Breach: A data breach exposes customer information, leading to regulatory fines and a loss of consumer confidence.  
+(Stock Price Decrease) 
+67-68 Cybersecurity Attack: The company experiences a cyberattack, disrupting operations and causing reputational damage. 
+(Stock Price Decrease) 
+69-70 Fire in Facility: A fire broke out in a company-owned facility. Currently, the damage estimates are unknown. 
+(Roll on the Negative Event Table. Rolls of only 1-25 will mean the building was salvageable and damage was minor.) 
+71-72 Product Recall: A safety hazard is discovered in a major product line, forcing a costly recall and damaging public trust.  
+(Stock Price Decrease) 
+73-74 Failed Product Launch: A new product launch flops due to technical problems or lack of market demand. (Stock Price Decrease) 
+75-76 Employee Strike: Disgruntled workers stage a strike, disrupting production and causing financial losses. (Stock Price Decrease) 
+77-78 Negative Press: The company is embroiled in a scandal or receives negative press for environmental damage or labor violations.  
+(Stock Price Decrease) 
+79-80 Leadership Controversy: A key member of the leadership team is revealed to be corrupt or incompetent, shaking investor confidence.  
+(Stock Price Decrease) 
+81-82 Supply Chain Disruption: A critical supplier experiences problems, causing production delays and shortages. (Stock Price Decrease) 
+83-84 Pirate Raid: A pirate attack disrupts shipping lanes or damages company infrastructure. 
+(Stock Price Decrease) 
+85-86 Covenant Attack: During a period of heightened Covenant activity, the company's facilities are lost in an attack. 
+(Major Stock Price Decrease) 
+87-88 Insurrectionist Activity: The company's facilities are targeted by Insurrectionist sympathizers, causing damage and disruption.  
+(Stock Price Decrease) 
+89-90 UNSC Requisition: The UNSC levies a heavy requisition on the company's resources, straining production and profits.  
+(Stock Price Decrease) 
+91-92 Promethean Anomalies:  Forerunner Promethean technology malfunctions disrupt operations or unleashes dangerous constructs. 
+(Stock Price Decrease) 
+93-94 Forerunner Guardian Activation: A Forerunner Guardian awakens near a company facility, its purpose and potential threat unclear. 
+(In 1 week, roll on Negative Event Table) 
+95-96 Worker’s Rights Lawsuit: A new union was formed, starting a lawsuit against the company. (Stock Price Decrease) 
+97-98 Rogue AI: A rogue AI has embedded itself within the company’s recent infrastructure upgrade. (Stock Price Decrease) 
+99-100 Unexpected Market Crash:  A drop in demand for the company's products or services due to unforeseen circumstances leads to 
+decreased profits. (Stock Price Decrease) 
+ 
+POSITIVE 
+If something positive happens to the galaxy as a whole, if a successful 
+product has been launched, if a competitor has gone out of business 
+or released an unsuccessful product, etc. The GM should roll on the 
+Successful Table. 
+ Major events will give the Test a +20. 
+ 
+D100 INVESTING TYPE 
+1-60 Stock increases by 1 cR. 
+61-80 Stock increases by 1D5-2 cR, to a minimum of 1. 
+81-90 Stock increases 1D5 cR. 
+91-95 Stock increases 1D10 cR. 
+96-98 Stock increases 2D10 cR. 
+99-100 Stock increases 3D10 cR. 
+ 
+NEGATIVE 
+If something negative happens to the galaxy as a whole, if a failed 
+product was launched, if a competitor has record profits or released 
+a successful product, etc. The GM should roll on the Negative Table. 
+ Major events will give the Test a +20. 
+ 
+D100 INVESTING TYPE 
+1-60 Stock increases by 1 cR. 
+61-80 Stock decreases by 1D5-2 cR, to a minimum of 1. 
+81-90 Stock decreases 1D5 cR. 
+91-95 Stock decreases 1D10 cR. 
+96-98 Stock decreases 2D10 cR. 
+99-100 Stock decreases 3D10 cR. 
+FLUCTUATION 
+Fluctuation happens when an unknown event has occurred that may 
+or may not affect stocks. These are events that can rarely have a 
+powerful effect on stocks. 
+ Incredibly negative outcomes will give the Test a +20, while 
+incredibly positive outcomes will give the Test a -20. 
+ 
+D100 FLUCTUATION EVENT 
+1-10 Successful outcome of Fluctuation Event. Roll on the 
+Positive Table and double the profit. 
+11-29 Successful outcome of Fluctuation Event. Roll on the 
+Positive Table. 
+30-70 Neutral outcome of Fluctuation Event. Nothing 
+happens to the stock prices. 
+71-89 Negative outcome of Fluctuation Event. Roll on the 
+Negative Table. 
+90-100 Negative outcome of Fluctuation Event. Roll on the 
+Negative Table and double the loss.

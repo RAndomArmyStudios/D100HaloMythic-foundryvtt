@@ -1,0 +1,2578 @@
+===== PAGE 1 =====
+1 
+ 
+ 
+ 
+ 
+ 
+STRONG 
+STYLE 
+A combat expansion for Mythic 7.0 and newer. 
+ 
+ 
+Don’t try this at home.
+
+===== PAGE 2 =====
+2 
+ 
+   
+CONTENTS 
+ 
+USING STRONG STYLE ....................................................................................................................................................................................................... 3 
+WRESTLING MOVE CATEGORIES ....................................................................................................................................................................................... 3 
+HOLDS .......................................................................................................................................................................................................................... 3 
+THROWS ...................................................................................................................................................................................................................... 3 
+ATTACKS....................................................................................................................................................................................................................... 3 
+WRESTLING TRAINING ...................................................................................................................................................................................................... 3 
+WRESTLING SPECIALIZATION ....................................................................................................................................................................................... 3 
+SIGNATURE MOVES ..................................................................................................................................................................................................... 3 
+DEGREES OF SUCCESS ....................................................................................................................................................................................................... 3 
+FIGURING DAMAGE .......................................................................................................................................................................................................... 3 
+HOLD, SLAM, AND BREAK DAMAGE ............................................................................................................................................................................ 4 
+MOVES AND SPECIAL DAMAGE ................................................................................................................................................................................... 4 
+MYTHIC CHARACTERISTIC DAMAGE ............................................................................................................................................................................ 4 
+MOVES AND DAMAGE RESISTANCE ............................................................................................................................................................................. 4 
+DISLOCATED LIMBS ...................................................................................................................................................................................................... 4 
+BREAKING OUT OF MOVES ............................................................................................................................................................................................... 4 
+MOVES THAT LEAVE THE USER PRONE ............................................................................................................................................................................. 4 
+USING WRESTLING MOVES IN GRAPPLES ......................................................................................................................................................................... 4 
+ABILITIES ........................................................................................................................................................................................................................... 5 
+HOLDS ............................................................................................................................................................................................................................... 6 
+HEAD AND SHOULDER HOLDS ..................................................................................................................................................................................... 6 
+ARM HOLDS ................................................................................................................................................................................................................. 7 
+CHOKE HOLDS .............................................................................................................................................................................................................. 8 
+BODY HOLDS ................................................................................................................................................................................................................ 9 
+LEG HOLDS ................................................................................................................................................................................................................. 11 
+THROWS ......................................................................................................................................................................................................................... 13 
+THROWS AND TOSSES................................................................................................................................................................................................ 13 
+BREAKERS AND BUSTERS ........................................................................................................................................................................................... 15 
+DRIVERS ..................................................................................................................................................................................................................... 17 
+SUPLEX ....................................................................................................................................................................................................................... 18 
+SLAMS ........................................................................................................................................................................................................................ 19 
+WRESTLING ATTACKS ..................................................................................................................................................................................................... 22 
+STANDARD STRIKES ................................................................................................................................................................................................... 22 
+CLOTHESLINES, SMASHES, AND LARIATS ................................................................................................................................................................... 22 
+BLOCKS, DROPS, AND PRESSES .................................................................................................................................................................................. 23
+
+===== PAGE 3 =====
+3 
+ 
+USING STRONG STYLE 
+Strong Style is a Pro Wrestling and Martial Arts expansion. Strong 
+Style is designed to be used alongside any 100DOS game or expansion. 
+ 
+WRESTLING MOVE CATEGORIES 
+In Strong Style, there are three main categories of Wrestling Moves 
+that you will find: Holds, Throws, and Attacks.  Each Wrestling Move 
+category will have several sub -types based on how those moves are 
+performed, as well as possible connecting rules and interactions. 
+ 
+HOLDS 
+A Hold is a technical maneuver used to control, immobilize, or 
+damage an Opponent to gain a strategic advantage in combat. These 
+are techniques that utilize leverage, body weight, and strength in 
+order to manipulate joints and to target specific muscles . Holds are 
+moves that can be held indefinitely, dealing their Damage and listed 
+effects with each Turn the User is still able to keep control. 
+ It’s important to know that Holds will generally target the 
+Joint of the limb they are targeting. Most will target the shoulder, 
+neck, elbow, wrist, hip, knee, and ankle. 
+ 
+HOLD SUBCATEGORIES 
+SUBCATEGORY SUBCATEGORY SUBCATEGORY 
+Head and Shoulder Choke Arm 
+Leg Body -- 
+ 
+THROWS 
+A Throw is any high-impact maneuver that is used by lifting, throwing, 
+or otherwise diverting an Opponent to the ground.  These are moves 
+that are performed specifically to deal damage and gain control of 
+combat, especially when attempting to keep an Opponent both Prone 
+or in compromised positions for further Attacks to be made. 
+ 
+THROW SUBCATEGORIES 
+SUBCATEGORY SUBCATEGORY SUBCATEGORY 
+Throw and Toss Buster and Breaker Driver 
+Suplex Slam -- 
+ 
+ATTACKS 
+Attacks can be a confusing term, as it’s a term often used in Mythic, 
+so in these scenarios, we’ll call these Wrestling Attacks. Wrestling 
+Attacks are the official term used for any impact and strike -based 
+move where the User’s own body is the weapon. 
+ Wrestling Attacks are offensive maneuvers, primarily 
+strikes, used to weaken and quickly Damage an Opponent. Unlike 
+Holds and Throws, Attacks are Melee Attacks, such as punches, 
+elbows, kicks, and knee strikes. Wrestling Attacks offer an expansion 
+of Mythic’s Unarmed Melee Attacks system. 
+ 
+ATTACK SUBCATEGORIES 
+SUBCATEGORY SUBCATEGORY SUBCATEGORY 
+Standard Strikes Clothesline, Lariat Block, Drop, Press 
+ 
+WRESTLING TRAINING 
+Each Wrestling Move Category must first be learned before it can be 
+utilized correctly. All Wrestling Moves use the “Weapon Training” 
+system. This means that if you do not have the needed Wrestling 
+Training, you will have a -20 Penalty to perform any move. Opposing 
+a Wrestling Move does not need the listed Training. 
+ 
+TRAINING EXP COST 
+Wrestling Holds 500 
+Wrestling Throws 400 
+Wrestling Attacks 300 
+WRESTLING SPECIALIZATION 
+Wrestling Specialization is a system that allows a Character to 
+improve their ability to use Sub -Categories of Wrestling Moves.  In 
+order to begin taking Wrestling Specializations, the Character must 
+first have the Wrestling Training that Subcategory belongs in. 
+ Wrestling Specializations give a +5 Bonus to performing any 
+Wrestling Move in that Subcategory.  Each Subcategory can have up 
+to 3 Specializations taken. The previous Specialization must always be 
+purchased before the next can be taken.  
+ 
+ROOKIE INTERMEDIATE MASTERY 
+150 250 350 
+ 
+SIGNATURE MOVES 
+A Signature Move is a Wrestling Move that has bene honed with both 
+expertise and knowledge.  A Character can have  up to  3 Signature 
+Moves. A Signature Move can only be chosen from a Subcategory that 
+has Intermediate Specialization. 
+ When the Character chooses a Signature Move, they will 
+select a Buff and pay that Buff’s Experience Cost.  A Signature Move 
+can only have a single Buff applied to it.  
+ A Character’s Signature Move can be changed by spending 
+50 Experience. This can only be performed between missions. 
+ 
+BUFF INFORMATION COST 
+Stronger +1D10 Damage when performed. 250 
+Draining +1 level of Fatigue when performed.  Can’t 
+be used on Attacks. 500 
+Faster 
+Half Actions needed are halved, to a 
+minimum of 1 Half Action.  Anything that 
+uses a Full Action or 2 Full Actions will be 
+split into Half Actions. Can’t be used on 
+Holds. 
+750 
+ 
+BUILT TOUGH TRAIT 
+The Built Tough Trait shows up often in 100DOS expansions. It gives 
+the Character Bonuses against Grapple Tests or anything that would 
+knock them over. It will also give them this Bonus in Opposed Tests 
+when fighting against Wrestling Throws or Holds that would lift, move, 
+or knock them over. 
+ 
+DEGREES OF SUCCESS 
+Degrees of Success are more important in this expansion than in any 
+other 100DOS content released thus far. It is important to understand 
+the terminology that you will see commonly in this expansion. 
+ If an Opposed Test is used, and it calls for a Character to 
+check if they have (X) Degrees of Success to gain an effect, this means 
+that only that Character’s Degrees of Success in the Opposed Test will 
+matter. No amount of Degrees of Success of their Opponent will 
+matter unless the Opponent won the Opposed Test overall. 
+ If an Opposed Test is used and it calls for a Character to 
+check if they have (X) Degrees of Success over the User, this means 
+that they must have that many more Degrees of Success compared to 
+their Opponent. For example, if a move would gain additional Damage 
+if the User had 3 or more Degrees of Success compared to the 
+Opponent in the Opposed Test, this means that they must have 3 
+more than their Opponent. This also accounts for Degrees of Failure, 
+as well. If the User had 1 Degree of Success while the Op ponent had 
+4 Degrees of Failure, the User will have enough Degrees of Success 
+over the Opponent to gain the additional Damage. 
+ 
+FIGURING DAMAGE 
+The following section explains how Damage can be figured when 
+performing various moves. It is important to understand the various 
+terms and terminology that is listed below.
+
+===== PAGE 4 =====
+4 
+ 
+HOLD, SLAM, AND BREAK DAMAGE 
+Slam and Break Damage are similar to Punch and Kick Damage found 
+in the main handbook. Depending on the type of move being used, it 
+may call for Slam or Break Damage. These types of Damage are 
+dependent on the User’s Size Category. The larger that Character is, 
+the more possible Damage their move will deal. 
+ Hold will always do a minimum of 1 Damage from the 
+Damage rolled, even if Mini or Small would have reduced it to 0. Not 
+all Holds will deal Damage. It is impor tant to make sure you check 
+each Hold and how they interact with the Opponent. 
+ 
+SIZE CATEGORY HOLD SLAM BREAK 
+Mini 1D10 -2 3D10 -2 3D10 -2 
+Small 1D10 -1 3D10 -1 3D10 -1 
+Normal 1D10 3D10 4D10 
+Large 2D10 +1 4D10 +1 5D10 +1 
+Huge 2D10 +2 4D10 +2 5D10 +2 
+Hulking 2D10 +3 4D10 +3 5D10 +3 
+Giant 3D10 +4 5D10 +4 6D10 +4 
+Immense 3D10 +5 5D10 +5 6D10 +5 
+Massive 4D10 +6 6D10 +6 7D10 +6 
+Great 4D10 +7 6D10 +7 7D10 +7 
+Monumental 4D10 +8 7D10 +8 8D10 +8 
+Colossal 5D10 +9 9D10 +9 10D10 +9 
+Vast 7D10 +10 11D10 +10 12D10 +10 
+ 
+MOVES AND SPECIAL DAMAGE 
+All moves that roll a D10 will be able to deal Special Damage, 
+regardless of how the move is performed. 
+ Wrestling Holds have a unique mechanic for when they deal 
+Special Damage. Whenever a Hold deals Special Damage, the Special 
+Damage will be the Damage the Hold would deal, plus  half of  the 
+User’s Characteristic that was used to perform the Opposed Test. 
+ Each Mythic Characteristic the User has of a matching 
+Characteristic will add +2 to the Special Damage. 
+ For example, if the Opponent was using their Warfare 
+Melee Characteristic of 52 in the Opposed Test, they will add 26 
+Special Damage to the roll. 
+ The Special Damage will always strike the location of the 
+body that the Move is being performed on or the Body Location that 
+was impacted. 
+ 
+MYTHIC CHARACTERISTIC DAMAGE 
+Any source of Damage that would list adding a Characteristic will also 
+add that Character’s Mythic Characteristic as well.  This goes for all 
+Characteristics in the system. 
+ For example, if a move called for adding the User’s Strength 
+Modifier, it will also add the User’s Mythic Strength Modifier. 
+ If a move calls for half of the User’s Strength Modifier, only 
+half of the User’s Mythic Strength will be added, rounding down, to a 
+minimum of 1.  
+ 
+MOVES AND DAMAGE RESISTANCE 
+Unless specified otherwise, all of each type of move will interact with 
+a Character’s Damage Resistance in the same way. 
+• All Holds will ignore Damage Resistance. 
+• All Throws will ignore Armor. 
+• All Attacks will interact with Damage Resistance normally. 
+ 
+DISLOCATED LIMBS 
+Some moves are able to dislocate limbs that they are being performed 
+on. If this happens, the Character will be at the listed Penalty until 
+they receive a Full Action Medication Test. This Medication Test will 
+relocate the limb back into its socket, reducing the Penalties to -10. 
+ The Dislocated Limb ’s Penalty can be completely fixed by 
+receiving an Extended Medication Test. 
+ 
+BREAKING OUT OF MOVES 
+When a Wrestling Move lists how many Half or Full Actions it takes 
+for when an Opponent breaks out of the move, that is not the amount 
+of the Opponent’s Actions it takes, that’s how much of the User of the 
+move’s Actions it takes up for their current Turn. If it lists a Half Action, 
+that means that the User will only have a Half Action left of their Turn. 
+If it lists a Full Action, the User’s Turn will be used up attempting and 
+failing to perform the move. 
+ If a move does not list what Action  is lost when an 
+Opponent breaks out of a move, it will take the Action listed to 
+perform the move. If a move takes 2 Full Actions, it will instead take 
+a Full Action from the User when escaped. 
+ 
+MOVES THAT LEAVE THE USER PRONE 
+There are Wrestling Moves that leave the User Prone after they are 
+performed. When this happens, the User can make a +10 Agility Test 
+at the end of their Turn. If successful, they stand  before their Turn 
+ends. This may be Opposed by the Opponent that was also left Prone, 
+where the Opponent will have a -20 Penalty on the Test to see who 
+stands first. 
+ If the Opponent had 3 or less Degrees of Success over the 
+User in the Opposed Test, they would stand first, leaving the User in 
+a Crouching position as the Opponent begins their next turn. 
+ If the User Opponent had 3 or more Degrees of Success over 
+the User in the Opposed Test, they will stand first, leaving the User in 
+a Prone position as the Opponent begins their next Turn. 
+ If the User is successful, they will be considered standing 
+during the Opponent’s next Turn. 
+ 
+USING WRESTLING MOVES IN GRAPPLES 
+A Wrestling Move can be performed as part of a Grapple, allowing the 
+Character to use their Turn to transition into a Hold or a Throw. When 
+this happens, a Controlling Character would gain  a +10 Bonus to all 
+Wrestling Moves used, as well as any benefits that they would receive 
+from a Grapp le, such as  Mythic Characteristic used from Opposed 
+Tests that a Grapple would give.  This would also give the benefits of 
+Traits and Abilities that would benefit Grapples.
+
+===== PAGE 5 =====
+5 
+ 
+ABILITIES 
+ 
+1,004 Holds Cost: 700 
+Prerequisite: Warfare Melee: 50 
+When the Character is performing a Hold that they have 
+Specialization in, they will gain a +10 Bonus. If the Character also has 
+that Hold as a Signature Move, it will be at an additional +10 Bonus.  
+Number 712, Arm Bar. 
+ 
+Brawler Cost: 400 
+Prerequisite: Warfare Melee: 50 
+When the Character is in Melee Combat and performs Unarmed 
+Melee Attacks and Wrestling Attacks against an Opponent that does 
+not have the Brawler Ability, the Character will gain a +10 Bonus T o 
+Hit on these Attacks. If the Opponent also has Brawler, no Bonuses 
+are gained on the Attacks made. 
+ 
+Escape Artist Cost: 600 
+Prerequisite: Agility or Warfare Melee: 35 
+Each Turn the Character is in a Hold, the Character gains a stacking +5 
+Bonus to the next Opposed Test, to a maximum of +20. The Character 
+also gains a +10 Bonus to Oppose Throws. 
+ 
+Fighting Spirit Cost: 950 
+Prerequisite: Toughness: 50 
+While in Melee Combat, Grappling Combat, or was recently hurt or 
+Fatigued in any kind of Melee Combat, the User can perform Fighting 
+Spirit once per Combat. 
+ Fighting Spirit is performed as a Full Action where the User 
+pumps themselves up. The User will remove 2 levels of Fatigue. If 
+Fighting Spirit is interrupted by a Delayed Action, all Fatigue and 
+Damage sustained during it is reduced by half, rounding down. 
+ 
+Giant Slayer Cost: 300 
+Prerequisite: Strength: 55 
+When the Character goes up against an Opponent with the Built 
+Tough Trait, any Opposed Test they’re in against that Opponent will 
+cause the Built Tough Trait to halve the Bonus it gives the Opponent. 
+ 
+Hardcore Cost: 750 
+Prerequisite: Toughness: 50 
+Whenever a wrestling move would cause the Character to gain 
+Fatigue, they can make a -30 Toughness Test. If successful, no Fatigue 
+is gained.  
+ If the Character would go to 0 or lower Wounds from an 
+Attack, they may make a Toughness Test. If successful, they will stay 
+at 1 Wound.  However, if that Attack would have instead killed the 
+Character, they will not be able to make the Toughness Test to survive. 
+Hardcore can’t stack with any other Ability or Trait that would allow 
+the Character to survive an Attack at 1 Wound. 
+ 
+High Flier Cost: 950 
+Prerequisite: Agility: 50 
+The Character is able to substitute any Agility Characteristic Test for 
+performing Wrestling Moves with their Stunting Skill.  
+ This does not stack with Abilities that changes what 
+Characteristic is used to perform a move, such as Lucha Agilidad and 
+Power Hoss. 
+ 
+Jack of all Trades Cost: 550 
+Prerequisite: A Specialization in each Wrestling Move Category. 
+When the Character performs a Wrestling Move that lists needing a 
+set amount of Degrees of Success for an additional bonus, effect, or 
+optional outcome, the Character will need 1 less Degrees of Success.  
+This does not count for Degrees of Success needed to successfully 
+perform the move, only for additional effects that could be gained. 
+ 
+Lucha Agilidad Cost: 750 
+Prerequisite: Agility: 50 
+Any Strength -based Opposed Test needed to perform a Wrestling 
+Move can be substituted with an Agility Test , instead. This does not 
+allow for substituting Characteristic Modifiers for Damage.  
+ This does not stack with other Abilities that change which 
+Characteristic can be used to perform Wrestling Moves. 
+ 
+Power Hoss Cost: 850 
+Prerequisite: Strength: 50 
+Any Agility-based Opposed Test needed to perform a Wrestling Move 
+can be substituted with an Strength Test, instead. This also allows for 
+substituting Agility Characteristic Modifiers  with the Character ’s 
+Strength Characteristic for finding Damage. 
+ This does not stack with other Abilities that change which 
+Characteristic can be used to perform Wrestling Moves. 
+ 
+Stinging Strikes Cost: 600 
+Prerequisite: Warfare Melee: 45 
+Wrestling Attacks made by the Character are at a -10 Penalty to Evade. 
+ 
+Suplex City Cost: 500 
+Prerequisite: Strength: 45 
+When performing a Throw, the Character is able to increase the 
+distance the Opponent travels by a third of their Strength Modifier, 
+rounding down, to a minimum of 1. 
+ 
+Super Heavyweight Cost: 750 
+Prerequisite: Size Category Large or higher or 130+ kg Weight 
+The Character gains a +10 Bonus to all Opposed Strength Tests when 
+attempting to resist or escape a Wrestling Throw.
+
+===== PAGE 6 =====
+6 
+ 
+HOLDS 
+ 
+HEAD AND SHOULDER HOLDS 
+ 
+CAMEL CLUTCH 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Prone 
+The User sits on their Opponent’s back and places both of the 
+Opponent’s arms around their thighs, then reaches around the 
+Opponent’s head and applies a chinlock -style chokehold. The User 
+then pulls back, applying pressure to the throat and spine. 
+ For every Round the Opponent is in the Camel Clutch, they 
+will gain take Hold + (X) Damage, ignoring Damage Resistance . (X) is 
+equal to half of the Character’s Strength Modifier. 
+To attempt to break out, the Opponent must make a  -20 
+Penalty Opposed Strength Test against the User, where the User is 
+able to use either their Warfare Melee or Strength Characteristic. If 
+successful, the Opponent breaks free. If failed, they are still trapped 
+in the hold. If failed by 3 or more Degrees of Failure,  the Character 
+will take +1 level of Fatigue. 
+ 
+CHINLOCK 
+Action: Full Action Perform: Controller 
+Prerequisite: Prone Opponent or facing away from User 
+The User grabs the Opponent’s head and neck  from behind with the 
+sole purpose of gripping the Opponent’s chin to wrench it to the side. 
+This hold is less about choking the Opponent and more about 
+damaging their neck tendons. 
+ When performed while standing and the Opponent is facing 
+away, it is a Chinlock. when performed while standing and facing the 
+Opponent, it is a Reverse Chinlock. When performed on a Prone 
+Opponent facing the ground, it is an STS  or Crossface. When 
+performed on a Prone Opponent who is facing upward, it is an 
+Inverted Cravate. 
+ For every Round the Opponent is in the Chinlock, they must 
+make an Opposed Test against the User. The Opponent can use their 
+Strength, Agility, or Warfare Melee Characteristic. The User can use 
+their Strength or Warfare Melee Characteristic. 
+ If successful, the Opponent will slip out of the hold. If failed, 
+the Opponent will take Damage.  When the User is Damaging the 
+Opponent, it will deal Hold + (X) Damage, ignoring Armor. (X) is equal 
+to the User’s Strength Modifier and Warfare Melee Modifier, plus the 
+amount of Degrees of Failure the Opponent made in their Test. 
+ 
+FACELOCK 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Standing 
+The User tucks the Opponent’s head into the User’s armpit and wraps 
+his arm around the head so that the forearm is pressed against the 
+face. The User then grabs their own arm with their free hand to lock 
+in the hold and compress the Opponent’s face. 
+ For every Round the Opponent is in the Facelock, they must 
+make an Opposed Test. Both the User and the Opponent will use 
+either their Strength or Warfare Melee Characteristic. If successful, 
+the Opponent will escape. If failed, the Opponent will take +1 level of 
+Fatigue for every 2 difference between the User’s Degrees of Success 
+and the Opponent’s Degrees of Failure. 
+ The Facelock’s true utility is the follow-up that the User can 
+perform once they’ve succeeded in at least one Opposed Test. The 
+User is able to perform a Drop or Slam as a Half Action. The Opponent 
+will gain a -20 Penalty to Opposing any of these follow-up Actions that 
+are taken. 
+ General follow -ups include Elbow Drops, DDTs, 
+Neckbreaker Slams, Backbreakers, Forearm Smash, etc. Generally any 
+move that has the User behind the Opponent to perform. 
+HEADSCISSORS (Grounded) 
+Action: Full Action Perform: Controller 
+Prerequisite: Crouching or Prone Opponent. 
+Headscissors have two variants, a grounded Headscissors, and a 
+Flying Headscissors. We’ll first start with the Headscissors. 
+ The grounded variant of the Headscissors has the User 
+approach a Prone or Crouching Opponent. The User will approach the 
+Opponent and placing their legs around the User’s head and neck, 
+crossing the top leg after it’s gone around the Opponent’s chin. The 
+User then tightens the grip to choke the Opponent via compression. 
+ For every Round the Opponent is in the Headscissors, they 
+must make an Opposed Strength or Warfare Melee Characteristic 
+Test to attempt to break out. The User will gain a +10 Bonus to this 
+Test when using Strength to Oppose the Test.  If the Opponent is 
+successful, they will escape the Hold. If failed, the User will gain +1 
+level of Fatigue for every Degrees of Success that the User has on their 
+Opposed Test, to a maximum of their Strength Modifier in Fatigue 
+gained. 
+ 
+HEADSCISSORS (Flying) 
+Action: Full Action Perform: Controller 
+Prerequisite: Standing or Crouching Opponent. 
+Flying Headscissors sees the User jumping into the air to attempt to 
+wrap and cross their legs around the Opponent’s head and neck while 
+standing or crouching.  The User will then have multiple follow -up 
+options depending on if this was successful. 
+ To perform this Hold, the User will jump and make a -10 
+Penalty Stunting Test, Opposing the Opponent’s Agility or Warfare 
+Melee Characteristic. If successful, they can perform the Headscissors 
+Hold where the User will continue to constrict their legs around the 
+Opponent’s neck and attempt to cause them to drop prone. For every 
+Round the Opponent is in this hold, they must make a -10 Strength 
+Test. If failed while standing, they will drop to a Crouching position. If 
+failed with 3 or more Degrees of Failure,  they will drop to a Prone 
+position. If the Opponent drops to a Prone position, the User can 
+transition to another similar hold, such as the Headscissors (Ground) 
+Hold as a Free Action. 
+ If the User had 2 or more Degrees of Success on the initial 
+Stunting Test to perform this move, they can instantly transition this 
+move to the Headscissors Takedown. 
+ 
+NELSON 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent’s back must be towards the User 
+The User stands behind the Opponent and wraps one or both of the 
+User’s arms und erneath the Opponent’s armpits and locks their 
+hands behind the Opponent’s neck. The User pushes the back of the 
+Opponent’s head forward and down against their chest. 
+ For every Round the Opponent is in the Nelson, they must 
+make a -10 Penalty Opposed Strength or Warfare Melee Test against 
+the User . If the Opponent succeeds, they will escape. If failed, the 
+Opponent will take +1 level of Fatigue. If the Opponent fails with 3 or 
+more Degrees of Failure, the User will add half of their Strength 
+Modifier to additional levels of Fatigue against the Opponent. 
+ If the Opponent is successful with 2 or more Degrees of 
+Success over the Opponent, they can transition the Nelson into a 
+Suplex or Slam of choice where the Opponent faces away from the 
+User.
+
+===== PAGE 7 =====
+7 
+ 
+STUMP PULLER 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent’s back must be on ground, Prone 
+The Opponent is Crouching or Prone on the ground, while the User 
+stands behind them. The User straddles the next with their legs , 
+reaches down, and grabs the Opponent’s leg, and pulls up.  This 
+stretches the Opponent’s hamstring while compressing their neck, 
+giving ample torque against both segments of the body. 
+ For every Round the Opponent is in the Stump Puller, they 
+must make an Opposed Strength Test against the User’s Strength or 
+Warfare Melee Characteristic. If successful, the Opponent rolls free. 
+If failed, the Opponent will take Hold + (X) Damage, where (X) is half 
+of the User’s Strength Modifier plus half of their Warfare Melee 
+Modifier added together. If the Opponent fails the Test with 3 or more 
+Degrees of Failure, they will gain +1 level of Fatigue. 
+ If the User gains 4 or more Degrees of Success over the 
+Opponent, they can move the User from Crouch to Prone as a Free 
+Action, or from Prone to Crouch.  Every Turn the Opponent is in this 
+Hold, the Degrees of Success needed is reduced by 1. 
+ 
+WING TEARER 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent’s back must be on ground, Prone 
+The Opponent must be face -down on the ground, Prone, or facing 
+away while Crouching. The User will grab the Opponent’s head and 
+brace against the Opponent’s spine with their shin. The User reaches 
+down and grabs both of the Opponent’s wrists and begins pulling up 
+to hyperextend both of their shoulders. 
+ For every Round the Opponent is in the Wing Tearer, they 
+must make an Opposed Strength Test against the User’s Strength 
+Characteristic. If successful, the Opponent will break free and roll out. 
+If the Opponent fails, the User will hyperextend their should ers, 
+dealing Hold + (X) Damage. (X) is equal to the User’s Strength Modifier, 
+plus 1 for every Degree of Success made on the Test. If the User has 4 
+or more Degrees of Success over the Opponent, the Opponent’s 
+shoulder (roll randomly) will be dislocated. If successful with 6 or 
+more Degrees of Success, both shoulders will be dislocated. 
+ Dislocated shoulders will be at a -30 Penalty on Tests using 
+that Arm in any Action. 
+ 
+ARM HOLDS 
+ 
+ARMBAR 
+Action: Full Action Perform: Controller 
+Prerequisite: None 
+The User will grab the Opponent’s arm, twist it, and put pressure on 
+their shoulder and elbow. The User will take the Opponent’s arm and 
+press it into the Opponent’s back while moving behind them. 
+ For every Round the Opponent is in an Armbar, the 
+Opponent must make an Opposed Strength Test against the User’s 
+Strength or Warfare Melee Characteristic.  If the Opponent is 
+successful, they will take no Damage. If the Opponent is successful 
+with 3 or more Degrees of Success over the User, they will escape. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to half of the User’s Strength Modifier , 
+ignoring Damage Resistance. For every Turn the Opponent is in this, 
+they will have a -10 Penalty with all Actions for that Arm for 2 minutes, 
+to a total of 20 minutes. 
+ If the User is successful with 2 or more Degrees of Success 
+over the Opponent, they may force the Character into a Stand, Crouch, 
+or Prone position as a Free Action, once per Turn. 
+ If the User is successful by 4 or more Degrees of Success 
+over the Opponent, the Opponent’s limb is dislocated and is at a -30 
+Penalty when the limb is used in any Action. 
+ 
+CHICKENWING 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The User lays on the Opponent’s torso in a 90 degree angle. The User 
+grabs the Opponent’s wrist and pushes it behind the Opponent’s back. 
+The User then puts their other arm over the Opponent’s shoulder, 
+reaching under the Opponent’s arm and grabs hold of the User’s 
+other wrist. This is the first Full Action needed to perform this Hold. 
+During this, the Opponent may make a -20 Penalty Opposed Test to 
+break free as a Full Action. If failed, the Chickenwing is continued. 
+ The User then uses both arms to pull the Opponent’s arm 
+behind them in an unnatural position. This may also be performed 
+with a single arm by wrapping it around the Opponent’s arm, and then 
+using the other hand to perform a partial Crossface Facelock. 
+ For every Round the Opponent is in an Chickenwing Arm 
+Lock, the Opponent must make an Opposed Strength Test against the 
+User’s Strength or Warfare Melee Characteristic. If the Opponent is 
+successful, they will take no Damage. If the Opponent is successful 
+with 2 or more Degrees of Success over the User, they will escape. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to the User’s Strength Modifier multiplied 
+by 2, ignoring Armor. 
+ If the User is successful by 3 or more Degrees of Success 
+over the Opponent, the Opponent’s limb is dislocated and is at a -30 
+Penalty when the limb is used in any Action. 
+ 
+CRUCIFIX ARMBAR 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Prone 
+The User will grab the Opponent for an Armbar while the Opponent 
+is Prone. The User then places their bodyweight on the Opponent to 
+prevent their escape . This is the first Full Action. During this, the 
+Opposed Test is active and the Opponent may attempt to break free 
+as a Full Action. If failed, the Crucifix Armbar continues. 
+ On the second Full Action of the Crucifix Armbar, the User 
+will hook the Opponent’s other arm with their leg, stretching the 
+shoulders back in a crucifying position and hyperextending the elbow. 
+ For every Round the Opponent is in the finished Crucifix 
+Armbar, they must make a -20 Opposed Strength or Agility Test 
+against the User’s Strength or Warfare Melee Characteristic.  If the 
+Opponent is successful, they will escape as a Full Action, instead of a 
+Half Action. If the User is successful, the Opponent will take Damage. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to half of the User’s Strength Modifier 
+plus half of the User’s Warfare Melee Modifier added together , 
+ignoring Damage Resistance. 
+ If the User is successful with 2 or more Degrees of Success 
+over the Opponent, the Damage is increased to deal the full Strength 
+and Warfare Melee Modifiers. 
+ If the User is successful by 4 or more Degrees of Success 
+over the Opponent, the Opponent’s limb is dislocated and is at a -30 
+Penalty when the limb is used in any Action.
+
+===== PAGE 8 =====
+8 
+ 
+FLYING ARMBAR 
+Action: Full Action Perform: Controller 
+Prerequisite: Both must be standing. 
+The Flying Armbar is a version of an Armbar that begins when both 
+the User and the Opponent are standing.  It is applied by the User 
+grabbing onto the Opponent’s arm and neck, or clothing around the 
+arm and neck. The User will place one of their shins against the 
+Opponent’s midsection at the same time as they pull the User’s head 
+and Arm, dragging the arm down and flipping the Opponent over if 
+fully successful. 
+ This is performed by the User making a -10 Stunting 
+Opposed Test with their Agility or Warfare Melee Characteristc. The 
+Opponent will use their Strength, Agility, or Warfare Melee 
+Characteristics to counter. If the Opponent is successful, they will 
+break free from the Flying Armbar before it is put into action. If the 
+Opponent has 3 or more Degrees of Success over the U ser, the User 
+will fall Prone to the ground.  This will end the User’s Turn and will 
+instantly remove any possibility of them having Control  of  the 
+Grapple. From here, the Opponent may follow up. 
+ If the User is successful, they will deal a quick amount of 
+Damage to the Opponent’s Arm. For every Degree of Success, the 
+User will deal Hold + (X) Damage. (X) is equal to half of User’s Strength 
+Modifier and their full Agility Modifier in Damage to the Opponent, 
+ignoring Armor, to a maximum of 20 Damage. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent, the User can drag the Opponent to a Prone 
+position as a Free Action. At the beginning of the next Turn, the User 
+may then transition this Hold into an Armbar or Crucifix Armbar  as a 
+Free Action as their Turn begins , before any Tests are made.  If the 
+User does not transition it to one of the other Armbars, they will end 
+the Hold and must initiate a new form of Grapple, separately. 
+ If the User is successful with 6 or more Degrees of Success 
+over the Opponent, the Damage dealt will ignore Damage Resistance, 
+instead of only ignoring Armor.  This deals the same amount of 
+Damage as if the User had 3 or more Degrees of Success. 
+ 
+SHORT ARM SCISSORS 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The Short Arm Scissors begins with the Opponent Prone on the 
+ground. The User bends the Opponent’s arm and reaches through 
+that arm with their own arm, and then takes their leg and places it 
+over the Opponent’s bent arm. The User then secures their leg with 
+their other leg, creating a figure-four lock. The User pulls up with their 
+arm while forcing the Opponent’s wrist down with their leg, applying 
+pressure against their entire arm and especially the elbow. 
+ For every Round the Opponent is in the Short Arm Scissors, 
+the Opponent must make an Opposed Strength Test with a -20 
+Penalty against the User. If the Opponent is successful, they will roll 
+out of the hold. If failed, the Opponent will take  Hold + (X) Damage. 
+(X) is equal to the User’s Strength Modifier and half Warfare Melee 
+Modifier, ignoring Armor. 
+ Each Turn, the User can apply a pump, where they will roll 
+forward, dragging the Opponent and their arm with them, until a full 
+rotation is made. In doing this, the Opposed Test is made but the 
+Opponent no longer gains the -20 Penalty to escape. However, if they 
+don’t escape, the Damage the Opponent takes will be doubled.  This 
+pump and roll can be performed once per Turn and must be 
+announced to the GM before any Opposed Tests are made. 
+ 
+ 
+ 
+ 
+ 
+ 
+WRIST LOCK 
+Action: Half Action Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The User grabs the Opponent’s hand and twists it backwards, placing 
+pressure on the wrist. While this can inflict pain on its own, it is often 
+used as a transition hold that leads to stronger Holds. 
+ For the next Half Action , the Opponent must make an 
+Opposed Strength Test against the User’s Strength or Warfare Melee 
+Characteristic. If the Opponent is successful, they will take no Damage. 
+If the Opponent is successful with 3 or more Degrees of Success over 
+the User, they will escape. If the Opponent is kept in the Wrist Lock, 
+they must perform this Opposed Test at the beginning of each Round 
+as if it were a normal Hold. 
+ If the User is successful, the Opponent will take Hold + (X) 
+Damage, where (X) is equal to half of the User’s Strength Modifier, 
+ignoring Damage Resistance, to a maximum of 3 Damage per Turn. 
+ If the User is successful, they may transition this to another 
+upper-body Hold with a +20 Bonus to their Opposed Tests  at the 
+beginning of their next Turn. This will be performed as a Full Action to 
+transition the move and will deal its Damage instantly. If the Hold 
+being transitioned to takes 2 Full Actions to perform, it will instantly 
+finish the first Full Action of events. 
+ 
+CHOKE HOLDS 
+ 
+ANACONDA VICE 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The User sits next to the Opponent’s head, facing them. The User’s 
+nearest arm encircles the Opponent’s head in a headlock position, 
+and then the User grabs the Opponent’s closest wrist and bends it 
+upwards. The User’s other arm is used to create a hole by bending the 
+wrist and the User locks their other hand on the wrist and pulls 
+forward, forcing the Opponent’s arm and the User’s furthest arm to 
+apply serious pressure on each side of the Opponent’s neck. 
+ Other similar moves can be used in this way, such as 
+Triangle Chokes, Straight Jackets, Spider Twists, and Rear Naked 
+Chokes. A version of this can be used if the Opponent is Standing, 
+which is known as the Sol Naciente, which the User attempts to choke 
+out the Opponent by hanging off of  the Opponent’s neck and arm. If 
+the Opponent were to drop to the ground from the Sol Naciente, the 
+move would be transitioned into any of the listed types of Chokes. 
+ For every Round the Opponent is in the Anaconda Vice, they 
+must make an Opposed Strength or Warfare Melee Test  against the 
+User’s Strength or Warfare Melee Characteristic. If successful with 2 
+or more Degrees of Success over the User, they will escape the hold. 
+ If the Opponent is successful with less than 2 Degrees of 
+Success over the User, they will remain trapped in the Hold but will 
+take no Fatigue and will continue to be able to breathe. 
+ If the User is successful, the Opponent will be unable to 
+breathe for that Turn. If the User is successful with 2 or more Degrees 
+of Success over the Opponent, the Opponent will gain + 2 levels of 
+Fatigue. 
+ Once an Opponent has gone Unconscious from Fatigue 
+when this move is performed against them, they will begin 
+Suffocating.
+
+===== PAGE 9 =====
+9 
+ 
+SLEEPER HOLD 
+Action: Half Action Perform: Controller 
+Prerequisite: N/A 
+The Sleeper Hold is the most common type of way someone will 
+choke someone else. The User applies a hold while behind their 
+opponent by pressing their bicep against one side of the Opponent’s 
+neck, and the inner bone of their other forearm on the other side of 
+the Opponent’s neck. The User then squeezes tightly. 
+ For every Round the Opponent is in the Sleeper Hold, they 
+must make a n Opposed Toughness Test against the User ’s Strength 
+Characteristic. If the Opponent is successful with 2 or more Degrees 
+of Success over the User, they will slip free. 
+ If the Opponent is successful but with no Degrees of Success 
+over the User, they will be unable to slip out but will take no Fatigue. 
+ If the User is successful, the Opponent will take +1 level of 
+Fatigue. 
+ If the User is successful with 3 or more Degrees of Success, 
+they can transition the Sleeper Hold into a Dragon Sleeper as a Free 
+Action at the beginning of their next Turn by dropping the Opponent 
+to the ground and arching their back to apply further torque. 
+ 
+DRAGON SLEEPER 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Prone or Crouching. 
+The Dragon Sleeper is an inverted facelock where the User wraps a 
+bicep tightly around the Opponent’s neck.  The User then hooks the 
+Opponent’s nearest arm with their free Arm and pulls backwards and 
+then bends up. The User can then place further torque by placing their 
+knee against the Opponent’s back. 
+ For every Round the Opponent is in the Dragon Sleeper, 
+they must make a n Opposed Strength or Warfare Melee  Test. If the 
+Opponent is successful with 3 or more Degrees of Success over the 
+User, they will slip free. 
+ If the Opponent is successful but with less than 3  Degrees 
+of Success over the User, they will be unable to slip out but will take 
+no Fatigue. 
+ If the User is successful, the Opponent will take +2 levels of 
+Fatigue while trapped in the hold. 
+ Once an Opponent has gone Unconscious from Fatigue 
+when this move is performed against them, they will begin 
+Suffocating.  
+ 
+BODY HOLDS 
+ 
+ABDOMINAL STRETCH 
+Action: Full Action Perform: Controller 
+Prerequisite: N/A 
+The User straddles one of the Opponent’s legs and reaches over them 
+to grab their nearest arm and locks it. The User then squats down to 
+apply pressure and twist the back and abdomen of the Opponent. 
+From here, the User may also perform a slew of other tec hniques. 
+These include locking the Opponent’s arm around their own neck, 
+locking their own arm around the Opponent’s neck, pressing the 
+Opponent’s head into their chest, or use their free hand to grab the 
+Opponent’s side or stomach to apply further pressur e. Regardless of 
+which technique is used, they will all perform the following outcome. 
+ For every Round the Opponent is in the Abdominal Stretch, 
+they must make an Opposed Strength or Warfare Melee Test. If 
+successful with 2 or more Degrees of Success above the User, they 
+will break free. 
+ If the Opponent is successful with less than 2 Degrees of 
+Success over the User, they will alleviate the pain and gain a +10 
+Bonus to their next attempt to escape. This Bonus stacks with each 
+Turn but maxes out at a +20 Bonus. 
+ If the User is successful, the Opponent will take Hold + (X) 
+Damage, where (X) is equal to the User’s Strength Modifier, plus the 
+amount of Degrees of Success the User had over the Opponent on the 
+Test. 
+ If the User has something they can hold onto with their free 
+hand, they are able to apply additional torque. In doing so, the User 
+will gain +5 Damage each time Damage were dealt by this Hold. 
+ 
+BACKBREAKER SUBMISSION 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be lifted onto the User’s knee. 
+The Backbreaker begins wit h the User grabbing the Opponent  and 
+either strong-arming them or tripping them to being them onto their 
+knee, facing upwards. With one arm across the Opponent’s chest and 
+another pl aced on the Opponent’s legs, the User begins to push 
+downward, arching the Opponent’s back. This places pressure on the 
+neck, back, and sometimes hips of the Opponent. 
+ For every Round the Opponent is in the Backbreaker, they 
+must make an Opposed Strength or Warfare Melee Test. If the 
+Opponent is successful with 2 or more Degrees of success over the 
+User, they will escape from the hold. 
+ If the Opponent is successful but has less than 2 Degrees of 
+Success over the User, they will take no effects from the Hold but will 
+be unable to escape. 
+ If the User is successful, the  Opponent will take Hold + (X) 
+Damage. (X) is equal to the User’s Strength Modifier, ignoring Damage 
+Resistance. 
+ The Backbreaker  can’t be used on an Opponent who has a 
+difference of 3 or more Size Categories than the User. 
+ 
+BEAR HUG 
+Action: Half Action Perform: Controller 
+Prerequisite: Opponent can’t be Prone. 
+The User clinches the Opponent’s Chest or midsection and squeezes 
+tightly. Often during the Bear Hug, the User will shake the Opponent 
+violently in the intent to cause Fatigue. 
+ For every Round the Opponent is in the Bear Hug, they must 
+make an Opposed Strength or Warfare Melee Test. If successful, they 
+will break out. 
+ If the User is successful, the will take Hold + (X) Damage. (X) 
+is equal to the User’s Strength Modifier, ignoring Armor. For every 
+two Rounds the Character is in the Bear  Hug, they gain +1 Level of 
+Fatigue. 
+ Bearhug cannot be used if the Opponent is 2 or more Size 
+Categories larger. 
+ 
+BODY SCISSORS 
+Action: Half Action Perform: Controller 
+Prerequisite: Opponent must be Crouching or Prone. 
+The User approaches the Opponent and sits next to them. The User 
+wraps their legs around the Opponent’s body and crosses their ankles 
+to tighten the grip. 
+ For every Round the Opponent is in the Body Scissors, they 
+must make an Opposed Strength or Warfare Melee Test. If successful, 
+they will break out. 
+ If the User is successful, the will  take (X) Damage. (X) is  
+equal to the User’s Strength Modifier, ignoring Armor. For every two 
+Rounds the Character is in the Body Scissors, they gain +1 Level of 
+Fatigue. 
+ Body Scissors cannot be used if the Opponent is three or 
+more Size Categories larger.
+
+===== PAGE 10 =====
+10 
+ 
+BOSTON CRAB 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+While the Opponent is Prone on the ground, the User stands  behind 
+them, hooking each of their legs with the User’s arms. While hooking 
+the legs, the User then turns, forcing the Opponent to turn with them 
+to face face -down and stepping over their body. The User then 
+performs a semi-sitting position and faces away from the opponent, 
+arching the Opponent’s back and legs and bending the Opponent’s 
+legs towards their head.  The Opponent can also implement this 
+without having to turn the Opponent, as long as the Opponent is 
+already facing towards the ground. 
+ There are other versions of the Boston Crab, like the Half 
+Crab where the User uses both of their arms to put all of the pressure 
+on the Opponent’s body using a single Leg. 
+ For every Round the Opponent is in the Boston Crab, they 
+must make an Opposed Strength or Warfare Melee Test to escape. If 
+successful with 3 or more Degrees of Success over the User, they will 
+escape from the hold. 
+ If the Opponent is successful with less than 3 Degrees of 
+Success, they will alleviate the Damage but fail to escape from the 
+Hold for the time being. Each time the User succeeds this way but fails 
+to escape, their next attempt will be at a stacking +5 Bonus, to a total 
+of a +30 Bonus to their Opposed Test. 
+ If the User is successful, the Opponent will take Hold + (X) 
+Damage, ignoring Armor. (X) is equal to the User’s Strength Modifier, 
+plus 1 Damage for every  Degree of Success on their Test , plus 1 
+Damage for every Degree of Failure on the Opponent’s Test. 
+ For every 2 Rounds the Opponent is in the Boston Crab, 
+they will gain +1 level of Fatigue. 
+ 
+BOW AND ARROW 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The Bow and Arrow begins with the User kneeling on the Opponent’s 
+back with both knees, hooking the head with one arm and the legs 
+with the other arm. The User then rolls onto their back so that the 
+Opponent is suspended on the User’s knees, bending the Opponent’s 
+back and abdomen. 
+ The Bow and Arrow can be used in a reverse position, where 
+the Opponent’s abdomen is against the User’s knees, as the 
+Opponent is then folded around the knees and squeezed. 
+ For every Round the Opponent is in the Bow and Arrow , 
+they must make an Opposed Strength or Warfare Melee Test. If the 
+Opponent is successful with 3 or more Degrees of success over the 
+User, they will escape from the hold. 
+ If the Opponent is successful but has less than 3 Degrees of 
+Success over the User, they will take no effects from the Hold but will 
+be unable to escape. 
+ If the User is successful, the  Opponent will take Hold + (X) 
+Damage. (X) is equal to half of the User’s Strength Modifier and half 
+of their Warfare Melee Modifier, ignoring Damage Resistance. 
+ The Bow and Arrow can’t be used on an Opponent who has 
+a difference of 2 or more Size Categories than the User. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OCTOPUS HOLD 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Prone 
+The User will stand behind the Opponent and hook a leg over the 
+Opponent’s opposite leg. The User then forces the Opponent to one 
+side, traps one of the Opponent’s arms with their own arm. This is the 
+first Full Action. During this, the Opposed Test is performed and the 
+Opponent may attempt to break free as a Full Action. If failed, the 
+Octopus Hold is continued.  
+ The User then drapes their free leg over the neck of the 
+Opponent. The User now places all of their weight on the User’s upper 
+body and neck as they use a single remaining arm for balance. 
+ For every Round the Opponent is in the finished Octopus 
+Hold, they must make an -30 Penalty Opposed Strength or Warfare 
+Melee Test against the User. If the Opponent is successful, they will 
+escape as a Full Action instead of the usual Half Action. Each time the 
+Opponent fails to escape the Octopus Hold, the Penalty is reduced by 
+5, to a minimum of 0. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to the User’s Strength Modifier. 
+ If the User is successful with 3 or more Degrees of Success, 
+the Opponent must make a Toughness Test. If the Opponent fails the 
+Toughness Test, they will gain +1 level of Fatigue. 
+ If the User is successful with 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Opponent will gain a -10 
+Penalty on all Tests made using their body for (X) minutes. (X) is equal 
+to 10, subtracted by the Opponent’s Toughness Modifier, to a 
+minimum of 2.  This Penalty does not stack  with itself if performed 
+multiple times. 
+ 
+SURFBOARD 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Prone 
+The Opponent must be facing downward, Prone on the ground. The 
+User will place their feet just above each of the Opponent’s knees. 
+The User then proceeds to bend the Opponent’s legs up, hooking 
+them around the User’s knees. This is the first Full Action. During this, 
+the Opposed Test is performed with a -10 Penalty to escape before 
+the hold is finished. If failed, the Surfboard is continued. 
+ The User reaches down and grasps both of the Opponent’s 
+wrists, usually slapping the Opponent’s kidneys in an attempt to bring 
+the arms in reach. The User then compresses the Opponent’s 
+shoulder blades and lifts them off the ground. The User then falls to 
+a seated position or onto their back, lifting the Opponent skyward, 
+which increases the pressure on their body. 
+ For every Round the Opponent is in the finished Surfboard 
+Hold, they must make a -10 Penalty Opposed Strength or Warfare 
+Melee Test against the User. If the Opponent is successful with 2 or 
+more Degrees of Success, they will escape. 
+ If the Opponent is successful but with less than 2 Degrees 
+of Success, they will avoid any Damage or negative effects for the Turn. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage. (X) is equal to half of the User’s Strength Modifier and half 
+of the User’s Warfare Melee Modifier added together.  This Damage 
+will ignore Damage Resistance. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, they will deal an additional 
+1D10 Damage for that Turn.
+
+===== PAGE 11 =====
+11 
+ 
+LEG HOLDS 
+ 
+ANKLE LOCK 
+Action: 1 or 2 Full Actions Perform: Controller 
+Prerequisite: N/A 
+The User will grab the Opponent’s leg and attempt to lift their leg off 
+of the ground. If the Opponent is Prone, this hold is a Full Action to 
+perform. If the Opponent is currently standing, the first Full Action 
+will be an Opposed Strength, Agility, or Wa rfare Melee Test in an 
+attempt to grab the Opponent’s leg and cause them to fall to the 
+ground. If the User is successful, the move will continue with the 
+Opponent now Prone. 
+ Once the User has a proper grip on the Opponent’s leg, they 
+will change their grasp to the Opponent’s foot or toes, and then wrap 
+their other arm around the ankle and then grab onto the wrist of their 
+first arm that was used to grab the foot. This places the Opponent’s 
+ankle in a key lock, where the User then places an extreme amount of 
+torque directly on the ankle of the Opponent. 
+ For every Round the Opponent is in an Ankle Lock , the 
+Opponent must make an Opposed Strength Test against the User’s 
+Strength or Warfare Melee Characteristic. If the Opponent is 
+successful, they will take no Damage.  
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User, they will escape. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to half of the User’s Strength Modifier, 
+ignoring Damage Resistance. For every Turn the Opponent is in this, 
+they will have a -10 Penalty with all Actions for that Leg for 2 minutes, 
+to a total of 20 minutes. 
+ If the User is successful by 4 or more Degrees of Success 
+over the Opponent  in the Opposed Test , the Opponent’s ankle is 
+dislocated and is at a -30 Penalty when the limb is used in any Action. 
+ 
+CLOVERLEAF 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Prone 
+The User stands at the feet of the Opponent, grabbing the Opponent’s 
+legs and lifting them up. The User then bends one leg so that the shin 
+is behind the Opponent’s straight leg and places the ankle of the 
+straight leg in their armpit. This is the first Action. During this, the 
+Opposed Test is performed with a -10 Penalty to escape before the 
+hold is finished. If failed, the Cloverleaf is continued. 
+ The User will take that same arm they initially used and 
+reach around the ankle of the Opponent  and then locks their arms 
+together. The User steps over the Opponent, turning the Opponent 
+over and squats down, leaning back to compress the legs and spine. 
+ For every Round the Opponent is in the finished Cloverleaf 
+Hold, they must make an Opposed Strength or Warfare Melee Test 
+against the User. If the Opponent is successful with 2 or more Degrees 
+of Success, they will escape. 
+ If the Opponent is successful but with less than 2 Degrees 
+of Success, they will avoid any Damage or negative effects for the Turn. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to half of the User’s Strength Modifier and 
+half of the User’s Warfare Melee Modifier added together. This 
+Damage will ignore Damage Resistance. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, they will deal an additional 
+2D5 Damage for that Turn  and all Actions the Opponent makes with 
+their legs will be at a -10 Penalty, as well as halving their Movement 
+Speeds for (X) Turns. (X) begins at 10 and is reduced by the 
+Opponent’s Toughness Modifier, to a minimum of 3.  This Penalty 
+timer begins once the hold has been released. 
+ 
+ 
+FIGURE FOUR LEGLOCK 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The User stands over the Opponent who is lying on the ground, 
+generally face up. The User will grasp a leg of the Opponent and does 
+a spinning toe hold to then grasp the other leg, crossing them into a 
+“4” shape. This is the first Full Action needed to perform this Hold. 
+During this, the Opponent may make a -10 Penalty Test to break free 
+as a Full Action. If failed, the Figure Four Leglock is continued. 
+ The User then falls to the ground, which instantly begins to 
+apply pressure on the twisted legs of the Opponent. 
+ There are many types of Figure Four Leglocks that can be 
+applied this way. For example, if the Opponent is facing down, the 
+legs are rotated in the opposite direction before falling, which is an 
+Inverted Figure Four. There are kneeling, reverse, standing, and 
+bridging versions of this that will all do the same amount of Damage. 
+ For every Round the Opponent is in the Figure Four Leglock, 
+the Opponent must make an Opposed Strength Test against the 
+User’s Strength or Warfare Melee Characteristic. If the Opponent is 
+successful, they will take no Damage. If the Opponent is successful  
+with 2 or more Degrees of Success over the User, they will escape. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to the User’s Strength Modifier multiplied 
+by 2, ignoring Armor. 
+ If the User has something they can hold onto with their free 
+hand, they are able to apply additional torque. In doing so, the User 
+will gain +5 Damage each time Damage were dealt by this Hold. 
+ 
+KNEEBAR 
+Action: Full Action Perform: Controller 
+Prerequisite: Opponent’s back must be on ground, Prone. 
+The Opponent applies what is essentially an Armbar to the 
+Opponent’s leg. The User grabs the Opponent’s leg and bends it 
+between the Opponent’s legs and arms, pointing the kneecap 
+towards their body. The User pushes the hips forward and then 
+forcefully straightens the Opponent’s leg to hyperextend the knee. 
+ For every Round the Opponent is in the Kneebar, they must 
+make an Opposed Strength Test against the User’s Strength or 
+Warfare Melee Characteristic. If successful, the Opponent rolls free.  
+If the User is successful, the Opponent will take Hold + (X) 
+Damage, where (X) is half of the User’s Strength Modifier plus half of 
+their Warfare Melee Modifier added together.  This Damage ignores 
+Armor. If the Opponent fails the Test with 2 or more Degrees of 
+Failure, they will gain +1 level of Fatigue. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, they will deal an additional 
+1D5 Damage for that Turn and all Actions the Opponent makes with 
+their legs will be at a -10 Penalty, as well as halving their M ovement 
+Speeds for (X) Turns. (X) begins at 8 and is reduced by the Opponent’s 
+Toughness Modifier, to a minimum of 2. This Penalty timer begins 
+once the hold has been released.
+
+===== PAGE 12 =====
+12 
+ 
+ 
+SHARPSHOOTER 
+Action: 2 Full Actions Perform: Controller 
+Prerequisite: Opponent must be Crouching or Prone. 
+The User steps between the Opponent’s legs with one of their own 
+legs, and then grabs the nearest of the Opponent’s legs to wrap 
+around their own leg.  The User then steps over that leg with their 
+other leg. This is the first Full Action needed to perform the Hold. 
+During this, the Opponent may make a -10 Penalty Opposed Strength 
+Test to break free as a Half Action. If failed, the Sharpshooter is 
+continued. 
+ After grabbing the leg and stepping over, the User then flips 
+the Opponent into a Prone position  if they are not already. The 
+Opponent is turned to face the ground if they are not already by the 
+User stepping over them and rotating them manually with the leg.  
+Finally, the User leans back and compresses the legs as they sit over 
+the Opponent’s body.  
+ For every Round the Opponent is in an Sharpshooter, the 
+Opponent must make an Opposed Strength Test against the User’s 
+Strength or Warfare Melee Characteristic. If the Opponent is 
+successful, they will take no Damage.  
+ If the Opponent is successful with 2 or more Degrees of 
+Success over the User, they will escape. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal t o the User’s Warfare Melee Modifier, 
+ignoring Damage Resistance. For every two Rounds the Character is 
+in the Sharpshooter, they gain +1 Level of Fatigue. 
+ If the User is successful by 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Opponent’s leg is 
+dislocated and is at a -30 Penalty when the limb is used in any Action. 
+ 
+ 
+SPINNING TOE HOLD 
+Action: Half Action Perform: Controller 
+Prerequisite: Opponent must be Prone. 
+The User grabs the Opponent’s leg as they are Prone  on the ground, 
+face-up. The User then turns with the leg in a 360 motion, twisting the 
+leg inward with each turn. The User will continue to rotate the leg by 
+stepping over the leg and round again to twist the knee and ankle. 
+ For the next Half Action, the Opponent must make an 
+Opposed Strength Test against the User’s Strength or Warfare Melee 
+Characteristic. If the Opponent is successful, they will take no Damage. 
+If the Opponent is successful with 2 or more Degrees of Success over 
+the User, they will escape. If the Opponent is kept in the Spinning Toe 
+Hold, they must perform this Opposed Test at the beginning of each 
+Round as if it were a normal Hold. 
+ If the User is successful, the Opponent will take  Hold + (X) 
+Damage, where (X) is equal to half of the User’s Strength Modifier, 
+ignoring Damage Resistance, to a maximum of 3 Damage per Turn. 
+ If the User is successful, they may transition this to another 
+lower-body Hold with a +20 Bonus to their Opposed Tests at the 
+beginning of their next Turn. This will be performed as a Full Action to 
+transition the move and will deal its Damage instantly. If the Hold 
+being transitioned to takes 2 Full Actions to perform, it  will instantly 
+finish the first Full Action of events.
+
+===== PAGE 13 =====
+13 
+ 
+THROWS 
+ 
+THROWS AND TOSSES 
+ 
+AIRPLANE SPIN 
+Action: Full Action Perform: Any 
+Prerequisite: N/A 
+The User lifts the Opponent onto their shoulders and begins to spin in 
+a circle in an attempt to make them dizzier than you will be. The User 
+can spin as long as they can possibly attempt to. 
+ A version of this where the User grabs the Opponent by the 
+legs and spins them in a circle is known as a Giant Swing. 
+ During an Airplane Spin, both the User and the Opponent 
+must make separate, non -Opposed Toughness Tests. For every 2 
+Degrees of Failure on these Tests, the Character will gain +1 level of 
+Fatigue. Each consecutive Turn, the User will gain a stacking -5 Penalty 
+for this Toughness Test, while the Opponent will gain a stacking -10 
+Penalty. These Penalties max out at -40. 
+ The Opponent may attempt to break free with a -20 Penalty 
+Opposed Test using either Strength, Agility, or Warfare Melee to 
+escape. If the Opponent is successful, they will escape as a Half Action 
+as if the move was a Hold. 
+ At the end of the User’s Turn, they are able to end the 
+Airplane Spin as a Free Action. This is done by allowing the Opponent 
+to fall to the ground.  If the User is doing a Giant Swing, they will leg 
+go and the Opponent will Scatter (X) meters, to a minimum of 0. (X) is 
+equal to the Character’s Strength or Agility Modifier, whatever is 
+highest. The distance is then reduced by 1 for every 50 kg the 
+Opponent weighs, to a minimum of 0. 
+ 
+ARM DRAG 
+Action: Half Action Perform: Any 
+Prerequisite: Both Characters must be standing. 
+The User grabs the Opponent’s arm and uses their momentum 
+against them. The User hooks the Opponent’s arm and flips them over 
+their own body, dropping them Prone on the ground.  The User may 
+also roll as they perform this move.  There are many variants of the 
+Arm Drag, but all of them will use this entry. 
+ This is performed if the Opponent has been making a 
+Movement Action towards the User, or if the User is close enough to 
+be grabbed and tossed. If the Opponent is not moving, the Arm Drag 
+can still be performed, but the User must roll while performing the 
+move against them. 
+ The User and the Opponent will roll anywhere from 1 meter 
+to half of the User’s Half Move in meters. It is up to the User how far 
+they will attempt to move. 
+ The Opponent must make an Opposed Agility or Warfare 
+Melee Test against the User. If successful, they will be able to roll out 
+of the Arm Drag without taking Damage. 
+ If the User is successful , the Opponent will be slammed 
+onto the ground, taking 1D5+(X) Damage, ignoring Armor. (X) is equal 
+to the User’s Strength Modifier or Warfare Melee Modifier, 
+whichever is highest, plus the amount of meters the Opponent moved 
+in the Turn. If the Opponent did not move prior, the amount of meters 
+the Opponent moved will be replaced by the amount of meters the 
+User rolled while performing the move. If the User decided to roll 
+while the Opponent was also moving, the highest of the two are taken. 
+ The Arm Drag can be used alongside a Delayed Action to 
+catch a moving Opponent off guard as they approach into the User’s 
+Melee Reach. If a Delayed Action is used this way alongside the Arm 
+Drag, the User will gain a +20 Bonus to the Opposed Test. 
+ The Arm Drag can be used alongside a Delayed Action to 
+interrupt an Opponent’s Hold or move that involves grabbing the 
+User’s arm, as well. This will initiate the usual Opposed Test, but 
+instead of breaking free if the User is successful, they will perform the 
+Arm Drag on the Opponent. 
+ 
+BACK BODY DROP 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Must be able to Lift the Opponent. 
+The Back Body Drop has the User bend forward or Crouch in front of 
+their Opponent , grab them, and lift them overhead, attempting to 
+either throw them, or use the Opponent’s momentum against them. 
+The User will do this in order to hurl the Opponent over their back so 
+they have a rough landing. 
+ The Back Body Drop will take a Full Action for the User to 
+attempt to perform the Back Body Drop against them. However, if the 
+Opponent is making a Movement Action towards the User, the User 
+will be able to quickly use this momentum against them, performing 
+the Back Body Drop as a Half Action, instead. This makes the Back 
+Body Drop a good move when combining it with a Delayed Action to 
+catch an incoming Opponent off-guard. 
+ When performing the Back Body Drop, the Opponent must 
+make an Opposed Warfare Melee or Agility Test against the User’s 
+Strength or Warfare Melee Characteristic to attempt to escape. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, they will quickly escape 
+from being thrown by this move.  
+ If the Opponent is successful but with less than 3 Degrees 
+of Success, they will still be thrown but will take no Damage or ill 
+effects as they successfully slide off of the User’s back or land with 
+ease. The Opponent may decide whether they are thrown without 
+taking Damage, or if they will safely slide directly behind the User.  
+ If the User is successful, the Opponent will be thrown (X) 
+meters behind them, where (X) is 1 for every 3 Strength Modifier of 
+the User, to a minimum of 1, plus the  one-third of the  Opponent’s 
+movement speed as they were caught by the move (to a minimum of 
+0, rounding down).  
+ When the Opponent lands on the ground,  they will take 
+Slam + (X) Damage, where (X) is the same as the meters they were 
+thrown, multiplied by 3. This Damage ignores Armor. For example, if 
+a Normal Sized Character throws an Opponent 4 meters, they will 
+take 2D10 + 12 Damage. Depending on how far  the Opponent ends 
+up falling, the GM may add Fall Damage to the amount of Damage 
+being taken. 
+ 
+CRUCIFIX TOSS 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Both Characters must be standing or crouching. 
+The User lifts the Opponent above their back with the Opponent’s 
+arms, spreading the arms out in a crucifix hold. The User then throws 
+down the Opponent, generally onto the back of their neck.  On 
+average, it is only a Half Action to perform this move. If the Opponent 
+weighs more than the User’s Lift weight but under their Carry weight, 
+it will take a Full Action. 
+ The Opponent must make an Opposed Warfare Melee or 
+Agility Test against the User’s Strength or Warfare Melee 
+Characteristic in an attempt to escape.  If the Opponent is successful, 
+they will slip out. 
+ If the User is successful, they will throw down the Opponent 
+onto their side, stomach, or back. The Opponent will take Slam + (X) 
+Damage, ignoring Armor. (X) is equal to the User’s Strength Modifier, 
++1 for every 50 kg the Opponent weighs, to a maximum of +10 
+Damage from the Opponent’s weight. 
+ If the User had 3 or more Degrees of Success over the 
+Opponent on the Opposed Test, the Opponent will land on their neck 
+and head, increasing the Damage by +1D10.
+
+===== PAGE 14 =====
+14 
+ 
+FIREMAN’S TAKEOVER 
+Action: Half or Full Action Perform: Any 
+Prerequisite: The User must be Crouching. 
+The Fireman’s Takeover is a Fireman’s Carry move where the User 
+then throws the Opponent  to the side. There are two types of 
+Fireman’s Takeover. The first is a quick snap motion where the 
+Opponent is quickly tossed over the shoulders of the User as a 
+counter against the Opponent, or as a quick way to leave them Prone.  
+ The second  version is when the User gets the Opponent 
+onto their shoulders, stands, and then rolls them off of their shoulders, 
+causing them to drop further and to be left Prone. This is a Full Action. 
+ The Opponent must make an Opposed Warfare Melee or 
+Agility Test against the User’s Strength or Warfare Melee 
+Characteristic in an attempt to escape.  If the Opponent is successful, 
+they will slip out. For the Half Action version, the Opponent has a -10 
+Penalty to their Opposed Test. The Opponent has no Penalty for the 
+Full Action version of this Test. 
+ For the Half Action version, i f the User is successful, the 
+Opponent is quickly left Prone  and will take Slam Damage, ignoring 
+Armor. If the User is successful with 3 or more Degrees of Success 
+over the Opponent , they can instantly initiate a ny Half Action Arm 
+Hold that can be performed on a Prone Opponent. A Full Action Arm 
+Hold can instead be performed as a Half Action. 
+ For the Full Action version, if the User is successful, the 
+Opponent is left Prone and will take Slam + Strength Modifier Damage, 
+ignoring Armor. 
+ 
+HEADSCISSORS TAKEDOWN 
+Action: Full Action Perform: Any 
+Prerequisite: The User must be able to Jump. 
+This move is performed in one of two ways, with the User facing up 
+or down. Either way, the outcome is the same. The User will jump up, 
+wrapping their legs around the Opponent’s head. The User will use 
+the momentum they have from running or jumping to perform a flip. 
+As the User flips, they will use their legs to throw the Opponent onto 
+the ground. 
+ There are many versions that can be used instead of just 
+throwing the Opponent onto the ground. Examples include grabbing 
+the arm and throwing them or slamming them down with the Arm in 
+order to get an advantage with that arm later, or to grab the head 
+with the arms instead of the legs and roll the Opponent down towards 
+the ground. Regardless of how it is performed, the outcome against 
+the Opponent will be the same.  The most common versions of this 
+move are the Hurricanrana, the Déjà vu, and the Frankensteiner. 
+ The Opponent must make a -10 Penalty Opposed Test using 
+Agility or Warfare Melee against the User. If the Opponent is 
+successful, they will be able to get the User off of them before being 
+thrown or taken down by this move.  If the Opponent is successful 
+with 4 or more Degrees of Success over the User in the Opposed Test, 
+they can transition this into any Half Action Throw that can be used 
+to slam them onto the ground, including DDTs and Slams. 
+ If the User is successful, the Opponent is thrown to the 
+ground and are left Prone. The Opponent will take Slam + (X) Damage, 
+where (X) is the User’s Agility Modifier. The distance the Opponent is 
+thrown is equal to the User’s Agility Modifier, subtracted by 1 for 
+every 50 kg the Opponent weighs, to a minimum of 0 meters. 
+ If the User is successful with 4 or more Degrees of Success 
+over the Opponent in the Opposed Test, they can transition this move 
+into an Armbar, Headscissors (Grounded), Facelock, Short Arm 
+Scissors, or a Sleeperhold. The GM may allow other Holds. 
+ 
+ 
+ 
+ 
+ 
+HIP TOSS 
+Action: Half Action Perform: Any 
+Prerequisite: Both Characters must be standing. 
+The User stands next to their Opponent and faces the same direction 
+as them. The User hooks their closest arm underneath and behind the 
+Opponent’s closest armpit and quickly lifts the Opponent up with that 
+arm and rolls them forward, over their hip. The Opponent flips onto 
+their back and are left Prone.  The Hip Toss is a momentum -based 
+move, meaning that it’s about martial prowess and not about power. 
+ The Opponent must make an Opposed Warfare Melee or 
+Agility Test with a -10 Penalty. If successful, the Opponent will avoid 
+the move. 
+ If the User is successful, the Opponent will be thrown in 
+front of them, up to 1 meter away, and left Prone. The Opponent will 
+take Slam + (X) Damage, where (X) is the User’s Warfare Melee 
+Modifier. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, they can initiate an Armbar 
+as a Half Action instead of a Full Action. 
+ 
+MONKEY FLIP 
+Action: Full Action Perform: Any 
+Prerequisite: Both Characters must be standing. 
+The Monkey Flip is a strange throw that benefits from powerful legs. 
+The User, generally standing face to face with their Opponent, will 
+hook both of their hands around the Opponent’s head. The User will 
+bring up both of their legs so that they place their feet on the hips and 
+waste of the Opponent  and quickly fall backwards.  As the User falls 
+back, the Opponent will be supported by the User’s legs, which the 
+User then uses the momentum from falling and the strength of their 
+legs to throw the Opponent behind them as far as possible. 
+ The Opponent must make an Opposed Warfare Melee or 
+Agility Test against the User. If s uccessful with 3 or more Degrees of 
+Success, they will fully avoid the Monkey Flip.  
+ If the Opponent is successful but with less than 3 Degrees 
+of Success, they will land on their feet from the Monkey Flip , taking 
+no Damage. The Monkey Flip will still launch the Opponent, so the 
+distance they will travel can be found in the section that explains what 
+happens if the user is successful. 
+ If the User is successful, the Opponent will be launched (X) 
+meters. (X) is equal to  the User’s Strength Modifier and Agility 
+Modifiers added together , divided by 4, rounding down, to a 
+minimum of 1. The Opponent will take Slam + (X) Damage. 
+ 
+SNAPMARE 
+Action: Half Action Perform: Any 
+Prerequisite: Both must be Standing or Crouching.  
+The Snapmare is performed by the User quickly putting the Opponent 
+into a three -quarter facelock, kneeling down, and using that 
+momentum to pull and flip the Opponent forward, leaving them 
+either Prone or sitting/Crouching, the User may decide. 
+ The Opponent must make an Opposed Strength or Warfare 
+Melee Test against the User. If the Opponent is successful, the move 
+is failed. 
+ If the User is successful, the Opponent is left Prone on the 
+ground directly in front of the User. The Opponent will take Slam + (X) 
+Damage, where (X) is the User’s Warfare Melee Modifier.
+
+===== PAGE 15 =====
+15 
+ 
+BREAKERS AND BUSTERS 
+ 
+ATOMIC DROP 
+Action: Half Action Perform: Any 
+Prerequisite: User must be standing; Opponent can’t be Prone. 
+The Atomic Drop is performed by quickly lifting the Opponent’s 
+shoulders and lifting them, only to drop them tailbone -first onto the 
+User’s knees. Both Characters will be left standing. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful, they will slip 
+free from the move before it is performed. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage, where (X) is equal to half of the User’s Agility Modifier. 
+ 
+BULLDOG 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Both Characters must be standing. 
+The Bulldog is a move where the User grabs an Opponent’s head and 
+jumps forward and lands in a sitting or Prone position. This will drive 
+the Opponent’s head into the ground. There are various variants of 
+the Bulldog, each with a different Action to perform. There are many 
+types of Bulldogs and names of them, as well. This includes Cutters, 
+the most famous of the Cutters being the Diamond Cutter and the 
+RKO. These will all be performed the same, regardless of name. 
+ 
+STANDARD BULLDOG: INVERTED, REVERSE, ONE-HANDED, ETC. 
+These Bulldogs are all a Half Action to perform and will deal the same 
+type of Damage and effect regardless of the choice.  These are 
+performed from a standing position where both Opponents are 
+within Melee Reach. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful, they will slip 
+free from the Bulldog before they’re driven to the ground. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User, the Opponent will stay standing and the User 
+will be left Prone on the ground from failing the Bulldog. 
+ If the User is successful, the Opponent will be left Prone on 
+the ground and will take Breaker + (X) Damage. (X) is equal to half of 
+the User’s Warfare Melee Modifier and Agility Modifier added 
+together, rounding down to a minimum of 2. This Damage ignores 
+Armor. 
+ If the User is successful with 4 or more Degrees of Success 
+over the Opponent in the Opposed Test, they can transition the 
+Bulldog into a Head, Neck, or Shoulder Hold of choice that does not 
+involve choking the Opponent with the legs. 
+ 
+SPINNING BULLDOG 
+The Spinning Bulldog is a Full Action to perform, as the User will grab 
+the Opponent diagonally, spinning them and dropping them back-first 
+on the ground with additional momentum from the rotation. 
+ When performed, it will follow the same rules as the 
+standard Bulldog but the Opponent will gain a -10 Penalty to Oppose 
+the Spinning Bulldog, and the full Agility Modifier will be added to the 
+Damage instead of Half Agility Modifier. 
+ 
+RUNNING BULLDOG 
+The Running Bulldog can only be performed at the end of a User’s Full 
+Action Move, Charge Move, or Run Move Action . This is a technical 
+Full Action to perform due to it being paired with a Movement Action. 
+ When performed, it will follow the same rules as the 
+standard Bulldog but the Damage will be increased. The Damage from 
+the move will gain a Bonus equal to the amount of meters the User 
+moved in the Turn it was used, as well as giving the User’s full Agility 
+Modifier when figuring the Damage, instead of Half Agility Modifier. 
+ 
+ 
+ 
+BACKBREAKER and GUTBUSTER 
+Action: Full Action Perform: Any 
+Prerequisite: Opponent must be in a position to be lifted. 
+The Backbreaker is a common move where the User lifts the 
+Opponent into the air and does one of a few variants of dropping 
+them onto the User’s legs , impacting onto their back.  Depending on 
+the version used, the Characters will take various amounts of Damage 
+and be left in various positions after the move is performed.  There 
+are many types of Backbreakers, though most will follow one of the 
+given sets of rules, regardless of name. 
+ The Gutbuster is when the User drops the Opponent 
+stomach or chest-first onto their knee, instead of dropping them onto 
+their back. Regardless of this difference, the Damage is the same. 
+ 
+STANDARD BACKBREAKER: FRONT, INVERSE, DROP, MAT, ETC. 
+These Backbreakers are a Full Action to perform and will deal the 
+same type of Damage and effect regardless of the choice. These are 
+performed from a position where the User can successfully grab the 
+Opponent to drop them onto their knee. This move will leave the User 
+in a crouching position after it is performed. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful, they will slip 
+free from the Backbreaker before it’s performed. 
+ If the User is successful, the Opponent will be left Prone on 
+the ground after having their back quickly slammed onto the User’s 
+knee. The Opponent will take Breaker + (X) Damage. (X) is equal to 
+half of the User’s Strength Modifier and Warfare Melee Modi fier 
+added together, rounding down to a minimum of 1.  This Damage 
+ignores Armor. 
+ If the User is successful with 2 or more Degrees of Success 
+over the Opponent in the Opposed Test, the User is able to position 
+the Opponent in the desired position after the move is performed. 
+This includes the direction the Opponent is facing, whether they’re 
+left on the User’s knee, or if they’re left Crouching or Prone. 
+ If the User is successful with 4 or more Degrees of Success 
+over the Opponent in the Opposed Test, the User is able to transition 
+to a Backbreaker Submission Hold. 
+ 
+FALLING BACKBREAKER 
+The Falling Backbreaker has the User dropping to their back as the 
+Opponent falls onto the User’s knees. When this is performed, the 
+Opponent will then fall Prone onto the ground and the User will be 
+left Prone as well.  With enough Degrees of Success, the User will be 
+able to stand before their Turn ends.  Notable versions of this move 
+are the Fireman’s Carry Backbreaker and the Falling Backbreaker. 
+ When performed, the Falling Backbreaker will follow the 
+same rules as the Standard Backbreaker  but the Damage will be 
+increased. The (X) Damage will be increased by add the User’s Agility 
+Modifier. 
+ If the User is successful with 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, the User is able to transition 
+to a Backbreaker Submission Hold or to end the Turn standing.
+
+===== PAGE 16 =====
+16 
+ 
+ 
+DDT 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Both Characters must be standing or crouching. 
+The DDT is any move in which the User falls down or backwards in 
+order to drive the Opponent’s head into the ground. Most DDTs 
+involve quickly grabbing the Opponent by the head or by using a front 
+facelock and  then falling backwards or forwards so that the 
+Opponent’s head will collide with the ground. 
+ Both the User and the Opponent must be within Point Blank 
+range to each other and within Melee Reach. The User and Opponent 
+must both either be Standing, or both must be Crouching for this 
+move to properly be executed. 
+ 
+STANDARD DDT:  
+These DDTs are all a Half Action to perform and will deal the same 
+type of Damage and effect regardless of the choice. These are 
+performed from a standing position where both Opponents are 
+within Melee Reach.  The Standard DDT covers Flip, Elevated, Float -
+Over, Underhook, Cradle, Spike, and more. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful  with 2 or more 
+Degrees of Success, they will slip free from the Bulldog before they’re 
+driven to the ground. 
+ If the Opponent is successful with less than 2 Degrees of 
+Success, they will still be taken to the Ground with the User, but will 
+be able to stop the move before taking the Damage. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User  in the Opposed Test , the Opponent will stay 
+standing and the User will be left Prone on the ground from being 
+tripped while attempting the DDT. The Opponent may decide not to 
+perform this additional action. 
+ If the User is successful, the Opponent will be left Prone on 
+the ground and will take Breaker + (X) Damage. (X) is equal to half of 
+the User’s Strength Modifier and Warfare Melee  Modifier added 
+together, rounding down to a minimum of 1. This Damage ignores 
+Armor. 
+ If the User is successful with 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, they can transition the DDT 
+into a Head, Neck, or Shoulder Hold of choice that does not involve 
+choking the Opponent with the legs.  This transition will reduce the 
+move being performed from a Full Action to a Half Action. A Half 
+Action can be performed as a Free Action, instead. 
+ 
+TORNADO, SNAP, SPINNING, AND SWINGING DDT 
+The Tornado, Spinning, Snap, and Swinging DDTs, as well as all of their 
+variants, involve horizontal movement, pendulum -like swinging 
+movements, or spinning movements to perform a DDT with 
+additional momentum.  These types of DDTs are a Full Action to 
+perform compared to the Standard DDT’s Half Action. 
+ When performed, it will follow the same rules as the 
+standard DDT but the Opponent will gain a -10 Penalty to Oppose the 
+DDT, and the full Agility Modifier will be added to the Damage instead 
+of Half Agility Modifier. 
+ 
+RUNNING DDT 
+The Running DDT can only be performed at the end of a User’s Full 
+Action Move, Charge Move, or Run Move Action. This is a technical 
+Full Action to perform due to it being paired with a Movement Action. 
+ When performed, it will follow the same rules as the 
+standard DDT but the Damage will be increased. The Damage from 
+the move will gain a Bonus equal to the amount of meters the User 
+moved in the Turn it was used, as well as giving the User’s full Agility 
+Modifier when figuring the Damage, instead of Half Agility Modifier. 
+ 
+ 
+DEATH VALLEY DRIVER 
+Action: Full Action Perform: Any 
+Prerequisite: Both Characters must be standing or crouching. 
+The Death Valley Driver is a move where the User  performs a 
+fireman’s carry, lifting the Opponent onto their shoulders. The User 
+then falls in the direction that the Opponent’s head is facing, driving 
+their head and shoulder into the ground. There are many variants of 
+the Death Valley Driver and they will all use the same rules. When this 
+move is successfully performed, both the User and the Opponent will 
+land onto the ground Prone. 
+ When used, the Opponent must make an Opposed Strength, 
+Agility, or Warfare Melee Test. If the Opponent is successful with less 
+than 3 Degrees of Success over the User, they will be able to avoid the 
+move without being caught or lifted. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success, they can choose to allow the move to happen to them and 
+then successfully flip out and land on their feet while the User falls to 
+the ground, Prone. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage. (X) is the User’s Strength modifier in Damage. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent, the Death Vallery Driver will deal an additional 
++1D10 Damage on impact. 
+ 
+JAWBREAKER 
+Action: Half Action Perform: Any 
+Prerequisite: Both Characters must be standing. 
+The Jawbreaker, most commonly referred to now as a Stunner, is 
+when the User attempts to grab the Opponent’s head or neck as they 
+fall, driving the Opponent’s head into a section of the User’s body.  
+Regardless of who is successful, the User will be left in a Crouch 
+position, whether it be them kneeling or sitting. 
+ When used, the Opponent must make an Opposed Agility 
+Test. If successful, the Opponent will escape the move before the 
+User has a chance to begin falling. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will be able 
+to escape the move as the User falls, leaving them in a Crouch position. 
+If the Opponent is successful with 5 or more Degrees of S uccess, the 
+User will be left in a Prone position instead of a Crouch position. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage, where (X) is the User’s Warfare Melee Modifier. 
+ 
+MUSCLE BUSTER 
+Action: 2 Full Actions Perform: Any 
+Prerequisite: Both Characters must be standing. 
+The Muscle Buster is a dangerous and destructive move that 
+leverages a racking position where the User’s body and gravity 
+become a weapon.  This move takes 2 Full Actions to perform fully. 
+The first Full Action has the User hooking both of the Opponent’s legs 
+with the User’s arms. The User then tucks their head next to the 
+Opponent’s head before standing and lifting the Opponent up , soo 
+that the Opponent is upside down with their head resting on the 
+User’s shoulder. This is the end of the first Full Action. During this, the 
+Opponent may make a -20 Penalty Opposed Agility or Warfare Melee 
+Test to break free as a Half Action. 
+ The second Full Action will have the User tightening their 
+grip and jumping, landing onto the ground either into a sitting 
+position or onto their back. If the User lands in a sitting position, they 
+will be left in a Crouching position and the Opponent will be left Prone. 
+If the User lands on their back, both will be left Prone. 
+ If the Muscle Buster is successfully performed after the first 
+Full Action, the Opponent may make a -20 Penalty Opposed Strength 
+or Warfare Melee Test it break free before landing. If successful, the
+
+===== PAGE 17 =====
+17 
+ 
+Opponent will escape before landing, avoiding Damage but still being 
+left Prone on the ground.  
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, they will be able to escape 
+and be left in a Crouching position while the User falls Prone to the 
+ground. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage. (X) is equal to the User’s Strength and Warfare Melee 
+Modifiers added together. 
+ If the User is successful with 3 or more Degrees of Success, 
+the Muscle Buster will deal an additional +1D10 Damage and will deal 
+Special Damage on rolls of 9 or 10. 
+ 
+DRIVERS 
+ 
+FISHERMAN DRIVER 
+Action: Full Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The Fisherman Driver s a variation of the Driver where the User lifts 
+the Opponent while hooking the Opponent’s leg. The Opponent is 
+lifted above the User, with the Opponent’s shoulder resting on the 
+User’s shoulder. The User will then begin to drop as they sit onto the 
+ground, tucking the Opponent’s head and shoulders and driving them 
+to the ground. As the Opponent is slammed to the ground, the User 
+will keep hold of their leg after impact. The Opponent will be left 
+Prone on ground while the User is left sitting in a Crouch position. 
+ The tucking position that the Opponent is placed in makes 
+this move difficult to escape from.  While it isn’t the most dangerous 
+or damaging move, it is well-regarded as a safe move to use in a pinch. 
+ The Opponent must make a  -20 Penalty Opposed Strength 
+or Warfare Melee Test against the User’s Strength or Warfare Melee 
+Characteristic. If the Opponent is successful, they will slip free, facing 
+the Opponent. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the Opponent in the Opposed Test, they will be able to 
+slip out of the Fisherman Driver and land behind the User on their feet 
+as the User lands on the ground in a sitting position. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage. (X) is equal to half of the Opponent’s Strength Modifier, 
+rounding up. 
+ If the User is successful with 2 or more Degrees of Success 
+over the Opponent in the Opposed Test, (X) will be increased by half 
+of the User’s Warfare Melee Modifier, rounding down. 
+ 
+NELSON DRIVER 
+Action: Half Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The Nelson Driver can only be performed by a User who already has 
+their Opponent in a Nelson Hold. When this Driver is performed, the 
+User will shift their hold of the Opponent by sco oping their nearest 
+leg, flipping the Opponent upside down and then sits or lands on their 
+needs, driving the Opponent into the ground. 
+ When performed, the Opponent must make a -10 Penalty 
+Opposed Strength or Warfare Melee Test against the User. If the 
+Opponent is successful, they will escape. 
+ If the User is successful, the Opponent will take (X) Damage. 
+(X) is equal to the User’s Warfare Melee Modifier. 
+ 
+MICHINOKU DRIVER 
+Action: Full Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The Michinoku Driver is a sitout  scoop slam Piledriver, which is a 
+convoluted way to say that the Opponent is quickly scooped up, 
+flipped over, and their head is driven into the ground. 
+ The User must begin by facing the Opponent, reaching 
+behind the Opponent’s back with one arm, and scooping them up by 
+the groin with their other arm. The Opponent is lifted upward, flipped 
+upside-down, and then the User falls to a sitting position to drive the 
+Opponent onto the ground. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful with less than 3 
+Degrees of Success over the User, they will be able to avoid the move 
+without being caught or lifted. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success, they can choose to allow the move to happen to them and 
+then successfully flip out, landing behind the User as the User falls to 
+the ground in a sitting position. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage. (X) is the User’s Warfare Melee modifier in Damage. 
+ If the User is successful with 2 or more Degrees of Success 
+over the Opponent, the Michinoku Driver  will deal an additional 
+amount of Damage equal to the User’s Agility Modifier on impact. 
+ 
+TIGER DRIVER 
+Action: 2 Full Actions Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The Tiger Driver is a dangerous move where the User bends the 
+Opponent forward or grabs a crouched Opponent and double -
+underhooks the Opponent’s arms.  This is the end of the first Full 
+Action. During this, the Opponent may make a -20 Penalty Opposed 
+Agility or Warfare Melee Test to break free as a Half Action. 
+ The second Full Action will have t he Opponent lifted by 
+their hooked arms as the User then throws themselves and the 
+Opponent to the ground. The Opponent then lands on their shoulders 
+and the back of their neck and left Prone. 
+ If the Tiger Driver is successfully performed after the first 
+Full Action, the Opponent may make a -20 Penalty Opposed Strength 
+or Warfare Melee Test it break free before landing. If successful, the 
+Opponent will escape before landing, avoiding Damage but still being 
+left Prone on the ground.  
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, they will be able to escape 
+and be left in a Crouching position while the User falls to a Crouching 
+position next to them on to the ground. 
+ If the User is successful, the Opponent will take Breaker + 
+(X) Damage. (X) is equal to the User’s Strength and Warfare Melee 
+Modifiers added together. 
+ If the User is successful with 5 or more Degrees of Success  
+over the Opponent on the Opposed Test, the Tiger Driver will deal an 
+additional +2D10 Damage and will deal Special Damage on rolls of 9 
+or 10. 
+ 
+PILEDRIVER 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Both Characters must be standing or crouching. 
+The Piledriver is one of the most dangerous moves in wrestling. It 
+involves the User grabbling the Opponent, turning them upside-down, 
+and dropping themselves into a sitting or kneeling position to drive 
+the Opponent’s head into the ground. 
+ There are two main types of Piledrivers, Standard and Snap. 
+The Standard Piledriver is a Full Action to perform, while a Snap 
+Piledriver is a quicker, less damaging version that takes a Half Action.  
+ 
+SNAP PILEDRIVER:  
+Snap Piledriver will cover any type of Piledriver that is quickly 
+performed. Most Snap Piledrivers involve quickly getting the 
+Opponent into position and then quickly falling backwards to plant 
+their head onto the ground. This leaves both Characters Prone.
+
+===== PAGE 18 =====
+18 
+ 
+ When used, the Opponent must make an Opposed Strength 
+or Agility Test, opposing the User’s Strength or Warfare Melee. If the 
+Opponent is successful with less than 3 Degrees of Success  over the 
+User, they will escape the move before it can be performed. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the Opponent, they will be able to escape the move by 
+flipping the User over their back, causing the User to land Prone. 
+ If the User is successful, the Opponent will have their head 
+driven on the ground and left Prone. The Opponent will take Breaker 
++ (X) Damage. (X) is equal to the User’s Strength and Warfare Melee 
+Modifiers added together , and then halved, rounding down to a 
+minimum of 2. 
+ If the User is successful with 4 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Piledriver will deal 
+Special Damage on rolls of 9 or 10. 
+ 
+STANDARD PILEDRIVER: 
+The Standard Piledriver is any variant of the Piledriver that involves 
+fully lifting the Opponent up and preparing them for a long and 
+dangerous drop to the ground, leaving the Opponent Prone and the 
+User in a Crouching position. 
+ When performed, it will follow the same rules as the Snap 
+Piledriver but will deal the User’s full Strength and Warfare Melee 
+Modifiers in Damage, instead of halving them. In addition, it will only 
+take 3 or more Degrees of Success over the Opponent to deal Special 
+Damage on rolls of 9 or 10. 
+ 
+SUPLEX 
+ 
+BRAINBUSTER 
+Action: Full Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The Brainbuster is performed by the User grabbing and locking the 
+Opponent in a front facelock, draping the Opponent’s nearest arm 
+over the User’s shoulder, and then lifting them into the air to quickly 
+falling backwards to drive their head onto the ground.  Regardless of 
+how this move is performed, both the User and the Opponent will be 
+left on the ground, Prone. 
+ When used, the Opponent must make an Opposed Strength, 
+Agility, or Warfare Melee Test. If the Opponent is successful, they will 
+stop the Suplex from being performed. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will be able 
+to perform a Suplex on their Turn, giving the User a -10 Penalty to 
+Oppose that move being performed. 
+ If the User is successful, the Opponent will have their head 
+driven on the ground and left Prone. The Opponent will take Breaker 
++ (X) Damage. (X) is equal to the User’s Strength and Warfare Melee 
+Modifiers added together. 
+ If the User is successful with 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Brainbuster will deal 
+Special Damage on rolls of 8, 9, or 10. 
+ 
+FACELOCK SUPLEX 
+Action: Half Action Perform: Any 
+Prerequisite: User must already have Opponent in specified Hold. 
+The Facelock Suplex can only be performed  if the User currently has 
+a successful Facelock or Chinlock Hold on the Opponent. The Facelock 
+Suplex is performed by lifting the Opponent by the current Hold they 
+are already in then falling backwards to throw or slam the Opponent 
+onto the ground behind them. Both the User and the Opponent will 
+be left on the ground, Prone. 
+ When used, the Opponent must make a  -10 Penalty 
+Opposed Strength, Agility, or Warfare Melee Test. If the Opponent is 
+successful, they will stop the Suplex from being performed. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will be able 
+to perform a Suplex on their Turn, giving the User a -10 Penalty to 
+Oppose that move being performed. 
+ If the User is successful, the Opponent will have their 
+shoulder and back driven on the ground and left Prone. The Opponent 
+will take Breaker + (X) Damage. (X) is equal to the User’s Agility 
+Modifier. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Suplex will deal Special 
+Damage on rolls of 9 or 10. 
+ 
+GERMAN SUPLEX 
+Action: Full Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+A German Suplex is a Suplex where the User grabs the Opponent 
+around their waist, lifting them up, and falling backwards while 
+bridging the User’s back and legs. This slams the Opponent onto the 
+ground on their upper back, while the User keeps it bridged with their 
+back and legs, pinning the Opponent onto the ground. 
+ When used, the Opponent must make an Opposed Strength 
+or Warfare Melee Test. If the Opponent is successful, they will stop 
+the Suplex from being performed. 
+ If the Opponent is successful with 4 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will be able 
+to perform a Suplex on their Turn, giving the User a -10 Penalty to 
+Oppose that move being performed. 
+ If the User is successful, the Opponent will have their back 
+driven on the ground and left Prone. The Opponent will take Breaker 
++ (X) Damage. (X) is equal to the User’s Strength and Warfare Melee 
+Modifiers added together. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, they can choose to keep the 
+Opponent pinned on the ground. In order for the Opponent to escape 
+this, they must make a +10 Bonus Opposed Strength Test against the 
+Opponent at the beginning of their Turn. 
+ If the User is successful with 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Suplex will deal Special 
+Damage on rolls of a 9 or 10. 
+ 
+SNAP SUPLEX 
+Action: Half Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The Snap Suplex is a quickly performed Suplex that is based on a burst 
+of speed and less on precision.  The Snap Suplex is generally 
+performed by grabbing the Opponent around their waist, lifting them 
+up, and quickly tossing them backwards as the User falls back to gain 
+quick momentum. Both the User and the Opponent will be left Prone. 
+ When used, the Opponent must make an Opposed Strength 
+or Agility Test. If the Opponent is successful, they will stop the Suplex 
+from being performed. 
+ If the Opponent is successful with 5 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will be able 
+to perform a Suplex on their Turn, giving the User a -10 Penalty to 
+Oppose that move being performed. 
+ If the User is successful, the Opponent will have their back 
+driven on the ground and left Prone. The Opponent will take Breaker 
++ (X) Damage. (X) is equal to the User’s Agility Modifier. 
+ If the User is successful by 2 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Suplex will throw the 
+Opponent (X) meters, where (X) is 1/3 rd of the User’s Strength 
+Modifier in meters, to a minimum of 1. 
+ If the User is successful with 5 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Suplex will deal Special 
+Damage on rolls of a 9 or 10.
+
+===== PAGE 19 =====
+19 
+ 
+SLEEP SUPLEX 
+Action: Half Action Perform: Any 
+Prerequisite: User must already have Opponent in specified Hold. 
+The Sleep Suplex can only be performed if the User currently has a 
+successful Sleep Suplex Hold on the Opponent.  The Sleep Suplex is 
+performed by lifting the Opponent by the current Hold they are 
+already in and then falling backwards to throw or slam the Opponent 
+onto the ground, head-first. Both the User and the Opponent will be 
+left on the ground, Prone. 
+ When used, the Opponent must make a -10 Penalty 
+Opposed Strength, Agility, or Warfare Melee Test. If the Opponent is 
+successful, they will stop the Suplex from being performed. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will be able 
+to perform a Suplex on their Turn, giving the User a -10 Penalty to 
+Oppose that move being performed. 
+ If the User is successful, the Opponent will have their head 
+and shoulders driven on the ground and left Prone. The Opponent will 
+take Breaker + (X) Damage. (X) is equal to the User’s Warfare Melee 
+Modifier. 
+ If the User is successful with 4 or more Degrees of Success 
+over the Opponent in the Opposed Test, the Suplex will deal Special 
+Damage on rolls of 8, 9, or 10. 
+ 
+SLAMS 
+ 
+ALABAMA SLAM 
+Action: Full Action Perform: Any 
+Prerequisite: Both users must be Standing. 
+The Alabama Slam is a high-angle spinebuster. The User bends down 
+and places their hands between the Opponent’s knees or under their 
+arms. The User then s tands up, holding onto the Opponent’s legs so 
+that the Opponent is facing the wrestler’s back. The User then brings 
+both hands down, throwing the Opponent onto the ground.  The 
+Opponent will land horizontally on the ground, impacting as many 
+body parts as possible. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful, they will be able 
+to slip free and back away before they’re grabbed. 
+ If the User is successful, the Opponent is slammed to the 
+ground, Prone, and the User is left standing.  The Opponent will take 
+Slam + (X) Damage. (X) is equal to the User’s Strength Modifier. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test , the move will deal an 
+additional 1D10 Damage. If this additional 1D10 Damage rolls a 6 
+through 10, the entire Attack will deal Special Damage on the 
+Opponent’s Neck Sublocation.  
+ 
+CHOKESLAM 
+Action: Full Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The User grabs the Opponent by their neck and lifts them up  as high 
+as they can. The User then slams them down onto the ground, landing 
+them on their back or side.  If the Opponent weighs more than the 
+User’s lift Weight but under their Carry Weight, this move will deal 
++1D10 Damage to the Opponent. 
+ The Opponent must make an Opposed Warfare Melee or 
+Agility Test against the User’s Strength or Warfare Melee 
+Characteristic in an attempt to escape.  If the Opponent is successful, 
+they will slip out. 
+ If the User is successful, they will throw down the Opponent 
+onto their Arm or back. The Opponent will take Slam + (X) Damage, 
+ignoring Armor. (X) is equal to the User’s Strength Modifier, + 2 for 
+every half-meter tall the User is, to a maximum of +10 Damage. 
+ 
+ELECTRIC CHAIR 
+Action: Half or Full Action Perform: Any 
+Prerequisite: User must be standing, Opponent can’t be Prone. 
+The User lifts the Opponent up onto their shoulders , in a sitting 
+position, and then falls backwards to drop them onto the ground. The 
+Electric Chair is performed in one of two ways. The first is by catching 
+an Opponent, the second is by lifting the Opponent. 
+ 
+CATCHING ELECTRIC CHAIR 
+The Catching Electric Chair can be performed by catching an 
+Opponent jumping, leaping, or attempting to do a high -kick at the 
+User. This can only be performed via a Delayed Action.  The Catching 
+Electric Chair may also be performed as a Half Action without needing 
+a Delayed Action as long as the Opponent was already on the User’s 
+shoulders. 
+ As long as the Opponent as jumped at least waist height, or 
+performed a Kick that was targeting the User’s waist or higher, a 
+Delayed Action Electric Chair can be performed. The User will catch 
+the Opponent’s leg over their shoulder and quickly lift them up. The 
+User will then perform a snap Electric Chair that slams them onto the 
+ground, back first. This will leave both the User and the Opponent 
+Prone on the ground. 
+ The Opponent must make a -20 Penalty Opposed Warfare 
+Melee or Agility Test against the User’s Strength, Agility, or Warfare 
+Melee Characteristic in an attempt to escape. If the Opponent is 
+successful, they will slip out. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, they will be able to Kick 
+the User to end the Turn for both Characters involved. 
+ If the User is successful, they will land onto their back while 
+holding up the Opponent, leaving them both Prone. The Opponent 
+will take Slam + (X) Damage. (X) is equal to half of the User’s Strength 
+Modifier, +1 for every 50 kg the User weighs, to a maximum of +10. 
+ 
+LIFTING ELECTRIC CHAIR 
+The Lifting Electric Chair is performed by forcefully lifting the 
+Opponent onto their shoulders before they then fall backwards, 
+leaving both Characters Prone and causing impact on the Opponent’s 
+back as they’re landed on, as well.  It is a Full Action to perform the 
+Lifting Electric Chair. It can’t be used as a Delayed Action like the 
+Catching Electric Chair is. 
+ The Opponent must make a -10 Penalty Opposed Warfare 
+Melee or Agility Test against the User’s Strength, Agility, or Warfare 
+Melee Characteristic in an attempt to escape. If the Opponent is 
+successful, they will slip out. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, they are able to slip out 
+and land, standing behind the User, ending the User’s Turn. 
+ If the User is successful, they will land onto their back while 
+holding up the Opponent, leaving them both Prone. The Opponent 
+will take Slam + (X) Damage. (X) is equal to the User’s Strength 
+Modifier, +1 for every 50 kg the User weighs, to a maximum of +10.
+
+===== PAGE 20 =====
+20 
+ 
+FACEBUSTER and FLAPJACK 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Both users must be Standing. 
+The Facebuster is performed by grabbing the Opponent however they 
+can and forcing their  face onto the ground by dropping their own 
+body. There are two main types of Facebusters, the Half Action and 
+Full Action Facebusters.  The Half Action Facebuster is known as the 
+Standard Facebuster. The Full Action Facebuster is a combination of 
+many type of unique moves that take longer to perform and use more 
+momentum on their side.  Flapjacks are a similar move performed 
+somewhat differently, though the end results are the same. 
+ 
+STANDARD FACEBUSTER: STANDING, FACEPLANT, FALLAWAY 
+These Facebusters are all a Half Action to perform and will deal the 
+same type of Damage and effect regardless of choice.  These are 
+performed from a standing position where the Opponent’s face is 
+quickly driven onto the ground. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful, they will slip 
+free from the move before they’re driven to the ground. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User, the Opponent will stay standing and the User 
+will be left sitting on the ground from failing the Facebuster. 
+ If the User is successful, the Opponent will be left Prone 
+facing the ground and will take Slam + (X) Damage. (X) is equal to the 
+User’s Warfare Melee Modifier and half of their  Agility Modifier 
+added together, rounding down to a minimum of 1. 
+ If the User is successful with 4 or more Degrees of Success 
+over the Opponent in the Opposed Test, they can transition the 
+Facebuster into a Leg, Body, or Arm Hold of choice. 
+ 
+FULL ACTION FACEBUSTER: JUMPING, SPINNING, ETC. 
+These Facebusters are a Full Action to perform and will use additional 
+momentum by jumping, spinning, or contorting the Opponent’s body 
+before impact. 
+ When performed, it will follow the same rules as the 
+standard Facebuster but the Opponent will gain a -10 Penalty on the 
+Opposed Test  and the full Agility Modifier will be added to the 
+Damage instead of Half Agility Modifier. 
+ 
+FALLAWAY SLAM 
+Action: Full Action Perform: Any 
+Prerequisite: Must be able to Lift the Opponent. 
+The Fallaway Slam is a move where the User grabs the Opponent by 
+wrapping one hand between the Opponent’s legs, and the other 
+around their back and side. The User lifts the Opponent  horizontally 
+in the air and then falls backwards, throwing the Opponent over their 
+head and onto the ground.  This move leaves both the User and the 
+Opponent Prone on the ground. 
+ When performing the Fallaway Slam, the Opponent must 
+make an Opposed Warfare Melee or Agility Test against the User’s 
+Strength or Warfare Melee Characteristic to attempt to escape. 
+ If the Opponent is successful but with less than 3 Degrees 
+of Success, they will slip free before the move can be performed on 
+them, leaving both the User and the Opponent standing. 
+ If the Opponent is successful with 3 or more Degrees of 
+Success over the User in the Opposed Test, the Opponent will slip free, 
+leaving the Opponent standing as the User falls prone on the ground. 
+ If the User is successful, the Opponent will be thrown (X) 
+meters behind them, where (X) is 1 for every 3 Strength Modifier of 
+the User, to a minimum of 1, plus the one -third of the Opponent’s 
+movement speed as they were caught by the move, rounding down. 
+ The Opponent will take Slam + (X) Damage. (X) is the User’s 
+Agility Modifier , +1 for every 50 kg the Opponent weighs, to a 
+maximum of +10. 
+FIREMAN’S CARRY SLAM 
+Action: Full Action Perform: Any 
+Prerequisite: Opponent can’t be Prone. 
+The Fireman’s Carry Slam  has the User draping the Opponent over 
+their shoulders in a fireman’s carry position. The User then takes hold 
+of the high and arm of the Opponent and then they are swung 
+forward, pulling the Opponent over the User’s head, slamming them 
+back down in front of the User as the User rolls on top of them and 
+rolls through back to their feet. 
+When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test. If the Opponent is successful, they will be able 
+to slip free and back away before they’re lifted. 
+ If the User is successful, the Opponent is slammed to the 
+ground, Prone, and the User is left standing after rolling through. The 
+Opponent will take Slam + (X) Damage. (X) is equal to the User’s 
+Warfare Melee Modifier, plus 1 for every 50 kg the User weighs, to a 
+maximum of +10. 
+When the User rolls through, the User will roll 1 meter away 
+from the Opponent. This is increased by an additional meter for every 
+2 Size Categories larger than Normal the User is. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, the move will deal an 
+additional 1D10 Damage. If this additional 1D10 Damage rolls a 7 
+through 10, the entire Attack will deal Special Damage on the 
+Opponent’s Ribs Sublocation.  
+ 
+NELSON SLAM 
+Action: Half Action Perform: Any 
+Prerequisite: User must already have Opponent in specified Hold. 
+The Nelson Slam can only be performed if the User currently has a 
+successful Nelson Hold on the Opponent. The Nelson Slam is 
+performed by lifting the Opponent up in the Hold and slamming them 
+down onto the ground, Prone. 
+ When used, the Opponent must make a -10 Penalty 
+Opposed Strength, Agility, or Warfare Melee Test. If the Opponent is 
+successful, they will stop the Slam from being performed. 
+ If the User is successful, the Opponent will have their head 
+and shoulders driven on the ground and left Prone. The Opponent will 
+take Slam + (X) Damage. (X) is equal to the User’s Strength Melee 
+Modifier, ignoring Armor. 
+ 
+POWERBOMB 
+Action: Full Action Perform: Any 
+Prerequisite: Opponent can’t be Prone. 
+The Powerbomb is a move where the User lifts the Opponent into the 
+air and then slams them back-first onto the mat. There are two main 
+types of Powerbombs, the Standing Powerbomb and the Sitout 
+Powerbomb. The Powerslam is performed similarly 
+ 
+STANDING POWERBOMB 
+When used, the Opponent must make a -10 Penalty Opposed Agility 
+or Warfare Melee Test against the User’s Strength or Agility 
+Characteristic. If the Opponent is successful, they will be able to 
+escape as they’re being lifted. If the Opponent is successful with 3 or 
+more Degrees of Success over the User in the Opposed Test, they can 
+slip behind the User. 
+ If the User is successful, the Opponent will be slammed 
+onto the ground. The Opponent will take Slam + (X) Damage, where 
+(X) is the User’s Strength and Warfare Melee Modifiers. 
+ 
+SITOUT POWERBOMB 
+When the Sitout Powerbomb is performed, the User will drop to the 
+ground alongside the Opponent as they slam them into the ground. 
+This will perform the same Damage as the Standing Powerbomb while 
+adding +2D10 Damage. The User will be left Prone with the Opponent.
+
+===== PAGE 21 =====
+21 
+ 
+ 
+POWERSLAM 
+Action: Full Action Perform: Any 
+Prerequisite: Opponent can’t be Prone. 
+The Powerslam is a move where the User approaches the Oppo nent 
+and reaches between the Opponent’s legs with one arm and reaches 
+around the Opponent’s back with the other arm. The User will lift the 
+Opponent, turn, and then fall forward to slam the Opponent onto the 
+ground as the User lands on top of them.  
+ There are many forms of Powerslams and each of them will 
+use the same outcomes. There are many versions where the 
+Opponent will be slammed onto different sections of their body, 
+which can be chosen by the User.  Regardless, when a Powerslam is 
+used, both the User and the Opponent will be left Prone. 
+ When used, the Opponent must make a -10 Penalty Agility 
+or Warfare Melee Test against the User’s Strength or Agility 
+Characteristic. If the Opponent is successful, they will be able to 
+escape as they’re being lifted. If the Opponent is successful with 4 or 
+more Degrees of Success over the User in the Opposed Test, they can 
+slip to the side as the User falls Prone. 
+ If the User is successful, the Opponent will be slammed 
+onto the ground. The Opponent will take Slam + (X) Damage, where 
+(X) is the User’s Strength and Warfare Melee Modifiers , +1 for every 
+50 kg the User weighs, to a maximum of +10. 
+ 
+PUMPHANDLE SLAM 
+Action: Half or Full Action Perform: Any 
+Prerequisite: Opponent can’t be Prone. 
+The Pumphandle Slam is a move where the User stands behind the 
+Opponent and bends them forward. One of the Opponent’s arms is 
+pulled back between their own legs and held, while the other arm is 
+hooked. The User then lifts the Opponent up until they are parallel 
+with the User’s c hest, and then throws themselves forward, driving 
+the Opponent into the ground with the weight of the User on top. This 
+leaves the User and the Opponent Prone on the ground. 
+ Normally, the Pumphandle Slam can be used as a Full Action 
+where the User applies the Pumphandle hold and then performs the 
+move. The Pumphandle Slam can also be used while the User has the 
+Opponent in an Abdominal Stretch hold.  This will allow the User to 
+perform the move as a Half Action. 
+ When used, the Opponent must make a -10 Penalty 
+Opposed Strength or Agility Test against the User’s Strength or Agility 
+Characteristic. If the Opponent is successful, they will be able to 
+escape as they’re being lifted. If the Opponent is successful with 3 or 
+more Degrees of Success over the User in the Opposed Test, they can 
+slip behind the User. 
+ If the User is successful, the Opponent will be slammed 
+onto the ground. The Opponent will take Slam + (X) Damage. (X) is the 
+User’s Strength Modifier, +1 for every 50 kg the Opponent weighs, to 
+a maximum of +10. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent in the Opposed Test, the User will be able to end 
+the move Crouching, instead of Prone. 
+ 
+SCOOP SLAM 
+Action: Full Action Perform: Any 
+Prerequisite: User must already have Opponent in specified Hold. 
+The Scoop Slam is performed by the User grabbing between the 
+Opponent’s legs with one arm and reaching around the Opponent’s 
+back with the other arm. The User scoops up the Opponent and lifts 
+them until they are parallel with the User’s chest. The Opponent then 
+throws the Opponent on the ground so they land on their back. 
+ When used, the Opponent must make a -10 Penalty 
+Opposed Strength, Agility, or Warfare Melee Test. If the Opponent is 
+successful, they will stop the Slam from being performed. 
+ If the User is successful, the Opponent will have their back 
+driven on the ground and left Prone. The Opponent will take Slam + 
+(X) Damage. (X) is equal to the User’s Strength Melee Modifier, +1 for 
+every half meter tall the User is, to a maximum of +10. 
+ 
+SPINEBUSTER 
+Action: Full Action Perform: Any 
+Prerequisite: Opponent can’t be Prone. 
+The Spinebuster is a move where the User grabs the Opponent 
+around the waist and lifts them up. The User then spins 180 degrees 
+to gain momentum as they slam the Opponent onto the ground , 
+falling with the Opponent.  This leaves the Opponent Prone and the 
+User Crouching above the Opponent. 
+ When used, the Opponent must make an Opposed Agility 
+or Warfare Melee Test against the User’s Strength or Agility 
+Characteristic. If the Opponent is successful, they will be able to 
+escape as they’re being lifted. 
+ If the User is successful, the Opponent will be slammed 
+onto the ground. The Opponent will take Slam + (X) Damage. (X) is the 
+User’s Agility and Warfare Melee Modifiers.
+
+===== PAGE 22 =====
+22 
+ 
+WRESTLING ATTACKS 
+ 
+UNIVERSAL DAMAGE BASED ON BODY PART USED TO MAKE THE ATTACK 
+SIZE CATEGORY REACH PUNCH, FOREARM, CHOP, 
+ELBOW, & FOREHAND 
+CLOTHESLINE, LARIAT, KICK, & 
+KNEE 
+STOMP, DROP, PRESS, BLOCK, 
+SENTON, & HEADBUTT 
+Mini 0 1D10 -2 2D10 -2 1D10 -2 
+Small 1 1D10 -1 2D10 -1 1D10 -1 
+Normal 1 1D10 2D10 2D10 
+Large 2 2D10 +1 3D10 +1 2D10 +1 
+Huge 3 2D10 +2 3D10 +2 3D10 +2 
+Hulking 3 3D10 +3 3D10 +3 3D10 +3 
+Giant 4 3D10 +4 4D10 +4 4D10 +4 
+Immense 4 4D10 +5 4D10 +5 5D10 +5 
+Massive 5 4D10 +6 5D10 +6 6D10 +6 
+Great 6 5D10 +7 5D10 +7 7D10 +7 
+Monumental 7 5D10 +8 6D10 +8 8D10 +8 
+Colossal 10 7D10 +9 8D10 +9 10D10 +9 
+Vast 25 9D10 +10 10D10 +10 12D10 +10 
+ 
+STANDARD STRIKES 
+ 
+BACK ELBOW 
+Base Damage: Strength Mod x2 Pierce: Strength Mod x2 
+Attack Actions: 3 
+The User swings their elbow by rotating their entire body 180 or 360 
+degrees, depending on the position of the Opponent. If the Opponent 
+is facing the User and is prepared, they have a +10 Bonus to Evasion 
+Tests against the Back Elbow. 
+ 
+BELL CLAP CHOP 
+Base Damage: Strength Mod x2 Pierce: N/A 
+Attack Actions: 3 
+The User slaps both ears of the Opponent simultaneously with the 
+palms of their hands, distorting the Opponent’s balance.  The 
+Opponent must make a -10 Toughness Test. If failed, the Opponent 
+will gain +1 level of Fatigue. 
+ 
+FOREHAND CHOP 
+Base Damage: Strength Mod Pierce: Strength Mod x2 
+Attack Actions: 2 
+The User slaps the Opponent using the forehand  after a large swing. 
+This swing is commonly designed to break the skin. 
+ 
+DOUBLE AXE HANDLE PUNCH 
+Base Damage: Strength Mod x3 Pierce: N/A 
+Attack Actions: 4 
+The User clutches both hands together and swings at the Opponent. 
+ 
+KNIFE EDGE CHOP 
+Base Damage: Strength Mod x2 Pierce: Half Strength Mod 
+Attack Actions: 2 
+The User chops the Opponent with the palm using a backhand swing. 
+ 
+CLOTHESLINES, SMASHES, AND LARIATS 
+ 
+CROSS CHOP 
+Base Damage: Strength Mod x2 Pierce: N/A 
+Attack Actions: Special 
+The User lunges towards the Opponent with both arms forming an X, 
+striking the Opponent twice.  This can only be performed if the User 
+had made a Full Move, Charge, or Run Action, ending their Turn by 
+striking the Opponent. This can only be used once per Turn. When this 
+Attack is landed, it will deal two separate sets of listed Damage. 
+CLOTHESLINE and LARIAT 
+Base Damage: Strength Mod x3 Pierce: N/A 
+Attack Actions: Special 
+The User moves towards the User and lunges with their arm to strike 
+the Opponent. This can only be performed if the User had made a Full 
+Move, Charge, or Run Action, ending their Turn by striking the 
+Opponent. This can only be used once per Turn.  When this move is 
+performed, it gives the Opponent a +10 Bonus to Evade. 
+ 
+FLYING CLOTHESLINE and FLYING LARIAT 
+Base Damage: Strength Mod x2 Pierce: N/A 
+Attack Actions: Special 
+The User Jumps or Leaps towards the Opponent with an arm out to 
+clothesline them mid-jump. This can only be performed if the User 
+had made a Jump Action  and would be able to collide with the 
+Opponent. This can only be used once per Turn. When this move is 
+performed, it gives the Opponent a +10 Bonus to Evade. 
+ The amount of meters moved in the Jump is added to the 
+Base Damage of the Attack, to a maximum of +7. 
+ 
+FOREARM SMASH 
+Base Damage: Strength Mod x2 Pierce: N/A 
+Attack Actions: Half Action 
+The Character performs a massive windup Punch or Forearm strike in 
+the attempt to knock the Opponent over. When this is performed and 
+the Opponent was unable to Evade it, the User will make an Opposed 
+Strength Test against the Opponent’s Toughness. If the Opponent 
+fails, they are knocked Prone. 
+ 
+ELBOW SMASH 
+Base Damage: Strength Mod Pierce: Strength Mod 
+Attack Actions: Half Action 
+The Character performs a massive windup Elbow strike in the attempt 
+to knock the Opponent over. When this is performed and the 
+Opponent was unable to Evade it, the User will make an Opposed 
+Strength Test against the Opponent’s Toughness. If the Opponent 
+fails, they are knocked Prone. 
+ 
+LEG SMASH 
+Base Damage: Strength Mod x2 Pierce: Half Strength Mod 
+Attack Actions: Half Action 
+The Character performs a massive windup in the attempt to knock the 
+Opponent over. The Character’s leg will be roughly parallel with their 
+chest as they move forward. This kick has a slow windup, giving the 
+Opponent a +10 Bonus to Evading it. When this is performed and the
+
+===== PAGE 23 =====
+23 
+ 
+Opponent was unable to Evade it, the User will make an Opposed 
+Strength Test against the Opponent’s -10 Penalty Toughness. If the 
+Opponent fails, they are knocked Prone.  
+ 
+KNEE SMASH 
+Base Damage: Strength Mod Pierce: N/A 
+Attack Actions: Half Action 
+The Character performs a massive windup Knee strike in the attempt 
+to knock the Opponent over. When this is performed and the 
+Opponent was unable to Evade it, the User will make an Opposed 
+Strength Test against the Opponent’s Toughness. If the Opponent 
+fails, they are knocked Prone. 
+ 
+BLOCKS, DROPS, AND PRESSES 
+ 
+SUPERMAN PUNCH 
+Base Damage: Strength Mod x3 Pierce: N/A 
+Attack Actions: Full Action 
+The Character Jumps or Leaps towards the Opponent with a large 
+punch. This can only be performed if the User has made a Jump Action 
+and would be able to collide with the Opponent. This can only be used 
+once per Turn. 
+ If the User is successful with 1 or more Degrees of Success 
+over the Opponent during the Evasion or Parry Opposed Test, the 
+Character will add their Agility Modifier to the Base Damage. 
+ 
+DROP KICK 
+Base Damage: Strength Mod x2 Pierce: Half Strength Mod 
+Attack Actions: Half Action 
+The Character Jumps or Leaps towards the Opponent with their legs 
+out in an attempt to do a jumping Kick. This can only be performed if 
+the User has made a Jump Action and would be able to collide with 
+the Opponent. This can only be used once per Turn. 
+ If the User is successful with 1 or more Degrees of Success 
+over the Opponent during the Evasion or Parry Opposed Test, the 
+Character will add their Agility Modifier to the Base Damage. 
+ 
+HIGH KNEE 
+Base Damage: Strength Mod Pierce: Half Strength Mod 
+Attack Actions: Half Action 
+The Character Jumps or Leaps towards the Opponent with their knee 
+in an attempt to do a knee kick. This can only be performed if the User 
+has made a Jump Action and would be able to collide with the 
+Opponent. This can only be used once per Turn. 
+ If the User is successful with 3 or more Degrees of Success 
+over the Opponent during the Evasion or Parry Opposed Test, the 
+Opponent will take an additional 1D10 Damage. 
+ 
+FLYING HEADBUTT 
+Base Damage: Strength Mod Pierce: Half Strength Mod 
+Attack Actions: Half Action 
+The Character Jumps or Leaps towards the Opponent attempting to 
+perform a Headbutt. This can only be performed if the User has made 
+a Jump Action and would be able to collide with the Opponent. This 
+can only be used once per Turn. 
+The Character strikes a Target with their Head . If the 
+Headbutt strikes the Target’s Head, the Attack ignores the Target’s 
+Armor. If the User is successful with 3 or more Degrees of Success 
+over the Opponent during the Evasion or Parry Opposed Test, the 
+Opponent will take an additional 1D10 Damage. 
+ 
+ 
+ 
+ 
+FIST DROP 
+Base Damage: Strength Mod x2 Pierce: N/A 
+Attack Actions: Half Action 
+The Character punches down at an Opponent as the User falls Prone. 
+The Opponent must also be Prone  if the User is not falling from a 
+greater height. Deals an additional +1D10 Damage, plus an additional 
++1 Damage for every 20 kg the User weighs, to a total of +30. 
+ 
+ELBOW DROP 
+Base Damage: Strength Mod Pierce: Strength Mod 
+Attack Actions: Half Action 
+The Character strikes down at an Opponent  with their elbow  as the 
+User falls Prone. The Opponent must also be Prone if the User is not 
+falling from a greater height. Deals an additional +1D10 Damage, plus 
+an additional +1 Damage for every 20 kg the User weighs, to a total of 
++30. 
+ 
+LEG DROP 
+Base Damage: Strength Mod Pierce: Strength Mod 
+Attack Actions: Half Action 
+The Character kicks downward onto an Opponent as the User falls 
+Prone. The Opponent must also be Prone if the User is not falling from 
+a greater height . Deals an additional + 1D10 Damage , plus an 
+additional +1 Damage for every 20 kg the  User weighs, to a total of 
++30. 
+ 
+KNEE DROP 
+Base Damage: Strength Mod Pierce: N/A 
+Attack Actions: Half Action 
+The Character drives their knee downward onto an Opponent as the 
+User falls Prone. The Opponent must also be Prone if the User is not 
+falling from a greater height. Deals an additional +1D10 Damage, plus 
+an additional +1 Damage for every 20 kg the User weighs, to a total of 
++30. 
+ 
+HEADBUTT DROP 
+Base Damage: Strength Mod x2 Pierce: N/A 
+Attack Actions: Half Action 
+The Character collides their head onto an Opponent as the User falls 
+Prone. The Opponent must also be Prone if the User is not falling from 
+a greater height . Deals an additiona l +1D10 Damage , plus an 
+additional +1 Damage for every 20 kg the  User weighs, to a total of 
++30. 
+ 
+SENTON DROP 
+Base Damage: Strength Mod Pierce: Strength Mod 
+Attack Actions: Half Action 
+The Character jumps up to land their entire body onto  an Opponent 
+as the User falls Prone. The Opponent must also be Prone if the User 
+is not falling from a greater height.  This Attack will deal +2 Damage 
+for every 20 kg the User weighs, to a total of +50. 
+ 
+SPEAR 
+Base Damage: Strength Mod x3 Pierce: Strength Mod 
+Attack Actions: Full Action 
+The Character charges forward with a Full Move, Charge, or Run 
+Action and performs a Jump or Leap Action, performing a tackle. This 
+will deal Senton Damage against  an Opponent. The Opponent must 
+be Crou ching or Standing to be struck by a Spear. If the User is 
+successful, both the User and the Opponent will be left Prone  after 
+the Attack. Deals an additiona l +1 Damage for every 20 kg the  User 
+weighs, to a total of +10.

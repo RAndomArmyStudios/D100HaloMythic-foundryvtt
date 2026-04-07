@@ -1,0 +1,1188 @@
+:root {
+  --hm-bg: #11161d;
+  --hm-panel: #18202a;
+  --hm-panel-alt: #202b38;
+  --hm-border: #4d6277;
+  --hm-text: #edf4ff;
+  --hm-muted: #a9bacd;
+  --hm-accent: #7cb342;
+  --hm-accent-alt: #f5c451;
+}
+
+.halo-mythic.sheet .window-content,
+.halo-mythic.halo-mythic-creator .window-content,
+.halo-mythic.halo-mythic-library .window-content,
+.halo-mythic-sheet {
+  background:
+    radial-gradient(circle at top right, rgba(124, 179, 66, 0.15), transparent 30%),
+    linear-gradient(180deg, #0f141b 0%, #11161d 100%);
+  color: var(--hm-text);
+  font-family: "Rajdhani", "Segoe UI", sans-serif;
+}
+
+.halo-mythic-sheet {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.halo-mythic.sheet .window-content {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+}
+
+.halo-mythic.halo-mythic-creator .window-content,
+.halo-mythic.halo-mythic-library .window-content,
+.halo-mythic-creator-app {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 100%;
+  min-height: 0;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.halo-mythic input,
+.halo-mythic select,
+.halo-mythic textarea,
+.halo-mythic button {
+  font-family: inherit;
+  line-height: 1.15;
+}
+
+.halo-mythic input,
+.halo-mythic select,
+.halo-mythic textarea {
+  width: 100%;
+  border: 1px solid var(--hm-border);
+  border-radius: 6px;
+  background: rgba(5, 10, 15, 0.55);
+  color: var(--hm-text);
+  padding: 4px 8px;
+}
+
+.halo-mythic input,
+.halo-mythic select,
+.halo-mythic button {
+  min-height: 36px;
+}
+
+.halo-mythic textarea {
+  min-height: 96px;
+  resize: vertical;
+}
+
+.halo-mythic button {
+  border: 1px solid var(--hm-border);
+  border-radius: 6px;
+  background: linear-gradient(180deg, var(--hm-panel-alt), var(--hm-panel));
+  color: var(--hm-text);
+  cursor: pointer;
+  padding: 4px 10px;
+}
+
+.halo-mythic button:hover {
+  border-color: var(--hm-accent);
+  box-shadow: 0 0 0 1px rgba(124, 179, 66, 0.25);
+}
+
+.sheet-header {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 10px;
+  align-items: start;
+}
+
+.sheet-header .profile {
+  width: 96px;
+  height: 96px;
+  border: 1px solid var(--hm-border);
+  border-radius: 8px;
+  object-fit: cover;
+  background: var(--hm-panel);
+}
+
+.sheet-header .profile.small {
+  width: 80px;
+  height: 80px;
+}
+
+.header-fields,
+.section-card,
+.resource-card {
+  border: 1px solid var(--hm-border);
+  border-radius: 8px;
+  background: rgba(24, 32, 42, 0.82);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.header-fields {
+  padding: 10px;
+}
+
+.identity-grid,
+.mini-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.identity-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.mini-grid {
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+}
+
+.identity-grid label,
+.mini-grid label,
+.notes-grid label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.identity-grid span,
+.mini-grid span,
+.notes-grid span {
+  color: var(--hm-muted);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.resource-strip {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.sheet-toolbar {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sheet-tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid rgba(77, 98, 119, 0.8);
+  padding-bottom: 8px;
+  flex: 1;
+}
+
+.sheet-tabs .item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  padding: 0 12px;
+  border: 1px solid rgba(77, 98, 119, 0.8);
+  border-radius: 8px;
+  background: rgba(20, 26, 34, 0.7);
+  color: var(--hm-muted);
+  font-family: "Agency FB", "Rajdhani", sans-serif;
+  font-size: 0.88rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.toolbar-button {
+  white-space: nowrap;
+}
+
+.sheet-tabs .item.active {
+  border-color: rgba(245, 196, 81, 0.8);
+  background: linear-gradient(180deg, rgba(47, 60, 77, 0.95), rgba(26, 34, 43, 0.95));
+  color: var(--hm-text);
+  box-shadow: 0 0 0 1px rgba(245, 196, 81, 0.18);
+}
+
+.sheet-body {
+  flex: 1;
+  min-height: 0;
+}
+
+.primary-tab {
+  display: none;
+  height: 100%;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.primary-tab.active {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fill-card {
+  min-height: 100%;
+}
+
+.resource-card {
+  padding: 8px;
+}
+
+.resource-card.emphasis {
+  border-color: rgba(124, 179, 66, 0.55);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04), 0 0 0 1px rgba(124, 179, 66, 0.18);
+}
+
+.resource-card label {
+  display: block;
+  color: var(--hm-muted);
+  font-size: 0.78rem;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.resource-values {
+  display: grid;
+  align-items: center;
+  gap: 4px;
+  grid-template-columns: 1fr auto 1fr;
+}
+
+.resource-subline {
+  margin-top: 8px;
+  color: var(--hm-muted);
+  font-size: 0.8rem;
+}
+
+.economy-card {
+  grid-column: span 2;
+}
+
+.section-card {
+  padding: 10px;
+}
+
+.section-head {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 8px;
+}
+
+.section-head h2,
+.section-card h3 {
+  margin: 0;
+  color: var(--hm-accent-alt);
+  font-family: "Agency FB", "Rajdhani", sans-serif;
+  letter-spacing: 0.04em;
+  line-height: 1;
+}
+
+.section-head p,
+.muted {
+  margin: 0;
+  color: var(--hm-muted);
+  font-size: 0.82rem;
+}
+
+.inline-actions {
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.compact-head {
+  margin-bottom: 8px;
+}
+
+.compact-head h2 {
+  font-size: 1.05rem;
+}
+
+.dashboard-grid,
+.quick-actions-grid,
+.status-grid,
+.skill-groups,
+.skill-card-list {
+  display: grid;
+  gap: 8px;
+}
+
+.dashboard-grid {
+  grid-template-columns: 1.25fr 1fr;
+  align-items: start;
+}
+
+.quick-actions-grid {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin-bottom: 10px;
+}
+
+.status-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.status-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px;
+  border: 1px solid rgba(77, 98, 119, 0.75);
+  border-radius: 8px;
+  background: rgba(10, 14, 20, 0.35);
+}
+
+.status-label {
+  color: var(--hm-muted);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.status-meta {
+  color: var(--hm-muted);
+  font-size: 0.82rem;
+}
+
+.characteristic-grid {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.characteristic-card {
+  border: 1px solid rgba(124, 179, 66, 0.25);
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(32, 43, 56, 0.9), rgba(17, 22, 29, 0.9));
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stat-label {
+  color: var(--hm-accent);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.stat-name,
+.stat-mod {
+  color: var(--hm-muted);
+}
+
+.roll-button {
+  margin-top: auto;
+}
+
+.derived-panel,
+.combat-grid,
+.two-column,
+.notes-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.derived-panel {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 8px;
+}
+
+.combat-grid,
+.two-column,
+.notes-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.derived-group,
+.combat-panel {
+  border: 1px solid rgba(77, 98, 119, 0.8);
+  border-radius: 8px;
+  background: rgba(10, 14, 20, 0.35);
+  padding: 8px;
+}
+
+.skill-table,
+.item-table {
+  display: grid;
+  gap: 6px;
+  align-items: center;
+}
+
+.skill-table {
+  grid-template-columns: 2.2fr 1.2fr 1fr 0.7fr 0.8fr;
+}
+
+.item-table {
+  grid-template-columns: 1.5fr 0.8fr 0.8fr 0.9fr 0.8fr 2fr;
+}
+
+.skill-table-head,
+.item-table-head {
+  color: var(--hm-accent);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding-bottom: 4px;
+  border-bottom: 1px solid rgba(77, 98, 119, 0.8);
+}
+
+.skill-row,
+.item-row {
+  min-height: 34px;
+  display: flex;
+  align-items: center;
+}
+
+.skill-name,
+.item-name {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.skill-bonus {
+  justify-content: center;
+  font-weight: 700;
+}
+
+.simple-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.simple-item,
+.line-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  padding: 6px 8px;
+  border: 1px solid rgba(77, 98, 119, 0.65);
+  border-radius: 8px;
+  background: rgba(10, 14, 20, 0.28);
+}
+
+.vertical-item {
+  align-items: flex-start;
+}
+
+.stacked-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.item-line {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.top-gap {
+  margin-top: 10px;
+}
+
+.nested-card {
+  padding: 8px;
+  background: rgba(24, 32, 42, 0.55);
+}
+
+.item-actions,
+.button-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.action-button {
+  font-size: 0.8rem;
+}
+
+.skill-groups {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  align-items: start;
+}
+
+.skill-group-card {
+  border: 1px solid rgba(77, 98, 119, 0.75);
+  border-radius: 10px;
+  background: rgba(10, 14, 20, 0.3);
+  padding: 8px;
+}
+
+.skill-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px;
+  border: 1px solid rgba(77, 98, 119, 0.55);
+  border-radius: 8px;
+  background: rgba(20, 26, 34, 0.72);
+}
+
+.skill-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.skill-card-head .action-button {
+  flex: 1;
+}
+
+.skill-card-body {
+  display: grid;
+  gap: 8px;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 6px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.tag-green {
+  background: rgba(124, 179, 66, 0.18);
+  color: #c8ef97;
+}
+
+.type-pill {
+  align-self: start;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(245, 196, 81, 0.14);
+  color: var(--hm-accent-alt);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.checkbox-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.checkbox-row input {
+  width: auto;
+}
+
+.halo-mythic-chat-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border: 1px solid var(--hm-border);
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(24, 32, 42, 0.92), rgba(12, 16, 22, 0.92));
+  padding: 10px;
+  color: var(--hm-text);
+}
+
+.halo-mythic-chat-card h3 {
+  margin: 0;
+  color: var(--hm-accent-alt);
+}
+
+.halo-mythic-chat-card .subtitle {
+  margin: 0;
+  color: var(--hm-muted);
+}
+
+.halo-mythic-chat-card .roll-display {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--hm-accent);
+}
+
+.halo-mythic-chat-card .roll-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.halo-mythic-chat-card .line {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.halo-mythic-dialog .field-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.creator-header,
+.creator-footer {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.creator-header h1 {
+  margin: 0;
+  color: var(--hm-accent-alt);
+  font-family: "Agency FB", "Rajdhani", sans-serif;
+  line-height: 1;
+}
+
+.creator-header p,
+.creator-footer .muted {
+  margin: 0;
+}
+
+.creator-pill-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.creator-layout {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 10px;
+  min-height: 0;
+  flex: 1;
+}
+
+.creator-summary,
+.creator-main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 0;
+}
+
+.creator-main {
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.library-shell,
+.library-pack-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 0;
+}
+
+.library-shell {
+  flex: 1;
+}
+
+.creator-summary-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.creator-grid,
+.creator-points-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.creator-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.creator-grid.two-wide {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.creator-grid .full-span {
+  grid-column: 1 / -1;
+}
+
+.creator-points-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.compact-stat-card {
+  min-height: 0;
+}
+
+.creator-stat-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  color: var(--hm-muted);
+  font-size: 0.82rem;
+}
+
+.creator-stat-row.total {
+  color: var(--hm-text);
+  margin-top: auto;
+}
+
+.creator-subsection {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.creator-subsection h3 {
+  margin: 0;
+}
+
+.creator-subsection p,
+.creator-loadout-copy {
+  margin: 0;
+  color: var(--hm-muted);
+  font-size: 0.82rem;
+}
+
+.compact-item {
+  padding: 6px 8px;
+}
+
+[data-points-remaining].warning {
+  color: #ff9d7a;
+}
+
+.halo-mythic-record-sheet {
+  gap: 6px;
+  padding: 8px;
+}
+
+.halo-mythic-record-sheet input,
+.halo-mythic-record-sheet select,
+.halo-mythic-record-sheet textarea {
+  padding: 3px 6px;
+}
+
+.halo-mythic-record-sheet input,
+.halo-mythic-record-sheet select,
+.halo-mythic-record-sheet button {
+  min-height: 30px;
+}
+
+.compact-sheet-header {
+  grid-template-columns: 72px 1fr;
+  gap: 8px;
+}
+
+.compact-profile {
+  width: 72px;
+  height: 72px;
+  border-radius: 6px;
+}
+
+.compact-header-fields {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  gap: 8px;
+}
+
+.compact-identity-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.header-readout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+  padding: 6px 8px;
+  border: 1px solid rgba(245, 196, 81, 0.45);
+  border-radius: 6px;
+  background: rgba(12, 18, 24, 0.65);
+}
+
+.header-readout span,
+.header-chip span {
+  color: var(--hm-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.header-band {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.header-chip {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 6px 8px;
+  border: 1px solid rgba(77, 98, 119, 0.8);
+  border-radius: 6px;
+  background: rgba(10, 15, 20, 0.52);
+}
+
+.compact-toolbar {
+  align-items: end;
+}
+
+.compact-toolbar .sheet-tabs {
+  gap: 6px;
+  padding-bottom: 6px;
+}
+
+.compact-toolbar .sheet-tabs .item {
+  min-height: 30px;
+  padding: 0 10px;
+  font-size: 0.82rem;
+}
+
+.record-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.85fr) minmax(300px, 0.95fr);
+  gap: 8px;
+  align-items: start;
+}
+
+.record-main,
+.record-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 0;
+}
+
+.compact-card {
+  padding: 8px;
+}
+
+.compact-head {
+  margin-bottom: 8px;
+}
+
+.compact-head h2 {
+  margin: 0;
+  font-size: 1.02rem;
+}
+
+.compact-head p {
+  margin: 2px 0 0;
+  color: var(--hm-muted);
+  font-size: 0.78rem;
+}
+
+.record-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.record-stat-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px;
+  border: 1px solid rgba(77, 98, 119, 0.7);
+  border-radius: 6px;
+  background: rgba(8, 13, 18, 0.52);
+}
+
+.record-stat-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.record-stat-code {
+  color: var(--hm-accent-alt);
+  font-family: "Agency FB", "Rajdhani", sans-serif;
+  font-size: 0.86rem;
+  letter-spacing: 0.08em;
+}
+
+.record-stat-name {
+  min-height: 30px;
+  color: var(--hm-text);
+  font-size: 0.8rem;
+  line-height: 1.1;
+}
+
+.record-stat-value input {
+  text-align: center;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.record-stat-mod {
+  color: var(--hm-muted);
+  font-size: 0.76rem;
+}
+
+.mini-roll-button {
+  min-width: 50px;
+  min-height: 26px;
+  padding: 2px 8px;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.record-mini-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.top-gap {
+  margin-top: 8px;
+}
+
+.record-skill-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.skill-table-card {
+  border: 1px solid rgba(77, 98, 119, 0.7);
+  border-radius: 6px;
+  background: rgba(8, 13, 18, 0.45);
+  overflow: hidden;
+}
+
+.skill-table-title {
+  padding: 6px 8px;
+  border-bottom: 1px solid rgba(77, 98, 119, 0.65);
+  color: var(--hm-accent-alt);
+  font-family: "Agency FB", "Rajdhani", sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.skill-table {
+  display: flex;
+  flex-direction: column;
+}
+
+.skill-table-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(120px, 0.95fr) minmax(105px, 0.85fr) 56px 60px;
+  gap: 6px;
+  align-items: center;
+  padding: 5px 8px;
+  border-top: 1px solid rgba(77, 98, 119, 0.4);
+}
+
+.skill-table-head {
+  color: var(--hm-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: rgba(16, 23, 31, 0.72);
+}
+
+.skill-table-head:first-child {
+  border-top: 0;
+}
+
+.skill-name-cell {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  font-size: 0.84rem;
+  line-height: 1.15;
+}
+
+.skill-select-cell select {
+  min-height: 28px;
+}
+
+.skill-total-cell,
+.skill-roll-cell {
+  text-align: center;
+  font-size: 0.84rem;
+}
+
+.resource-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.resource-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px;
+  border: 1px solid rgba(77, 98, 119, 0.55);
+  border-radius: 6px;
+  background: rgba(8, 13, 18, 0.45);
+}
+
+.resource-row label {
+  color: var(--hm-muted);
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.emphasis-row {
+  border-color: rgba(124, 179, 66, 0.55);
+}
+
+.resource-note {
+  color: var(--hm-muted);
+  font-size: 0.72rem;
+}
+
+.dense-actions-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.dense-line-list,
+.compact-list-block {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.compact-list-label {
+  color: var(--hm-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.compact-list-row,
+.compact-note-row {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 4px 0;
+  border-top: 1px solid rgba(77, 98, 119, 0.35);
+  font-size: 0.82rem;
+}
+
+.compact-note-row {
+  flex-direction: column;
+  gap: 2px;
+}
+
+.compact-note-row span {
+  color: var(--hm-muted);
+  font-size: 0.76rem;
+  line-height: 1.2;
+}
+
+.compact-simple-list {
+  gap: 6px;
+}
+
+.compact-item .item-actions {
+  gap: 4px;
+}
+
+.compact-item .item-actions .action-button {
+  min-height: 28px;
+  padding: 3px 8px;
+}
+
+.compact-item .item-line {
+  gap: 6px;
+}
+
+.halo-mythic-record-sheet .notes-grid {
+  gap: 8px;
+}
+
+.halo-mythic-record-sheet textarea {
+  min-height: 220px;
+}
+
+@media (max-width: 1100px) {
+  .record-layout,
+  .header-band,
+  .record-stat-grid,
+  .record-mini-grid,
+  .compact-identity-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .record-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .record-sidebar {
+    grid-row: auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .compact-sheet-header,
+  .header-band,
+  .record-stat-grid,
+  .record-mini-grid,
+  .compact-identity-grid,
+  .dense-actions-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .skill-table-row {
+    grid-template-columns: 1fr;
+  }
+
+  .skill-table-head {
+    display: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .sheet-toolbar,
+  .creator-header,
+  .creator-footer,
+  .creator-layout,
+  .dashboard-grid,
+  .quick-actions-grid,
+  .status-grid,
+  .skill-groups,
+  .identity-grid,
+  .resource-strip,
+  .characteristic-grid,
+  .derived-panel,
+  .combat-grid,
+  .two-column,
+  .notes-grid,
+  .item-table,
+  .skill-table {
+    grid-template-columns: 1fr;
+  }
+
+  .economy-card {
+    grid-column: auto;
+  }
+
+  .sheet-header {
+    grid-template-columns: 1fr;
+  }
+
+  .creator-grid.two-wide,
+  .creator-grid,
+  .creator-points-grid {
+    grid-template-columns: 1fr;
+  }
+}

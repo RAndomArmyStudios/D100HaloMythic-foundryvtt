@@ -1,0 +1,140 @@
+<form class="{{cssClass}} halo-mythic-item-sheet" autocomplete="off">
+  <header class="sheet-header item-header">
+    <img class="profile small" src="{{item.img}}" data-edit="img" title="{{item.name}}" />
+    <div class="header-fields">
+      <label>
+        <span>Name</span>
+        <input type="text" name="name" value="{{item.name}}" />
+      </label>
+      <div class="type-pill">{{typeLabel}}</div>
+    </div>
+  </header>
+
+  {{#if isWeapon}}
+    <section class="section-card">
+      <div class="mini-grid">
+        <label>
+          <span>Attack Type</span>
+          <select name="system.attackType">
+            {{#each weaponTypeOptions}}
+              <option value="{{this.key}}" {{#ifEq ../system.attackType this.key}}selected{{/ifEq}}>{{this.label}}</option>
+            {{/each}}
+          </select>
+        </label>
+        <label><span>Training</span><input type="text" name="system.training" value="{{system.training}}" /></label>
+        <label><span>Weight (kg)</span><input type="number" step="0.1" name="system.weight" value="{{system.weight}}" /></label>
+        <label><span>Attack Bonus</span><input type="number" name="system.attackBonus" value="{{system.attackBonus}}" /></label>
+        <label><span>RoF Mode</span><input type="text" name="system.rateOfFire.mode" value="{{system.rateOfFire.mode}}" /></label>
+        <label><span>RoF Value</span><input type="number" name="system.rateOfFire.value" value="{{system.rateOfFire.value}}" /></label>
+      </div>
+      <div class="mini-grid">
+        <label><span>Damage Dice</span><input type="number" name="system.damage.dice" value="{{system.damage.dice}}" /></label>
+        <label><span>Die Faces</span><input type="number" name="system.damage.faces" value="{{system.damage.faces}}" /></label>
+        <label><span>Base Damage</span><input type="number" name="system.damage.base" value="{{system.damage.base}}" /></label>
+        <label><span>Pierce</span><input type="number" name="system.damage.pierce" value="{{system.damage.pierce}}" /></label>
+        <label><span>Range Min</span><input type="number" name="system.range.min" value="{{system.range.min}}" /></label>
+        <label><span>Range Max</span><input type="number" name="system.range.max" value="{{system.range.max}}" /></label>
+        <label><span>Magazine</span><input type="number" name="system.magazine.value" value="{{system.magazine.value}}" /></label>
+        <label><span>Magazine Max</span><input type="number" name="system.magazine.max" value="{{system.magazine.max}}" /></label>
+        <label><span>Reload Time</span><input type="text" name="system.reload" value="{{system.reload}}" /></label>
+        <label><span>Ammo Type</span><input type="text" name="system.ammoType" value="{{system.ammoType}}" /></label>
+      </div>
+      <label class="checkbox-row">
+        <input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}} />
+        <span>Equipped / ready</span>
+      </label>
+      <label>
+        <span>Special Rules</span>
+        <textarea name="system.special">{{system.special}}</textarea>
+      </label>
+      <label>
+        <span>Description</span>
+        <textarea name="system.description">{{system.description}}</textarea>
+      </label>
+    </section>
+  {{/if}}
+
+  {{#if isArmor}}
+    <section class="section-card">
+      <div class="mini-grid">
+        <label><span>Weight (kg)</span><input type="number" step="0.1" name="system.weight" value="{{system.weight}}" /></label>
+        <label class="checkbox-row"><input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}} /><span>Equipped</span></label>
+        <label class="checkbox-row"><input type="checkbox" name="system.powered" {{#if system.powered}}checked{{/if}} /><span>Powered Armor</span></label>
+      </div>
+      <div class="mini-grid">
+        <label><span>Head</span><input type="number" name="system.rating.head" value="{{system.rating.head}}" /></label>
+        <label><span>Arms</span><input type="number" name="system.rating.arms" value="{{system.rating.arms}}" /></label>
+        <label><span>Chest</span><input type="number" name="system.rating.chest" value="{{system.rating.chest}}" /></label>
+        <label><span>Legs</span><input type="number" name="system.rating.legs" value="{{system.rating.legs}}" /></label>
+        <label><span>Shield Integrity</span><input type="number" name="system.shield.max" value="{{system.shield.max}}" /></label>
+        <label><span>Shield Recharge</span><input type="number" name="system.shield.recharge" value="{{system.shield.recharge}}" /></label>
+        <label><span>Recharge Delay</span><input type="number" name="system.shield.delay" value="{{system.shield.delay}}" /></label>
+      </div>
+      <label>
+        <span>Description</span>
+        <textarea name="system.description">{{system.description}}</textarea>
+      </label>
+    </section>
+  {{/if}}
+
+  {{#if isGear}}
+    <section class="section-card">
+      <div class="mini-grid">
+        <label><span>Quantity</span><input type="number" name="system.quantity" value="{{system.quantity}}" /></label>
+        <label><span>Weight (kg)</span><input type="number" step="0.1" name="system.weight" value="{{system.weight}}" /></label>
+        <label class="checkbox-row"><input type="checkbox" name="system.carried" {{#if system.carried}}checked{{/if}} /><span>Currently carried</span></label>
+      </div>
+      <label>
+        <span>Description</span>
+        <textarea name="system.description">{{system.description}}</textarea>
+      </label>
+    </section>
+  {{/if}}
+
+  {{#if isAbility}}
+    <section class="section-card">
+      <div class="mini-grid">
+        <label><span>XP Cost</span><input type="number" name="system.cost" value="{{system.cost}}" /></label>
+      </div>
+      <label>
+        <span>Prerequisites</span>
+        <textarea name="system.prerequisites">{{system.prerequisites}}</textarea>
+      </label>
+      <label>
+        <span>Short Summary</span>
+        <textarea name="system.summary">{{system.summary}}</textarea>
+      </label>
+      <label>
+        <span>Description</span>
+        <textarea name="system.description">{{system.description}}</textarea>
+      </label>
+    </section>
+  {{/if}}
+
+  {{#if isEducation}}
+    <section class="section-card">
+      <div class="mini-grid">
+        <label><span>Difficulty</span><input type="text" name="system.difficulty" value="{{system.difficulty}}" /></label>
+        <label><span>Bonus</span><input type="number" name="system.bonus" value="{{system.bonus}}" /></label>
+        <label><span>Applies To</span><input type="text" name="system.appliesTo" value="{{system.appliesTo}}" /></label>
+      </div>
+      <label>
+        <span>Description</span>
+        <textarea name="system.description">{{system.description}}</textarea>
+      </label>
+    </section>
+  {{/if}}
+
+  {{#if isTrait}}
+    <section class="section-card">
+      <div class="mini-grid">
+        <label><span>Source</span><input type="text" name="system.source" value="{{system.source}}" /></label>
+        <label><span>Summary</span><input type="text" name="system.summary" value="{{system.summary}}" /></label>
+      </div>
+      <label>
+        <span>Description</span>
+        <textarea name="system.description">{{system.description}}</textarea>
+      </label>
+    </section>
+  {{/if}}
+</form>

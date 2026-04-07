@@ -1,0 +1,217 @@
+===== PAGE 1 =====
+Civilian Character Creation Splatbook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Based on the original Halo video game series created by  
+Bungie, owned by Microsoft. The series is later continued 
+by 343 Industries.  We are not affiliated with these 
+companies. 
+ 
+Drawing inspiration from 
+100DOS was inspired by the Basic Roleplaying Game 
+System. 
+  
+Platform testing provided by 
+Playtesting was provided by the 100DOS and Halo Mythic 
+Discord community. 
+ 
+Development of 100DOS and Halo Mythic by 
+Brandon ‘Vorked’ Miller
+
+===== PAGE 2 =====
+THE CIVILIAN SPLATBOOK 
+The following is a small splatbook that allows GMs and Players to 
+expand the options available to them at Character Creation. This 
+Splatbook offers a handful of options that Players may choose for 
+their Civilians at Character Creation that give them benefits that they 
+may bring into future scenarios. 
+ 
+CIVILIAN SPECIALIZATION PACKAGES 
+This Splatbook adds the addition of new Civilian-only Specialization 
+Packages that allow them to expand what the Characters are capable 
+of after Character Creation. 
+ This ignores the Civilian’s Specialization Limitation rule. At 
+Creation, the players are able to choose a single Civilian Specialization 
+package. 
+ 
+SPECIALIZATION PACKAGE COSTS 
+Some Civilian Specialization Packages will have a cost to select, this is 
+to help balance them out compared to some of the other less robust 
+options. 
+ 
+PACKAGE CHARACTERISTIC ADVANCEMENTS 
+Some Civilian Specialization Packages will list a Characteristic that it 
+gives a +5 to. This is the Package giving the Character a Characteristic 
+Advancement, and not increasing the overall Characteristic.  
+ The Characteristic Advancements any of these Packages 
+give will only cover the very first Characteristic Advancement of that 
+Characteristic and will not cover any further advancements such as 
+bringing the Characteristic to a +10. 
+ 
+OTHER SOLDIER TYPES 
+It is not advised to allow other Soldier Types to take from these 
+Specialization Packages, as they are significantly weaker than the 
+combat-based Specialization Packages that are available in the main 
+Handbook. Though if the GM allows it, then Players may choose one 
+of the Civilian Specialization Packages instead of one from the main 
+handbook. 
+ 
+COVENANT SPECIES 
+The players and GM may work together to have the Civilian 
+Specialization Packages make sense for their character and game. 
+There is a chance not every Civilian Specialization Package could make 
+sense for a Covenant character to choose from. This is something to 
+consider when selecting Packages. 
+ 
+BEGINNING WITH cR 
+GMs should not limit Players’ beginning cR amounts based on their 
+jobs. cR is a major balancing aspect of the game and allowing Players 
+to have more than others can create massive imbalance within the 
+party. 
+ 
+BECOMING A SOLDIER 
+When becoming a Soldier using the rules in the main Mythic 
+Handbook, the Players may still choose a standard Specialization Pack 
+from the main Mythic Handbook. Though the GM should enforce a 
+large time  skip so the Characters have time in -universe to gather 
+these new Skills and Abilities. 4 to 6 months should do well for this. 
+Human Civilian 
+“I’m not sitting idly by and watching my world go to hell.” 
+ 
+CHARACTERISTICS 
+STR T AG WFR WFM INT PER CR CH LD 
+25 25 25 25 25 25 25 25 25 25 
+TIER: 0 EXPERIENCE COST: 0 
+UPBRINGING: Any TRAINING: None 
+PHYSICAL ATTRIBUTES 
+HEIGHT 170 centimeters (5’6 ft.) – 190 centimeters (6’4 ft.) 
+WEIGHT 58 kilograms (130 lb.) – 104 kilograms (230 lb.) 
+SIZE Normal 
+SOLDIER TYPE SPECIAL RULES 
+Purchasing anything from Covenant or Forerunner Armories are 
+impossible. UNSC Weapons are at triple the price, while weapons 
+with the Insurrectionist Tag [I] are at double the price. 
+The Civilian may begin with up to 2 Educations at half their 
+Experience Cost. 
+SQUAD UP:  When with other Civilians, the Civilian gains +5 
+Courage.  
+SPECIALIZATION LIMITATIONS 
+The Civilian may only choose from the Civilian Specialization 
+Packages.
+
+===== PAGE 3 =====
+SPECIALIZATION PACKS 
+Choose One at Creation. All Skills begin Trained. 
+If your Soldier Type comes with a Skill given by the chosen Specialization Pack, that Skill is increased to the next Tier, in stead. Trained becomes +10, 
+and +10 becomes +20. If the Character already has an Ability given by the Specialization Pack, the Play er or GM may decide one of equal or lesser 
+Experience Cost to replace it. 
+ 
+ 
+Medical Nurse 
+ABILITY SKILL 
+Stabilization Investigation 
+Under Control Medication 
+ 
+Weapons Expert 
+ABILITY SKILL 
+Marksman Stunting 
+Focused Warrior Technology 
+ 
+Retail 
+ABILITY Characteristic/SKILL 
+Inspired Charisma +5 
+Peer Technology 
+ 
+Vehicle Expert 
+ABILITY SKILL 
+Eagle Eye Technology 
+Wheelman Pilot (Ground) 
+ 
+Fighter 
+ABILITY SKILL/Characteristic 
+Disarm Athletics 
+Hand-To-Hand Basics WFM +5 
+ 
+Teacher 
+ABILITY EDUCATION 
+Peer Education +5 
+Reliable Reputation Education +5 
+ 
+Scholar 1,000 EXP 
+EDUCATION EDUCATION 
+Education +5 Education +10 
+Education +5 Education +10 
+ 
+Medical Doctor 1,000 EXP 
+ABILITY SKILL/Education 
+Medical Insight Medication 
+Stabilization Investigation 
+Cynical Medical Science 
+ 
+Logistics 
+ABILITY SKILL 
+Exceptional Hearing Security 
+One Extra Language Cryptography 
+ 
+Technician 
+ABILITY SKILL 
+Eagle Eye Technology 
+Outstanding Olfactory Cryptography 
+ 
+ 
+ 
+Cartographer 
+ABILITY SKILL 
+Triangulation Navigation 
+Eagle Eye Investigation 
+ 
+Desk Job 
+ABILITY SKILL 
+Peer Technology 
+Order of Things Negotiation 
+ 
+Pilot 
+ABILITY SKILL 
+Aviator Navigation 
+Calculated Pilot Pilot (Air) 
+ 
+Hunter 
+ABILITY SKILL 
+Clear Target Survival 
+Steady Aim Camouflage 
+ 
+Civil Engineer 
+ABILITY SKILL 
+Gather Senses Demolition 
+Mind Timer Investigation 
+ 
+Politician 
+SKILL SKILL 
+Negotiation Deception 
+Appeal Command 
+ 
+Journalist 
+EDUCATION SKILL 
+Literature Appeal 
+Law Investigation 
+ 
+Farmer 500 EXP 
+CHARACTERISTIC EDUCATION 
+Strength +5 Athletics 
+Toughness +5 Survival 
+ 
+ 
+Priest 
+ABILITY SKILL 
+Inspired Appeal 
+True Inspiration Interrogation 
+ 
+Human Services 
+ SKILL 
+Reliable Reputation Appeal 
+Peer Negotiation

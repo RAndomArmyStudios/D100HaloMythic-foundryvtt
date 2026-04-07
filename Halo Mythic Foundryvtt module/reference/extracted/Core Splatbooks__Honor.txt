@@ -1,0 +1,172 @@
+===== PAGE 1 =====
+1 
+ 
+ 
+ 
+ 
+ 
+Covenant 
+HONOR 
+ 
+The “I’m tired of you, go to honorable promotion ” Splatbook for Mythic. 
+ 
+ 
+ 
+ 
+ 
+ 
+A 100DOS expansion to be used with any edition of Mythic.
+
+===== PAGE 2 =====
+2 
+ 
+COVENANT’S HONOR 
+Covenant’s Honor is a splatbook designed to be used for Covenant 
+Characters who want more out of their games, allowing them to track 
+their accolades in the form of Honor Points. As Characters complete 
+missions and take down enemies, they have a chance of gaining 
+Honor Points depending on the process taken. 
+ Even if the GM agrees to use Covenant’s Honor, not all 
+Characters need to care about the Honor system, Honor Points, or the 
+Honor of others. As Characters gain Honor, they’ll be able to earn 
+benefits and roleplaying options. 
+ 
+ 
+TARGET’S THREAT MODIFIER 
+Target has a Heavily Armored Vehicle +40 
+Target has an Armored Vehicle +20 
+Target has a Vehicle +10 
+Target has stronger weaponry +10 
+Target has the same threat level -- 
+Target is far weaker -10 
+Target is weak and badly equipped -30 
+Target has no weapons or armor, but you do. -40 
+ 
+ 
+PREPARATION MODIFIER 
+Target is Unconscious or Helpless -40 
+Target is Unaware -20 
+Target is prepared for a battle with you -- 
+Target is better prepared than you +10 
+Target had a Surprise Attack against you +30 
+ 
+ 
+METHOD OF SLAYING MODIFIER 
+One on One sword battle +30 
+Killing with an Energy Sword/Stave +20 
+Hand-to-Hand combat +15 
+Killing with any other Energy Weapon +10 
+Using a standard Covenant Weapon -- 
+Using a Light Armored Vehicle -10 
+Using an Explosive -10 
+Gunning down at a far range -20 
+Using an Armored Vehicle -20 
+Sniping from an incredible distance -40 
+Using a Heavily Armored Vehicle -40 
+ 
+ 
+BATTLE SITUATION MODIFIER 
+An ally helped you HP Halved 
+The Target fell in battle by other means HP Removed 
+The Target damaged you badly HP Halved 
+You won because of dumb luck HP Halved 
+ 
+ 
+DEATH, DEFEAT, RETREAT 
+A Player does not always need to kill their Target to gain honor. If a 
+Character forces their Target to admit defeat, or force them to retreat, 
+honor is still gained. 
+ Admitting defeat to a foe isn’t always dishonorable. One 
+may keep their honor in -tact, even when admitting defeat, when 
+fighting a Character much stronger than them.  However, in many 
+circumstances, such as an honorable battle, killing someone who had 
+admitted defeat is seen as a negative. Something worthy of 
+punishment in the name of honor. 
+DEATH, DEFEAT, RETREAT MOD 
+Target admits defeat : It takes a lot to admit defeat, and 
+one that can hurt, or even keep the honor in -tact, 
+depending on your foe. Killing the Target which admits 
+defeat negates this Modifier, and gives a -40, instead, as 
+you did not take into account the honor of either of your 
+family names. 
++20 
+Target retreats: The target retreats and is allowed to live. 
+This can also allow the retreating character to spread the 
+word of your actions. Killing a retreating Target removes 
+this Modifier. 
++10 
+You admit defeat to a stronger foe: Admitting defeat to a 
+stronger foe will allow the Character to prove themselves 
+smart in battle, knowing when they’ve been bested in 
+honorable combat. Doing so allows the Character to keep 
+Half of the HP that they would have gotten if they would 
+have won. 
+Half 
+HP 
+You kill a foe who admitted defeat: Killing one who 
+retreats or admits defeat is not seen as a righteous act. 
+You have robbed them of an honorable death. 
+-50 
+You retreat from a stronger foe : Retreat is dishonorable 
+compared to just admitting defeat and honing to your 
+actions. 
+-70 
+You admit defeat to a weaker foe: Your foe was physically 
+weaker than you, but still proved too much for you to 
+handle. 
+-100 
+You retreat from a weaker foe:  This is seen as highly 
+dishonorable. Doing so shames your name and your Keep. -150 
+ 
+ 
+HP ABILITIES 
+-600 
+Special 
+At -500 or lower, and it was gained in a reasonably 
+short amount of time,  you are a ble to gain thi s 
+specialized penalty at GM approval. The Character has 
+the ability to become an Arbiter, if the Character is 
+Sangheili. The Character will be g iven a special Minor 
+Harness with a weak Cloaking Unit that only offers a 
++30 Bonus to Camouflage, which lasts for 5 Turns and 
+a 5 Turn Recharge. 
+-500 or 
+lower 
+Sangheili Nobles will be looked down upon as lesser, 
+most will want the name and title to be stripped from 
+them. You are not allowed to own even an Energy 
+Dagger, nor is your Keep allowed to show your name. 
+-200 or 
+lower 
+Your dishonor infects your Keep, your family, and your 
+bloodline. You are not worthy of your Energy Sword . 
+If you have one, you will lose it. 
+-100 or 
+lower 
+All Characters at -100 or lower will gain a -10 Penalty 
+to all Social Skill Tests among other Covenant. 
+200 or 
+greater 
+Any Sangheili can gain their Energy Sword before their 
+next mission.  Any Unggoy with 40 Intellect or more 
+can gain the Deacon Upgrade and bypass restrictions. 
+500 or 
+greater 
+Any Sangheili can gain an Energy Dagger before their 
+Next Mission. Any Covenant Soldier gains a 25% 
+discount to any weapon or vehicle purchased. 
+800 or 
+greater 
+The Character is eligible to become an Honor Guard or 
+an equivalent high rank. 
+1,000 or 
+greater 
+The Character loses the penalty for purchasing 
+Forerunner weaponry.  
+1,500 or 
+greater 
+Sangheili will gain a special, customized Energy Sword 
+with 2 Modifications. Jiralhanae will gain a customized 
+Gravity Hammer with 2 Modifications. 
+ Other Characters will gain access to an 
+Energy Dagger with 2 Modifications.

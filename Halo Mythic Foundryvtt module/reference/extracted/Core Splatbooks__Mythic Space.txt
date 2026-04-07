@@ -1,0 +1,4056 @@
+===== PAGE 1 =====
+1 
+ 
+ 
+ 
+ 
+M y t h i c : 
+SPACE 
+Update 4 
+ 
+A commissioned Space Combat expansion for Mythic 6.3 and newer. 
+ 
+ 
+ 
+ 
+Credit and thanks to: 
+ 
+Unikraken 
+Benjamin Weis 
+Jess Gollins 
+Jacob Stokes 
+Jared Harris 
+Callum Dainty 
+Jamie Marriott 
+Robert McClennan 
+And the rest of the Sins of the Prophets team 
+ 
+ 
+ 
+ 
+ 
+This is not affiliated or endorsed by Microsoft, 343 Industries, or Bungie.
+
+===== PAGE 2 =====
+2 
+ 
+ 
+Contents 
+ 
+MYTHIC SPACE .................................................................................... 3 
+INTRODUCTION.............................................................................. 3 
+GRID SIZE ....................................................................................... 3 
+SHIP FACINGS ..................................................................................... 3 
+SHIP CHARACTERISTICS....................................................................... 3 
+COST .............................................................................................. 3 
+SHIP TYPE ....................................................................................... 3 
+MANPOWER .................................................................................. 4 
+DEFEAT EXPERIENCE (EXPERIENCE) ............................................... 4 
+ACCELERATION .............................................................................. 4 
+CRUISING SPEED ............................................................................ 4 
+MANEUVER .................................................................................... 4 
+CONCEAL ........................................................................................ 4 
+PASSIVE CONCEAL ..................................................................... 4 
+SENSOR .......................................................................................... 4 
+PASSIVE SENSOR ....................................................................... 5 
+PHYSICAL ATTRIBUTES AND SHIP SIZE ........................................... 5 
+ARMOR AND HIT LOCATION .......................................................... 5 
+BREAKPOINTS ................................................................................ 5 
+SHIP WEAPONS .............................................................................. 5 
+WARSHIP ENERGY SHIELDS ............................................................ 5 
+SLIPSPACE TRAVEL .............................................................................. 5 
+BLIND SLIPSPACE JUMP ................................................................. 6 
+BALANCING SHIP COMBAT SCENARIOS .............................................. 6 
+BALANCE: TYPE AND PRICE ............................................................ 6 
+BALANCE: 3:1 DOCTRINE ............................................................... 6 
+BATTLE GROUPS............................................................................. 6 
+SHIP DAMAGE RULES .......................................................................... 6 
+BREAKPOINTS: HULL ...................................................................... 6 
+BREAKPOINTS: WEAPON................................................................ 6 
+BREAKPOINTS: MOBILITY ............................................................... 6 
+BREAKPOINTS: ENGINE .................................................................. 6 
+BREAKPOINTS: OPTIC ..................................................................... 6 
+SHIP DOOMED STATE..................................................................... 7 
+TAKING DAMAGE WHILE IN DOOMED STATE ........................... 7 
+ESCAPING A DOOMED SHIP ...................................................... 7 
+SHIP DETONATION .................................................................... 7 
+SHIPS IN ATMOSPHERE AND CRASH LANDING .............................. 7 
+SHIP SPECIAL DAMAGE ....................................................................... 7 
+SHIP REPAIRS ...................................................................................... 8 
+SHIP WEAPONS ................................................................................... 8 
+HEAVY WEAPONS .......................................................................... 8 
+MEDIUM WEAPONS ...................................................................... 8 
+POINT DEFENSE WEAPONS............................................................ 8 
+MISSILE WEAPONS ........................................................................ 8 
+BOMBER WEAPONS ....................................................................... 8 
+SHIP AUTOLOADERS ...................................................................... 8 
+AMMUNITION STORAGE ............................................................... 9 
+WARSHIP SPECIAL RULE ................................................................ 9 
+DROPSHIPS AND FIGHTERS ............................................................ 9 
+TACTICS .............................................................................................. 9 
+MANNED STATIONS............................................................................ 9 
+STATION: MAIN DECK .................................................................... 9 
+STATION: WEAPON ...................................................................... 10 
+OPTIONAL BAY STATIONS ............................................................ 10 
+PREMADE WARSHIPS ....................................................................... 10 
+RETROFITTING AND MODIFYING SHIPS ............................................ 10 
+UNSC SHIP WEAPONRY .................................................................... 11 
+COVENANT SHIP WEAPONRY ........................................................... 13 
+SHIP SPECIAL RULES ......................................................................... 14 
+UNSC WARSHIPS .............................................................................. 15 
+COVENANT WARSHIPS ..................................................................... 27 
+BUILDING AND MODIFYING SPACESHIPS ......................................... 37 
+SHIP FRAME ................................................................................. 37 
+CIVILIAN FRAMES .................................................................... 37 
+WARSHIP FRAMES .................................................................. 37 
+RETROFITS ................................................................................... 37 
+COMPONENTS ............................................................................. 37 
+COMPONENT SLOTS .................................................................... 37 
+WHAT COMES WITH A FRAME .................................................... 38 
+CIVILIAN COLONY FRAME ............................................................ 38 
+CIVILIAN FRAMES......................................................................... 39 
+WARSHIP FRAMES ....................................................................... 40 
+ARMOR COMPONENTS ................................................................ 41 
+DRIVE COMPONENTS .................................................................. 41 
+SLIPSPACE COMPONENTS............................................................ 42 
+CREW QUARTER COMPONENTS .................................................. 42 
+COMPUTING SYSTEM COMPONENTS .......................................... 42 
+BAY COMPONENTS ...................................................................... 43 
+MISC. COMPONENTS ................................................................... 46 
+SHIP TEMPLATES .............................................................................. 47
+
+===== PAGE 3 =====
+3 
+ 
+MYTHIC SPACE 
+Mythic Space introduces space -faring vessels to introduce Halo’s 
+space combat into Mythic. Thanks to a partnership with Sins of the 
+Prophets, I was allowed to begin this project using the renders and 
+gain inspiration from their game. 
+ For use with the Mythic 6.3 or newer handbook. 
+ 
+INTRODUCTION 
+Mythic Space brings in the mighty warships of the Halo universe, 
+introducing massive celestial ships designed to dish out as much 
+destruction as possible. The GM must be aware that Mythic’s 
+Warships are on an entirely different level from Vehicles and 
+Characters. Their Characteristics are scaled differently, with most 
+instances of Ship vs. Vehicle ending in instant destruction of the 
+vehicle. These are not vessels to be taken lightly. 
+ 
+PUTTING BUTTS IN SEATS 
+In Halo, ship combat has many levels to it. On the smallest level of 
+personal transportation ships, it only takes one or two individuals to 
+safely pilot the ship. When it comes to Warships, it takes dozens, if 
+not thousands to safely run a ship. Even just the simple course of 
+piloting a ship and maintaining trajectory can take  several people to 
+perform. But that’s not fun for the Players. So you as a party have two 
+options. You can either have the Players control certain aspects of a 
+ship, or you can have characters being active on a ship for roleplaying 
+and even combat scenarios. 
+ 
+THE SIZE OF A WARSHIP 
+Warships in the Halo universe are hundreds of meters at their 
+smallest, well above several kilometers at their largest. The amount 
+of personnel it takes to keep a ship running safely is also larger than 
+some towns. This means that even when not personally piloting or 
+controlling an aspect of a Ship, the Players will have a lot they could 
+do on a ship of t his size. Readying troops, preparing for battle, 
+roleplaying scenarios out, fighting off intruders, and so much more. 
+ 
+PREMADE SHIPS 
+Mythic Space will come with dozens of premade Ships for both the 
+UNSC and the Covenant. These will allow for quick and easy access to 
+Ships based on price and capability, as well as acting as a Bestiary. All 
+Premade Ships will come with a Price that must be paid to use. 
+ 
+SHIP BUILDING 
+Ship Building allows for Players and the GM to build their own Ships 
+using Frames. The Frames that are available are split between 
+Warships and Civilian Frames. Warship Frames are based on existing 
+Warship classifications from the Halo Universe, allowing y ou to build 
+an entirely new type of Warship from scratch without needing to just 
+modify an existing premade Ship. 
+ 
+GRID SIZE 
+When running games, you should be using very large grids sizes to 
+better track positions and directions on a grand scale. The following 
+is a table that has recommended grid sizes for combat and map 
+scenarios. 
+ 
+RECOMMENDED GRID SIZES GRID SQUARE SIZE 
+Small Scale Ship Battles 1km x 1km 
+Moderate Scale Ship Battles 10km x 10km 
+Tactical Scale Ship Battles 100km x 100km 
+Large-Scale Ship Battles 1,000km x 1,000km 
+Celestial-Scale Ship Battles 10,000km x 10,000km 
+ 
+SHIP FACINGS 
+Ship facings are the originations of a vessel both on water and in space 
+relative to its surroundings. These terms are essential for navigation, 
+communication, and understanding attack directions. The following 
+are the Base Facings of Ship Combat. 
+ 
+FORE: The direction pointing towards the front of the Ship. 
+AFT: The direction pointing behind the back of the Ship. 
+PORT: The direction pointing left of the Ship. 
+STARBOARD: The direction pointing right of the Ship. 
+ 
+BOW: The front section of the Ship. 
+STERN: The back section of the Ship. 
+MIDSHIP: The middle section of the Ship. 
+ 
+ 
+ 
+SHIP CHARACTERISTICS 
+Ship Characteristics are similar to Vehicle Characteristics. The 
+following will explain each Ship Characteristic and how it is used in 
+combat. 
+ 
+COST 
+Ships will list a price needed to purchase them. The GM may discount 
+or give Ships for free depending on the mission and type of game 
+being played. A Ship’s cR cost is substantially higher than anything 
+else in all of Mythic, so the GM must take this into account that most 
+games would never allow for a ship to be afforded. 
+ 
+SHIP TYPE 
+Ship Types are broken down into groupings that generalize the level 
+of strength the Ship will have. These Types are broken up into the 
+following categories, listed in order of smallest and weakest to biggest 
+and strongest on average: 
+• Corvette 
+• Frigate 
+• Destroyer 
+• Cruiser 
+• Carrier 
+• Battleship 
+• Supercarrier
+
+===== PAGE 4 =====
+4 
+ 
+MANPOWER 
+Manpower is the amount of workers needed to keep a ship running 
+at its full potential. When a Ship takes Special Damage, there is a 
+chance of reducing Manpower of a Ship. When Manpower becomes 
+too low, a Ship’s Characteristics and available Actions can be reduced. 
+The following table lists what happens when Manpower drops to 
+certain percentages of its original count. When Manpower drops 
+below a percentage, it gains the negative outcomes of it and all 
+percentages above. Meaning if a Ship drops below 50% Manpower, it 
+takes the Penalties for 50% and 75%. 
+ If the Player Characters would be killed due to Manpower 
+being Damaged by a Weapon or Special Damage, the Player 
+Characters should be allowed to use their Luck to survive as they 
+would normally. The GM should only ever target the Players with 
+Manpower Damage when they are the very last possible Characters 
+to be affected. 
+ 
+MANPOWER OUTCOME 
+75% -10 to all To Hit Tests. 
+60% Reload Times increased by 1 for all weapons. 
+45% Maneuver and Tactics Tests gain -20 Penalty. 
+Emergency Repairs take 1 more Full Action. 
+30% Only one weapon can be fired per Turn. Emergency 
+Repairs take 2 more Full Actions. 
+15% Can only fire weapons OR move in a Turn. Emergency  
+Repairs heal half the Breakpoints. 
+-- Unmanned ship, all systems offline. 
+ 
+MANPOWER AND PASSENGERS 
+Passengers of a Ship are based on the Manpower of the Ship, unless 
+specified otherwise. The total Passengers that can stay on a ship 
+without modification is quadruple the total Manpower of a Ship. This 
+means that for every 500 Crew, another 2,000 passenger s can safely 
+be on the Ship. Ships may also specify their own Passenger count. 
+ 
+DEFEAT EXPERIENCE (EXPERIENCE) 
+When a Ship is defeated in combat, the  Experience listed is paid out 
+to those involved in the combat. Defeat Experience is divided by all 
+Characters who took part in Combat , including NPCs . Defeat 
+Experience should never account for pilots or Characters that are 
+within the defeated Ship, as these Ships take hundreds of personnel 
+to crew. 
+ 
+ACCELERATION 
+Unlike Vehicles, Ship Acceleration is the only speed -based 
+Characteristic needed to track vehicle speeds outside of Slipspace. 
+Accelerate is the Vehicle’s Meters per Turn (MpT) that they can 
+increase their speed in a Full Action Turn.  The Ship can only move in 
+the direction it is facing unless specified otherwise. 
+ Ships do not have a Top Speed to track as there is no upper 
+echelon of how fast a ship can go, given enough time and energy. 
+ Ships do not have a Brake Characteristic to slow down. 
+Instead, Ships will use half of their listed Accelerate Characteristic to 
+find how much a Ship can slow down in a given Turn without using 
+Tactics that could improve these Characteristics. 
+ 
+CRUISING SPEED 
+Cruising Speed is an available Movement Speed where the Ship can’t 
+make any Attack Actions but can multiply their Accelerate by 10 as a 
+Full Action. Cruising Speed allows ships to cover much more distance 
+in a smaller amount of time. When a Ship uses Cruis ing Speed, the 
+Ship will be at a -20 Penalty To Hit until the beginning of the Ship’s 
+next Turn. When the Ship is using Cruising Speed, the Ship’s 
+Maneuver is halved until the beginning of the Ship’s next Turn. 
+ 
+EMERGENCY ACCELERATION 
+A Ship is able to enter Emergency Acceleration as a Full Action. When 
+Emergency Acceleration is activated, the Ship can’t use any other 
+equipment or weapons until the Ship drops out of Emergency 
+Acceleration as a Full Action. While active, the Ship will multiply their 
+Accelerate by 25. While moving at this Speed, Maneuver Tests are 
+impossible to make, however the Ship will be at a -30 Penalty to be 
+Hit by Opponents. The Ship’s Turn Radius from the Maneuver 
+Characteristic is halved. 
+ 
+MANEUVER 
+A Ship’s Maneuver is the limitation of a Pilot’s ability to use their 
+Evasion Skill based on the vessel being piloted . If a Pilot has a total 
+Evasion of 60, but the Ship has a Maneuver of 45, then the Pilot’s 
+Evasion is capped at 45 while operating the vessel. 
+ If an Attack is coming from the rear of the Ship, the Ship will 
+have a -20 Penalty to the Evasion Test it is making. 
+ The Ship’s Maneuver Characteristic, halved, is the amount 
+of degrees the Ship can turn in a single Turn. 
+ 
+CONCEAL 
+A Ship’s Conceal Characteristic is the Ship’s capability to hide it’s 
+footprint, allowing for them to stay hidden from sensors for a longer 
+period of time. A Ship’s Conceal Characteristic is used to Oppose 
+another Ship’s Sensor Characteristic. 
+For every 100,000 Kilometers away, the Ship’s Conceal will 
+gain a +10 Bonus. Instances and events of radiation, hiding behind 
+celestial bodies, and more can be used to give further bonuses to 
+Coneal. 
+A Ship can use Passive Conceal to see how long it takes for 
+them to be spotted, or continuously work to Conceal Itself as a Half 
+Action. For every Degree of Success, the Ship’s active Conceal will last 
+for 1 minute (10 Turns). This will allow Ships to acti vely monitor how 
+well they’re attempting to hide themselves, without knowledge of the 
+opposing Sensor Characteristics. The Character attempting to 
+perform the active Conceal can gain the benefits of their Camouflage 
+Skill Test. 
+ 
+PASSIVE CONCEAL 
+When a scenario first begins, the Ship will roll on its Ship Conceal. This 
+will be the passive result needed for the ship to attempt to stay 
+hidden passively. The Ship will be spotted by any Passive Sensor that 
+has more Degrees of Success or less Degrees of Failure. 
+ 
+EVENT CONCEAL BONUS 
+Hiding behind asteroid half the size of ship +5 
+Hiding behind asteroid same size or larger +10 
+Hiding behind a massive moon or planetoid +20 
+Radiation between the ships +30 
+Hiding on the other side of a planet +40 
+Using Stealth Cloaking technology +60 
+ 
+SENSOR 
+A Ship’s Sensor Characteristic is the Ship’s ability to passively spot 
+other Ships and vehicles by Opposing their Conceal Characteristic. The 
+Ship’s Sensor is used the same way that Conceal is used. There is an 
+active use and passive use of this Characteristic. 
+ A Ship can use Passive Sensor to see how long it takes for 
+them to spot a possible enemy ship, or Active Sensor to actively 
+search for opposing Ships as a Half Action. For every Degree of 
+Success, the Ship’s active Sensor will last for 1 minute (10 Turns). This 
+will allow the Ship to actively monitor for other Ships that may be 
+attempting to conceal themselves or have not been spotted, yet. The 
+Character attempting to perform the active Sensor Test can gain the 
+benefits of their Investigation Skill Test.
+
+===== PAGE 5 =====
+5 
+ 
+PASSIVE SENSOR 
+When a scenario first begins, the Ship will roll on its Ship Sensor. This 
+will be the passive result needed for a Ship’s Concealment to beat.  A 
+Ship’s Passive Sensor having more Degrees of Success, or less Degrees 
+of Failure, will spot Concealed Ships. 
+ 
+PHYSICAL ATTRIBUTES AND SHIP SIZE 
+The Physical Attributes of a Ship are the Ship’s Length, Width, Height, 
+Weight, and Ship Size. A Ship’s Size is determined using complex 
+math. So in order to make it easier on you, the table below will show 
+you Ship Size based on the Length, Width, and Height added together. 
+This Characteristic is used for things like finding the speed of a Ship in 
+Slipspace. 
+ Ship Size is also a modifier in how easy your ship is to strike. 
+In combat, Characters gain a +5 Bonus To Hit for every Ship Size larger 
+the Target is than them, to a maximum of +30. Characters also gain a 
+-5 Penalty To Hit for every Ship Size smaller the  Target is than them, 
+to a maximum of -30. 
+ Ship Weight varies heavily between the various types of 
+Ships. Ships will use Tonnes (1,000 kg), kilotons (1,000 Tonnes), 
+Megatons (1,000,000 Tonnes), and Gigatons (1,000,000,000 Tonnes). 
+ 
+L+W+H SHIP SIZE L+W+H SHIP SIZE 
+1 – 100 1 2,501 – 3,600 6 
+101 – 400 2 3,601 – 4,900 7 
+401 – 900  3 4,901 – 6,400 8 
+901 – 1,600  4 6,401 – 8,100 9 
+1,601 – 2,500 5 8,101 – 10,000 10 
+ 
+ARMOR AND HIT LOCATION 
+Similar to Vehicles, Ships also direction-based Armor. You will use the 
+Hit Location chart below to find which Component is struck.  The 
+Armor Locations are Front, Back, Side, Top, and Bottom. 
+  A Vehicle’s Armor is how much Damage is ignored from 
+each Attack on a Vehicle’s Breakpoints, before Pierce is figured in. 
+ When Attacking a Ship, the Hit Location Chart will show 
+what was struck, similar to Character Hit Locations. If a Hit Location 
+was struck that the Ship does not have or was destroyed, it will hit the 
+Hull. There are no To Hit Penalties for making Called Shots to a Ship’s 
+Hull. Struck locations will have their Breakpoints reduced if Damage 
+is dealt. 
+ 
+ROLL HIT LOCATION (BREAKPOINT LOCATIONS) 
+1-10 Optic 
+11-30 Mobility 
+31-40 Engine  
+41-50 Weapon 
+51-100 Hull 
+ 
+BREAKPOINTS 
+Ships are made up of multiple components that act as thresholds for 
+each part of the Ship; the Weaponry (WEP), mobility system (MOB), 
+Engine (ENG), Optics (OP), and Hull (HUL). 
+ When one of these Breakpoints reaches 0, that component 
+is destroyed or rendered useless. If a vehicle has multiple of the same 
+component, it is up to the GM or Players to track which is struck, as 
+they will not share Breakpoints unless they are clustered together. 
+ 
+SHIP WEAPONS 
+Ships will use their own special Ship Weapons instead of using 
+weapons from the main Mythic handbook. These Ship Weapons will 
+have their own special Characteristics and rules dependent on what 
+is used and how many are used at a time. Ship Weapons will be f ired 
+using the Warfare Range Characteristic of those using the weapon. 
+ If a Ship Weapon shares the same name as a Weapon in the 
+Mythic handbook, you will use the Ship Weapon version found in this 
+expansion. 
+ Characters and Vehicles struck by Ship Weapons will be 
+instantly killed. There are some exceptions to this rule, however. An 
+example could include a single 20mm Point Defense Autocannon 
+firing against a Character, instead of the whole battery of Point 
+Defense Autocannons. the GM could use a 20mm weapon from the 
+handbook and use that, instead of the Ship Weapon. 
+ 
+WARSHIP ENERGY SHIELDS 
+Ship Energy Shields follow the same rules as normal Energy Shields 
+with one major exception. When a Warship has Energy Shields, the 
+Energy Shield will also have the Warship Special Rule when figuring 
+Damage against Energy Shields. 
+ While Energy Shields are active on a Warship, the Energy 
+Shields and the Warship are immune to Blast, Kill, Penetrating, and 
+Kinetic Special Rules when fired from non-Ship Weapons. If struck by 
+a Ship Weapon, the Energy Shields will only be immune to Kill.  
+ 
+SLIPSPACE TRAVEL 
+Vehicles that have a Slipspace Drive are the only Vehicles that can use 
+Slipspace Travel. A Slipspace-capable flying vessel can enter Slipspace 
+to cover vast distances based on its Ship Size. 
+There are two types of Slipspace Travel, Intersystem and 
+Interstellar. Intersystem Slipspace Travel allows a vessel to travel 
+175,000 Kilometers per Ship Size of the Vehicle, to a maximum of 8 
+Ship Size. Interstellar Slipspace Travel allows a Vehicle to travel 2.6 
+Lightyears a day. If a Vehicle is smaller than 2 Ship Size, this is reduced 
+to 0.5 Lightyears a day. Covenant vessels multiply the distances by 10, 
+while Forerunner vessels multiply them by 20. Smaller vessels and 
+vehicles can piggyback off of lar ger ships when they enter Slipspace, 
+allowing them to travel at their speeds.  
+It takes 7 Full Actions to enter Slipspace and 4 Full Actions 
+to exit Slipspace. 
+ Due to the nature of Slipspace, real Space and Slipspace do 
+not align. The GM must roll a D100. On the following table will show 
+how much shorter or longer the distances may be. A Player may then 
+roll a Navigation (Slipspace) Test. For every Degree of Suc ces will 
+reduce the distance needed to travel by 1 Lightyear, to a maximum of 
+5. 
+ Entering Slipspace while in atmosphere creates an 
+explosion with Blast (X), Kill (Y), and deals 10D10+15, Pierce of 100. 
+(X) is equal to the Ship Size, and (Y) is the Ship Size divided by 4. This 
+does not damage the vehicles entering Slipspace and will detonate 
+when the Slipspace portal closes. 
+Exiting Slipspace will Scatter a ship 4D100 Kilometers. This 
+is reduced by 10 Kilometers per Degrees of Success on a Navigation 
+(Slipspace) Test. Covenant ships halve the final Scatter and 
+Forerunner Ships cannot Scatter. 
+ 
+ROLL 1D100 TO FIGURE SLIPSPACE DISTANCE DIALATION 
+1-10 11-20 21-70 71-80 81-90 91-100 
+Distance 
+halved 
+25% less 
+distance 
+Equal 
+Distance 
++25% 
+distance 
++50% 
+distance 
+Distance 
+doubled
+
+===== PAGE 6 =====
+6 
+ 
+BLIND SLIPSPACE JUMP 
+A Blind Slipspace Jump is where the Ship makes an emergency jump 
+into Slipspace without taking the time to calculate a location. This is a 
+desperation jump that will scatter the Ship 10D100 *1,000 Kilometers 
+in a random direction.  This will allow a Ship to escape as quickly as 
+possible while in a bad situation.  A Blind Jump cannot benefit from 
+anything that would reduce the Scatter, including Guidance Beacons 
+and Ship Components. 
+When a Ship exits from a Blind Slipspace Jump, the Ship’s 
+engines must cool down before another jump can be made due to this 
+being very taxing on the Ship. The cooldown period is 3 minutes (30 
+Turns). 
+ To perform a Blind Slipspace Jump, the Ship will enter 
+Slipspace at half of the time it originally would, to a minimum of 1 Half 
+Action. 
+ 
+SLIPSPACE GUIDANCE BEACONS 
+Slipspace Guidance Beacons are navigational aid devices that can be 
+placed on vessels, planets, and docking stations. When traveling to a 
+Guidance Beacon, the Ship will halve the Scatter from leaving 
+Slipspace. The cost of one is 4,000 cR and they weigh 851 KG. 
+12 
+BALANCING SHIP COMBAT SCENARIOS 
+Ship combat has t hree basic rules to follow as a GM to attempt 
+balancing more fair combat scenarios: Type, Price, and 3:1. 
+ 
+BALANCE: TYPE AND PRICE 
+Ship Types help create the first general idea of how strong a Ship 
+might be. Corvettes are considered the weakest and are the least 
+armed and armored of any type of Ship. From there, it is safe to 
+assume that it takes a minimum of 2 Ships to safely combat a Ship of 
+the next Type. Two Corvettes to combat a Frigate, two Frigates to 
+combat a Destroyer, etc. 
+ In 100DOS, the price of any weapon, vehicle, or ship is 
+determined by its damage output, defensive capabilities, and any 
+Special Rule or capability it has. This means that the higher the price, 
+the stronger and more combat-viable a Ship is. If a Ship costs 500,000 
+cR, it’s safe to assume you will need roughly 500,000 cR worth of Ship 
+to combat it. This is a closer rule of thumb compared to Ship Types. 
+ 
+BALANCE: 3:1 DOCTRINE 
+The 3:1 Doctrine is how many Ships the UNSC needs against a 
+Covenant Ship of the same Type  and expect a victory. This is due to 
+Covenant Ships having nearly double the Hull  and its use of Energy 
+Shields. 
+ When a Covenant Ship does not have Energy Shields, it is 
+expected that the UNSC still needs 2 ships for each same type 
+Covenant Ship. However, nothing beats a well-placed MAC round. 
+ 
+BATTLE GROUPS 
+Battle Groups are organizations of Ships that range much smaller than 
+a Fleet. Battle Groups that range from 3 to 15 Ships of varying types. 
+There are many instances of Battle Groups ranging into the hundreds, 
+but this is rare.  A Battle Group will have a name, with each ship 
+involved being given a numbered callsign. 
+Fleets range in the hundreds to thousands  of ships , each 
+having refill stations, detection complexes, command HQs, and much 
+more. These can be used as set pieces and roleplaying options for 
+backup, retrofitting, and restocking ships. 
+   
+ 
+SHIP DAMAGE RULES 
+ 
+BREAKPOINTS: HULL 
+Hull is the body  and frame of a Ship. If the Hull Breakpoints are 
+reduced to 0, the Ship’s Armor is halved on all Locations and life 
+support will fail. Ships that have the Warship Special Rule will lose this 
+Special Rule. The Ship then enters Doomed State. 
+If an Attack strikes the Hull and has more Damage or Pierce 
+than the vehicle has Armor, it will pierce through and deal its leftover 
+Damage to the Ship’s Manpower. Weapons with Blast and Kill Radius 
+will double the damage to Manpower. 
+ 
+BREAKPOINTS: WEAPON 
+When a weapon is struck on the To Hit Table, the GM gets to decide 
+which weapon is struck. It is best for the GM to decide based on 
+where the Ship was struck, choosing the closest weapon.  A Weapon 
+that hits 0 Breakpoints cannot be fired and becomes useless or 
+removed from the vehicle until repaired. 
+ On Heavy and Medium Weapons, these Weapons are struck 
+on a per-weapon basis. On Point Defense and Missile Weapons, these 
+are struck on Port and Starboard sides. 
+ 
+BREAKPOINTS: MOBILITY 
+There are many types of Mobility Systems for Ships. All Ships are 
+considered to have 4 Mobility drives that allow them to move. When 
+a Mobility System reaches 0 Breakpoints, it is no longer usable to the 
+vehicle. Each time a Mobility System is destroyed, the ship loses a 
+quarter of its total Accelerate Characteristic. 
+ 
+BREAKPOINTS: ENGINE 
+When an Attack strikes the Engine, the Engine Breakpoints are 
+reduced. When reduced to 0, the Ship can no longer power itself and 
+will change to Emergency Power. 
+ When a Ship is on Emergency Power, only Life Support, 
+Weapons, and Mobility are active at low levels. Heavy Weapons and 
+Energy Shields can’t be used. The Ship will have enough Emergency 
+Power to last 6 hours. 
+ When the Engine loses 25 or more Breakpoints in a Round, 
+it is disabled for 1 Turn. A disabled Engine means the Ship cannot 
+Accelerate or Maneuver for that Turn. 
+  
+BREAKPOINTS: OPTIC 
+Optics are how a Ship is capable of seeing out into space. On Covenant 
+Ships, these are camera systems. On UNSC ships, these are giant 
+observatory domes and cockpits with hardened glass-like material. 
+ When camera-based Optics are destroyed, they no longer 
+see outside. Ships will have to depend on Sensors and other vehicles 
+or Ships to relay information to Ships, giving a -20 Penalty To Hit on 
+weapons. 
+ When Glass-based Optics are destroyed, those within the 
+cockpit will be in serious danger as they have no protection from both 
+these Attacks and space, itself.
+
+===== PAGE 7 =====
+7 
+ 
+SHIP DOOMED STATE 
+ 
+ENTERING A DOOMED STATE 
+A Ship that has had its Hull reduced to 0 means the Ship no longer 
+gains the benefits of Heavy Plating Special Rule, as well as a reduction 
+of half of its Armor on all Locations. 
+ 
+TAKING DAMAGE WHILE IN DOOMED STATE 
+When a Ship takes Damage while in Doomed State, it begins taking 
+adverse effects based on the Damage received afterwards. Below, 
+you’ll find the table that shows the various effects based on the total 
+Damage the Vehicle just took from each individual Attack. 
+ 
+DAMAGE OUTCOME 
+1-10 Nothing happens. 
+11-20 Current Armor is reduced by 2 on all Locations. 
+21-30 Current Armor is reduced by 3 on all Locations. Manpower 
+is reduced by 1D10. 
+31-40 Current Armor is reduced by 3 on all Locations. Manpower 
+is reduced by 3D10. 
+41-50 
+Current Armor is reduced by 4 on all Locations. The Ship is 
+left unable to move or Evade until the beginning of the 
+Attacker’s next Turn. Manpower is reduced by 3D10. 
+51-65 
+Current Armor is reduced by 5 on all Locations. Sections of 
+the Ship catch fire that are still sealed from space. All 
+Characters in those spaces take Flame (3) each Round until 
+they escape. Manpower is reduced by 5D10. 
+66-80 
+Current Armor is reduced by 10 on all Locations. A GM -
+chosen location of import of the Ship is destroyed. The 
+Ship’s ammunition and fuel storage will begin to detonate. 
+The Characters have 5 minutes (50 Turns) to escape the 
+vehicle before it detonates. The Blast Radius is the Ship Size 
+Points multiplied by 100. The Kill Radius is half of the Blast 
+Radius. 
+81-99 
+The Ship violently explodes due to damage to the fuel and 
+ammunition systems. This gives the Characters only 3 
+minutes (30 Turns) to escape before full detonation. The 
+Blast Radius is the Ship Size Points multiplied by 125. The Kill 
+Radius is half of the Blast Radius. 
+100+ 
+The Ship instantly detonates, killing everyone inside. The 
+Blast Radius is the Ship Size Points multiplied by 150. The Kill 
+Radius is half of the Blast Radius. 
+ 
+ESCAPING A DOOMED SHIP 
+To escape, the Characters must rush to escape pods and drop pod 
+vehicles that will allow them to leave the ship before the time is up. 
+It will take 2 minutes, on average, for a Character with an Agility of 30 
+to make it to a location that would allow them to escape. 
+ 
+SHIP DETONATION 
+When a Ship detonates while in Doomed State, it deals Damage based 
+on its Ship Size Points. For every Ship Size, the Ship detonates dealing 
+1D10+5 Damage. This Damage is doubled against Characters and 
+Vehicles that do not have the Warship Special Rule. 
+ 
+SHIPS IN ATMOSPHERE AND CRASH LANDING 
+Ships that are not rated to be inside the Atmosphere of a planet must 
+have External Atmospheric Thrusters installed before entry. These 
+Thrusters stop the Ship from crash-landing. When a Ship  Crash Lands, 
+the Ship will take 4D10*10 Damage. Each 10 rolled will cause another 
+1D10 Damage to be rolled. The total rolled is then multiplied again by 
+the vessel’s Ship Size. This Damage ignores Armor and is deals the 
+Damage directly to the Hull. 
+ 
+ 
+SHIP SPECIAL DAMAGE 
+Ships can take Special Damage, similar to a Character. Warships can 
+only take Special Damage from Ship Weapons, MAC Cannons, and 
+Vehicle-based Energy Weapons like a Scarab’s beam, the Zeus Cannon, 
+etc. The GM should use discretion when deciding what will work. 
+ Ships will take Special Damage the same way that normal 
+Characters would take Special Damage, by Damage Dice rolling a 
+natural 10 when figuring Damage. 
+ 
+HULL 
+TOTAL EFFECT 
+1-80 Manpower reduced by 1D10, to a minimum of 1. 
+81-150 Manpower reduced by 2D10, to a minimum of 5. 
+151-250 Manpower reduced by 3D10, to a minimum of 10. Deck fire will 
+deal 1D5 Damage to the Hull for 5D5 Turns. 
+251-350 Manpower reduced by 4D10, to a minimum of 15. GM -chosen 
+location suffers Decompression for 2D5 Turns. 
+351+ Manpower reduced by 7D10, to a minimum of 20. GM -chosen 
+location suffers Explosive Decompression for 2D5 Turns. 
+ 
+WEAPON 
+TOTAL EFFECT 
+1-80 Weapon knocked offline until the beginning of the Attacker’s next 
+Turn. 
+81-150 Autoloader knocked offline for 1D5+5 Turns. Weapon’s internals 
+catch fire, taking 2 Breakpoint Damage for 2D5 Turns. 
+151-250 Autoloader knocked offline for 3D5+5 Turns. Weapon gains a 
+stacking -5 Penalty To Hit. 
+251-350 Autoloader knocked offline for 2D10+10 Turns. Weapon gains a 
+stacking -10 Penalty To Hit. 
+351+ Weapon detonates, removing it. Weapon will detonate dealing its 
+maximum Damage to the Ship’s own Hull. 
+ 
+MOBILITY 
+TOTAL EFFECT 
+1-80 Ship Accelerate is reduced by half for 1D5 Turns. 
+81-150 Ship Maneuver is reduced by half for 1D5 Turns. 
+151-250 
+Ship Accelerate is reduced by half for 2D10 Turns. Mobility 
+internals catch fire, taking 3 Breakpoint Damage per Turn for 3D10 
+Turns. 
+251-350 
+Ship Maneuver is reduced by half for 2D10 Turns. Mobility 
+internals catch fire, taking 3 Breakpoint Damage per Turn for 3D10 
+Turns. 
+351+ The struck Mobility location is permanently destroyed. 
+ 
+ENGINE 
+TOTAL EFFECT 
+1-80 Any Slipspace or Weapon’s Charge or Recharge is interrupted and 
+restarted. 
+81-150 Ship can’t make Movement or Evasion Actions for 1D5 Turns. 
+151-250 Ship can’t make Movement or Evasion Actions for 2D10 Turns. 
+251-350 Ship can’t make Attack Actions of any kind for 1D5 Turns. 
+351+ 
+Engine crippled. Until repaired as an Extended 10 Full Actions, the 
+Ship can only make Move Actions or make Attack Actions in a 
+single Turn. Attack Actions at -20 Penalty, movement Actions and 
+Evasions are halved. Cruising Speeds and Slipspace can’t be used. 
+ 
+OPTIC 
+TOTAL EFFECT 
+1-80 Ship and its Pilots and Weapon users have a -10 Penalty To Hit and 
+Sensor Tests for 2D5 Turns. 
+81-150 Ship and its Pilots and Weapon users have a -10 Penalty To Hit and 
+Sensor Tests for 2D10 Turns. 
+151-250 Ship’s Optic systems damaged and are down for 1D5 Turns. This 
+only allows Indirect Fire Attacks. 
+251-350 Deck suffers Decompression for 1D5 Turns. 
+351+ Deck suffers Explosive Decompression for 1D5 -1 Turns, to a 
+minimum of 1.
+
+===== PAGE 8 =====
+8 
+ 
+SHIP REPAIRS 
+Ships can be Repaired using the Technology Characteristic. When Ship 
+Repairs are needed, especially in larger and larger vessels, more 
+Characters who are capable of assisting and repairing are needed. 
+When Manpower begins to get too low, the rate and amount repaired 
+will begin to suffer. There are two types of Ship Repairs, Emergency 
+and Corrective. 
+ 
+EMERGENCY REPAIRS 
+Emergency Repairs take very little time to perform but the amount of 
+Emergency Repairs that can be performed on a Ship is limited. 
+Emergency Repairs are fast, temporary measures to keep a Ship 
+active while in combat. 
+ When making an Emergency Repair, the Crew will When 
+doing Emergency Repairs, there will be a lead Maintenance Specialist. 
+This Character will be the main Characteristic used to do the repair. 
+When making a Repair Test, keep in mind that it will take 5 Ful l 
+Actions to perform, which could take even longer if the crew will need 
+to travel to the location, or if there are things that could block their 
+ability to get to where they need to begin repairs.  
+When a Repair Test is made, it will repair 5D10 in 
+Breakpoints. For every Degree of Success, the Test will repair an extra 
+20 Breakpoints, to a maximum of 5 Degrees of Success.  
+ Each time an Emergency Repair is made, the amount 
+repaired is reduced by 1D10 and the maximum Degrees of Success is 
+reduced by 1. Once the D10s rolled to repair the ship have been 
+reduced to 0, the Ship can no longer take Emergency Repairs until a 
+Corrective Repair is performed. 
+ 
+CORRECTIVE REPAIRS 
+Corrective Repairs are long -term Repairs that can’t be done by a 
+standard ship crew with tools that would be found on a ship. 
+Corrective Repairs take docking stations and special repair crews to 
+perform. 
+ When undergoing Corrective Repairs, it will repair all of the 
+Ship’s Breakpoints. For every 10 Breakpoint repaired, it will take one 
+hour. 
+ In the occurrence that the Characters would be charged for 
+Corrective Repairs, it will cost 1 cR for every 10 Breakpoints repaired. 
+ 
+RECOVERING MANPOWER AND WAGES 
+Recovering Manpower can be done in two ways. The first way is the 
+Military way. Between missions, the Manpower of a Ship will be 
+automatically restored when at docking stations or military stations.  
+In non -military settings, Manpower would have to be 
+restored by paying wages. To recover Manpower with Wages, it 
+would cost 50 cR for every missing Manpower to be restored. If the 
+GM wants, they could charge this monthly with the idea that the ship 
+runner would need to pay at least some of how the Manpower 
+sustains their way of life. 
+ 
+SHIP WEAPONS 
+Ship Weapons are placed into groups of Heavy, Medium, Point, and 
+Missile. Each Weapon Type will have its own way of firing or rules for 
+how you use them. 
+ 
+HEAVY WEAPONS: 
+Heavy Weapons are grouped into large -scale weapons like MAC 
+Cannons and Energy Projectors. These weapons strike instantly and 
+deal large sets of Damage. 
+ Heavy Weapons are all fired separately with their own To 
+Hit Test and Damage. Heavy Weapons can only target Ships directly 
+ahead in the Fore, found as the red line on the Ship Facing image. 
+ When a Heavy Weapon rolls a 10 on the Damage Dice, you 
+will roll another 1D10. You will do this each time a 10 is rolled. 
+MEDIUM WEAPONS: 
+Medium weapons are categorized into heavier -hitting weapons that 
+are each fired separately with their own Attack Action.  
+Medium Weapons are stationed evenly on the Port and 
+Starboard of the Ship. If there is only one, it is stationed at the bottom 
+or top of the ship, capable of hitting in all directions.  If there is an 
+uneven amount of a Medium Weapon, one will be stationed at the 
+bottom or top of the ship while the rest are stationed evenly on the 
+Port and Starboard of the ship. 
+Medium Weapons are all fired separately with their own To 
+Hit Test and Damage. 
+ 
+POINT DEFENSE WEAPONS: 
+Point Defense Weapons are large groups of weapon batteries. Point 
+Defense Weapons are split into two groups, Port and Starboard, each 
+holding half of the Point Defense Weapons. This means that the Point 
+Defense Weapons on the Port side wouldn’t be able to make Attacks 
+against Targets on the Starboard side.  
+Point Defense weapons can be used to split up Attacks 
+against multiple Targets. Point Defense weapons are fired as a whole 
+at an intended Target, though you can also separate these weapons 
+between Targets. If you have 10 Port Rampart weapons, you will fire  
+all 10 of them at your Target at once, with a single To Hit Test. For 
+every 10 of them firing, you get a +5 To Hit.  
+When finding Damage, you will roll the Damage listed on 
+the Weapon’s table and multiply the Base Damage by the amount 
+that are firing. 
+ 
+MISSILE WEAPONS: 
+Missiles are groups of missile launchers that will attack with explosive 
+volume. Missiles take time to travel and will detonate against its 
+Target. Missiles will take 1 Turn to impact its Target for every 10 
+kilometers it has to travel. 
+ Missiles listed are the amount of launchers. Each Launcher 
+will hold 10 total missiles that can be fired. This means if a Ship lists 
+180 Archer Missiles, they will have 1,800 total missiles that can be 
+fired, but only 180 can be fired in a Turn. 
+ Missile weapons can be used to split up Attacks against 
+multiple Targets. Missile weapons are fired as a whole at intended 
+Targets, letting the Player decide how many will be fired and how 
+many of each go after each Target. For every 10 missiles that were  
+fired, you gain a +5 To Hit. 
+ When finding Damage, you will roll the Damage listed on 
+the Weapon’s table and multiply the Base Damage by the amount 
+that were fired. 
+ Nuclear Missiles will be fired separately and not in bursts or 
+swarms. Attempting to use Point Defense to stop these missiles are 
+at a -40 Penalty To Hit due to their velocity and small size. 
+ 
+BOMBER WEAPONS: 
+Bombing Weapons won’t be listed under Weapons on a Ship’s list, but 
+instead as the Orbital Bombardment Special Rule. Bombing Weapons 
+are designed to target and strike down at ground -level targets on 
+nearby planets. These can’t be used against mobile, working space 
+vessels. 
+ 
+SHIP AUTOLOADERS 
+All Ships make use of Autoloaders for their weapons. The listed 
+Reload Time of all Ship Weapons is the amount of Half Actions it takes 
+for them to Reload using the Autoloader.  
+ Only Point Defense weapons can be Reloaded without an 
+Autoloader, which is a process that takes 2 Manpower per weapon to 
+reload them.
+
+===== PAGE 9 =====
+9 
+ 
+AMMUNITION STORAGE 
+The amount of ammunition stored on a Ship is dependent on the Ship 
+Type. The larger the ship, the more ammunition it is able to store per 
+weapon. Below is a table that will let you know how much 
+ammunition is stored for each listed weapon  on the ship. For 
+Covenant Ships, the amount is tripled. 
+ The cost of Ammunition is purchased per Loader or Battery 
+(Magazine), which is 1/5th of the price of the weapon. 
+ 
+TYPE HEAVY MEDIUM POINT MISSILE BOMBER 
+Corvette 2 Load 2 Load 10 Load 4x per 5 runs 
+Frigate 5 Load 5 Load 25 Load 6x per 7 runs 
+Destroyer 8 Load 6 Load 30 Load 8x per 10 runs 
+Cruiser 12 Load 8 Load 45 Load 10x per 12 runs 
+Carrier 15 Load 10 Load 50 Load 15x per 15 runs 
+Battleship 20 Load 15 Load 75 Load 15x per 20 runs 
+Supercarrier 30 Load 25 Load 100Load 30x per 50 runs 
+ 
+WARSHIP SPECIAL RULE 
+Ships with the Warship Special Rule can’t be damaged by infantry 
+weapons. Ship Weapons, Coilguns, and Railguns will deal full Damage 
+unless they are infantry weapons. The following Vehicle Weapons will 
+be able to deal 1/4th of their total Damage and Pierce to Warships: 
+• Autocannons of 20mm or larger 
+• Cannons 
+• Energy Weapons 
+The GM may decide additional weapons to deal 1/4 th Damage to 
+Ships, though these should be done sparingly as there should be no 
+possibility of infantry weapons destroying a Warship. The GM may 
+decide that a very small Warship of Ship Size 1 or 2 could be taken out 
+by a Spartan Laser, as an example of an outlier happening. 
+ 
+DROPSHIPS AND FIGHTERS 
+When dealing with Dropships and Fighters, it’s important to 
+understand that these are to be considered Vehicles and not Ships. 
+This means that they will do less Damage to Ships and are at a much 
+higher chance of being destroyed by Ships in a single Turn. 
+ 
+TACTICS 
+Tactics are Full Actions that allow Ships to perform special skills. Only 
+one Tactic can be performed during a Turn and some can be 
+prolonged to last more than a single Turn if desired. 
+ 
+EVASIVE MANEUVERS 
+Evasive Maneuvers is a Full Action where the Ship’s heading is 
+drastically changed in both speed and direction. When using Evasive 
+Maneuvers, the Ship will gain a +20 Bonus to Maneuver and a -20 
+Penalty to any To Hit Tests made. This lasts until the beginning of the 
+Ship’s next Turn. 
+ 
+MISSILE DEFENSE 
+The Ship will redirect Point Defense Weapons to target and take down 
+incoming Missiles. When doing this, the Point Defense Weapons 
+being used won’t be able to make Attacks against Targets until the 
+beginning of the next Turn. The Point Defense Weapons can only hit 
+Missiles at half of the Weapon’s Optimal Range and can’t destroy the 
+missiles beyond this Range. Missile Defense can also use its Missile 
+Launchers to do the same Action, but the missile’s travel time still 
+must be taken into account. 
+ The person behind using these weapons will make a 
+Warfare Range Test. If Successful, a missile will be destroyed for every 
+two Point Defense weapons being used. For every Degree of Success, 
+each Point Defense weapon will shoot down one more Missile. 
+ 
+HARD TURN 
+A Hard Turn has the Ship rotating as heavily in a chosen direction as 
+possible to attempt to slow itself down. As a Full Action, the Ship 
+Turns beyond its normal allotted safety measures.  The Ship will turn 
+facing equal to its Maneuver Characteristic mult iplied by 2, to a 
+maximum of 180 degrees. This will slow down the Ship equal to the 
+Maneuver Characteristic multiplied by 10, to a minimum of 0. 
+ When a Hard Turn is made, the Ship will gain a -20 Penalty 
+To Hit on all Attacks made until the beginning of the Ship’s next Turn. 
+ 
+RAM 
+A Ram is where a Ship is directed to crash into a Target. Ram Actions 
+are at a -(X) Penalty to Evade using Maneuvers, where (X) is 5 per each 
+Size Point of the Ship. 
+ Ramming deals Damage based on the Ship’s Characteristics 
+and current speed being traveled. The Ship will deal (X)D100 Damage, 
+where (X) is equal to the Ship’s Size Points. Each D100 rolled cannot 
+roll under 50 Damage. 
+ The Pierce of the Ram Action is +1 for every 500 KM the Ship 
+is traveling, to a maximum of 30 Pierce. Ram Actions have the Kinetic 
+Special Rule. 
+ The Ramming Ship will take Half of the Damage it dealt. 
+Ramming will deal Damage against Energy Shields before it will 
+Damage the Hull. If the Ramming Ship only strikes Energy Shields and 
+never damages the Target’s Hull, the Ship will take only a quarter of 
+the Damage. 
+ 
+SLINGSHOT 
+When a Ship is in Cruising Speed or Emergency Acceleration, they are 
+able to use the gravitational pull of a celestial body to wrap around. 
+When doing so, this Acceleration is doubled per Turn.  
+While a Slingshot is being performed, the Ship will quickly 
+drag towards the Celestial body, needing a -20 Pilot Test per Turn. If 
+Successful, the Ship will continue its path safely. If Failed, the Ship will 
+begin to enter Atmosphere and lose all of its ex tra momentum from 
+the Slingshot. If Failed with 2 or more Degrees of Failure, the Ship will 
+be dragged into the atmosphere and be forced out of Cruising Speed 
+and Emergency Acceleration. If Failed with 3 or more Degrees of 
+Failure, the Ship will be deeply dragged into the Atmosphere and 
+begin to descend to ground level at a rapid pace. 
+If the celestial body has no atmosphere, the Ship won’t be 
+deeply dragged towards the surface of the Planet unless the Test has 
+4 or more Degrees of Failure. 
+ 
+MANNED STATIONS 
+Manned Stations are locations of a Ship that can be controlled by a 
+Character. Manned Positions are the Positions within that Station. 
+This allows  there to be player involvement with the Ship.  Manned 
+Stations are based on the locations of the Ship, its Weapons, and 
+more. The following section will list Manned Stations, both necessary 
+and optional. 
+ 
+STATION: MAIN DECK 
+The Main Deck is where the Captain, pilots, and weapon users of the 
+Ship will be present. This is a location that changes vastly based on 
+the type of Ship is being used. Smaller Ships will have a small room for 
+this, generally with only two seats for a Pilot and a Co -Pilot. Larger 
+Ships will have entire decks with enough seating for everyone 
+necessary to pilot a Ship.
+
+===== PAGE 10 =====
+10 
+ 
+MAIN DECK POSITION: CAPTAIN 
+The Captain is a leadership-based Manned Position that exists to give 
+commands and keep everything in order. On small civilian ships like 
+on Shuttles and Transports, the Captain doubles as the Pilot , which 
+offers no benefits whatsoever besides knowing who is in charge. 
+ On Warships, the Captain will give commands to keep 
+everyone working together. This position will not have the Captain 
+physically manning the Ship, but instead will allow a Character to 
+make Leadership Tests once per Round to a given Position on the Deck 
+to perform a commanded action. 
+ If the Test is Successful, that commanded Character will 
+gain a +5 to the commanded Test, with an extra +5 for every Degree 
+of Success, to a maximum of +20. 
+ On Small Ships, if the Captain is also Piloting, the Captain 
+will not be able to make a Leadership Test and a Pilot Test during the 
+same Turn due to this being two separate Positions on one Station. 
+ 
+MAIN DECK POSITION: PILOT 
+The Pilot position, when not being used by the Captain on smaller 
+Ships, is for a Character to control the main movements of the Ship. 
+This is a necessary Position that must be filled. This involves plotting 
+courses, using Maneuver to make Evasions, and more. The Pilot will 
+use their Pilot (Space) Skill while in this Position. 
+ 
+MAIN DECK POSITION: CO-PILOT (OPTIONAL) 
+The Co-Pilot position is a Position that can be used on any Ship, even 
+smaller Ships. Even though this Position is available on any Ship, it is 
+also optional. For example, the Co -Pilot position is also a gunner 
+position on smaller Ships, such as a Transport vessel. A Character in a 
+Station that could be two separate Positions, only one may be used 
+during a Turn. 
+ When a Co-Pilot is assisting a Pilot, they are able to make a 
+Pilot (Space) Skill Test. If Successful, the Pilot is given a +5 Bonus to 
+their Test for various Tests being made, such as Maneuvers or Tactics. 
+For every Degree of Success, the Pilot gains an extra +5 Bonus, to a 
+maximum of +20. 
+ This Bonus can’t stack with a Captain giving commands to 
+the Pilot. 
+MAIN DECK POSITION: AI COMPUTER (OPTIONAL) 
+The AI Computer can only be taken if the AI Computer  System 
+Component was purchased for the Ship.  This allows a Smart AI or 
+Dumb AI to have access to the Ship ’s systems, allowing them to man 
+up to two total Positions per Turn. For example, the Smart AI aboard 
+the Ship could both Pilot the Ship and man a set of Weapons. An AI 
+cannot support itself in roles, such as being its own Co-Pilot. 
+ 
+STATION: WEAPON 
+The Weapon Station is a Station designed to house all of those who 
+are in charge of firing weapons on a Ship. There are multiple layouts 
+of a Weapon Station,  such as being its own location on a Ship, built 
+into the Main Deck, or even being based at the location of the 
+Weapons on the Ship. 
+A Weapon Position is a Manned Position  on the Weapon 
+Station that controls an entire Array of Weapons at once. For example, 
+a single Character can be set in charge of the entire array of Ares 
+Missile Pods aboard a Ship.  Weapon Positions may also be split 
+among multiple Characters, such as two Characters having the Ares 
+Missile Pods of the Ship split between them.  
+There are certain types of Ship Weapons that must be split 
+between two positions, which are P oint Defense W eapons. Point 
+Defense Weapons are split between Port and Starboard positions, 
+meaning a Character will control the entire Port side of Weapons on 
+a ship, while the second Character will control the weapons on the 
+Starboard side. In a small Ship, such as a Civilian Transport, a single 
+Character would have to use both of these “Positions” under the 
+same Station, meaning that the Character would only be a ble to fire 
+the Port side of weapons instead of the Starboard side. 
+For Heavy and Medium Weapons, each named set of 
+weapons can be linked and given to a single Character to man, or each 
+can be given to a Character to be manned separately. There are some 
+examples where this is not possible, such as a Ship having multiple 
+MAC Cannons, which can only fire directly forward, meaning only one 
+Character would be able to properly make use of this weapon at a 
+time. 
+ 
+OPTIONAL BAY STATIONS 
+Each and every Bay can be considered a Station. Security Bays need 
+someone to run Security and to make sure people are safe. Armory 
+Stations need people to tend to equipment and acquisition. Cargo 
+Holds need people keeping stock of items. The Players and the GM 
+should always work together on these Stations. They can be used for 
+roleplaying, gaining benefits and bonuses to their desired Actions, 
+and much more. The larger the Ship, the more benefits should be 
+given by these Bays and their capability as a Station. 
+ 
+PREMADE WARSHIPS 
+Premade Warships are Warship Frames that have all the basic needs 
+based on various Warship Frames. These are found in the UNSC 
+Warships (p. 15) and Covenant Warship (p. 27) sections of the 
+handbook. 
+ All Premade Warships come  with the basic needs of a 
+Warship, including listed Ship Weapons (p. 11) and Ship Special Rules 
+(p. 14). A Premade Warship should be considered to have all needed 
+Components for that Ship to run, while some Ship Special Rules will 
+list other Components that are installed. 
+ All Premade Warships are considered to have the following 
+Components, which can be found in the What Comes With a Frame 
+(p. 38) section of the Handbook.  The GM may also decide whether a 
+Ship will come with more Components , though each Premade 
+Warship is to be considered built with only the most basic 
+Components needed to fly. 
+ 
+• Standard Armor 
+• Standard Drive 
+• Standard Computing System 
+• Standard Crew Quarters 
+• Hangar Bay 
+• Cafeteria 
+• Docking Bay 
+• Armory 
+• Airlock Chamber 
+• Escape Pods (1 per Ship Size) 
+ 
+RETROFITTING AND MODIFYING SHIPS 
+If you are looking to add more Bays, Weapons, or any other type of 
+Component, the Building and Modifying Ships  (p. 37) section of the 
+handbook will be needed.
+
+===== PAGE 11 =====
+11 
+ 
+UNSC SHIP WEAPONRY 
+POINT DEFENSE WEAPONS 
+M870 Rampart  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Point Defense -Autocannon 3D10 4x 15 550m-3,400m 10 15 20mm Shell 103 
+ 
+ 
+M910 Rampart  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Point Defense -Autocannon 3D10 5x 17 650m-3,900m 10 15 30mm Shell 123 
+ 
+ 
+M810 Helix  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Point Defense -Autocannon 3D10 4x 15 600m-3,700m 10 15 20mm Shell 113 
+ 
+ 
+Fortress  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Point Defense -Autocannon 3D10 6x 20 1,000m-5,600m 10 15 70mm Shell 194 
+ 
+ 
+AN/SEQ-11  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Point Defense - Energy 3D10 3x 45 700m-10,000m 10 15 Ship Engine Connection 204 
+Cauterize and Kinetic Special Rule. 
+ 
+MEDIUM WEAPONS 
+M50 Guardhouse  Auto (5)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium - Autocannon 5D10 40 20 550m-100,500m 50 13 40mm Shell 204 
+A large-scale rotating Autocannon that sits on the top or bottom of the vessel allowing it to shoot at targets on any facing.  
+ 
+M60 Sentry  Auto (2)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium - Autocannon 3D10 35 25 1,000m-9,500m 12 15 Light Slug 350 
+Kinetic Special Rule. Blast (12), Kill (4). 
+ 
+M66 Sentry  Auto (2)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium - Autocannon 3D10 37 30 1,500m-12,000m 12 15 Light Slug 456 
+Kinetic Special Rule. Blast (12), Kill (4). 
+ 
+Light Coilgun  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium - Coilgun 6D10 65 16 1,000m-100,500m 6 13 Light Slug 485 
+Kinetic Special Rule. Blast (24), Kill (12). 
+ 
+Heavy Coilgun  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium - Coilgun 6D10 70 20 1,500m-140,000m 6 13 Light Slug 597 
+Kinetic Special Rule. Blast (24), Kill (12). 
+ 
+Breakwater  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium - Coilgun 6D10 75 40 2,000m-200,000m 6 13 Light Slug 729 
+Kinetic Special Rule. Blast (24), Kill (12). 
+ 
+Magna  Auto (2)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 2D10 75 75 1,000m-100,000m 12 15 Ship Engine Connection 309 
+Cauterize, Kinetic, and Penetrating Special Rule. A Pulse Laser.  
+ 
+Onager  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Medium – Coilgun 6D10 (X) 65 2,000m-200,000m 6 15 15cm HRG 1,069 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (12), Kill (3). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 25 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 5. Recharge (5).
+
+===== PAGE 12 =====
+12 
+ 
+HEAVY WEAPONS 
+Light MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 6D10 (X) 95 5,000m-925,000m 1 17 Light MAC Slug 2,739 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 20 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 10. Recharge (10).  
+ 
+Heavy MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 6D10 (X) 110 5,000m-955,000m 1 17 Light MAC Slug 3,085 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 25 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 12. Recharge (12).  
+ 
+Superheavy MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 6D10 (X) 125 5,000m-1,000,000m 1 17 Light MAC Slug 3,707 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 30 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 14. Recharge (14).  
+ 
+Light PW MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 6D10 (X) 105 5,000m-925,000m 1 17 Light MAC Slug 2,887 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 25 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 8. Recharge (8).  
+ 
+Heavy PW MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 6D10 (X) 125 5,000m-955,000m 1 17 Light MAC Slug 3,404 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 30 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 10. Recharge (10).  
+ 
+Superheavy PW MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 6D10 (X) 150 5,000m-1,000,000m 1 17 Light MAC Slug 4,042 
+Kinetic and Penetrating Special Rule. Dice Minimum (4). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 40 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 12. Recharge (12).  
+ 
+CR-03 Superheavy PW MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 7D10 (X) 250 5,000m-1,000,000m 1 17 Light MAC Slug 5,627 
+Kinetic and Penetrating Special Rule. Dice Minimum ( 5). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 50 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 12. Recharge (12).  
+ 
+SARISSA PW MAC  Auto (1) with Charge (X)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy - Coilgun 7D10 (X) 250 5,000m-1,000,000m 1 17 Light MAC Slug 4,042 
+Kinetic and Penetrating Special Rule. Dice Minimum ( 6). Blast (15), Kill (5). The Weapon must be charged at least 2 Half Actions to fire . For every Turn the weapon Charges, Base Damage is 
+increased by 60 and Blast and Kill are multiplied by Charge (X). Charge (X) maxes out at 12. Recharge (12).  
+ 
+Brightlance  Auto (1) with Charge (6)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy – Energy 5D10 250 150 8,000m-1,055,000m 4 20 Ship Engine Connection 3,105 
+Cauterize, Kinetic, and Penetrating Special Rule. Blast (60), Kill (25). Can’t be fired without fully charging the Charge (6) . 
+ 
+Helios  Burst (3) with Charge (3)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Heavy – Energy 8D10 150 95 1,000m-822,250m 12 12 Ship Engine Connection 763 
+Cauterize, Kinetic, and Penetrating Special Rule. Blast (30), Kill (10). Can’t be fired without fully charging the Charge (3)  and then fires a Burst (3) Attack. 
+ 
+MISSILE 
+Ares Missile Pod  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 2D10 4x 24 375m-100,000m 1 13 Ares Missile 83 
+Vehicle Lock Special Rule. Blast (16), Kill (6). Long Range of the Missile is 10x the Optimal Range. Extreme Range is 100x th e Optimal Range. 
+ 
+Rapier Missile Pod  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 2D10 5x 24 350m-90,000m 1 13 Ares Missile 138 
+Blast (28), Kill (6). Long Range of the Missile is 10x the Optimal Range. Extreme Range is 100x the Optimal Range.  
+ 
+Streak Missile Pod  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 2D10 5x 30 300m-50,000m 1 13 Ares Missile 86 
+Homing and Vehicle Lock Special Rule. Blast (20), Kill (8). Long Range of the Missile is 10x the Optimal Range. Extreme Range  is 100x the Optimal Range. 
+ 
+Archer Missile Pod  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 2D10 4x 30 400m-90,500m 1 13 Ares Missile 86 
+Homing and Vehicle Lock Special Rule. Blast (20), Kill (8). Long Range of the Missile is 10x the Optimal Range. Extreme Range  is 100x the Optimal Range.
+
+===== PAGE 13 =====
+13 
+ 
+Howler Missile Pod  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 2D10 4x 35 400m-100,000m 1 13 Ares Missile 106 
+Homing and Vehicle Lock Special Rule. Blast (22), Kill (10). Long Range of the Missile is 10x the Optimal Range. Extreme Rang e is 100x the Optimal Range. 
+ 
+Fusion Rocket Pod  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 5D10 10x 75 2,000m-100,000m 1 13 Ares Missile 803 
+Penetrating and Kinetic Rule. Blast (40), Kill (16). Long Range of the Missile is 10x the Optimal Range. Extreme Range is 100 x the Optimal Range. 
+ 
+HAVOK-class Nuclear Missile  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 7D10 400 350 400m-100,000m 1 13 Ares Missile 1,971 
+Penetrating, Kinetic, Homing, and Vehicle Lock Special Rule. EMP (20). Blast (1,000), Kill (500). Long Range of the Missile i s 10x the Optimal Range. Extreme Range is 100x the Optimal Range. If 
+detonated inside of an Energy Shield, the Damage and Pierce ar e doubled. When detonating against a Ship Energy Shield from the outside, reduces Base Damage and Pierce to 100.  
+ 
+SHIVA-class Nuclear Missile  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 7D10 350 450 400m-100,000m 1 13 Ares Missile 1,971 
+Penetrating, Kinetic, Homing, and Vehicle Lock Special Rule. EMP (20). Blast (1,000), Kill (500). Long Range of the Missile i s 10x the Optimal Range. Extreme Range is 100x the Optimal Range. If 
+detonated inside of an Energy Shield, the Damage and Pierce ar e doubled. When detonating against a Ship Energy Shield from the outside, reduces Base Damage and Pierce to 100.  
+ 
+Harpoon Nuclear Missile  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE LOADER RELOAD AMMUNITION PRICE 
+Missile 7D10 200 200 400m-100,000m 1 13 Ares Missile 933 
+Penetrating, Kinetic, Homing, and Vehicle Lock Special Rule. EMP (10). Blast (500), Kill (100). Long Range of the Missile is 10x the Optimal Range. Extreme Range is 100x the Optimal Range. If 
+detonated inside of an Energy Shield, the Damage and Pierce are doubled. When detonating against a Ship Energy Shield from the outside, reduces Base Damage and Pierce to 75.  
+ 
+COVENANT SHIP WEAPONRY 
+POINT DEFENSE WEAPONS 
+Pulse Laser  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Point Defense - Energy 2D10 5x 20 750m-6,000m 30 15 Ship’s Engine Power 159 
+Cauterize Special Rule. 
+ 
+Plasma Beam  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Point Defense - Energy 2D10 3x 30 600m-8,000m 20 15 Ship’s Engine Power 146 
+Cauterize Special Rule. 
+ 
+Heavy Plasma Beam  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Point Defense - Energy 2D10 5x 30 900m-9,000m 20 17 Ship’s Engine Power 202 
+Cauterize Special Rule. 
+ 
+Light Emitter  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Point Defense - Energy 3D10 3x 25 700m-7,000m 30 15 Ship’s Engine Power 184 
+Cauterize and Kinetic Special Rule. 
+ 
+Beam Emitter  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Point Defense - Energy 3D10 4x 30 750m-8,500m 30 17 Ship’s Engine Power 210 
+Cauterize and Kinetic Special Rule. 
+ 
+MEDIUM WEAPONS 
+Plasma Cannon  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 3D10 45 75 550m-912,000m 12 15 Ship’s Engine Power 407 
+Cauterize Special Rule. Blast (24), Kill (12). 
+ 
+Heavy Plasma Cannon  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 3D10 70 65 550m-912,500m 10 17 Ship’s Engine Power 425 
+Cauterize Special Rule. Blast (24), Kill (12). 
+ 
+Light Plasma Lance  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 4D10 75 45 1,000m-914,000m 10 15 Ship’s Engine Power 428 
+Cauterize Special Rule. Blast (18), Kill (6). 
+ 
+Plasma Lance  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 5D10 80 50 1,200m-915,000m 12 15 Ship’s Engine Power 503 
+Cauterize Special Rule. Blast (20), Kill (8).
+
+===== PAGE 14 =====
+14 
+ 
+Heavy Lance  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 6D10 85 55 1,300m-917,000m 11 17 Ship’s Engine Power 598 
+Cauterize and Kinetic Special Rule. Blast (24), Kill (12).  
+ 
+Superheavy Lance  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Medium - Energy 7D10 100 60 1,300m-920,000m 11 17 Ship’s Engine Power 627 
+Cauterize and Kinetic Special Rule. Blast (24), Kill (12).  
+ 
+MISSILE WEAPONS 
+Plasma Torpedo  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Missile - Energy 2D10 4x 30 1,000m-190,000m 2 13 Ship’s Engine Power 241 
+Cauterize, Kinetic, Homing, and Vehicle Lock Special Rule. Blast (20), Kill (10). Long Range of the Missile is 10x the Optima l Range. Extreme Range is 100x the Optimal Range.  
+ 
+Heavy Plasma Torpedo  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Missile - Energy 2D10 7x 50 1,000m-170,250m 2 13 Ship’s Engine Power 294 
+Cauterize, Kinetic, Homing, and Vehicle Lock Special Rule. Blast (20), Kill (10). Long Range of the Missile is 10x the Optima l Range. Extreme Range is 100x the Optimal Range.  
+ 
+HEAVY WEAPONS 
+Excavation Beam  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Heavy - Energy 10D10 200 100 9,000m-1,000,000m 1 17 Ship’s Engine Power 5,411 
+Cauterize, Penetrating, and Kinetic Special Rule. Blast (100), Kill (45). Recharge (17).  
+ 
+Superheavy Excavation Beam  Auto (1)  
+TYPE DAMAGE ROLL BASE DAMAGE PIERCING RANGE BATTERY RELOAD AMMUNITION PRICE 
+Heavy - Energy 10D10 300 200 9,000m-1,000,000m 1 17 Ship’s Engine Power 6,445 
+Cauterize, Penetrating, and Kinetic Special Rule. Blast (100), Kill (100). Recharge (17).  
+ 
+ 
+ 
+ 
+SHIP SPECIAL RULES 
+All Ship Special Rules can be found with more information in the Ship Creation and Modification (p. 37) section of the handbook. 
+ 
+SHIP SPECIAL RULES DESCRIPTION 
+Cloaking System 
+Capable of rendering the ship completely invisible, giving it a + 50 to Conceal while active. The Cloaking System can stay active 
+for 12 Turns before recharging for 20 Turns. While active, if a Ship is sensed by another, it will still be at a -30 Penalty to be struck 
+by Attacks that are not Missile Weapons. 
+EW Suite Blocks all communication between opposing Ships within 10 Kilometers of this Ship. The communication will also be blocked if 
+this Ship is between the opposing Ship and the source they are trying to communicate with.  
+Frigate Bay The Ship has a Frigate Bay which can be found in the Bay Components (p. 43). Premade Ships will list the amount of Frigates they 
+hold by (X). 
+Luminary The Luminary is a scanning device that is capable of scanning for Forerunner technology up to 385,000 kilometers from the Ship. 
+This is a process that takes 10 minutes. 
+Orbital 
+Bombardment 
+Orbital Bombardment allows for the Ship to make use of Strike Ordnance and Light Ordnance. These are launched from the Ship 
+as a Full Action. 
+Hyperscanner The Hyperscanner gives the Ship a +10 to Passive Sensor and +30 to Sensor Tests. 
+Stealth Shroud The Stealth Shroud gives the Ship a +10 to Passive Conceal and +30 to Conceal Tests. 
+Slipspace Specialist The Ship is able to enter and exit Slipspace as a Full Action. 
+Long Range This allows the Ship to double the Optimal and Longe Range of all weapons. 
+Slipspace Probe 
+A Slipspace Probe Launcher that will send out Probes as a Full Action. Once active, these Probes will scan the surrounding 
+equivalent locations in Slipspace to watch for Ships. When another vessel is going to exit Slipspace within 100,000 KM of the  
+Ship, the Ship will be warned the Turn prior. 
+Rear Deck The Ship’s Deck is located at the rear of the Ship, instead of the front or top. This means that only Attacks from the Rear c an 
+strike the Optic Breakpoint Location. 
+Atmospheric Entry The Ship can safely enter and exit the atmosphere of a planet without any issue or the need of specialized external thrusters. 
+Hex-Octagonal Hull The Ship is given +100 Breakpoints to the Hull. 
+Warship The Warship Special Rule can be found here: (p. 9)
+
+===== PAGE 15 =====
+15 
+ 
+UNSC WARSHIPS
+ 
+GLADIUS-CLASS HEAVY CORVETTE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+54,390 cR Corvette 15 545 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 70 80 60 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+243m 175.1m 154.1m 36 KT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 400 400 450 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+35 25 35 30 30 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC -- 6 M870 Rampart 2 Archer 
+SPECIAL RULES 
+Warship   
+ 
+SCHOLTE-CLASS HEAVY CORVETTE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+49,045 cR Corvette 35 490 Exp 
+MOBILITY 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 55 80 55 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+258m 182.9m 179.7m 0.9 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+300 350 400 400 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+35 25 30 30 30 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 1 Guardhouse 4 M870 Rampart 2 Rapier 
+2 Archer 
+SPECIAL RULES 
+Warship
+
+===== PAGE 16 =====
+16 
+ 
+ 
+LANCER-CLASS LIGHT CORVETTE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+69,845 cR Corvette 20 700 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+800 70 30 70 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+341m 245.2m 240.8m 1.1 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+450 475 450 525 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+30 25 30 30 25 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC 6 Light Coilgun -- 6 Streak 
+SPECIAL RULES 
+Warship Long Range  
+ 
+MAKO-CLASS LIGHT CORVETTE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+49,640 cR Corvette 10 495 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+750 80 50 80 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+162m 117.7m 124.9m 28 KT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+300 400 400 475 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+30 25 25 30 25 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 2 Heavy Coilgun 2 M870 Rampart 2 Archer 
+SPECIAL RULES 
+Warship
+
+===== PAGE 17 =====
+17 
+ 
+ 
+PARIS-CLASS HEAVY FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+94,890 cR Frigate 200 950 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+550 55 55 55 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+535m 199.9m 150m 1.3 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 575 525 525 625 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+45 45 40 40 40 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC -- 12 M870 Rampart 
+3 Shiva 
+26 Archer 
+12 Harpoon 
+SPECIAL RULES 
+Warship Rear Deck  
+ 
+STRIDENT-CLASS HEAVY FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+114,775 cR Frigate 190 1,150 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 65 50 45 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+575m 124m 112m 1.1 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+450 575 575 625 625 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+45 40 45 45 40 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+350 5 50 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Heavy PW MAC 5 Heavy Coilgun 
+6 M60 Sentry 12 M870 Rampart 2 Archer 
+1 Harpoon 
+SPECIAL RULES 
+Warship
+
+===== PAGE 18 =====
+18 
+ 
+ 
+ANLACE-CLASS LIGHT FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+94,015 cR Frigate 150 940 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 50 90 90 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+372m 90.7m 88.3m 0.9 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 525 350 475 475 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+45 40 40 40 40 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+275 5 50 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Helios 4 Magna 8 AN/SEQ-11 -- 
+SPECIAL RULES 
+Warship Atmospheric Entry EW Suite 
+ 
+CHARON-CLASS LIGHT FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+73,440 cR Frigate 170 655 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 65 50 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+490m 160m 139m 0.6 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+300 625 300 400 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+40 30 35 35 35 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC -- 4 M870 Rampart 10 Archer 
+SPECIAL RULES 
+Warship Atmospheric Entry
+
+===== PAGE 19 =====
+19 
+ 
+ 
+MULSANNE-CLASS LIGHT FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+94,585 cR Frigate 165 945 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 60 55 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+456m 190m 143m 0.9 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 575 475 575 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+40 35 40 35 35 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+300 5 50 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Brightlance -- 12 M870 Rampart 20 Archer 
+SPECIAL RULES 
+Warship Atmospheric Entry  
+ 
+STALWART-CLASS LIGHT FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+72,695 cR Frigate 200 725 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 65 85 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+478m 152m 112m 0.9 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 400 400 450 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+40 35 40 40 35 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC -- 6 M870 Rampart 
+52 M810 Helix 
+16 Archer 
+76 Streak 
+SPECIAL RULES 
+Warship
+
+===== PAGE 20 =====
+20 
+ 
+ 
+HILSBOROUGH-CLASS HEAVY DESTROYER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+95,925 cR Destroyer 195 960 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 50 60 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+526m 190.1m 164.9m 2 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+475 475 525 700 700 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+55 40 45 50 45 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC 4 M60 Sentry 8 M870 Rampart 56 Ares 
+SPECIAL RULES 
+Warship   
+ 
+ 
+ 
+ 
+ 
+ABLE-CLASS HEAVY DESTROYER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+100,545 cR Destroyer 250 1,005 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 50 45 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+648m 422.2m 457.7m 2.3 MT 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+525 525 575 650 700 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+55 45 50 45 50 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC -- 12 M810 Helix 8 Archer 
+SPECIAL RULES 
+Warship
+
+===== PAGE 21 =====
+21 
+ 
+ 
+DILIGENCE-CLASS LIGHT DESTROYER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+100,860 cR Destroyer 225 1,010 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 55 40 60 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+550m 190.5m 112m 2.2 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 400 450 650 650 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+50 40 50 50 50 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+2 Light MAC 1 Light Coilgun 
+6 M60 Sentry 10 M810 Helix 40 Ares 
+SPECIAL RULES 
+Warship   
+ 
+HALBERD-CLASS LIGHT DESTROYER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+99,650 cR Destroyer 250 995 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 60 40 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+485m 150m 115m 1.8 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 450 475 625 650 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+55 40 50 50 45 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Heavy MAC 
+1 Light MAC -- 4 M870 Rampart 26 Archer 
+3 Shiva 
+SPECIAL RULES 
+Warship
+
+===== PAGE 22 =====
+22 
+ 
+ 
+VALIANT-CLASS SUPER-HEAVY CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+184,840 cR Cruiser 1,000 1,800 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 65 65 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,518m 379m 411m 17 MT 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+700 650 700 800 800 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+65 55 60 55 60 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+2 SARISSA PW 
+MAC 6 M66 Sentry 20 Helix 50 Archer 
+4 Shiva 
+SPECIAL RULES 
+Warship Slipspace Probe  
+ 
+AUTUMN-CLASS HEAVY CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+212,890 cR Cruiser 800 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 40 60 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,425m 383m 431m 10.1 MT 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+650 700 650 800 800 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+65 50 60 55 55 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+450 5 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 PW Heavy MAC 4 Heavy Coilgun 
+6 M66 Sentry 6 M870 Rampart 32 Archer 
+3 Shiva 
+SPECIAL RULES 
+Warship Slipspace Probe Hyperscanner
+
+===== PAGE 23 =====
+23 
+ 
+ 
+MARATHON-CLASS HEAVY CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+145,830 cR Cruiser 1,000 1,460 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 65 65 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,192m 293m 375m 12 MT 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+625 650 650 700 800 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+60 50 55 55 55 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+2 Heavy MAC 6 M66 Sentry 12 M810 Helix 
+70 Archer 
+26 Howler 
+5 Fusion 
+SPECIAL RULES 
+Warship   
+ 
+HALCYON-CLASS LIGHT CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+130,785 cR Cruiser 1,000 1,310 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 65 65 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,192m 293m 375m 12 MT 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+525 625 700 750 875 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+60 50 55 55 55 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC -- -- 100 Archer 
+4 Shiva 
+SPECIAL RULES 
+Warship Hex-Octagonal
+
+===== PAGE 24 =====
+24 
+ 
+ 
+VINDICATION-CLASS LIGHT BATTLESHIP 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+247,935 cR Battleship 1,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 45 70 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,580m 400.4m 320.1m 12 MT 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+825 800 700 750 875 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+80 55 65 70 65 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+500 5 150 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+2 Superheavy PW 
+MAC 4 M60 Sentry 20 M910 Rampart 50 Archer 
+SPECIAL RULES 
+Warship   
+ 
+EPOCH-CLASS HEAVY CARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+232,300 cR Carrier 1,300 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+550 40 75 75 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+2,563m 649.4m 523.7m 35 MT 7 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+925 925 975 1050 1150 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+75 55 70 65 60 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Light MAC 2 Breakwater 
+12 M66 Sentry 
+12 M870 Rampart 
+20 M810 Helix 
+70 Archer 
+20 Fusion 
+SPECIAL RULES 
+Warship
+
+===== PAGE 25 =====
+25 
+ 
+ 
+ORION-CLASS HEAVY CARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+173,010 cR Carrier 1,500 1,650 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+550 40 75 75 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+2,220m 610m 660m 40 MT 6 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+700 750 750 800 875 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+70 50 65 60 55 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+2 Heavy MAC -- 12 M870 Rampart 70 Archer 
+SPECIAL RULES 
+Warship Orbital Bombardment  
+ 
+POSEIDON-CLASS LIGHT CARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+153,320 cR Carrier 400 1,535 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+800 80 65 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+719m 190.5m 175.6m 2.8 MT 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+800 825 825 875 975 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+65 50 60 60 55 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 2 Onager 20 M870 Rampart 2 Archer 
+SPECIAL RULES 
+Warship Slipspace Specialist
+
+===== PAGE 26 =====
+26 
+ 
+ 
+INFINITY-CLASS SUPERCARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+870,805 cR Supercarrier 5,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+750 65 90 60 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+5,694.2m 833.3m 1,041.2m 907 MT 9 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+1,325 1,350 1,350 1,400 1,400 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+95 75 85 80 80 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+800 4 150 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+4 CR-03 Super 
+Heavy MAC 10 Onager 915 Fortress 
+690 Archer 
+500 Howler 
+30 HAVOK 
+SPECIAL RULES 
+Warship Frigate Bay (10) Orbital Bombardment 
+ 
+PUNIC-CLASS SUPERCARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+305,575 cR Supercarrier 3,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 40 75 75 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+4,000m 585.3m 731.4m 670 MT 8 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+1,175 1,150 1,150 1,175 1,225 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+75 65 70 70 70 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+2 Super Heavy MAC 2 Breakwater 100 Fortress 
+80 M870 Rampart 
+100 Archer 
+20 Howler 
+SPECIAL RULES 
+Warship Frigate Bay (4) Orbital Bombardment
+
+===== PAGE 27 =====
+27 
+ 
+COVENANT WARSHIPS 
+ 
+AKTON-PATTERN ESCORT 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+82,630 cR Corvette 320 825 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+800 75 40 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+700m 381m 162m 5.5 MT 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+275 350 400 350 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+30 25 30 30 25 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- -- 6 Pulse Laser 12 Plasma Torpedo 
+SPECIAL RULES 
+Warship Cloaking System  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CEUDAR-PATTERN HEAVY CORVETTE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+103,160 cR Corvette 800 1,030 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+750 50 55 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+956m 399m 175m 8 MT 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 450 400 475 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+35 25 30 35 30 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+300 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 6 Heavy Plasma Cannon 11 Pulse Laser -- 
+SPECIAL RULES 
+Warship Orbital Bombardment
+
+===== PAGE 28 =====
+28 
+ 
+ 
+MAKAR-PATTERN LIGHT CORVETTE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+99,235 cR Corvette 250 990 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 40 80 80 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+485m 202m 164m 5 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+450 400 450 450 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+35 30 35 30 30 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+300 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 4 Heavy Plasma Cannon 1 Plasma Beam -- 
+SPECIAL RULES 
+Warship Luminary  
+ 
+MUTAN ET-PATTERN STORM CUTTER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+100,595 cR Corvette 20 1,005 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+850 75 70 25 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+225m 134m 151m 4 MT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 400 300 300 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+30 25 30 30 25 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+300 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 4 Light Plasma Cannon 4 Plasma Beam 
+4 Pulse Laser -- 
+SPECIAL RULES 
+Warship Hyperscanner
+
+===== PAGE 29 =====
+29 
+ 
+ 
+ROTHEN-PATTERN FIRESHIP 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+61,540 cR Corvette 150 615 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 45 40 30 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+380m 199m 121m 640 KT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+275 300 275 400 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+35 25 30 30 25 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 1 Heavy Plasma Lance 3 Heavy Beam 
+6 Plasma Beam -- 
+SPECIAL RULES 
+Warship Stealth Shroud  
+ 
+HEKAR TAA-PATTERN BLOCKADE RUNNER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+124,330 cR Corvette 800 1,245 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+900 85 60 20 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+2,020m 502m 413m 80 MT 6 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+275 350 450 350 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+35 25 30 30 35 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Excavation 
+Beam 24 Plasma cannon 10 Pulse Laser 
+3 Plasma Beam 16 Plasma Torpedo 
+SPECIAL RULES 
+Warship Hyperscanner Cloaking System
+
+===== PAGE 30 =====
+30 
+ 
+ 
+ESTER-PATTERN ARMORED FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+132,235 cR Frigate 1,200 1,320 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 50 50 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,000m 720m 284m 34 MT 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 450 475 475 1,225 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+45 35 40 45 40 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+250 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 30 Plasma Cannon 
+1 Plasma Lance 
+2 Plasma Beam 
+4 Pulse Laser -- 
+SPECIAL RULES 
+Warship   
+ 
+A’UZR-PATTERN SWORD FRIGATE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+127,355 cR Frigate 450 1,275 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+600 60 65 20 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+860m 410m 188m 12 MT 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 450 475 525 1,225 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+45 35 40 45 40 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+250 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 12 Plasma Cannon 
+4 Plasma Lance -- 6 Plasma Torpedo 
+SPECIAL RULES 
+Warship
+
+===== PAGE 31 =====
+31 
+ 
+ 
+R’SIKOSH-PATTERN MAN O’ WAR 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+95,760 cR Frigate 140 960 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+750 75 55 60 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+526m 201m 310m 1.6 MT 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 450 450 475 12225 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+45 30 35 40 45 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+250 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 8 Plasma Cannon 
+4 Plasma Lance 
+1 Heavy Beam 
+2 Plasma Beam -- 
+SPECIAL RULES 
+Warship   
+ 
+MAUGEN-PATTERN ARMORED CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+232,235 cR Cruiser 4,900 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 40 60 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+2,000m 1,000m 300m 122 MT 6 
+2,000 
+WEP MOB ENG OP HULL 
+450 450 475 700 1,400 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+65 50 55 60 55 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+450 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Excavation 22 Plasma Cannon 60 Pulse Laser 6 Plasma Torpedo 
+SPECIAL RULES 
+Warship Hyperscanner
+
+===== PAGE 32 =====
+32 
+ 
+ 
+VARRIC-PATTERN HEAVY CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+356,095 cR Cruiser 8,500 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+650 30 65 45 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+3,000m 1,450m 410m 200 MT 7 
+2,000 
+WEP MOB ENG OP HULL 
+700 875 700 875 1,750 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+75 50 70 65 65 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+600 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 
+1 Heavy Lance 
+48 Heavy Plasma Cannon 
+80 Pulse Laser 
+3 Plasma Beam 16 Plasma Torpedo 
+SPECIAL RULES 
+Warship Hyperscanner Orbital Bombardment 
+ 
+RWARU-PATTERN CARRACK 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+145,640 cR Cruiser 1,000 1,455 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+450 45 45 45 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+2,819m 520m 520m 264 MT 7 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 450 475 450 1,225 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+60 50 60 60 60 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- -- 
+2 Heavy Beam 
+3 Plasma Beam 
+8 Pulse Laser 
+-- 
+SPECIAL RULES 
+Warship
+
+===== PAGE 33 =====
+33 
+ 
+ 
+ZANAR-PATTERN LIGHT CRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+183,260 cR Cruiser 125 1,835 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+700 40 60 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+300m 145m 185m 190 KT 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+450 475 625 475 1,400 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+60 45 55 50 45 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+450 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+-- 4 Light Plasma Lance 2 Plasma Beam 6 Plasma Torpedo 
+SPECIAL RULES 
+Warship Hyperscanner  
+ 
+KET-PATTERN BATTLECRUISER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+354,020 cR Cruiser 4,280 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+450 45 75 30 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,762m 862m 290m 90 MT 6 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+525 700 800 800 1,575 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+85 70 75 85 75 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+500 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 
+1 Plasma Lance 
+42 Plasma Cannon 50 Pulse Laser 16 Plasma Torpedo 
+SPECIAL RULES 
+Warship Orbital Bombardment
+
+===== PAGE 34 =====
+34 
+ 
+ 
+SINARIS-PATTERN HEAVY DESTROYER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+195,335 cR Destroyer 2,000 1,955 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+600 40 70 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+1,664m 1,350m 1,280m 115 MT 6 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+575 625 525 700 1,400 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+55 45 50 50 50 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+400 4 100 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 24 Plasma Cannon 1 Plasma Beam 
+20 Pulse Laser 6 Plasma Torpedo 
+SPECIAL RULES 
+Warship Orbital Bombardment  
+ 
+LURSU-PATTERN BRIGANTINE 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+325,350 cR Carrier 41,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+400 40 60 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+6,357m 2,405m 1,031m 3.2 GT 10 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+700 800 825 800 1,575 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+75 55 75 65 70 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+-- -- -- 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 12 Heavy Lance 200 Pulse Laser 188 Plasma Torpedo 
+SPECIAL RULES 
+Warship
+
+===== PAGE 35 =====
+35 
+ 
+ 
+KEREL-PATTERN ASSAULT CARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+613,445 cR Supercarrier 40,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+400 40 60 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+5,347m 2,118m 746m 2.7 GT 10 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+1,150 1,050 1,175 1,225 2,100 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+95 60 85 80 75 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+800 4 150 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 2 Superheavy Lance 8 Heavy Beam 
+700 Pulse Laser 
+24 Heay Plasma 
+Torpedo 
+SPECIAL RULES 
+Warship Orbital Bombardment  
+ 
+SYFON-PATTERN ASSAULT CARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+608,570 cR Supercarrier 40,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+600 35 70 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+5,346m 2,100m 739m 2.7 GT 10 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+1,050 1,150 1,225 1,175 2,100 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+90 65 80 85 75 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+800 4 150 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 2 Superheavy Lance 8 Heavy Beam 
+700 Pulse Laser 
+24 Heay Plasma 
+Torpedo 
+SPECIAL RULES 
+Warship Orbital Bombardment
+
+===== PAGE 36 =====
+36 
+ 
+ 
+SH’WADA-PATTERN SUPERCARRIER 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+1,618,840 cR Supercarrier 85,000 2,000 Exp 
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+500 15 75 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+28,960m 11,447m 1,401m 152 GT 21 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+1,225 1,325 1,400 1,500 3,500 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+110 85 95 100 95 
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+2,000 4 250 
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+1 Superheavy 
+Excavation 12 Superheavy Lance 100 Heavy Beam 
+1,290 Pulse Laser 
+32 Heay Plasma 
+Torpedo 
+SPECIAL RULES 
+Warship Orbital Bombardment Hyper Scanner 
+Frigate Bay (10)
+
+===== PAGE 37 =====
+37 
+ 
+BUILDING AND MODIFYING SPACESHIPS 
+ 
+In this section, you will be able to build your own space-faring vessels 
+based on modular choices. These choices can also be used to modify 
+and expand existing ships found in Mythic Space. Nonetheless, this 
+section of the handbook is designed to allow you to build these 
+vessels both within and outside of the Halo universe. Keep this in 
+mind when you use this section to build a spaceship, as these building 
+blocks were not what was used to create the UNSC and Covenant 
+warships in Mythic Space. These use a com pletely separate system 
+that will come out to different pricing and systems overall. 
+ When building a ship, keep in mind that these 
+Characteristics will be for human -based ships. The GM may modify 
+the Characteristics where needed to meet their needs. 
+ 
+SHIP FRAME 
+The Ship’s Frame is the first building block needed when making a 
+ship. The frame will decide the base Ship Size, Breakpoints, and other 
+base Characteristics you’ll need to use a ship. 
+ When selecting a Ship Frame, you’ll first have the option to 
+select the accompanying Ship Size. Some Ship Frames will only have a 
+single Ship Size, which means you won’t have the option to choose 
+another. Ship Size is important, as it is the likelihood of  being struck 
+while in Combat, but also increases the amount of systems and 
+options you can place in your Ship as you build it out and modify it. 
+  
+CIVILIAN FRAMES 
+All Civilian are considered a Vehicle, instead of a Ship. This means that 
+the Armor and Hull that these vessels come with are too light to gain 
+extra benefits against what would be considered smaller -form 
+weaponry. There are upgrades that allow for a Civil ian Frame to gain 
+the full defensive benefits of being a Ship while in Combat. 
+ When finding Civilian Frame sizes, you may need to need 
+the Vehicle Size, for whatever your needs may be. To find this, you 
+add together the Length, Width, and Height and divide it by 6. In the 
+Civilian Frames, you’ll see “Vehicle (Ship) Size. This will s how the 
+minimum and maximum Vehicle Size, alongside what that equates to 
+in Ship Size. 
+ 
+L+W+H SHIP SIZE L+W+H SHIP SIZE 
+1 – 100 1 10,001 – 12,100 11 
+101 – 400 2 12,101 – 14,400 12 
+401 – 900  3 14,401 – 16,900 13 
+901 – 1,600  4 16,901 – 19,600 14 
+1,601 – 2,500 5 19,601 – 22,500 15 
+2,501 – 3,600 6 22,501 – 25,600 16 
+3,601 – 4,900 7 25,601 – 28,900 17 
+4,901 – 6,400 8 28,901 – 32,400 18 
+6,401 – 8,100 9 32,401 – 36,100 19 
+8,101 – 10,000 10 36,101 – 40,000 20 
+ 
+WARSHIP FRAMES 
+All Warship Frames come with the Warship Special Rule. When 
+selecting a Warship, Characters must either be in the Military or have 
+black market or backend connections that would allow them access 
+to something so powerful as a Warship Frame. 
+ 
+FINDING SHIP FRAME WEIGHT 
+The Ship Frame is the heaviest part of a ship, accounting for the vast 
+majority of its total weight. To find a Ship’s Weight, add the Length, 
+Width, and Height together and then divide it by 400. That will be 
+your weight in Megatonnes. 
+ 
+CONSTRUCTION TIME 
+The Construction Time of a Ship depends on the Ship Size. For every 
+Ship Size the vessel is, it will take 2 months of construction to 
+complete the Frame. From there, certain options can increase the 
+Construction Time needed. 
+ 
+RETROFITS 
+A Retrofit is when a Ship is brought in for modification. When a Ship 
+is brought in for a Retrofit, it will take 1 week per Components and 1 
+day per weapon, as well as a 100 cR per week charge on construction. 
+ 
+COMPONENTS 
+Components are building blocks a Ship can have installed. 
+Components include Armor, Drives, Computers, Crew, and Bays.  The 
+larger the Ship, the larger many Components will be. This only affects 
+the Cost when the it lists per Ship Size. 
+ 
+COMPONENT SLOTS 
+Component Slots determine how many Components can be installed 
+into a Ship. For every 1 Ship Size a Ship is, it will gain 4 Component 
+Slots. If a Component does not list Component Slots, then it will take 
+none to install. 
+ 
+WEAPON SLOTS 
+Weapon Slots are found by comparing the table below with your Ship 
+Size. The larger the Ship Size, the more weapons can be installed. 
+ 
+SHIP SIZE WEAPON SLOTS SHIP SIZE WEAPON SLOTS 
+1 10 6 600 
+2 100 7 800 
+3 200 8 1,500 
+4 300 9 2,500 
+5 400 10+ 3,000 
+ 
+• Heavy Weapons cost 15 Weapon Slots. 
+• Medium Weapons cost 5 Weapon Slots. 
+• Point Defense and Missile Weapons cost 1 Weapon Slot. 
+ 
+WEAPON LIMITATIONS 
+Certain weapons have limitations on how many of each type of 
+Weapon they can fit.  These limitations help keep things balanced to 
+their size and stop people from mounting too many unbelievable 
+weapons to a vessel. The larger the ship, the less limitations they will 
+have, and once you reach Ship Size 6 and above, the limitations only 
+affect Heavy weapons. 
+ 
+SHIP SIZE LIMITS 
+1 
+Heavy: 0 
+Medium: 1 
+Point/Missile: 5 
+2 
+Heavy: 0 
+Medium: 4 
+Point/Missile: 50 
+3 
+Heavy: 2 
+Medium: 12 
+Point/Missile: 150 
+4 
+Heavy: 3 
+Medium: 18 
+Point/Missile: 350 
+5 
+Heavy: 3 
+Medium: 30 
+Point/Missile: 750 
+6+ 
+Heavy: 4 
+Medium: -- 
+Point/Missile: --
+
+===== PAGE 38 =====
+38 
+ 
+SENSOR AND CONCEAL 
+A Ship’s Censor and Conceal will be decided by the chosen Computer 
+System Component. At default, the Standard Computing System will 
+be installed if none are chosen. 
+ 
+DEFEAT EXPERIENCE 
+A custom Ship’s Defeat Experience is 1% of the total cost to create the 
+Ship, to a maximum of 2,000 Experience. 
+ 
+WHAT COMES WITH A FRAME 
+When a Frame is first chosen, it will come with basic Components to 
+fit the most basic needs of those on board. Ship Frames come with 
+the following standard Components: 
+ 
+FRAME ARMOR 
+Standard, unmodified Armor. This is a combination of Armor Plating 
+and Hull’s structural support. 
+ 
+FRAME DRIVE 
+All Ship Frames will come with the Tanith TKOFZ -2 Fusion Rockets. 
+These are the cheapest and most manufactured Drives available. 
+ 
+FUSION REACTOR 
+Ships will come with a Fusion Reactor designed to power the Frame 
+and its various components. 
+ 
+COMPUTING SYSTEM 
+The Ship will come installed with a Standard Computing System . This 
+gives the Ship its Sensor and Conceal Characteristics. 
+ 
+SHAW-FUJIKAWA TRANSLIGHT ENGINE 
+All Ships will come with Shaw -Fujikawa Translight Engines that 
+transition Ships in and out of Slipspace. 
+ 
+STANDARD CREW QUARTERS 
+All Ships will come with enough rooms to house the listed Manpower 
+and Passengers. These will offer beds and storage lockers where 
+multiple people live in communal spaces. 
+ 
+STANDARD DECK 
+A Standard Deck is an all -purpose control deck with computing and 
+piloting systems that allow the Crew to use the vehicle. 
+ 
+STEP 1: BEGINNING THE BUILD PROCESS 
+When building your Ship, you decide what type of vessel you’re 
+wanting to build. Think of the general purpose or needs, as well as the 
+Manpower and Passenger space to allow your crew the room needed 
+to accommodate them.  
+ 
+STEP 2: CHOOSING NEW COMPONENTS 
+Each Frame comes with enough base Components to allow you to 
+begin using the Ship right away. However, these Ships will offer no 
+benefits outside of your standard small -scale personal storage and 
+protection from space, itself. 
+ In the section after the Civilian and Warship Frames, you 
+will find a large assortment of Components that can be installed into 
+a Ship before it leaves the manufacturing line. 
+ 
+STEP 3: SELECTING WEAPONS 
+After all is said and done and you have selected the frame and 
+components desired, you can start selecting your Ship Weapons.  
+ 
+INSTALLING WEAPONS ON CIVILIAN FRAMES 
+When a Weapon is installed onto a Civilian Frame, it will have 125 
+Breakpoints no matter the Frame that it was installed on. This is due 
+to Civilian Frames not being designed to host weapons, causing them 
+to be less overall protected. 
+ 
+CIVILIAN COLONY FRAME 
+Unlike other Civilian Frames, the Colony Frame is both a Civilian Ship 
+and a Ship that has the Warship Special Rule. The Colony Frame is a 
+massive Carrier for large -scale interplanetary colonization. These 
+Ships are also capable and expected to carry weapons, generally that 
+of a Frigate or Destroyer in terms of weapon count. A Colony Frame 
+will hold several thousand more people than its Manpower, allowing 
+for up to 20,000 total Passengers and Crew combined. 
+ 
+COLONY 
+COST MANPOWER 
+171,250 cR, +4,150 cR for Ship Size 7 3,500 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+400 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+2,000 – 2,600 meters 600 – 750 meters 510 – 670 meters 6 – 7 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+700 800 825 850 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+75 60 65 60 60
+
+===== PAGE 39 =====
+39 
+ 
+CIVILIAN FRAMES 
+ 
+SHUTTLE 
+COST MANPOWER 
+2,520 cR 1 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT VEHICLE (SHIP) SIZE  
+20 – 35 meters 5 – 18 meters 4 – 10 meters 4 – 10 (1) 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+-- 125 150 150 175 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+15 15 20 20 20 
+INFORMATION 
+The Shuttle can hold 10 Passengers. 
+Considered a Vehicle during Combat. 
+ 
+ 
+ 
+TRANSPORT 
+COST MANPOWER 
+3,040 cR 1 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 65 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT VEHICLE (SHIP) SIZE  
+15 – 35 meters 6 – 20 meters 7 – 15 meters 4 – 11 (1) 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+-- 125 150 150 175 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+15 15 20 20 20 
+INFORMATION 
+The Transport can hold 40 Passengers. 
+Considered a Vehicle during Combat. 
+ 
+ 
+ 
+LIGHT FREIGHTER 
+COST MANPOWER 
+4,520 cR 2 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+600 15 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT VEHICLE (SHIP) SIZE  
+33 – 41 meters 16 – 44 meters 7 – 15 meters 9 – 18 (1) 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+-- 125 150 150 175 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+15 15 20 20 20 
+INFORMATION 
+The Light Freighter can hold 6 Passengers. 
+Has a Storage Bay that can carry up to 9 Mongoose Vehicles or 3 Warthogs as an 
+example of scale. Capable of holding up to 285 Metric Tonnes safely. 
+Considered a Vehicle during Combat. 
+ 
+INDUSTRIAL FREIGHTER 
+COST MANPOWER 
+6,690 cR 2 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 15 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT VEHICLE (SHIP) SIZE  
+67 – 89 meters 68 – 94 meters 10 – 23 meters 24 – 34 (2) 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+-- 175 200 200 300 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+20 18 20 22 22 
+INFORMATION 
+The Industrial Freighter can hold 12 Passengers. 
+Has a Storage Bay that can carry up to 12 Scorpion Tanks as an example of scale. 
+Capable of holding up to 12,440 Metric Tonnes safely. 
+Considered a Vehicle during Combat. 
+ 
+HEAVY FREIGHTER 
+COST MANPOWER 
+9,435 cR 2 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 15 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT VEHICLE (SHIP) SIZE  
+144 – 210 meters 79 – 120 meters 23 – 37 meters 41 – 61 (2) 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+-- 200 225 225 350 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+25 20 23 23 24 
+INFORMATION 
+The Heavy Freighter can hold 12 Passengers. 
+Has a Storage Bay that can carry up to 12 Elephant Recovery Vehicles as an 
+example of scale. Capable of holding up to 71,500 Metric Tonnes safely. 
+Considered a Vehicle during Combat. 
+ 
+EXPLORATION 
+COST MANPOWER 
+6,995 cR 1 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+700 30 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT VEHICLE (SHIP) SIZE  
+35 – 48 meters 10 – 28 meters 6 – 14 meters 8 – 15 (1) 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+-- 150 200 175 275 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+15 15 20 20 20 
+INFORMATION 
+The Exploration Vessel can hold 20 Passengers. 
+Considered a Vehicle during Combat.
+
+===== PAGE 40 =====
+40 
+ 
+WARSHIP FRAMES 
+ 
+CORVETTE 
+COST MANPOWER 
+39,365 cR, +1,300 cR for Ship Size 3 10 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+600 70 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+150 – 350 meters 90 – 180 meters 80 – 240  meters 2 – 3 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+275 300 300 300 450 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+30 25 30 30 30 
+ 
+FRIGATE 
+COST MANPOWER 
+54,635 cR, +2,000 cR for Ship Size 4 100 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+550 60 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+350 – 600 meters 90 – 200 meters 90 – 260 meters 3 – 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+300 325 325 350 525 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+40 35 40 40 35 
+ 
+DESTROYER 
+COST MANPOWER 
+70,990 cR, +2,000 cR for Ship Size 4 190 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 55 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+440 – 730 meters 150 – 420 meters 110 – 260 meters 3 – 4 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+350 375 375 375 625 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+50 40 45 45 45 
+ 
+CRUISER 
+COST MANPOWER 
+92,960 cR, +2,700 cR for Ship Size 5 800 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 50 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+1,000 – 1,500 meters 250 – 400 meters 300 – 415 meters 4 – 5 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+400 400 450 450 700 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+60 45 50 50 50 
+ 
+ 
+ 
+ 
+BATTLESHIP 
+COST MANPOWER 
+126,785 cR, +3,400 cR for Ship Size 6 1,000 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 45 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+1,000 – 1,800 meters 350 – 680 meters 300 – 470 meters 5 – 6 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+525 550 575 625 875 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+70 50 55 55 55 
+ 
+LIGHT CARRIER 
+COST MANPOWER 
+140,915 cR, +3,400 cR for Ship Size 6 1,100 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+400 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+1,200 – 2,100 meters 480 – 830 meters 460 – 520 meters 5 – 6 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+625 700 750 800 975 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+70 55 60 55 55 
+ 
+CARRIER 
+COST MANPOWER 
+171,250 cR, +4,150 cR for Ship Size 7 1,300 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+400 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+2,000 – 2,600 meters 600 – 750 meters 510 – 670 meters 6 – 7 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+700 800 825 850 1,050 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+75 60 65 60 60 
+ 
+SUPER CARRIER 
+COST MANPOWER 
+286,200 cR, +5,750 cR for Ship Size 9 3,500 
+CHARACTERISTICS 
+BASE ACCELERATE BASE MANEUVER 
+500 40 
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT SHIP SIZE 
+4,000 – 5,800 meters 550 – 1,050 meters 720 – 1,050 meters 8 – 9 
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+1,050 1,150 1,200 1,225 1,400 
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+85 65 80 75 80
+
+===== PAGE 41 =====
+41 
+ 
+ARMOR COMPONENTS 
+While Armor comes built into a Frame during its manufacturing 
+process, there are ways to modify them both after the initial 
+manufacturing process using refits, and during the manufacturing 
+process under special order. 
+ Below is a series of Armor Upgrades that can be taken to 
+bolster any Ship’s capabilities, including a refitting that turns Civilian 
+Vessels into full-blown Ships under standard classification. 
+ 
+CIVILIAN CLASSIFICATION RETROFIT 
+COST: -- cR 
+The Civilian Classification Retrofit will reclassify the Civilian Vehicle as 
+a Ship, giving it the capability to withstand much more under combat. 
+This Retrofit will give the Vehicle much stronger Titanium -Alloy 
+Plating that will allow it to withstand more  dangers that come with 
+space travel, as well as Combat. This doubles the Ship’s weight. 
+ 
+A-2 TITANIUM-ALLOY PLATING 
+COST: 1,000 cR per Ship Size 
+A-2 Titanium-Allow is an advanced Allow that is a sizeable upgrade 
+from the original Titanium -A plating. This Plating will increase the 
+Armor by +3 on all Locations. This can’t stack with A-3 Plating. 
+ 
+A-3 TITANIUM-ALLOY PLATING 
+COST: 3,000 cR per Ship Size 
+A-3 Titanium-Allow is an advanced Allow that is a large upgrade from 
+the original Titanium-A plating. This Plating will increase the Armor by 
++6 on all Locations. This can’t stack with A-2 Plating. 
+ 
+THERMAL SUPERCONDUCTING RADIATOR 
+COST: 3,300 cR 
+Thermal Superconducting Radiators are sprawled across the Hull of 
+the Ship allowing for it to more efficiently transfer heat across the 
+body and back into space. When installed, the Ship is able to ignore 
+the Cauterize Special Rule and halve all Damage from Flame and Fire. 
+ 
+RE-F1 ARMOR REINFORCEMENT 
+COST: 1,000 cR per Ship Size 
+RE-F1 Armor Reinforcement is an additive layer of Titanium-A Plating. 
+When installed, this will increase the weight of the Ship by 25% and 
+give +3 Armor to all Locations. This is not compatible with any other 
+RE-F Armor Reinforcement Upgrades. 
+ 
+RE-F2 ARMOR REINFORCEMENT 
+COST: 2,000 cR per Ship Size 
+RE-F2 Armor Reinforcement is an additive layer of Titanium-A Plating. 
+When installed, this will increase the weight of the Ship by 50% and 
+give +6 Armor to all Locations. This is not compatible with any other 
+RE-F Armor Reinforcement Upgrades. 
+ 
+RE-F3 ARMOR REINFORCEMENT 
+COST: 3,000 cR per Ship Size 
+RE-F3 Armor Reinforcement is an additive layer of Titanium-A Plating. 
+When installed, this will increase the weight of the Ship by 75% and 
+give +9 Armor to all Locations. This is not compatible with any other 
+RE-F Armor Reinforcement Upgrades. 
+ 
+HEX-OCTAGONAL HULL SECTIONING 
+COST: 1,500 cR per Ship Size 
+The Hex-Octagonal Hull Sectioning is a specialized structural upgrade 
+that gives the Ship’s Hull a way to better reduce damage caused from 
+Attacks. This gives the Ship a +100 Breakpoints to Hull. 
+ 
+DRIVE COMPONENTS 
+A Drive is the way a vehicle propels and maneuvers its way through 
+space. Maneuver Drives are the main drives used in spaceships. 
+However, there are specialized drives that improve the function and 
+capabilities of a ship. Only two Drive Upgrades can be installed into a 
+Ship at a time, each taking up two of the mobility options found in the 
+Breakpoints section of this handbook. The GM and Players must track 
+the MOB Breakpoints of both of them separately, as if both of a Fusion 
+Drive upgrade breaks, the benef its are lost alongside the drawbacks 
+of being down on mobility propulsion. 
+ 
+TANITH TKOFZ-2 FUSION ROCKETS 
+COST: -- cR 
+The Tanith TKOFZ -2 Fusion Rockets are the original, default 
+propulsion systems used in most ships due to their cheap and trusted 
+manufacturing. 
+ 
+HANLEY-MESSOR DFR 
+COST: 1,200 cR 
+The Hanley -Messor DFR is a specialized drive powered by three 
+directional reactors. These are designed for Maneuvering, instead of 
+specifically for speed. This Drive reduces the Base Accelerate by 100 
+and increases the Base Maneuver by 30. 
+ 
+NAOTO TECHNOLOGIES V4/L-DFR 
+COST: 1,200 cR 
+The Naoto Technologies V4/L -DFR is a multi -directional drive used 
+specially for high speeds and to acquire them as fast as possible. This 
+Drive system will increase the Base Accelerate by 200 and reduce the 
+Base Maneuver by 20. 
+ 
+MR2 BOGLIN FIELDS S75/M-DFR 
+COST: 2,700 cR 
+The MR2 Boglin Fields S75/M-DFR is a newer variant of common DFR 
+Drive Systems. These will increase a Ship’s Accelerate by 200 and 
+further increase it by 100 when figuring Cruising Speeds. 
+ 
+BOGLIN FIELDS STARFIRE-IV FUSION ROCKET DFR 
+COST: 2,700 cR 
+The Boglin Fields Starfire-IV Fusion Rocket DFR is a high-yield, heavy-
+burn plasma -induction engine. The Fusion Rocket will increase the 
+Ship’s Accelerate by 500 when finding Cruising Speeds. 
+ 
+OKB KARMAN 56K FUSION DRIVES 
+COST: 5,700 cR 
+The OKB Karman 56K Fusion Drives are twin drive systems designed 
+for easing the burden from movement, allowing each to 
+simultaneously control various amounts of energy in different 
+directions. These allow a Ship to double the amount of degrees it can 
+rotate while Turning.  
+ 
+ORPHIOS ENERGY SYSTEMS JUPITER-1 
+COST: 3,500 cR 
+The Orphios Energy Systems Jupier -1 are Maneuver Drives that split 
+the workload into three separate, yet smaller drives. These drives 
+have independent reactors. These Drives are specially designed to 
+survive in dangerous combat scenarios, giving +100 Break points to 
+this unit’s MOB Breakpoints.
+
+===== PAGE 42 =====
+42 
+ 
+SLIPSPACE COMPONENTS 
+A Slipspace Engine is a Faster -Than-Light drive that functions by 
+creating ruptures between normal space and Slipspace. The standard 
+Slipspace Engine that Ships will come with is simplistic enough in 
+terms of Slipspace science that allows it to be affordable and readily 
+available at all times. 
+ 
+SERIES II CODEN TRANSLIGHT ENGINE 
+COST: -- cR 
+The Series II CODEN Translight Engine is the original, default 
+propulsion systems used in most ships due to their cheap and trusted 
+manufacturing. 
+ 
+SERIES III CODEN TRANSLIGHT ENGINE 
+COST: 3,000 cR 
+The Series III CODEN Translight Engine reduces the amount of time to 
+enter and leave Slipspace by 1 Full Action. 
+ 
+SERIES IV CODEN TRANSLIGHT ENGINE 
+COST: 6,000 cR 
+The Series IV CODEN Translight Engine reduces the amount of time to 
+enter Slipspace by 3 Full Actions and to leave Slipspace by 2 Full 
+Actions. 
+ 
+SERIES V CODEN TRANSLIGHT ENGINE 
+COST: 9,000 cR 
+The Series III CODEN Translight Engine reduces the amount of time to 
+enter and leave Slipspace by 3 Full Actions. 
+ 
+MACEDON TRANSLIGHT ENGINE 
+COST: 30,000 cR 
+The Macedon Translight Engine reduces the amount of time to enter 
+and leave as only 1 Full Action. This specialized, large-scale Translight 
+Engine takes up a Component Slot to install. 
+ 
+CREW QUARTER COMPONENTS 
+Crew Quarter Components are living spaces where people are able to 
+sleep and store their belongings. The level of privacy, space, and 
+comfort will depend entirely on the Crew Quarter installed. 
+ 
+STANDARD CREW QUARTERS 
+COST: -- cR 
+These will offer beds and storage lockers that are housed in 
+communal living spaces. This means that multiple people will all live 
+in a shared room with very little privacy. Depending on the amount of 
+people needing to be housed, the beds can be bunks that  allow for 
+vertical sleeping spaces. The Standard Crew Quarters have military -
+style showers, a communal bathroom, and a small location for people 
+to eat meals and rest. 
+ Warships that have large crews will often have barrack-style 
+Crew Quarters instead of more standard living arrangements. 
+ 
+QUALITY CREW QUARTERS 
+COST: 2,500 cR per 1,000 Manpower 
+Quality Crew Quarters are dormitory-style rooms that houses one or 
+two people depending on the housing needs of the crew. Each room 
+will have enough space for two people and their belongings, two 
+beds, and drawers and closets for storage. Quality Crew Quar ters 
+have communal bathrooms with separated showers and sinks. 
+Quality Quarters also have small galleys for each cluster of dormitory 
+housing that allows for cooking, eating, and recreation. 
+ Warships that have large crews will often have dorms that 
+each house four people, instead of two. The beds are bunks that allow 
+for more vertical space to be used. 
+ 
+LUXURY CREW QUARTERS 
+COST: 5,000 cR per 1,000 Manpower 
+COMPONENT SLOT:  +1 Component Slot per 1,000 Manpower, no 
+Component Slot cost if under 500 Manpower. 
+Luxury Crew Quarters are designed for comfort, adapting apartment-
+like living spaces for a single person to live in. Every room will have 
+furnishings, storage, a queen size bed, and a personal bathroom. Each 
+cluster of apartments will have an attached larg e-scale kitchen and 
+recreational center if the ship is large enough. Small ships like small 
+Transports wouldn’t be able to fit anything larger than a room with 
+simple or small entertainment systems. 
+ Warships that have large crews will often have multiple 
+people live in these apartment complexes, where they still have their 
+own rooms for privacy. Each of these larger apartment complexes will 
+have a communal central area that has a kitchen, two bathrooms, and 
+a small living room. 
+ 
+COMPUTING SYSTEM COMPONENTS 
+A standard Ship’s Computing System has all of the essentials needed 
+to run a ship and all of its systems. All Ships come with a Computing 
+System capable of running life support, assisting in travel for both real 
+space and Slipspace, accessing maps, and any  other standard 
+computing needs a ship may have.   
+ 
+STANDARD COMPUTER SYSTEM 
+COST: -- cR 
+The standard mass -produced computing system for ships. Cheap, 
+reliable, and standard on all new ships. Comes with a Sensor of 35 and 
+a Conceal of 50.  
+Conceal is reduced by 5 for each Size Point of the ship, to a 
+Conceal minimum of 25. Sensor is increased by 5 per Size Point, to a 
+maximum Sensor of 55.  Not compatible with Improved Computer 
+System and Advanced Computer System. 
+ 
+IMPROVED COMPUTER SYSTEM 
+COST: 10,000 cR 
+An improved variant of what is generally the mass -produced 
+computing system. This is most commonly used for Warships when 
+designed on a budget. Comes with a Sensor of 50 and a Conceal of 65.  
+Conceal is reduced by 5 for each Size Point of the ship, to a 
+Conceal minimum of 30. Sensor is increased by 5 per Size Point, to a 
+maximum Sensor of 75. Not compatible with Standard Computer 
+System and Advanced Computer System. 
+ 
+ADVANCED COMPUTER SYSTEM 
+COST: 25,000 cR 
+An improved variant of what is generally the mass -produced 
+computing system. This is most commonly used for Warships when 
+designed on a budget. Comes with a Sensor of 80 and a Conceal of 80.  
+Conceal is reduced by 5 for each Size Point of the ship, to a 
+Conceal minimum of 35. Sensor is increased by 5 per Size Point, to a 
+maximum Sensor of 90. Not compatible with Standard Computer 
+System and Improved Computer System. 
+ 
+HIGH-BAND SCANNING ARRAY 
+COST: 10,000 cR 
+A Scanning Array that is used to boost the capability of a Ship to detect 
+other ships around them. When installed into a Ship, this will take 1 
+Component Slot and increase the Ship’s Sensor by 20. 
+ 
+WMLO SCATTER MESH 
+COST: 10,000 cR 
+The WMLO Scatter Mesh attempts to scatter the data and various 
+energies given off by the Ship, increasing its Ship Conceal by 20. This 
+takes 1 Component Slot to install.
+
+===== PAGE 43 =====
+43 
+ 
+NAVCOM ASTROGATION COMPILER 
+COST: 5,640 cR 
+A specialized interstellar travel computation system that takes 
+Astrogation Data and calculates parameters for Slipspace travel. 
+When leaving Slipspace, the NAVCOM Astrogation Compiler will 
+reduce the Scatter by half. If paired with a Slipspace Guidance Beacon, 
+the Ship will reduce the total Scatter by 3/4th. 
+ The NAVCOM Astrogation Compiler comes with a viewing 
+table that can list astronavigation routes in both real space and 
+Slipspace. This also allows to assist in nearby Ships for both guidance 
+and route planning. 
+ 
+HARDENED BATTLENET TRANSPONDER 
+COST: 3,100 cR 
+The Hardened Battlenet Transponder is a communication relay device 
+that is able to communicate over military and civilian communication 
+networks even when under EMP, heavy radiation, or under 
+cryptographic assault. 
+ 
+PLANETARY SCANNING ARRAY 
+COST: 8,100 cR 
+A Planetary Scanning Array is a large series of sensors that are 
+accompanied with a probe launcher. This allows for the Ship’s 
+computers to get a full planetary scan within 24 hours. A city can be 
+scanned in well under an hour. This can offer maps, uplink GPS 
+information, survey weather patterns, and more. 
+ 
+SENTRY AUTOTARGETING SUPPORT SYSTEM 
+COST: 8,100 cR 
+The Sentry Autotargeting Support System is a computing network 
+that is capable of assisting in the firing of firearms. At the beginning 
+of a Round, the Sentry is applied to a chosen set of weapons. Those 
+weapons are then given a +10 To Hit until a new weapon set is chosen. 
+ 
+AI COMPUTER SYSTEM 
+COST: 8,100 cR 
+The AI Computer System is a platform that allows a Smart or Dumb AI 
+to be given a Position on the Ship. This allows the AI to take roles as 
+needed, such as a Pilot or manning a Weapon. While an AI is in the AI 
+Computer System, they are able to man two total S ystems during a 
+Turn, instead of being limited to only one. 
+ 
+AUTOMATIC NAVIGATION COMPUTER 
+COST: 5,500 cR 
+An Automatic Navigation Computer allows for automated travel 
+without the need of a crew for point A to point B travel. The 
+Automatic Navigation Computer can’t use weapons, avoid Combat, or 
+anything other than making sure it gets from point A to point B. 
+ 
+BAY COMPONENTS 
+Bay Components are rooms, and expansions that are converted to 
+serve a function or purpose. A GM can rule that space within a ship 
+that is not taken is already serving a purpose for storage, larger 
+communal hubs, and general space for the crew and componen ts. 
+The more Bays installed into a Ship, the more cramped the Ship will 
+become. The larger the Ship, the larger the bay will be when installed, 
+as it will generally be used by much more Crew overall. 
+ All Bay Components have a Component Slot Cost and a cR 
+Slot Cost that must be able to be fulfilled in order to be installed into 
+a Ship. Every Bay Component will take 5 days of construction time to 
+build for every Ship Size the Ship is. 
+ Ships can have multiple of a single Bay Component installed 
+at a time. Bay Components that offer Characteristic and Test benefits, 
+such as the Maintenance Facility or Medical Facility, will not give their 
+bonuses or benefits multiple times. 
+EXTENDED BAY COMPONENTS 
+The Players and GM can work together to allow for larger and smaller 
+versions of Bay Components. For example, if the Players wanted a 
+Recreational Hall that offered large -scale entertainment, such as 
+offering multiple theaters, the GM could have them purch ase 
+multiple Recreational Halls. However, there are instances like the 
+Frigate Bay that is already large and takes up many Component Slots. 
+The GM could allow for a slightly extended Frigate Bay that offers one 
+extra Frigate to be stored at the cost of 2 extra Component Slots. 
+ 
+AIRLOCK CHAMBER 
+COST: 1,100 cR 
+An Airlock Chamber is a series of doorways used to allow movement 
+in and out of the vessel safely without needing to be docked. The 
+Airlock Chamber offers two large doors and a chamber to adjust its 
+internal pressure so people can safely enter and exit the  vessel. The 
+Airlock Chamber also allows for quick access into Ships, taking only a 
+Half Action to enter or exit the Chamber, and a Full Action for 
+pressurization changes to safely continue. The Airlock Chamber takes 
+1 Component Slot. 
+ 
+AMMUNITION BAY 
+COST: 2,000 cR 
+The Ammunition Bay is a storage bay designed for safely housing and 
+feeding the ship’s Autoloaders. The Ammunition Bay will double the 
+amount of Ammunition, per weapon, stored on the ship. 
+ The Ammunition Bay  takes (X) Component Slots to install  
+where (X) is equal to the Ship Size of the Ship. 
+ 
+ARMORY 
+COST: 700 cR 
+Armory is a storage bay designed for the safe storage of weapons, 
+ammunition, explosives, and equipment. On small vessels of Ship Size 
+1 or 2, the Armory is a small room designed for storage of personal 
+firearms, explosive material, and equipment. The Armory will take up 
+2 Component Slots. 
+ The Warship Armory is a large -scale firearm servicing, 
+storage, development, and acquisition center. A Warship’s Armory 
+serves to arm military and militia crew before missions and during 
+events of crisis. This Armory Bay also allows for quick weapons and 
+equipment repair at no cost to the servicemen and crew. The Warship 
+Armory will take up 3 Component Slots. 
+ 
+BOARDING ACTION CENTER 
+COST: 8,000 cR 
+A specialized bay that holds Boarding Craft. This can only be taken on 
+vessels of Ship Size 3 or larger due to the size and complexity of 
+storing and maintaining boarding vessels. 
+The Ship will fire off Boarding Action parties if possible. 
+While firing off Boarding Action crews who will be aboard boarding 
+crafts, the Ship should not fire Weapons towards their Target unless 
+they risk hitting the boarding action crew. Boarding Actions  will take 
+1 Turn for every 500 km away they are from the targeted Ship. Once 
+the boarding crew reaches the Targeted Ship, they will latch on and 
+create an entry-point in the Hull. This entry point can then be used to 
+enter and exit when needed, and when t he Boarding Craft detaches 
+and leaves, the hole in the Hull stays, depressurizing the location they 
+boarded in to. 
+ If weapons are fired towards the Target from the ship that 
+launched the Boarding Crew, the Boarding Crew will be struck by any 
+Attacks that rolled 3 or more Degrees of Failure on the To Hit Test. 
+ Missile Defense can be used to attempt to take out 
+Boarding Crafts as if they were a missile. However, a Boarding Craft 
+will only be hit by a wet of weapons if the weapon gains 2 or more
+
+===== PAGE 44 =====
+44 
+ 
+Degrees of Success. Boarding Actions will get a Maneuver of 50 to 
+attempt evading these Attacks as if it were a Vehicle. 
+ Boarding Crafts take a Full Action for every 10 Armor to 
+carve their way through the Hull to make it accessible to the crew. 
+Boarding Crafts deal no Damage to the Ship they are attaching to. 
+ 
+CAFETERIA 
+COST: 1,000 cR 
+The Cafeteria is a hub and communal area in a ship that offers a way 
+for people to eat. On smaller ships, a Cafeteria would be a kitchen and 
+eating area. A Small Ship Cafeteria takes 1 Component Slot. 
+ On Warships, the Cafeteria offers prepared foods, vending 
+machines, and stations to prepare your own food. The large -scale 
+Cafeteria offers a Mess Hall with open spaces and communal tables, 
+an Officer’s Mess for exclusive dining areas for higher ranking 
+individuals and their guests, and a large-scale kitchen to prepare large 
+assortments of food. The vending machines offer pre -packed foods, 
+frozen meals, beverages, and snacks. A Warship Cafeteria takes 3 
+Component Slots. 
+ 
+CARGO HOLD 
+COST: 900 cR 
+A Cargo Hold is a storage bay designed to hold goods, vehicles, and 
+more. The Cargo Hold will also convert ALL unused Component Slots 
+into Cargo Hold. 
+Cargo Holds will hold necessities on smaller vessels. It is up 
+to the GM and the Players to see what would realistically be stored 
+on a smaller ship’s Cargo Hold. A small Ship’s Cargo Bay will take 2 
+Component Slots. 
+ On Warships, Cargo Holds are more than just simple storage 
+places. Cargo Holds are massive bays that can hold vehicles and utilize 
+large-scale cranes and transport equipment to move vehicles and 
+other goods around the ship quickly. A Warship’s Cargo Hold will take 
+3 Component Slots. 
+ 
+CREW QUARTER EXPANSION BAY 
+COST: 750 cR per Ship Size 
+Crew Quarters can be expanded to allow more Crew and Passengers 
+to take up residence. For Ship Size 1 vessels, 1 Component Slot will 
+room 5 Manpower. For Ship Size 2 vessels, 1 Component Slot will 
+room 50 Manpower. For Ship Size 3 vessels and larger, 1 Component 
+Slot will man 500 Manpower. If this is done with Luxury Crew 
+Quarters, you will need to pay the extra Component Slots based on 
+how many extra Crew Quarter Bays were installed. 
+ 
+DOCKING BAY 
+COST: 900 cR 
+A Docking Bay is a specialized Bay used to connect to stations and 
+other ships that share a Docking Bay. Once connected, a Docking Bay 
+can begin transporting Characters and goods. If the Ship has a Hangar 
+Bay, it’s possible to have the Docking Bay have quick access to the 
+services of that Hangar. Small Civilian Frames docking to much larger 
+Ships will not be able to make use of accepting transfers of large 
+equipment or vehicles. 
+ Ships that have a Frigate Bay allow any Ship small enough 
+to fit into the Frigate Bay to dock with it using its Docking Bay. These 
+Ships also have systems to allow Ships to dock without a Docking Bay, 
+but you will need to traverse within the internal hangar before 
+reaching the interior  of the Ship itself. A Docking Bay would bypass 
+this process entirely. 
+ A Docking Bay takes 2 Component Slots to install. 
+ 
+ESCAPE PODS 
+COST: 2,500 cR 
+Escape Pods allow for people to flee vessels before they are 
+destroyed. On small Ships with Ship Size of 1, an Escape Pod cannot 
+be installed. 
+ For every Ship Size the Ship is, 10 Escape Pods will be 
+installed. Each Escape Pod can hold dozens of crew. An Escape Pod 
+can be found in the Mythic handbook, known as the SKT -9 Class-3 
+Enclosed Heavy Lifeboat Bumblebee. This takes 2 Component Slots. 
+ 
+FABRICATION LINE 
+COST: 5,000 cR 
+The Fabrication Line is a manufacturing plant designed to fit in 
+relatively small locations. Even when relatively small, they are still too 
+large to fit in vessels with Ship Size of 1 or 2. 
+ Fabrication Lines will follow the rules of a Fabrication Line 
+found in the Mythic Economics expansion. 
+ A Fabrication Line takes up 5 Component Slots. 
+ 
+FRIGATE BAY 
+COST: 10,000 cR 
+A Frigate Bay is a gargantuan Hangar Bay that can only be installed 
+into Ships with a Ship Size of 8 or more. A Frigate Bay can hold up to 
+5 Frigates or Corvettes for every 4 Size Points of the Ship , to a 
+maximum of 12.  It takes 6 Component Slots to install a Frigate Bay. 
+Alternatively, smaller Ships can be stored in the Frigate bay 
+at much higher counts. Frigates and Corvettes are a Ship Size of 3. In 
+place of a Ship Size 3 vessel, three Ship Size 2 vessels can fit in that 
+same sized space. And three Ship Size 1 vessels can fit in the place of 
+a Ship Size 2 vessel. 
+ 
+HANGAR BAY 
+COST: 3,000 cR 
+A large-scale hangar system that allows vehicles to be stored in a Ship. 
+The Hangar Bay also has airlocks that are large enough to fit vehicles 
+which allows for safe passage in and out of the vessel. 
+ Hangar Bays can’t be installed on a Ship with a Ship Size of 
+1, as they are too small. Ship Size 2 Ships are limited to only a few 
+vehicles at best. You need to use your best judgement as to what can 
+fit into a Size 2 Ship. You should never allow a smalle r Ship to dock 
+vehicles larger than it in size, or several vehicles that are too big to fit 
+all at once. A Hangar Bay is 3 Component Slots to install. 
+ Hangar Bays on Ships of Ship Size 3 or larger can hold up to 
+26,000 square feet of vehicles and storage. Ships can hold up to 2 of 
+these size Hangar Bays per Ship Size. 
+ 
+HYDROPONICS 
+COST: 4,400 cR 
+The Hydroponics Bay introduces rotational sections or are built near 
+artificial gravity generators. This bay is designed with water tanks and 
+water recycling plants to irrigate crops that can be grown in these 
+bays. Due to the size of the mechanics needed,  this cannot be 
+installed on vessels that are Ship Size 1. If a Ship can’t support artificial 
+gravity, the Hydroponics Bay can’t work. 
+ The Hydroponics crop cycle can feed 100 people when 
+installed on a Ship Size 2 vessel. It can feed 1,000 people when 
+installed on a Ship Size 3 vessel. It can feed 3,000 people when 
+installed on a Ship Size 4 or larger vessel. 
+ The Hydroponics Bay takes 4 Component Slots to install.
+
+===== PAGE 45 =====
+45 
+ 
+TRAM NETWORK 
+COST: 1,100 cR per Ship Size 
+A Tram Network is a network of high -speed service trains that are 
+installed into large -scale Ships, allowing for fast transportation to 
+crew, goods, and vehicles. The Tram Network can’t be installed into 
+vessels of 1 or 2 Ship Size, as they are too small. The Tram Network 
+takes 3 Component Slots to install. 
+ The Tram Network is able to transport someone and their 
+goods very fast, able to safely cover 500 meters in a Full Action. It 
+takes 1 Full Action to board the Tram Network, and if they have 
+nothing to wait for, such as scheduled Tram travel times, they are able 
+to leave in only a Full Action. 
+ 
+MAINTENANCE FACILITY 
+COST: 5,000 cR 
+The Maintenance Facility, on small vessels of Ship Size 1 or 2, are 
+storage facilities for maintenance tools. On these smaller vessels, a 
+Maintenance Facility will give a +20 Bonus to Emergency Repairs and 
+will repair an extra 50 total Breakpoints as long as there are 
+Emergency Repair still available to use. The small vessel Maintenance 
+Facility takes 2 Component Slots. 
+ Warship Maintenance Facilities offer a massive variety of 
+tools, systems, and machinery for large -scale emergency repair. The 
+Warship’s Maintenance Facility gives a +30 Bonus to Emergency 
+Repairs, will reduce the Test by 1 Full Action, and will repair an extra 
+75 total breakpoints as long as there are Emergency Repairs still 
+available to use. The Warship Maintenance Facility takes 4 
+Component Slots. 
+ 
+MEDICAL FACILITY 
+COST: 3,000 cR 
+A multi -purpose medical facility designed to facilitate the sick, 
+injured, and more. On small Ships of Ship Size 1 or 2, the Medical 
+Facility is a small medbay that has a bed, medical assistance tools, and 
+a simplified surgical suite. On these small Ships, Medical Facilities can 
+be used to heal Fatigue twice as fast, remove Special Damage after 4 
+hours, and halve the time Extended Medical Tests take. On these 
+smaller Ships, the Medical Facility takes 2 Component Slots.  
+ On Warships, Medical Facilities is a large facility with a 
+Sickbay, Infirmary, a Pharmacy, Research Labs, and Surgical Suites. A 
+Warship’s Medical Facility offers a large amount of medical 
+assistance. A Warship’s Medical Facility takes 5 Component Slots. 
+ 
+Using the facilities allows a Character the following benefits: 
+• Halves the time Extended Medical Actions take 
+• Fatigue is healed twice as fast 
+• Special Damage is removed after 1 hour 
+• A +20 is given to Medical Tests 
+ 
+The GM may also allow for more benefits to be gained from the 
+Warship’s Medical Facility due to the nature of these facilities having 
+a large amount of resources. This includes gaining easier access to 
+medication, making use of research facilities, and the  ability to use 
+infirmaries and sickbays to assist in treating dozens of people at a time. 
+ 
+ORDNANCE BAY 
+COST: 8,000 cR 
+An Ordnance Bay is a specialized launching platform for Drop Pods, 
+Equipment Pods, Single -Occupant Exoatmospheric Independent 
+Entry Vehicles, and strikes. The Ordnance Bay is specifically designed 
+to send munitions, payloads, equipment, and personnel down to the 
+surface as fast as possible by launching them in anti-atmospheric drop 
+pods. An Ordnance Bay will allow the Ship to perform its own Support 
+and Ordnance found in the Support Point system. 
+ When launching any type of Drop Pod, it is a 2 minute 
+process to safely prepare and launch, which is 20 Turns. 
+ The Ordnance Bay takes up 3 Component Slots and can’t be 
+installed into Ship Size 1 vessels. 
+ 
+PRISON 
+COST: 700 cR 
+The Prison Bay is designed to restrain individuals using prison cells 
+designed with incredibly durable blast-resistant glass. The Prison, on 
+small vessels of Ship Size 1 or 2, will hold only a few individuals safely. 
+The small vessel Prison will take 2 Component Slots. 
+ The large-scale Warship Prison will be able to hold a couple 
+dozen individuals in separate cells. The Warship Prison will have 
+security systems to make sure there are no break -ins or escapees, 
+there are isolation cells for those who have caused issues, an d an 
+emergency lockdown procedure. The Warship Prison takes 3 
+Component Slots. 
+ The blast-proof glass is immune to Kill Special Rule, has 200 
+Breakpoints, and an Armor of 35. It is very dense and very protective. 
+The emergency lockdown doors are just as durable. 
+ 
+RECREATIONAL HALL 
+COST: 900 cR 
+The Recreational Hall is a Bay that offers entertainment. Recreational 
+Halls on smaller vessels of Ship Size 1 or 2 is limited in space. These 
+will generally offer televisions or computers, video games, BNET 
+access, ping -pong tables, and more. Things that can be done in 
+smaller spaces. It is up to the Players and GM to decide what could fit 
+here and what they’d like to have. The smaller vessel Recreational 
+Hall takes up 2 Component Slots. 
+ Warship Recreational Halls are much larger, allowing large-
+scale space for sports, gyms, amusement halls, and even theaters. 
+Warship Recreational Halls also allow for large-scale versions of what 
+could fit in a smaller Ship’s Recreational Hall, such as an arcade room 
+filled with multiple video game systems, or computer labs to allow 
+computer access to many at a time. The Warship Recreational Hall 
+takes 4 Component Slots, though the smaller -scale Recreational Hall 
+from smaller vessels can be installed for only 2. 
+ 
+SCIENCE LABORATORY 
+COST: 1,000 cR 
+The Science Laboratory (Lab) is a higher -tech array of various 
+equipment for the use of research, study, and small -scale 
+construction. The Science Lab will give the tools needed for 
+Technology and Investigation Tests to be made when needed. 
+ The Science Lab gives the Character a +20 to Technology 
+Tests and a +10 to Investigation Tests when used in regard to scientific 
+discovery, reverse engineering, tech-work, and more. The Science Lab 
+takes up 2 Component Slots. 
+ 
+SECURITY BAY 
+COST: 950 cR 
+Security Bays allow for better policing and surveillance aboard ships. 
+On small vessels of Ship Size 1 or 2, the Security Bay will be a room 
+with security feeds, alongside Security cameras placed throughout 
+the other bays and locations of the vessel. Security Bays should never 
+be allowed to place their surveillance systems in personal rooms, 
+bathrooms, and crew quarters. Small vessel Security Bays take 1 
+Component Slot. 
+ The larger Security Bay found on Warships are much more 
+involved. On top of providing surveillance software and hardware, 
+Security Bays also can support the housing and workplace of security 
+officers and Military Police. The Security Bay can be used as a place to 
+report crimes, investigate occurrences, and keep the peace. Warship 
+Security Bays take up 2 Component Slots.
+
+===== PAGE 46 =====
+46 
+ 
+MISC. COMPONENTS 
+Misc. Components are Ship Components that don’t entirely fall under 
+a Ship’s specific components. Instead, these are the Components that 
+gives a Ship their Ship Special Rules, outside of the Warship Special 
+Rule given by Civilian Classification Retrofit an d the Hex -Octagonal 
+Hull Special Rule given by Hex-Octagonal Hull Sectioning. The 
+Slipspace Specialist is also given by taking the Macedon  Translight 
+Engine. 
+ 
+ADVANCED AUTOLOADERS 
+COST: 2,000 cR per 1 Ship Size 
+Advanced Autoloaders are installed, replacing the original 
+Autoloaders of each and every weapon. Advanced Autoloaders 
+reduce the Reload Time of all weapons by 3.  Advanced Autoloaders 
+take up 1 Component Slot. 
+ 
+ATMOSPHERIC ENTRY 
+COST: 5,600 cR 
+Specialized Atmospheric Thrusters are installed onto the Hull of the 
+Vehicle that allow the Ship controlled vertical movement when in a 
+Planet’s Atmosphere. The Atmospheric Thrusters can’t give any 
+benefits to the Ship’s Characteristics. This takes 2 Component Slots. 
+ 
+EMERGENCY THRUSTERS 
+COST: 5,600 cR 
+Emergency Thrusters are a one-time-use Thruster system that is used 
+to escape an emergency situation. The Emergency Thrusters will allow 
+the Ship to move horizontally or vertically to escape all Attacks during 
+a Turn. As a Reaction, the Ship will move its Maneuver Characteristic 
+multiplied by 10 in meters in a chosen direction. This movement, if 
+used to move Forward, will add to the Ship ’s current Acceleration. If 
+used to reverse, the Ship will lose Acceleration or reverse its 
+momentum, depending on the speed it was traveling. 
+This is a violent amount of movement for a Ship to go 
+through, so anyone onboard the Ship who is standing will be knocked 
+Prone on a failed +10 Athletics Skill Test. Once used, the Emergency 
+Thrusters will detach from the Ship. 
+ A Ship can have up to three total sets of Emergency 
+Thrusters installed on it at a time and each take 1 Component Slot to 
+install. An Emergency Thruster is replaced at Docking Stations. This is 
+free for Military ships, while it costs 1,000 cR to replace for civilian 
+Ships. 
+ 
+EW SUITE 
+COST: 10,000 cR 
+An extremely powerful Electronic Warfare Communication Blocking 
+Protocol Suite is installed into the Ship. This blocks all communication 
+between opposing Ships within 10 Kilometers of this Ship. The 
+communication will also be blocked if this Ship is betwee n the 
+opposing Ship and the source they are trying to communicate with. 
+This takes 2 Component Slots to install. 
+ 
+LONG RANGE 
+COST: 12,500 cR 
+A series of optical, computing, aiming, and sensor protocols are 
+installed that allow all of the weapons on the Ship to have their 
+Optimal and Long Range distances doubled. This takes 2 Component 
+Slots to install. 
+ 
+REAR DECK 
+COST: 2,000 cR 
+The Ship’s Deck is located at the rear of the Ship, instead of the front 
+or top. This means that only Attacks from the Rear can strike the Optic 
+Breakpoint Location. 
+ 
+SLIPSPACE PROBE 
+COST: 15,500 cR 
+A Slipspace Probe Launcher that will send out Probes as a Full Action. 
+Once active, these Probes will scan the surrounding equivalent 
+locations in Slipspace to watch for Ships. When another vessel is going 
+to exit Slipspace within 100,000 KM of the Ship, t he Ship will be 
+warned the Turn prior. This takes 2 Component Slots to install. 
+ 
+UNEXPOSED DECK 
+COST: 10,000 cR 
+The Ship’s Deck is located the center of the Ship, having no section 
+exposed to the outer section of the Hull. Attacks have a -30 Penalty 
+to Target the Optic Breakpoint Location and the effects of Explosive 
+Decompression are halved. 
+ 
+SLIPSPACE COMMUNICATIONS LAUNCHER 
+COST: 300,000 cR 
+The Slipspace Communications ( COM) Launcher is a specialized 
+“Shaw-Fujikawa Low -Mass Launcher ” that sends a probe into 
+Slipspace that is described as a “gauss bullet ripping through Slipspace 
+on ultra -precise trajectories. ” This allows faster -than-light 
+communication between facilities and the Ship. The Ship will take 5 
+Full Actions to launch the Probe . The Probe will travel in Slips pace 
+1,000 times faster than even the fastest ships , even though it is the 
+size of a basketball. 
+ Once the Slipspace Probe exits Slipspace, it will send its 
+information out where needed and then will attempt to travel to a set 
+location for retrieval. When purchased, the Slipspace COM Launcher 
+will come with 3 uses and each use is 100,000 cR to replace if 
+destroyed. 
+ If taken after the year 2554, the price of a Slipspace COM 
+Launcher and Probe replacements is reduced by 75%. 
+ 
+SUPERLUMINAL COMMUNICATION ARRAY 
+COST: 1,500,000 cR 
+A Superluminal Communication Array is a specialized communication 
+system that uses quantum entanglement to send information 
+through both space and Slipspace. This allows for near instantaneous 
+communication between devices that share the Superluminal 
+Communication Array. The Superluminal Communication Array can 
+also send information near instantaneously to tethered devices  that 
+do not have this technology.  
+ If taken after the year 255 8, the price of the Superluminal 
+Communication Array is reduced by 50%.
+
+===== PAGE 47 =====
+47 
+ 
+SHIP TEMPLATES 
+ 
+ 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+    
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+    
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+     
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+     
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+     
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+   
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SPECIAL RULES 
+   
+   
+COMPONENTS 
+   
+   
+   
+   
+ 
+ 
+ 
+COST TYPE MANPOWER EXPERIENCE 
+    
+CHARACTERISTICS 
+ACCELERATE MANEUVER SENSOR CONCEAL 
+    
+PHYSICAL ATTRIBUTES 
+LENGTH WIDTH HEIGHT WEIGHT SHIP SIZE 
+     
+BREAKPOINTS 
+WEP MOB ENG OP HULL 
+     
+ARMOR 
+FRONT BACK SIDE TOP BOTTOM 
+     
+ENERGY SHIELDS 
+SHIELD INTEGRITY RECHARGE DELAY RECHARGE RATE 
+   
+WEAPONS 
+HEAVY MEDIUM POINT MISSILE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SPECIAL RULES 
+   
+   
+COMPONENTS

@@ -1,0 +1,242 @@
+<form class="halo-mythic-creator-app" autocomplete="off">
+  <header class="creator-header">
+    <div>
+      <h1>Guided Character Creator</h1>
+      <p>Build a usable Halo Mythic character from soldier type, specialization, and creation points.</p>
+    </div>
+    <div class="creator-pill-row">
+      <span class="tag">XP Tier {{startingTier.tier}}</span>
+      <span class="tag">cR {{startingCredits}}</span>
+      <span class="tag">Luck 6</span>
+    </div>
+  </header>
+
+  <section class="creator-layout">
+    <aside class="creator-summary">
+      <div class="section-card">
+        <div class="section-head compact-head">
+          <h2>{{preset.label}}</h2>
+          <p>{{preset.summary}}</p>
+        </div>
+        <div class="creator-summary-list">
+          <div class="line-row">
+            <span>Soldier Type Cost</span>
+            <strong>{{preset.experienceCost}} XP</strong>
+          </div>
+          <div class="line-row">
+            <span>Creation Points</span>
+            <strong>{{preset.creationPoints}}</strong>
+          </div>
+          <div class="line-row">
+            <span>Free Skills</span>
+            <strong>{{preset.freeSkillChoices.count}} at {{freeSkillRankLabel}}</strong>
+          </div>
+          <div class="line-row">
+            <span>Points Remaining</span>
+            <strong data-points-remaining class="{{#unless canApply}}warning{{/unless}}">{{pointsRemaining}}</strong>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-card">
+        <div class="section-head compact-head">
+          <h2>{{specialization.label}}</h2>
+          <p>{{specialization.summary}}</p>
+        </div>
+        <div class="simple-list">
+          {{#each specialization.abilities}}
+            <div class="simple-item compact-item">
+              <span>{{this}}</span>
+              <span class="tag">Ability</span>
+            </div>
+          {{/each}}
+          {{#each specialization.skills}}
+            <div class="simple-item compact-item">
+              <span>{{lookup ../skillChoicesMap this.key}}</span>
+              <span class="tag">{{this.rank}}</span>
+            </div>
+          {{/each}}
+          {{#unless specialization.abilities.length}}
+            <div class="muted">No specialization bonuses selected.</div>
+          {{/unless}}
+        </div>
+      </div>
+
+      <div class="section-card">
+        <div class="section-head compact-head">
+          <h2>{{currentLoadout.label}}</h2>
+          <p>{{currentLoadout.summary}}</p>
+        </div>
+        <div class="creator-loadout-copy">
+          {{#each loadoutPreview}}
+            <div><strong>{{this.label}}:</strong> {{this.text}}</div>
+          {{/each}}
+          {{#unless loadoutPreview.length}}
+            <div>No generated gear for this loadout.</div>
+          {{/unless}}
+          {{#ifEq currentLoadout.label "Manual / None"}}<div>Loadout stays manual.</div>{{/ifEq}}
+        </div>
+      </div>
+    </aside>
+
+    <main class="creator-main">
+      <section class="section-card">
+        <div class="section-head">
+          <h2>Identity</h2>
+          <p>Pick the base template and starting resources first.</p>
+        </div>
+        <div class="creator-grid two-wide">
+          <label>
+            <span>Name</span>
+            <input type="text" name="builder.name" value="{{builder.name}}" />
+          </label>
+          <label>
+            <span>Rank</span>
+            <input type="text" name="builder.rank" value="{{builder.rank}}" />
+          </label>
+          <label>
+            <span>Soldier Type</span>
+            <select name="builder.soldierType">
+              {{#each presetChoices}}
+                <option value="{{this.key}}" {{#ifEq ../builder.soldierType this.key}}selected{{/ifEq}}>{{this.label}}</option>
+              {{/each}}
+            </select>
+          </label>
+          <label>
+            <span>Specialization</span>
+            <select name="builder.specialization">
+              {{#each specializationChoices}}
+                <option value="{{this.key}}" {{#ifEq ../builder.specialization this.key}}selected{{/ifEq}}>{{this.label}}</option>
+              {{/each}}
+            </select>
+          </label>
+          <label>
+            <span>Faction</span>
+            <input type="text" name="builder.faction" value="{{builder.faction}}" />
+          </label>
+          <label>
+            <span>Race</span>
+            <input type="text" name="builder.race" value="{{builder.race}}" />
+          </label>
+          <label>
+            <span>Size</span>
+            <select name="builder.size">
+              {{#each sizeOptions}}
+                <option value="{{this.key}}" {{#ifEq ../builder.size this.key}}selected{{/ifEq}}>{{this.label}}</option>
+              {{/each}}
+            </select>
+          </label>
+          <label>
+            <span>Starting XP</span>
+            <input type="number" name="builder.startingXp" value="{{builder.startingXp}}" />
+          </label>
+          <label>
+            <span>Tier</span>
+            <input type="text" value="{{startingTier.tier}}" readonly />
+          </label>
+          <label>
+            <span>Starting Credits</span>
+            <input type="text" value="{{startingCredits}}" readonly />
+          </label>
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-head">
+          <h2>Creation Points</h2>
+          <p>Spend exactly {{preset.creationPoints}} points. Each characteristic may gain up to 20 points.</p>
+          <button type="button" class="action-button auto-allocate-builder">Auto Fill</button>
+        </div>
+        <div class="creator-points-grid">
+          {{#each characteristicRows}}
+            <div class="characteristic-card compact-stat-card">
+              <div class="stat-label">{{this.abbreviation}}</div>
+              <div class="stat-name">{{this.label}}</div>
+              <div class="creator-stat-row"><span>Base</span><strong>{{this.base}}</strong></div>
+              <div class="creator-stat-row"><span>Advancement</span><strong>+{{this.advancement}}</strong></div>
+              <label>
+                <span>Spend</span>
+                <input class="allocation-input" type="number" min="0" max="20" name="builder.allocations.{{this.key}}" value="{{this.spent}}" />
+              </label>
+              <div class="creator-stat-row total"><span>Total</span><strong>{{this.total}}</strong></div>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-head">
+          <h2>Training & Loadout</h2>
+          <p>Pick the free skills granted by the soldier type, then choose a starting loadout bundle.</p>
+        </div>
+        <div class="creator-grid">
+          <label class="full-span">
+            <span>Recommended Loadout</span>
+            <select name="builder.loadout">
+              {{#each loadoutChoices}}
+                <option value="{{this.key}}" {{#ifEq ../builder.loadout this.key}}selected{{/ifEq}}>{{this.label}}</option>
+              {{/each}}
+            </select>
+          </label>
+        </div>
+
+        {{#if loadoutChoiceSlots.length}}
+          <div class="creator-subsection">
+            <h3>Loadout Choices</h3>
+            <p>Pick exact model variants where the source loadout leaves room for era or mission preference.</p>
+            <div class="creator-grid">
+              {{#each loadoutChoiceSlots}}
+                <label>
+                  <span>{{this.label}}</span>
+                  <select name="builder.itemChoices.{{this.key}}">
+                    {{#each this.options}}
+                      <option value="{{this.key}}" {{#ifEq ../selected this.key}}selected{{/ifEq}}>{{this.label}}</option>
+                    {{/each}}
+                  </select>
+                </label>
+              {{/each}}
+            </div>
+          </div>
+        {{/if}}
+
+        <div class="creator-subsection">
+          <h3>Free Skill Picks</h3>
+          <p>The current soldier type uses {{preset.freeSkillChoices.count}} free picks at {{freeSkillRankLabel}}.</p>
+          <div class="creator-grid">
+            {{#each freeSkillSlots}}
+              <label>
+                <span>{{this.label}}</span>
+                <select name="builder.freeSkills.{{this.index}}">
+                  <option value="">Unassigned</option>
+                  {{#each ../skillChoices}}
+                    <option value="{{this.key}}" {{#ifEq ../selected this.key}}selected{{/ifEq}}>{{this.label}}</option>
+                  {{/each}}
+                </select>
+              </label>
+            {{/each}}
+          </div>
+        </div>
+
+        {{#if freeEducationSlots.length}}
+          <div class="creator-subsection">
+            <h3>Free Educations</h3>
+            <p>Fill any free education names granted by this soldier type.</p>
+            <div class="creator-grid">
+              {{#each freeEducationSlots}}
+                <label>
+                  <span>{{this.label}}</span>
+                  <input type="text" name="builder.freeEducations.{{this.index}}" value="{{this.value}}" />
+                </label>
+              {{/each}}
+            </div>
+          </div>
+        {{/if}}
+      </section>
+    </main>
+  </section>
+
+  <footer class="creator-footer">
+    <div class="muted">The builder now suggests a ready-to-play point spread and writes real starter weapons, armor, grenades, knives, gear, and starter traits instead of a single bundle placeholder.</div>
+    <button type="submit" class="action-button">Apply Build</button>
+  </footer>
+</form>
